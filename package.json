@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "pandoc -s README.MD -o dist/tfc-sindrome-metabolico.docx",
+    "build": "pandoc -s README.MD -o dist/tfc--sindrome-metabolico.docx",
     "prepush": "npm run build"
   },
   "repository": {
