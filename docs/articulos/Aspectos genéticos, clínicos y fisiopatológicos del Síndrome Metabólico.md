@@ -11,50 +11,6 @@ El síndrome de resistencia a la insulina no es una enfermedad sino un término 
 	+ La topografía androide, que es la acumulación de TA en la región visceral abdominal y que se asocia a la aparición de esta patología (35).
 
 
-[![SciELO - Scientific Electronic Library Online](/img/es/fbpelogp.gif)](http://ve.scielo.org/scielo.php?lng=es)  
-
-![](/img/es/grp1c.gif) ![](/img/es/artsrc.gif)  
-[![vol.20 número2](/img/es/toc.gif)](http://ve.scielo.org/scielo.php?script=sci%5Fissuetoc&pid=0798-075220070002&lng=es&nrm=iso)[![Formación de cuarto nivel en gerencia de servicios de alimentación y nutrición en el Estado Mérida](/img/es/prev.gif)](http://ve.scielo.org/scielo.php?script=sci%5Farttext&pid=S0798-07522007000200005&lng=es&nrm=iso)[![Lo nuevo en los requerimientos de calcio, propuesta para Venezuela](/img/es/next.gif)](http://ve.scielo.org/scielo.php?script=sci%5Farttext&pid=S0798-07522007000200007&lng=es&nrm=iso) [![índice de autores](/img/es/author.gif)](http://ve.scielo.org/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Edavn&index=AU&format=iso.pft&lang=e&limit=0798-0752)[![índice de materia](/img/es/subject.gif)](http://ve.scielo.org/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Edavn&index=KW&format=iso.pft&lang=e&limit=0798-0752)[![búsqueda de artículos](/img/es/search.gif)](http://ve.scielo.org/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Edavn&format=iso.pft&lang=e&limit=0798-0752) 
-
-[![Home Page](/img/es/home.gif)](http://ve.scielo.org/scielo.php?script=sci%5Fserial&pid=0798-0752&lng=es&nrm=iso)[![lista alfabética de revistas](/img/es/alpha.gif)](http://ve.scielo.org/scielo.php?script=sci%5Falphabetic&lng=es&nrm=iso) 
-
-  
-## Servicios Personalizados
-
-## Revista
-
-* ![](/img/es/iconStatistics.gif)[SciELO Analytics](http://analytics.scielo.org/?journal=0798-0752&collection=ven)
-* ![](/img/es/iconStatistics.gif)Google Scholar H5M5 ()
-
-## Articulo
-
-* [![](/img/es/iconXMLDocument.gif)Articulo en XML](http://ve.scielo.org/scieloOrg/php/articleXML.php?pid=S0798-07522007000200006&lang=es)
-* <a href="javascript:%20void(0);" onclick="window.open('http://ve.scielo.org/scieloOrg/php/reference.php?pid=S0798-07522007000200006&caller=ve.scielo.org&lang=es','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconReferences.gif)Referencias del artículo
-* [![](/img/es/fulltxt.gif)](javascript:void%280%29;) [Como citar este artículo](javascript:void%280%29;)
-* ![](/img/es/iconStatistics.gif)[SciELO Analytics](http://analytics.scielo.org/?document=S0798-07522007000200006&collection=ven)
-* <a href="javascript:%20void(0);" onclick="window.open('http://ve.scielo.org/scieloOrg/php/translate.php?pid=S0798-07522007000200006&caller=ve.scielo.org&lang=es&tlang=es&script=sci\_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconTranslation.gif)Traducción automática
-* [![](/img/es/iconEmail.gif)Enviar articulo por email](javascript:void%280%29;)
-
-## Indicadores
-
-* ![No hay articulos citados](/img/es/iconCitedOff.gif)Citado por SciELO
-* ![](/img/es/iconStatistics.gif)[Accesos](http://analytics.scielo.org/w/accesses?document=S0798-07522007000200006&collection=ven)
-
-## Links relacionados
-
-* ![No hay articulos similares](/img/es/iconRelatedOff.gif)Similares en SciELO
-
-## Compartir
-
-* [![](http://www.mendeley.com/graphics/mendeley.png)](http://www.mendeley.com/import/?url=http://ve.scielo.org/scielo.php?script=sci%5Farttext%26pid=S0798-07522007000200006%26lng=es%26nrm=iso%26tlng=es "Mendeley")[Otros](http://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
-* [Otros](http://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
-
----
-
-* [![](/img/common/iconPermalink.gif)Permalink](javascript:void%280%29;)
-
-![](/img/common/icon-close.png)
-
 ## [Anales Venezolanos de Nutrición](http://ve.scielo.org/scielo.php?script=sci%5Fserial&pid=0798-0752&lng=es&nrm=iso)
 
 ## _versión impresa_ ISSN 0798-0752
