@@ -15,3 +15,5 @@
 
 
 - [La falta de sueño puede disminuir el colesterol «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
+
+- [Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009)

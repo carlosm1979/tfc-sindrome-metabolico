@@ -10,6 +10,7 @@ El síndrome de resistencia a la insulina no es una enfermedad sino un término 
 
 	+ La topografía androide, que es la acumulación de TA en la región visceral abdominal y que se asocia a la aparición de esta patología (35).
 
+---
 
 ## [Anales Venezolanos de Nutrición](http://ve.scielo.org/scielo.php?script=sci%5Fserial&pid=0798-0752&lng=es&nrm=iso)
 

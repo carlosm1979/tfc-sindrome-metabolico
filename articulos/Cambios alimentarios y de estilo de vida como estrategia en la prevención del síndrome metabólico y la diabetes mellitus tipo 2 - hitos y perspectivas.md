@@ -1,0 +1,430 @@
+## [Anales del Sistema Sanitario de Navarra](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=1137-6627&lng=es&nrm=iso)
+
+## _versión impresa_ ISSN 1137-6627
+
+### Anales Sis San Navarra vol.39 no.2 Pamplona may./ago. 2016
+
+#### 
+
+**REVISIÓN**
+
+**Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas**
+
+**Alimentary and lifestyle changes as a strategy in the prevention of metabolic syndrome and diabetes mellitus type 2: milestones and perspectives**
+
+**M. Hernández Ruiz de Eguilaz1, M. A. Batlle1, B. Martínez de Morentin1, R. San-Cristóbal1, S. Pérez-Díez1, S. Navas-Carretero1,2 y J. A. Martínez1,2,3**
+
+1 Unidad Metabólica. Departamento de Ciencias de la Alimentación y Fisiología. Facultad de Farmacia y Nutrición. Universidad de Navarra.   
+2 CIBERobn. Centro de Investigación Biomédica en Red. Fisiopatología de la Obesidad y Nutrición. Madrid.   
+3 IdiSNA. Instituto de Investigación Sanitaria de Navarra. Pamplona.
+
+El proyecto PREVIEW (_PREVention of diabetes through lifestyle Intervention and population studies in Europe and around the World_), es un proyecto multinacional para la prevención de diabetes tipo 2, financiado por la Unión Europea como parte del 7o Programa Marco de investigación (Grant agreement 312057).
+
+[Dirección para correspondencia](#bajo)
+
+---
+
+**RESUMEN**
+
+El elevado aporte calórico de la alimentación actual y el sedentarismo, son los principales causantes del notable incremento de la obesidad en nuestra sociedad. A su vez, esto conlleva un aumento de las patologías asociadas a ella, como pueden ser el síndrome metabólico y la diabetes tipo 2\. En el presente trabajo, han sido revisados los estudios y programas más recientes y significativos en cuanto a su tamaño muestral y a su diversidad geográfica, poniendo de manifiesto que los cambios en la alimentación y en los estilos de vida, son un instrumento efectivo para combatir o retrasar la aparición de estas enfermedades. En este sentido, la prevención también es clave para evitar las graves consecuencias, relacionadas con la diabetes y el síndrome metabólico, que pueden afectar a la calidad de vida de la población.
+
+---
+
+**ABSTRACT**
+
+A high caloric intake in today's nutrition and a sedentary lifestyle are the main causes of the notable increase in obesity in our society. In turn, this results in an increase in associated pathologies, such as metabolic syndrome and diabetes type 2\. In the present work we review most recent studies and programs, which are significant due to their sample size and geographical diversity. It clearly shows that changes in alimentation and lifestyles are an effective instrument for combatting or delaying the onset of these diseases. In this sense, prevention is also key to avoiding serious consequences related to diabetes and metabolic syndrome, which can affect the life of the population.
+
+---
+
+**Introducción**
+
+Durante las últimas décadas, la sociedad ha experimentado cambios drásticos que han afectado al comportamiento y estilo de vida del ser humano1. La mecanización en los puestos de trabajo, la globalización de la tecnología, la falta de tiempo y las mejoras en el transporte, son algunos de los aspectos que han llevado a un aumento en el consumo de comida rápida con un elevado aporte calórico y al sedentarismo1,2. Estas circunstancias y coyunturas, han contribuido enormemente a que la obesidad sea considerada una pandemia. Este hecho no solo es un problema de los países industrializados, sino que también la obesidad va aumentando notablemente en los países en transición, ya que estos países están adquiriendo estilos de vida cada vez más parecidos a los occidentales, disminuyendo la actividad física y teniendo un consumo elevado de alimentos con alta densidad energética1.
+
+En este sentido, el notable incremento de la obesidad, va en paralelo con el incremento del síndrome metabólico2. Este cuadro patológico es considerado el factor de riesgo más importante en el desarrollo de diabetes tipo 2, convirtiéndose en uno de los problemas de salud pública más importantes de este siglo1,3,4.
+
+Durante las dos últimas décadas, la preocupación ante las elevadas tasas de obesidad y del síndrome metabólico, ha llevado a que diversas sociedades científicas y sistemas de salud en todo el mundo, analicen de manera exhaustiva toda esta información2. De esta manera, numerosos estudios ponen de manifiesto que los cambios de alimentación y estilos de vida, tienen resultados favorables y con costes menores que la propia enfermedad. Así pues, la prevención puede considerarse una herramienta útil para disminuir la prevalencia de muchas enfermedades crónicas como la obesidad, el síndrome metabólico o la diabetes tipo 25.
+
+El presente artículo pretende exponer las características y consecuencias del síndrome metabólico, así como su estrecha relación con el desarrollo de diabetes tipo 2\. En la revisión se analizarán los estudios y programas desarrollados o en actual desarrollo, enfocados a cambiar hábitos de alimentación y actividad física para lograr tratar y/o prevenir su aparición o progresión.
+
+**Síndrome metabólico**
+
+**Definición y criterios diagnósticos**
+
+El síndrome metabólico (SM) se caracteriza por la presencia en forma simultánea de diversas alteraciones metabólicas e inflamatorias, que aumentan el riesgo de padecer enfermedad cardiovascular y diabetes mellitus tipo 2 (DM2)3,6.
+
+El SM es una conjunción de factores de riesgo asociados a la obesidad, especialmente la abdominal, y que se caracteriza por una resistencia a la insulina, cifras elevadas de presión arterial y alteraciones lipídicas como la hipertrigliceridemia y el descenso de HDL-colesterol entre otros3. También favorecen el desarrollo del SM otros factores, tales como el sedentarismo, un elevado consumo calórico a través de bebidas azucaradas y alimentos ricos en grasa saturada, una disminución en el consumo de fibra y el tabaquismo. La edad y el componente genético también favorecen al desarrollo de esta patología1,3,7.
+
+Aunque no existe una definición consensuada internacionalmente, desde el punto de vista clínico la referencia más utilizada para valorar el SM es la propuesta por el National Cholesterol Education Program (NCEP ATP-III) en 20018 y actualizada posteriormente en el año 2005 por la American Heart Association (AHA)9. La _International Diabetes Federation_ (IDF) y la _American Heart Association/National Heart, Lung, and Blood Institute_ (AHA/NHLBI) intentaron acordar los criterios diagnósticos de SM en el año 2005\. Aunque ambas instituciones consideraron la obesidad abdominal como criterio fundamental de diagnóstico, la IDF optó por definir de un modo más específico la presencia de obesidad abdominal, con el objetivo de facilitar una mejor caracterización en función de la etnia de los pacientes. En posteriores estudios, se fueron definiendo umbrales específicos para diferentes poblaciones, como la europea, la caucásica, la estadounidense, la asiática, la japonesa, la china, la centroamericana y la sudamericana10.
+
+La [tabla 1](#t1) muestra los criterios diagnósticos para definir el SM según distintas organizaciones9,11-13.
+
+![](/img/revistas/asisna/v39n2/09_revision_tabla1.jpg)
+
+El planteamiento diagnóstico debe tener en cuenta el carácter progresivo de algunos de estos componentes en el desarrollo de SM. En líneas generales, la sospecha de SM comienza con la constatación de presencia de obesidad abdominal y/o resistencia a la insulina. Junto a estos factores, concurren otros aspectos que indican que existe alteración metabólica, como son hipertensión arterial, dislipemia o disglucosis, además de los componentes genéticos. Este conjunto de factores puede dar lugar posteriormente a vasculopatías, llevando a las complicaciones típicas de la enfermedad cardiovascular y de la DM21.
+
+**Complicaciones del SM**
+
+Dos de las principales complicaciones que confiere el SM son el desarrollo de enfermedades cardiovasculares y de DM2.
+
+Diversos estudios ponen de manifiesto el aumento del riesgo cardiovascular entre 1,5 y 3 veces más respecto a la población general. En este sentido, es interesante determinar si el riesgo cardiovascular de SM es mayor que el riesgo asignado a cada uno de los factores de riesgo de manera individual. Está claro que el riesgo cardiovascular se eleva conforme aumenta el número de factores14. El riesgo de desarrollar DM2 en presencia de SM, es cinco veces superior. Si a esto se le suma la presencia de obesidad, el riesgo de desarrollar esta enfermedad es especialmente elevado14.
+
+Sin embargo, aunque las principales complicaciones asociadas al SM son las enfermedades cardiovasculares y la DM2, existen otras enfermedades, no menos importantes y cuya relación con este síndrome son dignas de mención.
+
+Un reciente artículo publicado este mismo año pone de manifiesto la relación entre el SM y el cáncer colorrectal, de mama y de próstata. Los autores exponen que la evidencia más fuerte en el síndrome metabólico y la asociación del cáncer se centra en la obesidad y la resistencia insulina. La insulina es una hormona anabólica que estimula la proliferación celular y ejerce su efecto sobre la proliferación de células de cáncer a través de la estimulación de la IGF-1 (_insulin-like growth factor_\-1)15.
+
+También es destacable que el SM confiere un riesgo importante para el desarrollo de otras enfermedades como la esteatosis hepática, el síndrome de apnea del sueño, la enfermedad renal crónica, el síndrome del ovario poliquístico y la infertilidad masculina entre otras14.
+
+**Datos epidemiológicos**
+
+Uno de los primeros estudios que mostró datos relevantes sobre la existencia del SM fue el _San Antonio Heart Study_16. Este trabajo evidenció que la prevalencia total de obesidad, la intolerancia a la glucosa o diabetes mellitus, la hipertensión arterial, la hipercolesterolemia y la hipertrigliceridemia, eran muy superiores que la de cada una de ellas de manera independiente. A partir de este momento los trabajos publicados en referencia a ello se multiplicaron, y aparecen cifras de prevalencia variables de unos países a otros17.
+
+Según datos del estudio _National Health and Nutrition Examination Survey_ (NHANES), las cifras de prevalencia de SM en adultos de Estados Unidos se establecen en torno al 22,8% para hombres y al 22,6% para mujeres18.
+
+La Encuesta ENSA-2000 realizada en Méjico, mostró una prevalencia del 13,6% con el criterio de la OMS y del 26,6% siguiendo el criterio de la NCEP-ATPIII19. Por otro lado, González-Villalpaldo, en el Estudio de Diabetes de la Ciudad de México, publicó datos de prevalencia de 39,9 y 59,9% para hombres y mujeres respectivamente, siguiendo el criterio de la NCEP-ATPIII20.
+
+En Europa, los datos de diferentes estudios también muestran diferentes cifras de prevalencia. El estudio Botnia21, realizado con población finlandesa y sueca en 2001, muestra valores del 10% para mujeres y del 15% para hombres. Estos valores aumentan en caso de intolerancia a la glucosa o glucemia basal alterada, alcanzando cifras del 42% en hombres y del 64% en mujeres. Otro estudio Europeo, el WOSCOPS, demuestra una prevalencia de SM del 26,6%. El estudio DESIR, de la Asociación Europea para el estudio de la diabetes, arroja valores del 23% para hombres y del 12% para mujeres. Otro reciente estudio realizado en Grecia, mostró una prevalencia del 24,2% en hombres y del 22,8% en mujeres. Estas cifras se elevaron al 43% en los adultos mayores de 70 años17.
+
+Uno de los estudios más recientes en nuestro país, el estudio DARIOS22, muestra una prevalencia de SM en la población adulta española que supera el 30% según criterio de la OMS. La mayor prevalencia en el país corresponde a Canarias e Islas Baleares. La aplicación del concepto SM premórbido (nueva definición establecida por el estudio DARIOS, que excluye a todos aquellos individuos que padezcan o hayan padecido alguna enfermedad cardiovascular o diabetes), reduce la prevalencia hasta el 24%. Las personas con SM presentan un patrón homogéneo de la distribución de criterios: glucemia y trigliceridemia son más frecuentes en los hombres, mientras que obesidad abdominal y colesterol HDL lo son en las mujeres22. Otro estudio español anterior, el estudio MESYAS, determinó una prevalencia del 12% en trabajadores sanos, del 22% en la población general y del 41% en pacientes con cardiopatías23.
+
+La prevalencia del SM fluctúa según la edad, el sexo, la etnia, el estilo de vida o los criterios utilizados para definirla según las distintas asociaciones17. Estos datos evidencian que el SM constituye un problema de salud debido a su alta prevalencia y al riesgo que conlleva de padecer diversas manifestaciones clínicas que implican una gran morbimortalidad, como pueden ser las enfermedades cardiovasculares y la diabetes mellitus. Así pues, el SM puede considerarse como un problema de salud pública, y para abordarlo es preciso identificar los factores determinantes ambientales que contribuyen a su desarrollo, favoreciendo el acceso a alimentos saludables y a entornos que fomenten la práctica de actividad física17.
+
+**Importancia del proceso diagnóstico: prevención**
+
+El diagnóstico de SM es de suma importancia para poder identificar a la población en riesgo de padecer enfermedad cardiovascular y DM2\. Las personas con SM presentan una mayor susceptibilidad de desarrollar DM2 con un riesgo relativo entre 3,2-12,1\. Además, la presencia de SM en personas con DM2, multiplica por cinco el riesgo cardiovascular. Por otro lado, el diagnóstico permite identificar otros factores de riesgo como obesidad abdominal, hipertrigliceridemia e intolerancia a la glucosa, que de otra manera, pasarían por alto más fácilmente24,25.
+
+Dada la elevada prevalencia de DM2 relacionada con este síndrome y el incremento de enfermedad cardiovascular asociada a la fase de prediabetes, es necesario realizar un diagnóstico precoz aun en ausencia de DM25.
+
+Tradicionalmente se considera tanto la intolerancia a la glucosa como la glucemia basal alterada, componentes de prediabetes, sin que ello signifique una posterior evolución a DM2, ya que estas alteraciones pueden reducirse con un tratamiento adecuado24. De hecho, un estudio danés publicado en 2007 evidenció que la progresión de intolerancia a la glucosa y de glucemia basal alterada a DM2 es de 17,6 y 18,8% por año, respectivamente26. Se define como glucemia basal alterada el hallazgo de valores de glucosa en sangre en ayunas entre 100 y 125 mg/dL, aunque la OMS considera que la glucemia puede ser normal hasta 110 mg/dL. Con respecto a la intolerancia a la glucosa, se considera que existe cuando los valores de glucemia a las 2 horas de haber ingerido una carga de 75 g de glucosa, se sitúan entre 140 y 199 mg/dL. Una glucemia por encima de los mencionados valores de glucemia basal o tras la sobrecarga oral de glucosa, son diagnósticos de diabetes24.
+
+En resumen, realizando un correcto diagnóstico, e incluso un diagnóstico precoz, se podría lograr prevenir notablemente o retrasar la aparición de enfermedad cardiovascular, la DM2 y corregir sus componentes, consiguiendo la normalización de las metas1.
+
+**Diabetes mellitus tipo 2**
+
+**Definiciones y criterios diagnósticos**
+
+La DM2 es una enfermedad metabólica compleja, de origen multifactorial y que frecuentemente se asocia con obesidad y otros componentes del SM11. Esta enfermedad se caracteriza por una hiperglucemia (niveles elevados de glucosa en sangre) y por una alteración en el metabolismo de la glucosa, debido a una reducción y resistencia a la insulina25. El factor hereditario de esta enfermedad es evidente, pero además, puede verse afectada por factores ambientales, tales como la alimentación, el sedentarismo, el alcohol, el estrés o el tabaco entre otros25,27.
+
+La resistencia a la insulina puede definirse como la disminución de la capacidad de esta hormona para ejercer sus funciones en los tejidos diana típicos, como el músculo esquelético, el hígado o el tejido adiposo. Los términos SM y resistencia a la insulina no deben confundirse. El SM es una patología asociada a la resistencia a la insulina y ésta constituye un factor de riesgo de enfermedad cardiovascular25,28.
+
+La DM2 se caracteriza fundamentalmente por una menor sensibilidad a la insulina y por el deterioro de las células beta del páncreas. Aunque no todos los casos de resistencia a la insulina derivan en DM2, se sabe que la resistencia a la insulina es el mejor de los factores predictivos para el desarrollo de diabetes25.
+
+Los últimos criterios para el diagnóstico de diabetes establecidos en 2015 según la ADA son los siguientes29:
+
+> \- HbA1C ≥ 6,5%. La prueba debe ser realizada en un laboratorio, usando el método certificado por el _National Glycohemoglobin Standarization Program_ y estandarizado por el ensayo DCCT (_Diabetes Control and Complications Trial_) o
+> 
+> \- Glucemia en ayunas ≥ 126 mg/dL. El ayuno se define como la falta de ingesta calórica durante al menos 8 horas o
+> 
+> \- Dos glucemias ≥200 mg/dL durante la prueba de tolerancia a la glucosa oral (PTGO). Esta prueba debe realizarse como lo indica la OMS, con una carga de glucosa equivalente a 75 g de glucosa anhidra disuelta en agua, o
+> 
+> \- Una glucemia al azar ≥200 mg/dL (en un paciente con síntomas clásicos de hiperglucemia o crisis hiperglucémica).
+> 
+> \- En ausencia de hiperglucemia inequívoca, el resultado debe confirmarse por la repetición del análisis.
+
+Cuando los niveles de glucemia de un paciente se encuentran elevados, pero no alcanzan las cifras diagnósticas de diabetes, se clasifica como:
+
+> \- Glucemia basal alterada (GBA): paciente con niveles de glucemia en ayunas entre 100-125 mg/dL, según la Asociación Americana de diabetes29 y entre 110-125 mg/dL para la Organización Mundial de la Salud (OMS)30.
+> 
+> \- Intolerancia a la glucosa (ITG): pacientes con niveles a las 2 horas de la sobrecarga oral de glucosa entre 140-199 mg/dL29,30.
+> 
+> \- Riesgo elevado de desarrollar diabetes: pacientes con HbA1c entre 5,7-6,4%29.
+
+**Complicaciones de la DM2**
+
+Esta patología se ha convertido en un problema de salud mundial y una de las principales causas de morbimortalidad. Además de las complicaciones a corto plazo, la DM2 tiene graves complicaciones a largo plazo, como pueden ser la nefropatía, retinopatía, angiopatía, neuropatía, enfermedad coronaria, enfermedad vascular periférica o accidente cerebrovascular27. Aproximadamente un 50% de los pacientes diabéticos fallecen por enfermedad cardiovascular, principalmente por cardiopatía y accidente cerebrovascular. La neuropatía de los pies incrementa el riesgo de úlceras en los mismos, desembocando con el tiempo en amputación. La retinopatía diabética es una causa importante de ceguera, y alrededor de un 2% de los pacientes quedan ciegos, y un 10% sufren un deterioro grave de la visión. La diabetes también es una de las principales causas de insuficiencia renal y en torno al 20% de los pacientes mueren por esta causa. En definitiva, los pacientes que padecen diabetes presentan un riesgo de muerte al menos dos veces mayor que las personas sin diabetes31.
+
+**Datos epidemiológicos**
+
+La incidencia de diabetes está aumentando de forma espectacular en los últimos años, y este hecho parece estar relacionado con el aumento de la obesidad32. Alrededor de 366 millones de personas la padecen en todo el mundo y si continúa esta tendencia, para el año 2030 se estima que alrededor de 552 millones de personas sufrirán diabetes. En el año 2011, el mayor número de personas con diabetes se sitúa dentro del grupo de edad de 40 a 59 años y más del 75% de los 179 millones de personas con diabetes de este grupo de edad viven en países de ingresos medios y bajos33.
+
+En nuestro país, la información acerca de la prevalencia de esta enfermedad es diversa debido a la falta de homogeneidad metodológica y de regularidad en las encuestas. Esta falta de datos acentúa el cumplimiento de los objetivos de prevención y atención. Este hecho también repercute negativamente sobre la investigación, fundamental para avanzar en la mejora de aspectos de la calidad de vida de los que padecen esta enfermedad. Debido pues a esta falta de datos reales, se intentan buscar alternativas más científicas y veraces, recomendando estimaciones basadas en estudios de campo con realización de sobrecarga oral de glucosa a muestras determinadas de la población general. El establecimiento de la Estrategia nacional sobre la diabetes ha impulsado la realización del Estudio di@bet.es, dirigido desde el Centro de Investigación Biomédica en red de Diabetes y Enfermedades Metabólicas Asociadas (CIBERDEM) del Instituto de Salud Carlos III (Ministerio de Ciencia e Innovación), en colaboración con la Sociedad Española de Diabetes (SED) y la disuelta Federación Española de Diabetes (FED). Este estudio constituye la acción más ambiciosa realizada para actualizar los datos de prevalencia de diabetes, obesidad y otros problemas metabólicos y factores de riesgo asociados. La recogida de datos se ha basado en la realización de alrededor de 5.800 encuestas y se espera que los resultados de esta investigación reflejen la magnitud real del problema y ayuden al avance en el diseño de estrategias de prevención y programas de educación34.
+
+Los resultados de la [tabla 2](#t2) muestran una tendencia creciente de la prevalencia de diabetes mellitus en la población española entre el año 2003 y el año 2009\. Por el contrario, según los datos del estudio di@bet.es, puede verse que esta progresión solo se podría relacionar con la parte de la diabetes conocida, habiéndose subestimado la no conocida. Atendiendo a los datos proporcionados por el Estudio di@bet.es, en cuanto a la descomposición de la prevalencia total correspondiente a diabetes conocida y no conocida ([tabla 3](#t3)), se observa que la parte conocida asciende hasta un 8,1%, porcentaje similar a la estimación del 2009 por parte de la Encuesta de Salud Europea (7,7%). La parte no conocida supone casi un 4% de la población, dato preocupante y que debe tenerse en cuenta a corto plazo para la prevención y ajuste de recursos, pues incrementa en más de un millón y medio el número de pacientes a atender34.
+
+![](/img/revistas/asisna/v39n2/09_revision_tabla2.jpg)
+
+![](/img/revistas/asisna/v39n2/09_revision_tabla3.jpg)
+
+**Importancia del proceso diagnóstico: prevención**
+
+Ante los alarmantes datos, la prevención es uno de los elementos clave para el control de esta enfermedad, ya que se ha estimado que unos correctos hábitos alimentarios y de estilo de vida son suficientes para prevenir su aparición en 90 de cada 100 casos, puesto que la investigación muestra que sólo un 10% se debe a herencia genética. Además, el 80% de los obesos padece diabetes, y este hecho, unido al excesivo consumo energético entre los niños y los jóvenes, explica que la diabetes comience en la población española a una edad cada vez más temprana34.
+
+Atendiendo a la definición de prevención primaria, la población sobre la cual debe aplicarse, es aquella sin la enfermedad o con factores de riesgo para el desarrollo de ésta. Entre los factores de riesgo se encuentran patologías como sobrepeso, dislipemias, hipertensión y otras relacionadas con la resistencia a la insulina. En este sentido, determinar el momento previo al diagnóstico de la DM2, conocido como prediabetes, sería el momento idóneo para aplicar programas de prevención, ya que según los datos más recientes que se disponen, la conversión de esta situación a DM2 se sitúa en torno al 18% por año34,35.
+
+**Tratamientos y estrategias de prevención**
+
+El aumento de la prevalencia e incidencia de estas enfermedades hace que el objetivo primordial sea prevenir o retrasar su aparición, evitando así las graves consecuencias que pueden afectar a la calidad de vida de la población. Por lo tanto, el tratamiento de la DM2 y del SM debe de ser multifactorial, y por supuesto, no solo debe de centrarse en estas dos patologías, sino en todos los factores de riesgo asociados1,25.
+
+El SM, la obesidad, la hipertensión arterial y la dislipemia son las patologías más frecuentes que conducen al desarrollo de DM2\. La evidencia que demuestra que el control de estos factores de riesgo evita o retrasa el desarrollo de la enfermedad, es clara36. En este sentido, diversas intervenciones sobre el estilo de vida, a través de cambios de alimentación, actividad física, y programas de educación nutricional revelan una disminución en el riesgo de la progresión de prediabetes a DM2 en un 50-60%37-40.
+
+Por lo tanto, en relación a la prevención, la pérdida de peso es el pilar fundamental para el manejo de estas patologías9,24,41. Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han demostrado ser efectivas para mejorar el control metabólico, el riesgo cardiovascular y aumentar la esperanza de vida42. Otras fuentes también apuntan que reducir el peso corporal en al menos un 5%, permite obtener una mejoría a corto plazo de la resistencia a la insulina, el SM y los factores de riesgo asociados25. Además, en pacientes con SM, se ha comprobado que retarda la aparición de DM21.
+
+El patrón alimentario a seguir, siempre debe ser personalizado y adaptado a las necesidades de cada individuo. Debe considerar la edad, el sexo, la actividad física, el estado metabólico, la situación económica y los alimentos típicos y disponibles del lugar de origen del individuo en concreto24. Como regla general, los hábitos alimentarios deben basarse en una alimentación con un bajo contenido en grasa saturada, grasa trans y colesterol, siendo el aceite de oliva el principal aporte de grasa en la dieta. También se recomienda disminuir el consumo de azúcares sencillos, aumentar el consumo de pescado, especialmente el de pescado azul e incrementar la ingesta de frutas, verduras y cereales integrales1,9.
+
+También cabe destacar junto con los correctos hábitos alimentarios, los efectos favorables de la práctica regular de actividad física. Los efectos beneficiosos del ejercicio sobre el SM y la DM2 han sido puestos de manifiesto en diversos estudios, ya que ayuda a bajar de peso y a mantenerlo tras un periodo de pérdida, reduce todos los componentes del SM y el riesgo de enfermedad cardiovascular1,27,32. La actividad física es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población, aparcando actividades sedentarias como la televisión o los videojuegos, e incluyendo actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo. Antes de iniciar un programa de actividad física, debe valorarse el estado y capacidades del individuo, así como las posibles complicaciones que puedan aparecer en su desarrollo. La elección del tipo de ejercicio siempre se realizará en ausencia de contraindicación médica y como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos24,25.
+
+Recientes artículos de revisión publicados en 2015, ponen de manifiesto una vez más, que la dieta y los programas de promoción de la actividad física, son eficaces en la reducción de los factores de riesgo de enfermedad cardiovascular (peso, niveles de glucosa en sangre, tensión arterial y perfil lipídico). Además, este tipo de programas son económicamente rentables y su eficacia es mayor cuanto más intensivo sea el programa (número de visitas de seguimiento, sesiones individuales y grupales sobre dieta y actividad física, diversidad de personal cualificado...)43,44.
+
+Hasta la fecha continúa el debate sobre el tipo de dieta y actividad física que puede ser más efectivo para conseguir y mantener la pérdida de peso, las características y componentes que deben tener dichos programas y sobre su rentabilidad económica. Estos estudios juegan con diversos patrones alimentarios basados en diferentes repartos de nutrientes, hidratos de carbono, proteínas, grasas y fibra fundamentalmente. También el papel que juega la dieta mediterránea en la prevención de la DM2 ha sido puesto de manifiesto en diferentes artículos44.
+
+**Principales estudios y programas de intervención**
+
+En este apartado se detallan los programas y estudios más relevantes llevados a cabo en los últimos años, destinados a la prevención de la DM2 y SM a través de cambios en el estilo de vida ([Tabla 4](#t4)).
+
+![](/img/revistas/asisna/v39n2/09_revision_tabla4.jpg)
+
+**_Programa de Prevención de la Diabetes (DPP)_**45. Este estudio fue llevado a cabo por el Instituto Nacional de Salud (NIH) de los Estados Unidos. Ha sido uno de los programas más importantes diseñado para demostrar que la intervención del estilo de vida, a través de dieta y actividad física en individuos con intolerancia a la glucosa, son efectivos para prevenir o retrasar la aparición de DM2\. La cohorte, de 3.234 pacientes, fue dividida en 3 grupos de intervención. El primer grupo, llamado grupo de intervención de estilo de vida, recibió asesoramiento sobre dieta saludable, actividad física de intensidad moderada (150 minutos semanales) y técnicas de modificación de conducta. El objetivo era perder el 7% de su peso corporal basal y mantener esa pérdida durante los 2,8 años de duración de la intervención. El segundo grupo recibió 850 mg de metformina dos veces al día y el tercer grupo recibió placebo en lugar de metformina. El segundo y tercer grupo también recibieron asesoramiento sobre dieta y actividad física, pero ninguna intervención intensiva. Todos los participantes del estudio presentaban intolerancia a la glucosa y tenían un IMC medio de 34 kg/m2, factores de riesgo característicos en el desarrollo de DM2\. Además, el 45% de los participantes pertenecían a grupos minoritarios de la sociedad (afroamericanos, hispanoamericanos, asiáticos, islas del pacífico, indios americanos), que se encuentran en mayor riesgo de desarrollar diabetes. Los resultados publicados mostraron en el grupo de intervención de estilo de vida, una reducción del 58% en el avance de intolerancia a la glucosa a DM2\. El grupo de metformina logró una reducción del 31% del riesgo en relación al grupo placebo. De esta manera se confirma que en personas con prediabetes, la pérdida de peso y la práctica regular de actividad física es eficaz en la prevención o retraso en el desarrollo de DM2, calculándose una reducción en el riesgo del 16% por cada kg de peso perdido. Este estudio tuvo una segunda fase opcional, DPP Outcome Study (DPPOS)46, en la que se educó a todos los participantes para un cambio de vida intensivo durante un periodo de tiempo de 6,8 años. El objetivo fundamental de esta fase, fue determinar si la prevención de DM2 era sostenible en el tiempo. Los resultados también fueron positivos y demostraron que la prevención o retardo de la diabetes lograda a través de los cambios de estilo de vida, puede persistir durante un periodo de tiempo de al menos 10 años.
+
+**_Estudio chino Da Qing_**47,48. Este trabajo fue realizado en la región de Da Qing (China). Para participar en este estudio, fueron elegidos 577 participantes con intolerancia a la glucosa y se les realizó un seguimiento durante 6 años. El objetivo fue el de retardar el desarrollo de DM2, sus complicaciones cardiovasculares y el exceso de mortalidad asociado a ellas. Esta intervención estableció aleatoriamente 4 grupos de intervención: control, asesorados con un plan de alimentación, práctica regular de actividad física y con combinación de estos dos últimos. Los resultados reflejaron una reducción del 47% en la incidencia de diabetes en el grupo sometido a actividad física, del 33% en el grupo con el plan de alimentación (restricción del alcohol e hidratos de carbono simples y rica en fibra) y de 38% en el grupo de ambas intervenciones. Veinte años después, en el año 2006, los participantes del estudio fueron seguidos para evaluar el efecto a largo plazo de las intervenciones. En comparación con el grupo control, los individuos pertenecientes a los grupos de intervención de estilo de vida combinados, tuvieron una reducción de la incidencia de diabetes del 51% durante el período de intervención activa y de un 43 % durante el período de 20 años. La incidencia anual media de la diabetes fue del 7% para los participantes en la intervención frente al 11% del grupo control. A los 20 años, la incidencia acumulada fue del 80% en los grupos de intervención y del 93% en el grupo control. No hubo diferencia significativa entre los grupos de intervención y de control en la tasa de eventos cardiovasculares.
+
+**_Finish Diabetes Prevention Study (DPS)_**49,50. El objetivo de este estudio realizado en Finlandia entre el año 1993 y el 2000, fue estudiar el efecto de los cambios en el estilo de vida sobre la prevención o retardo de la DM2\. Incluyó a 522 individuos de mediana edad, con IMC medio de 31 kg/m2 e intolerancia a la glucosa. Los participantes fueron distribuidos aleatoriamente entre un grupo control con asesoramiento dietético y de actividad física general y un grupo con intervención intensiva en el estilo de vida. El fin de la intervención era reducir el peso corporal basal al menos en un 5%, reducir el consumo de grasa total y saturada, aumentar la práctica de actividad física e incrementar el consumo de fibra. El seguimiento promedio del estudio fue de 3,2 años y la incidencia de diabetes fue un 58% menor en el grupo de intervención que en el grupo control. En función de estos resultados, los autores concluyeron que las intervenciones intensivas basadas en un plan de alimentación y de práctica regular de actividad física, son efectivas en la prevención de desarrollar DM2 y sugieren que este tipo de intervenciones deberían implantarse a nivel de atención primaria. En un análisis tardío realizado 3 años después, se demostró que la reducción del riesgo frente al grupo control se mantenía en un 36%. Los resultados de este estudio fueron determinantes para la implantación del Programa de Desarrollo para la Prevención y la Atención a la Diabetes 2000-2010 (DEHKO)51,52, que fue aprobado oficialmente como programa nacional de diabetes de Finlandia. La primera evaluación del programa fue en 2003, informando que el proceso de implementación funcionaba con éxito tanto en atención primaria como en la medicina especializada. Este programa se desarrolla mediante la utilización de un sencillo examen de riesgo que creó el Instituto Nacional de la Salud53. Se basa en un asesoramiento intensivo sobre el estilo de vida, además de algunas actividades especiales que se realizan atendiendo a los factores de riesgo, según la información recopilada en el test. A las personas con una puntuación intermedia se les entrega información escrita sobre hábitos y estilos de vida saludables, lugares donde realizar actividad física y educación nutricional a nivel local. Por otro lado, a las personas identificadas como de alto riesgo de padecer DM2 por el test, se les invita a participar en un programa de intervención sobre el estilo de vida. El enfoque del programa se basa en reuniones grupales y también individuales, dependiendo de los conocimientos y motivación de los individuos. Las sesiones son dirigidas por un equipo multidisciplinar y se reúnen cada una o dos semanas. En ellas se debaten distintos temas, se asignan tareas para realizar en casa y se trabajan técnicas de modificación de conducta para reforzar la motivación, que es la clave del éxito. También se utiliza un registro de actividad, siendo éste un elemento clave en la estrategia. El FIN-D2D (2003-2007)54, dentro del programa DEHKO, tiene como objetivo la implementación de la prevención primaria de la DM2 en cinco regiones, afectando a 1,5 millones de personas. El FIN-D2D comprende tres estrategias: 1\. Rastrear a las personas de alto riesgo de desarrollar diabetes tipo 2 y realizar un control de los factores de riesgo mediante asesoramiento sobre el estilo de vida. 2\. Diagnóstico y tratamiento precoz para prevenir las complicaciones entre las personas recién diagnosticadas con DM2\. 3\. Prevenir la obesidad y la DM2 a nivel de población. El objetivo principal del FIN-D2D es reducir la incidencia de diabetes tipo 2.
+
+**_Estudio de Malmo Suecia_**55. Este estudio fue desarrollado en Suecia e incluyó a personas con niveles de glucosa normales, intolerancia a la glucosa y DM2 y asignó a los participantes en dos grupos en forma no aleatoria, uno de los grupos sin intervención y otro de los grupos con intervención con dieta y actividad física y se les realizó un seguimiento durante 6 años. En 1991 se publicaron los primeros resultados, mostrando una reducción de la incidencia de DM2 desde 4,3 a 1,3% por año. Posteriormente se realizó un seguimiento de 6 años más a través de un estudio observacional, mostrando una mayor reducción de la mortalidad del grupo sometido a intervención (14%), respecto al grupo control (6,5%). Esta reducción en la mortalidad se correlacionó con la disminución del peso y el aumento de la actividad física. Dentro de la cohorte participante del estudio Malmo, se pudo observar también que los sujetos que padecían diabetes tipo 1 (tratada su centro clínico), tenían una tasa de mortalidad hasta tres veces mayor que el resto de los participantes, y concretamente hasta 5 veces mayor que los sujetos con diabetes tipo 2 que participaban en la intervención55.
+
+**_Programa Indio de Prevención de Diabetes_** (IDPP-1)56. En este programa que tuvo un seguimiento de 30 meses, participaron 531 sujetos (421 hombres y 110 mujeres) con intolerancia a la glucosa. La edad media de los participantes fue de 45,9 años y un IMC medio de 25,8 kg/m2. Fueron aleatorizados en cuatro grupos de intervención. El grupo 1 fue el grupo control, el grupo 2 recibió consejos sobre la modificación del estilo de vida, el grupo 3 fue tratado con metformina y el grupo 4 recibió consejos sobre la modificación del estilo de vida y metformina. Los resultados obtenidos mostraron que el grupo que recibió consejos sobre estilo de vida y el grupo tratado con metformina, disminuyeron un 28% el riesgo de desarrollar diabetes en el periodo de estudio. Las alteraciones cardiovasculares también fueron menores en los grupos de intervención. Tanto el grupo de modificación de estilo de vida como el tratado con metformina, redujeron la incidencia de diabetes, pero no hubo beneficio añadido de la combinación de ellos. Mientras se desarrollaba este estudio, daba comienzo el Programa Indio de Prevención de Diabetes-2 (IDPP-2)57, de similar diseño al 1, pero con distinta cohorte y utilizando pioglitazona en lugar de metformina. A pesar de una buena adherencia a la modificación del estilo de vida y terapia farmacológica, no se observó ningún efecto adicional de pioglitazona por encima de la alcanzada con el placebo. La eficacia de la intervención en ambos grupos fue comparable con los resultados obtenidos en el Programa-1
+
+**_Programa de Prevención de Diabetes del Gran Triángulo Verde_** (GGT)58. Este programa fue implantado en un pueblo de modestos recursos de Australia. En él participaron 311 personas entre 40 y 75 años de edad y con riesgo moderado-severo de desarrollar DM2\. Los participantes fueron sometidos a un programa de educación estructurado en 6 sesiones de 90 minutos cada una, durante un periodo de 8 meses. Al cabo de 3 meses de intervención, se observó una reducción significativa del peso, la circunferencia de la cintura, del colesterol total y del colesterol LDL. A los 12 meses de intervención, pudo apreciarse una disminución del peso, de la circunferencia de la cintura, de la glucosa plasmática en ayunas y a las 2h post-ingesta, del colesterol total, de los triglicéridos y de la presión diastólica. También los indicadores psicológicos mostraron una mejoría significativa. Estos resultados ponen de manifiesto que un programa de prevención de DM2 mediante la intervención de estilo de vida, es eficaz en entornos de atención primaria de la salud, reduciendo claramente los factores de riesgo del SM.
+
+**_Impacto de cambios en el estilo de vida en personas con intolerancia a la glucosa_**59. El objetivo primordial de este estudio fue comprobar el efecto sobre personas con intolerancia a la glucosa de los cambios en el estilo de vida sobre indicadores antropométricos, consumo de nutrientes, tolerancia a la glucosa y sensibilidad a la insulina. En él participaron 78 personas entre 24 y 75 años de la ciudad de Newcastle (Reino Unido), divididas aleatoriamente entre un grupo control sin intervención, y otro grupo que recibió asesoramiento sobre cambios de estilo de vida, durante un periodo de 2 años. Los resultados obtenidos mostraron una reducción significativa en el consumo total de grasas y del peso corporal a los 6 meses (-1,6 kg) y a los 2 años de seguimiento (-3,3 kg). También se evidenció un aumento de la sensibilidad de la insulina al cabo de 1 año de seguimiento (0,52g/min).
+
+**_Estudio CARMEN (CArbohydrate Ratio Management in European National diets)_**60. Estudio de intervención nutricional a largo plazo de carácter multicéntrico a nivel europeo, en el que han intervenido prestigiosos centros de Copenhague, Maastricht, Cambridge, Potsdam y Badalona. En España, el estudio fue realizado por el Equipo de la Unidad de Transtornos de la Alimentación del Hospital Universitario Germans Trias i Pujol de Badalona. Participaron cerca de 400 voluntarios con sobrepeso (IMC >25), los cuales fueron aleatorizados en el grupo control (sin intervención) y en 3 grupos de intervención: dieta de control (dieta típica de la ingesta media nacional), un grupo con dieta baja en grasa y alta en hidratos de carbono simples y un tercer grupo con dieta baja en grasa y alta en hidratos de carbono complejos. Los voluntarios elegían sus alimentos en un supermercado especialmente diseñado para el proyecto en cada uno de los países participantes, donde se realizaba un seguimiento de la composición nutricional de todos los alimentos que consumían para que sus dietas contuvieran sólo un 30% de energía procedente de la grasa (grupos bajos en grasa). En el seguimiento de la dieta, se prestó mayor atención a la relación entre grasas e hidratos de carbono en lugar de controlar el número de calorías. Al final del periodo de intervención de 6 meses, el grupo control aumentó algo de peso. Por el contrario, los otros dos grupos que siguieron una dieta baja en grasas y alta en hidratos de carbono perdieron peso (entre 1 y 2 kg.). Tal y como se esperaba, las variaciones de peso en todos los grupos fueron pequeñas pero significativas. Este estudio ha puesto de manifiesto que se puede controlar el peso sin restricción calórica, simplemente con el hecho de la elección de un tipo de alimentos u otros, y que la diferenciación entre hidratos de carbono simples y complejos, no es significativa a la hora de reconocer sus efectos en el control o reducción del peso corporal en una dieta con un bajo contenido en grasa.
+
+**_Estudio PREDIMED (PREvención con DIeta MEDiterránea_**)61. Es un estudio aleatorizado y multicéntrico en el que colaboran más de 90 investigadores de los principales grupos de nutrición españoles. En octubre de 2003 se inició el reclutamiento de los participantes, en total 7.447 voluntarios con un alto riesgo cardiovascular, con el principal objetivo de constatar si la dieta mediterránea suplementada con aceite de oliva virgen extra o frutos secos evita la aparición tanto de DM2 como de enfermedades cardiovasculares (muerte de origen cardiovascular, infarto de miocardio y/o accidente vascular cerebral), en comparación con una dieta baja en grasa. Se agruparon a los participantes del estudio en tres modelos de intervención: al primero de ellos se les proporcionó una dieta mediterránea con aceite de oliva virgen extra, al segundo se suplementó esta misma dieta con frutos secos y al tercero se le asesoró en el seguimiento de una dieta baja en grasas. Periódicamente hubo revisiones para poder observar cambios relevantes. Según los resultados de este estudio, la dieta mediterránea suplementada con aceite de oliva, es la que mejor se asocia con la reducción del riesgo de padecer DM262. Como conclusión de los datos obtenidos, se puede entender la dieta mediterránea como modelo de alimentación cardiosaludable, encontrando beneficios sobre la morbimortalidad cardiovascular, aumentando las cifras de HDL colesterol, reduciendo las cifras de presión arterial, mejorando la función endotelial, la resistencia a la insulina y el síndrome metabólico, reduciendo la tendencia a desarrollar DM2, disminuyendo el riesgo protrombótico y proinflamatorio y favoreciendo la capacidad antioxidante63-65.
+
+**_Estudio DIOGENES (Dieta, Obesidad y Genes)_**66,67. Este innovador proyecto aleatorizado, controlado y de carácter multicéntrico, nace ante la necesidad de avanzar en la comprensión de cómo la obesidad puede prevenirse o tratarse desde la perspectiva de la alimentación. Este estudio está integrado por factores dietéticos, genéticos, fisiológicos y psicológicos/conductuales. El objetivo del mismo fue evaluar el efecto de dietas con bajo contenido en grasa, distinto contenido en proteínas y distinto tipo de azúcares sobre el control del peso corporal, en adultos obesos o con sobrepeso y en sus hijos. El proyecto fue financiado por la Unión Europea, y en él participaron Dinamarca, Holanda, Gran Bretaña, Grecia, Alemania, España, Bulgaria y República Checa. En España, el estudio fue realizado por el Departamento de Fisiología y Nutrición de la Universidad de Navarra. Las familias participantes fueron 938, las cuales debían tener al menos un padre/madre con sobrepeso u obesidad. Los adultos iniciaron una dieta baja en calorías durante ocho semanas. Aquellos participantes que perdieron como mínimo el 8% del peso corporal inicial, fueron asignados de manera aleatoria a uno de los 5 tipos de dietas experimentales diseñadas (control, alta en proteínas-alto índice glucémico, alta en proteínas-bajo índice glucémico, baja en proteínas-bajo índice glucémico, baja en proteínas-alto índice glucémico) que seguieron _ad limitum_ durante 6 meses mediante instrucciones dietéticas impartidas por dietistas. Los seis meses posteriores se llevó a cabo un seguimiento sin ningún tipo de intervención nutricional, con lo que se completaron los 12 meses previstos como final del estudio66,68. Según los resultados de este estudio, los participantes que siguieron las instrucciones de alimentación moderadamente alta en proteínas y con índice glucémico bajo, fueron los que mejor mantuvieron el peso perdido, por lo que este tipo de dieta puede considerarse la más efectiva para el control de peso en individuos con sobrepeso67. Este tipo de dieta fue la más beneficiosa en la prevención del SM tras un periodo de pérdida de peso69,70.
+
+**_EPIC (European Prospective Investigation into Cancer and Nutrition)_**71. Este estudio observacional se inició en 1992 y se está realizando en 10 países europeos: Alemania, Dinamarca, España, Francia, Grecia, Holanda, Italia, Noruega, Reino Unido, Suecia. Esta amplia distribución geográfica, proporciona población con una gran variabilidad de consumo y de hábitos alimentarios: dieta mediterránea de Grecia, el sur de Italia y España y patrones dietéticos del norte de Europa. La fase de reclutamiento se llevó a cabo entre 1992 y 1998, englobando a 500.000 mujeres y hombres voluntarios, con edades entre los 35 y 70 años. La información de cada uno de los participantes se recogió a través de una encuesta sobre su dieta, utilizando métodos adaptados a cada país. Se utilizaron cuestionarios sobre estilos de vida y otros factores, medidas antropométricas y una muestra de sangre71. En 2013 se publicaron unos resultados que analizaron los datos de la cohorte griega del EPIC (22.295 participantes, con un seguimiento medio de 11,34 años). Estos hallazgos vuelven a poner de manifiesto que una dieta de baja carga glucémica, adecuada a los principios de la dieta tradicional mediterránea, puede reducir la incidencia de DM272.
+
+**Otros estudios y programas en marcha**
+
+En general, los numerosos estudios de intervención llevados a cabo hasta la fecha, avalan que los cambios de estilos de vida reducen la incidencia de DM2\. Por este motivo se continúa investigando en esta línea y actualmente, proyectos de todo tipo a lo largo del mundo, están en marcha para seguir investigando y avanzando en este campo. Algunos de estos estudios se describen a continuación.
+
+**_GIBW (Getting in Balance: A Workplace Diabetes Prevention Intervention Trial)_**73. Este estudio, llevado a cabo en la ciudad de San Francisco (California), comenzó en septiembre de 2015 y está prevista su finalización para julio de 2017\. El estudio pretende comparar la pérdida de peso, los cambios en la actividad física, la ingesta de grasas en la dieta, y el compromiso de los participantes a través de dos tipos diferentes de intervenciones para la prevención de diabetes. Los dos tipos de intervención estarán basados en cambios en los estilos de vida en personas con riesgo de padecer diabetes, pero a uno de los grupos se le ofrecerá una intervención basada en sesiones grupales y con el otro grupo de intervención se usará una plataforma en internet, con un profesional entrenado, como herramienta de apoyo en los cambios de estilo de vida. La hipótesis del proyecto es que la intervención basada en internet será más eficaz para lograr la pérdida de peso respecto a la intervención presencial dadas las dificultades de los voluntarios para asistir a las sesiones presenciales. Los participantes serán asignados al azar a cada grupo de intervención (120 por grupo).
+
+**_MoMMii (The MoMMii Study. Diabetes Prevention Intervention on Families With Past Gestational Diabetes)_**74. Este estudio de intervención llevado a cabo en el _McGill University Health Center_ (Canadá), comenzó a finales del 2014 y en él participan 66 parejas con historia familiar de diabetes gestacional. El programa de intervención incluye formación sobre alimentación saludable, preparación de comidas y fomento de la actividad física a través del desarrollo de un entorno saludable, animando en la realización de actividades tanto familiares como individuales. Los participantes tendrán contacto con el personal del estudio y con otros participantes, para crear una red de apoyo entre las familias. Habrá cinco sesiones grupales durante un periodo de seis meses. También, entre las sesiones presenciales, los participantes recibirán asesoramiento y apoyo a través de un sitio web específico del estudio y de llamadas telefónicas. Los investigadores examinarán los cambios en los comportamientos relacionados con la salud, la presión arterial, los niveles de glucosa y la sensibilidad y la resistencia a la insulina, tanto en las madres como en los padres. El objetivo principal del proyecto es determinar si en las familias con un historial anterior de 5 años de diabetes mellitus gestacional en la madre, los cambios en el estilo de vida basados en la familia, darán lugar a reducciones en los valores de glucosa. Este estudio se basa en anteriores resultados de otro estudio piloto (MOMM), los cuales mostraron una reducción en la incidencia de diabetes del 8% en las madres.
+
+**_Estudio PREDAPS (Estudio Evolución de Pacientes con Prediabetes en Atención Primaria de Salud)_**75. Éste es un estudio de cohortes prospectivo muy interesante desde el punto de vista de la prevención, ya que su objetivo es identificar la incidencia de diabetes y de aparición de enfermedades cardiovasculares en personas con prediabetes, estableciendo así los factores asociados. Se hará un seguimiento de 5 años a un grupo de 1.184 sujetos con prediabetes y a otro grupo de 838 sujetos con un metabolismo de la glucosa inalterado. Los datos fueron recogidos a lo largo del año 2012 a través de un cuestionario realizado por médicos de atención primaria en centros de salud de toda la geografía española. Los principales datos sobre antecedentes personales, familiares y farmacológicos entre otros, fueron recogidos de la historia clínica del paciente, así como en la visita del médico con cada sujeto. En dicha visita se realizó un examen médico exhaustivo que incluyó antropometría, medida de presión arterial, frecuencia cardíaca y analítica de sangre y orina. En posteriores visitas de seguimiento, se recogerá aquella información relevante que permita conocer los cambios que se han producido en las distintas variables respecto a la etapa basal.
+
+**_Estudio PREVIEW (Prevention of diabetes through lifestyle Intervention and population studies in Europe and around the World)_**. Estudio en actual desarrollo, financiado por la Unión Europea (Grant agreement 312057), y que se ha lanzado simultáneamente en 6 países europeos (Dinamarca, Finlandia, Reino Unido, Holanda, Bulgaria y España), además de Australia y Nueva Zelanda. En España, el estudio se lleva a cabo en el Departamento de Fisiología y Nutrición de la Universidad de Navarra. Fue aprobado por los comités de ética de investigación clínica correspondientes a los 8 países participantes. El proyecto consiste en una investigación de intervención nutricional donde se compararán dietas con mayor o menor contenido en proteína, mayor o menor índice glucémico y combinación con dos niveles distintos de actividad física (moderado y alto), además de realizar un seguimiento durante un periodo de 3 años en personas prediabéticas con sobrepeso y obesidad.
+
+Este proyecto supone un reto importante, además de tener una utilidad extremadamente valiosa de cara a la toma de decisiones en el área de la salud pública. Los resultados obtenidos podrán acercar el objetivo de prevención del sobrepeso y la obesidad en las poblaciones más vulnerables, como son los niños y la población de la tercera edad con el objetivo de reducir la incidencia de DM2.
+
+Un total de 2.500 participantes (200 niños y adolescentes entre 10 y 18 años, 800 adultos jóvenes entre 25 y 44 años, y 1.500 adultos mayores, entre 55 y 70 años) han sido reclutados para el estudio.
+
+Todos los voluntarios adultos siguieron durante 8 semanas una dieta baja en calorías. El objetivo para poder acceder a la intervención nutricional fue conseguir una pérdida de peso igual o superior al 8% de su peso inicial. Los niños y adolescentes no fueron sometidos a este periodo de pérdida de peso, simplemente siguieron una dieta de mantenimiento durante estas 8 semanas antes de comenzar el periodo de intervención.
+
+Antes de la fase de pérdida de peso, todos los participantes fueron aleatorizados en uno de los cuatro grupos de tratamiento (dos dietéticos y dos de actividad física) que se desarrollarán a lo largo de las 148 semanas de intervención nutricional o mantenimiento de peso. Las intervenciones comenzaron inmediatamente después de terminar la fase de pérdida de peso, siempre y cuando se hubiera conseguido el objetivo marcado. El periodo de intervención pretende aumentar la sensibilidad a la insulina y prevenir la aparición de DM2, manteniendo el peso perdido a largo plazo y a través de otros efectos saludables derivados de la dieta y la actividad física.
+
+Las dos intervenciones dietéticas son:
+
+> 1) MP = Moderada en proteína: consumo de proteína normal (comparado con las recomendaciones nacionales), y consumo de hidratos de carbono de absorción moderada (índice glucémico -IG- moderado).
+> 
+> 2) HP = Alta en proteína: consumo de proteína mayor, hidratos de carbono normal o levemente disminuidos, con énfasis en hidratos de carbono de absorción lenta (IG bajo).
+
+Ambas dietas están diseñadas para ser sanas y reducir el riesgo de una futura DM2 y/o ganancia de peso. Se pretende comparar estas dietas en el mismo estudio, y conocer si una u otra se puede considerar superior.
+
+Los participantes reciben instrucciones sobre cómo elaborar la dieta. El material también incluye un libro de cocina diseñado exclusivamente para PREVIEW, con recetas específicas para cada tipo de dieta. Los participantes deben estar animados, motivados y tener disposición al cambio de hábitos, hecho fundamental para el éxito del tratamiento, y el personal de PREVIEW les guiará en el camino con las técnicas más efectivas de modificación de conducta.
+
+Las dos intervenciones de ejercicio son:
+
+IM = Intensidad moderada: 150 minutos semanales, como andar rápido (ejercicio sin sudar o resoplar de forma evidente)
+
+AI = Alta intensidad: 75 minutos semanales, como correr (ejercicio que le hace sudar y resoplar al menos un poco).
+
+El protocolo está diseñado para motivar a los voluntarios a realizar su propio programa, eligiendo las actividades más adecuadas y entretenidas, siempre que el criterio de intensidad moderada o intensa se cumpla. Ambos programas de ejercicio se han diseñado en consonancia a las recomendaciones actuales para la actividad física. Sin embargo, no está claro si una intensidad es superior a la otra.
+
+Dado que todos los participantes están distribuidos al azar en una dieta y uno de los grupos de actividad física, el número total de combinaciones (grupos de intervención) es de cuatro (MP-IM, MP-IA, HP-IM y HP-IA).
+
+Todos los participantes en PREVIEW tienen un mayor riesgo de padecer DM2\. En este estudio, todas las intervenciones son conocidas por reducir ese riesgo, lo que no se conoce es si una dieta es mejor que otra o si un tipo de entrenamiento es mejor que el otro. En personas con un riesgo muy elevado de desarrollar DM2, casi la mitad desarrollarán diabetes en 3 años. En aquellos que comienzan una intervención en su estilo de vida, se espera que sólo una de cada 5 (20%) desarrolle DM2 en esos 3 años.
+
+**Conclusiones**
+
+La evidencia de que el SM es un problema de salud a nivel mundial es un hecho indiscutible debido a su alta prevalencia y a su papel como factor de riesgo para el desarrollo de otras enfermedades que implican una gran morbimortalidad, como son la DM2 y la enfermedad cardiovascular. La creciente prevalencia de estas enfermedades, las complicaciones crónicas que generan y los altos costes que suponen su atención, implican una enorme carga a la sociedad. Conseguir cambiar los estilos de vida es complejo, pero completamente necesario para prevenir o tratar el desarrollo de estas patologías.
+
+Está claro que existe una población con alto riesgo de desarrollar DM2, y es sobre ella donde se debe incidir de manera especial, interviniendo con un plan de alimentación y actividad física. Los estudios llevados a cabo hasta la fecha ponen de manifiesto que este tipo de intervenciones basadas en la nutrición personalizada y el ejercicio son efectivas para lograr prevenir o retrasar de manera significativa dicho desarrollo.
+
+Todavía hoy existe controversia sobre el tipo de dieta que debería seguir este tipo de personas. La evidencia científica parece destacar que un tipo de alimentación con un aporte bajo en grasa, con un contenido moderadamente alto en proteínas, hidratos de carbono de bajo índice glucémico y adecuada al patrón de dieta mediterránea, es efectivo para mantener el peso tras un periodo de pérdida y para reducir todos los factores que engloban al SM, incluida la DM2.
+
+También se ha comprobado que la actividad física es un pilar fundamental en la prevención y el tratamiento junto a los hábitos alimentarios. Hasta el momento, la actividad física de intensidad moderada practicada de manera regular parece la más efectiva. Los resultados del estudio PREVIEW permitirán comprobar si se está en lo cierto, al comparar este tipo de ejercicio con otro de mayor intensidad.
+
+Estas conclusiones animan a la implementación de programas de prevención primaria basados en todo lo descrito. Este hecho beneficiaría tanto al individuo en particular como a la sociedad en general, así como a los sistemas de salud públicos y privados.
+
+**Agradecimientos**
+
+Desde la Unidad Metabólica de la Universidad de Navarra, queremos agradecer la inestimable ayuda de los doctores Marian Nuin y Javier Baquedano en el reclutamiento de los voluntarios para el estudio PREVIEW, así como a los profesionales sanitarios de los centros de salud de Pamplona y comarca.
+
+**Addendun**
+
+También son coautores del presente trabajo las siguientes personas:
+
+M. E. Ursúa1, P. Aldaz1, B. Churio1, J. Vigata1, E. Arina1, A. Salaberri1, F. J. Martínez2, J. A. Montesinos2, A. Erlanz2, L. Ugalde2, R. de Andrés3, P. Buil3, P. Pascual3, A. Montero4, J. Indart4, L. Dorronsoro5, E. Falguera5, R. Villanueva6, O. Labat6, A. B. Sola6, M. M. Hernández6, T. Salinas6, I. Iragui6, J. M. Vizcay7, T. Sagredo7, F. J. Chasco7, M. L. García7, F. Cortés7, A. Arillo7, D. García de la Noceda7, C. Hijós8, A. Roncal8, C. González9, E. Cano9, P. Cía9, A. Parra9, I. Blanco10, E. Figuerido10, F. Artal10, J. Zubicoa11, J. J. Ulibarri del Portillo11, M. J. Esparza12, M. Rodríguez12, M. Chueca13, T. Durá-Travé14, L. Sánchez-Íñigo15, D. Navarro-González16, L. Moreno17, M. Nuin18, J. Baquedano18, M. A. Ugarte19
+
+1CS. San Juan, Pamplona, Navarra. 2CS. Zizur, Zizur Mayor, Navarra. 3CS. Azpilagaña, Pamplona, Navarra. 4Clínica Universidad de Navarra, Pamplona, Navarra. 5CS. Berriozar, Berriozar, Navarra. 6CS.Iturrama, Pamplona, Navarra. 7CS. Chantrea, Pamplona, Navarra. 8CS.Ermitagaña, Pamplona, Navarra. 9CS. Rochapea, Pamplona, Navarra. 10CS. Barañain, Barañain, Navarra. 11CS. San Jorge, Pamplona, Navarra. 12CS.II Ensanche, Pamplona, Navarra. 13Servicio de Endocrinología Pediátrica. Complejo Hospitalario de Navarra. Pamplona, Navarra. 14Unidad de Neuropediatría. Complejo Hospitalario de Navarra. Pamplona, Navarra. 15CS. Burlada, Burlada, Navarra. 16CS. Estella, Estella, Navarra. 17Hospital Virgen del Camino, Pamplona, Navarra. 18 Servicio de Planificación y Gestión Clínica. Dirección de Atención Primaria. Servicio Navarro de Salud-Osasunbidea. Pamplona, Navarra. 19Ansme. Servicios de Prevención. Pamplona, Navarra.
+
+**Bibliografía**
+
+1\. Alegría E, Castellano JM, Alegria A. Obesidad, síndrome metabólico y diabetes: implicaciones cardiovasculares y actuación terapéutica. Rev Esp Cardiol 2008; 61: 752-764\. \[ [Links](javascript:void%280%29;) \]
+
+2\. Fundación Española de la Nutrición (FEN). Libro Blanco de la Nutrición en España. 1a ed. Madrid: Fundación Española de la Nutrición, 2013\. \[ [Links](javascript:void%280%29;) \]
+
+3\. Salas-Salvadó J, Rubio Ma, Barbany M, Moreno B, Grupo Colaborativo de la SEEDO. Consenso SEEDO 2007 para la evaluación del sobrepeso y la obesidad y el establecimiento de criterios de intervención terapéutica. Med Clin (Barc) 2007; 128: 184-196\. \[ [Links](javascript:void%280%29;) \]
+
+4\. Yumuk V, Tsigos C, Fried M, Schindler K, Busetto L, Micic D, et al. European guidelines for obesity management in adults. Obes Facts 2015; 8: 402-424\. \[ [Links](javascript:void%280%29;) \]
+
+5\. American Diabetes Association. Prevention or delay of type 2 diabetes. Diabetes Care 2015; 38: S31-S32\. \[ [Links](javascript:void%280%29;) \]
+
+6\. Reaven G. Role of insulin resistance in human disease. Diabetes 1988; 37: 1595-1607\. \[ [Links](javascript:void%280%29;) \]
+
+7\. Albornoz López R, Pérez Rodrigo I. Nutrición y síndrome metabólico. Nutr Clin Diet Hosp 2012; 32: 92-97\. \[ [Links](javascript:void%280%29;) \]
+
+8\. Expert Panel on detection, evaluation and treatment of high blood cholesterol in adults (Adults Treatment Panel III). Executive Summary of the Third Report of the National Cholesterol Education Program (NCEP). JAMA 2001; 285: 2486-2497\. \[ [Links](javascript:void%280%29;) \]
+
+9\. Grundy S, Cleeman J, Daniels S, Donato K, Eckel R, Franklin B, et al. AHA/NHLBI Scientific statement. Diagnosis and management of the metabolic syndrome. Circulation 2005; 112: 2735-2752\. \[ [Links](javascript:void%280%29;) \]
+
+10\. Alberti KG, Eckel RH, Grundy SM, Zimmet PZ, Cleeman JI, Donato KA, et al. Harmonizing the metabolic syndrome: a joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity. Circulation 2009; 120: 1640-1645\. \[ [Links](javascript:void%280%29;) \]
+
+11\. OMS World Health Organization. Definition, Diagnosis and Classification of Diabetes Mellitus and Its Complications: Report of a WHO Consultation. Geneva: World Health Organization, 1999\. \[ [Links](javascript:void%280%29;) \]
+
+12\. Balkau B, Charles MA. Comment on the provisional report from the WHO consultation. European Group for the Study of Insulin Resistance (EGIR). Diabet Med 1999; 16: 442-443\. \[ [Links](javascript:void%280%29;) \]
+
+13\. The IDF consensus worldwide definition of the metabolic syndrome. <http://www.idf.org/webdata/docs/IDF%5FMetasyndrome%5Fdefinition.pdf>. (Consultado 30 de junio de 2015). \[ [Links](javascript:void%280%29;) \]
+
+14\. Civeira Murillo F, Pérez Ruiz MR, Baila-Rueda L. Síndrome metabólico: concepto, epidemiología, etiopatogenia y complicaciones. Medicine 2013; 11: 2402-2409\. \[ [Links](javascript:void%280%29;) \]
+
+15\. Uzunlulu M, Telci Caklili O, Oguz A. Association between metabolic syndrome and cancer. Ann Nutr Metab 2016; 68: 173-179\. \[ [Links](javascript:void%280%29;) \]
+
+16\. Cameron AJ, Shaw JE, Zimmet PZ. The metabolic syndrome: prevalence in worldwide populations. Endocrinol Metab Clin North Am 2004; 33: 351-375\. \[ [Links](javascript:void%280%29;) \]
+
+17\. Elias-Calles L, Dominguez YA, Trimiño AA, De Armas Y. Epidemiología y prevención del síndrome metabólico. Rev Cubana Hig Epidemiol 2011; 50: 250-256\. \[ [Links](javascript:void%280%29;) \]
+
+18\. Park YW, Zhu S, Palaniappan L, Heshka S, Carnethon MR, Heymsfield SB. The metabolic syndrome: prevalence and associated risk factor findings in the US population from the Third National Health and Nutrition Examination Survey, 1988-1994\. Arch Intern Med 2003; 163: 427-436\. \[ [Links](javascript:void%280%29;) \]
+
+19\. Aguilar-Salinas C, Rojas R, Gómez-Pérez F, Valles V, Ríos-Torres J, Franco A, et al. High prevalence of metabolic syndrome in Mexico. Arch Med Res 2004; 35: 76-81\. \[ [Links](javascript:void%280%29;) \]
+
+20\. Lorenzo C, Williams K, González-Villalpando C, Haffner S. The prevalence of the metabolic syndrome did not increase in Mexico city between 1990-1992 and 1997-1999\. Despite more central obesity. Diabetes Care 2005; 28: 2480-2485\. \[ [Links](javascript:void%280%29;) \]
+
+21\. Isomaa B, Almgren P, Toumi T, Forsen MD, Lahti Md, Nissen MD, et al. Cardiovascular morbidity and mortality associated with the metabolic syndrome. Diabetes Care 2001; 24: 683-689\. \[ [Links](javascript:void%280%29;) \]
+
+22\. Fernández-Bergés D, Cabrera De León A, Sanz H, Elosua R, Guembe MJ, Alzamora M, et al. Síndrome metabólico en España: prevalencia y riesgo coronario asociado a la definición armonizada y a la propuesta por la OMS. Estudio DARIOS. Rev Esp Cardiol 2012; 65: 241-248\. \[ [Links](javascript:void%280%29;) \]
+
+23\. Alegría E, Cordero A, Laclaustra M, Grima A, León M, Casasnovas JA et al; Investigadores del registro MESYAS. Prevalencia de síndrome metabólico en población laboral española: Registro MESYAS. Rev Esp Cardiol 2005; 58: 797-806\. \[ [Links](javascript:void%280%29;) \]
+
+24\. Rosas Guzmán J, González Chávez A, Aschner P, Bastarrachea R. Consenso Latinoamericano de la Asociación Latinoamericana de Diabetes (ALAD). Epidemiología, diagnóstico, control, prevención y tratamiento del síndrome metabólico en adultos. Rev ALAD 2010; 27: 25-44\. \[ [Links](javascript:void%280%29;) \]
+
+25\. González Sarmiento E, Pascual Calleja I, Laclaustra Gimeno M, Casasnovas Lenguas JA. Síndrome metabólico y diabetes mellitus. Rev Esp Cardiol 2005; 5: 30D-37D. \[ [Links](javascript:void%280%29;) \]
+
+26\. Rasmussen Ss, Glümer C, Sandbaek A, Lauritzen T, Borch-Johnsen K. Progression from impaired fasting glucose and impaired glucose tolerance to diabetes in a high-risk screening programme in general practice: the Addition Study, DENMARK. Diabetología 2007; 50: 293-297\. \[ [Links](javascript:void%280%29;) \]
+
+27\. Polikandrioti M, Dokoutsidou H. The role of exercise and nutrition in type II diabetes mellitus management. Health Sci J 2009; 3: 216-221\. \[ [Links](javascript:void%280%29;) \]
+
+28\. Ginberg Hn. Insuline resistance and cardiovascular disease. J Clin Invest 2000; 106: 453-458\. \[ [Links](javascript:void%280%29;) \]
+
+29\. American Diabetes Association. Standards of Medical Care in Diabetes 2015: Summary of Revisions. Diabetes Care 2015; 38: S4\. \[ [Links](javascript:void%280%29;) \]
+
+30\. Alberti Kg, Zimmet Pz. Definition, diagnosis and classification of diabetes mellitus and its complications. Part 1: diagnosis and classification of diabetes mellitus provisional report of a WHO consultation. Diabet Med 1998; 15: 539-553\. \[ [Links](javascript:void%280%29;) \]
+
+31\. Organización mundial de la Salud (consultado 30 de Junio de 2015). Disponible en: <http://www.who.int>. \[ [Links](javascript:void%280%29;) \]
+
+32\. Steyn NP, Mann J, Bennett PH, Temple N, Zimmet P, Tuomilehto J, et al. Diet, nutrition and the prevention of type 2 diabetes. Public Health Nutr 2004; 7: 147-165\. \[ [Links](javascript:void%280%29;) \]
+
+33\. International Diabetes Federation (consultado 30 de junio de 2015). Disponible en: <http://www.idf.org>. \[ [Links](javascript:void%280%29;) \]
+
+34\. Coduras Martínez A, Del Llano Senaris J, Caicoya Gómez-Moran M. La diabetes tipo 2 en España: Estudio crítico de situación. Madrid: Fundación Gaspar Casal, para la investigación y el desarrollo de la salud, 2012\. \[ [Links](javascript:void%280%29;) \]
+
+35\. Codoceo V. Prevención de diabetes mellitus 2\. Rev Med Clin Condes 2010; 21: 741-748\. \[ [Links](javascript:void%280%29;) \]
+
+36\. De Luca MJF, Esandi ME, Chapman E. Guía de práctica clínica Nacional sobre prevención, diagnóstico y tratamiento de la diabetes mellitus tipo 2\. Buenos Aires, Academia Nacional de Medicina de Buenos Aires, 2008\. \[ [Links](javascript:void%280%29;) \]
+
+37\. Hussain A, Claussen B, Ramachandran A, Williams R. Prevention of type 2 diabetes: a review. Diabetes Res Clin Pract 2007; 76: 317-326\. \[ [Links](javascript:void%280%29;) \]
+
+38\. Santaguida PL, Balion C, Hunt D, Morrison K, Gerstein H, Raina P, et al. Diagnosis, prognosis, and treatment of impaired glucose tolerance and impaired fasting glucose. Evid Rep Technol Assess (Summ) 2005; 128: 1-11\. \[ [Links](javascript:void%280%29;) \]
+
+39\. Gillies CL, Abrams KR, Lambert PC, Cooper NJ, Sutton AJ, Hsu RT, et al. Pharmacological and lifestyle interventions to prevent or delay type 2 diabetes in people with impaired glucose tolerance: systematic review and meta-analysis. BMJ 2007; 334: 299\. \[ [Links](javascript:void%280%29;) \]
+
+40\. Norris SL, Zhang X, Avenell A, Gregg E, Schmid CH, Lau J. Long-term non-pharmacological weight loss interventions for adults with prediabetes. Cochrane Database Syst Rev 2005; (2): CD005270\. \[ [Links](javascript:void%280%29;) \]
+
+41\. Steyn NP, Mann J, Bennett PH, Temple N, Zimmet P, Tuomilehto J, et al. Diet, nutrition and the prevention of type 2 diabetes. Public Health Nutr 2004; 7: 147-165\. \[ [Links](javascript:void%280%29;) \]
+
+42\. Wing RR, Blair EH, Bononi P, Marcus MD, Watanabe R, Bergman RN. Caloric restriction per se is a significant factor in improvements in glycemic control and insulin sensitivity during weight loss in obese NIDDM patients. Diabetes Care 1994; 17: 30-36\. \[ [Links](javascript:void%280%29;) \]
+
+43\. Balk EM, Earley A, Raman G, Avendano EA, Pittas AG, Remington PL. Combined diet and physical activity promotion programs to prevent type 2 diabetes among persons at increased risk: a systematic review for the Community Preventive Services Task Force. Ann Intern Med 2015; 163: 437-451\. \[ [Links](javascript:void%280%29;) \]
+
+44\. Li R, QU S, Zhang P, Chattopadhyay S, Gregg EW, Albright A, et al. Economic evaluation of combined diet and physical activity promotion programs to prevent type 2 diabetes among persons at increased risk: a systematic review for the Community Preventive Services Task Force. Ann Intern Med 2015; 163: 452-460\. \[ [Links](javascript:void%280%29;) \]
+
+45\. Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF, Lachin JM, Walker EA, et al. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002; 346: 393-403\. \[ [Links](javascript:void%280%29;) \]
+
+46\. Diabetes Prevention Program Research Group, Knowler WC, Fowler SE, Hamman RF, Christophi CA, Hoffman HJ, et al. 10-year follow-up of diabetes incidence and weight loss in the Diabetes Prevention Program Outcomes Study. Lancet 2009; 374: 1677-1686\. \[ [Links](javascript:void%280%29;) \]
+
+47\. Pan Xr, Li Gw, Hu Yh, Wang Jx, Yang Wy, An Zx, et al. Effects of diet and exercise in preventing NIDDM in people with impaired glucose tolerance: the Da Qing IGT and Diabetes Study. Diabetes Care 1997; 20: 537-544\. \[ [Links](javascript:void%280%29;) \]
+
+48\. Li G, Zhang P, Wang J, Gregg EW, Yang W, Gong Q, et al. The long-term effect of lifestyle interventions to prevent diabetes in the China Da Qing Diabetes Prevention Study: a 20-year follow-up study. Lancet 2008; 371: 1783-1789\. \[ [Links](javascript:void%280%29;) \]
+
+49\. Tuomilehto J, Lindström J, Eriksson JG, Valle TT, Hämäläinen H, Ilanne-Parikka P, et al. Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001; 344: 1343-1350\. \[ [Links](javascript:void%280%29;) \]
+
+50\. Lindström J, Ilanne-Parikka P, Peltonen M, Aunola S, Eriksson JG, Hemiö K, et al. Sustained reduction in the incidence of type 2 diabetes by lifestyle intervention: follow up of the Finnish Diabetes Prevention Study. Lancet 2006; 368: 1673-1679\. \[ [Links](javascript:void%280%29;) \]
+
+51\. Etu-Seppälä L. DEHKO: Finlandia avanza en prevención primaria (editorial). Diabetes Voice 2003; 48: 53-56\. \[ [Links](javascript:void%280%29;) \]
+
+52\. Saaristo T, Etu-Seppälä L. Prevención de la diabetes y sus complicaciones: objetivos clave en Finlandia. Diabetes Voice 2006; 51: 13-17\. \[ [Links](javascript:void%280%29;) \]
+
+53\. Lindströn, J, Tuomilehto J. The diabetes risk score: a practical tool to predict Type 2 diabetes risk. Diabetes Care 2003; 26: 725-731\. \[ [Links](javascript:void%280%29;) \]
+
+54\. Saaristo T, Moilanen A, Korpi-Hyövälti E, Vanhala M, Saltevo J, Niskanen L, et al. Lifestyle intervention for prevention of type 2 diabetes in primary health care: one-year follow-up of the Finnish national diabetes prevention program (FIN-D2D). Diabetes Care 2010; 33: 2146-2151\. \[ [Links](javascript:void%280%29;) \]
+
+55\. Eriksson KF, Lindgarde F. Prevention of type 2 (non-insulin-dependent) diabetes mellitus by diet and physical exercise: the 6-year Malmo feasibility study. Diabetologia 1991; 34: 891-898\. \[ [Links](javascript:void%280%29;) \]
+
+56\. Ramachandran A, Snehalatha C, Mary S, Mukesh B, Bhaskar AD, Vijay V, Indian Diabetes Prevention Programme (IDPP). The Indian Diabetes Prevention Programme shows that lifestyle modification and metformin prevent type 2 diabetes in Asian Indian subjects with impaired glucose tolerance (IDPP-1). Diabetologia 2006; 49: 289-297\. \[ [Links](javascript:void%280%29;) \]
+
+57\. Ramachandran A, Snehalatha C, Mary S, Selvam S, Kumar CK, Seeli Ac, et al. Pioglitazone does not enhance the effectiveness of life style modification in preventing conversion of impaired glucose tolerance to diabetes in Asian Indians: resulto of the Indian Diabetes Prevention Program-2 (IDPP-2). Diabetologia 2009; 52: 1019-1026\. \[ [Links](javascript:void%280%29;) \]
+
+58\. Laatikainen T, Dunbar Ja, Chapman A, Kilkkinen A, Vartiainen E, Heistaro S, et al. Prevention of type 2 diabetes by lifestyle intervention in an Australian primary health care setting: Greater Green Triangle (GGT) Diabetes Prevention Project. BMC Public Health 2007; 7: 249\. \[ [Links](javascript:void%280%29;) \]
+
+59\. Oldroyd JC, Unwin NC, White M, Mathers JC, Alberti KG. Randomised controlled trial evaluating lifestyle. interventions in people with impaired glucose tolerance. Diabetes Res Clin Pract 2006; 72: 117-127\. \[ [Links](javascript:void%280%29;) \]
+
+60\. Saris WHM, Astrup A. Prentice AM, Zunft FJF, Formiguera X, Verboeket-Van De Venne Wphg, et al. Randomized controlled trial of changes in dietary carbohydrate/fat ratio and simple vs complex carbohydrates on body weight and blood lipids: the CARMEN study. Int J Obesity 2000; 24: 1310-1318\. \[ [Links](javascript:void%280%29;) \]
+
+61\. PREDIMED. Prevención con dieta mediterránea (12 de junio de 2015). Disponible en: <http://www.predimed.es/>. \[ [Links](javascript:void%280%29;) \]
+
+62\. Salas-Salvadó J, Bulló M, Babio N, Martínez-González MA, Ibarrola-Jurado N, Basora J, et al. Reduction in the incidence of type 2 diabetes with the Mediterranean diet. Diabetes Care 2011; 34: 14-19\. \[ [Links](javascript:void%280%29;) \]
+
+63\. Serra-Majem L, Roman B, Estruch R. Scientific evidence of interventions using the Mediterranean diet: a systematic review. Nutr Rev 2006; 64: S27-47\. \[ [Links](javascript:void%280%29;) \]
+
+64\. Lasa A, Miranda J, Bulló M, Casas R, Salas-Salvadó J, Larretxi I, et al. Comparative effect of two Mediterranean diets versus a low-fat diet on glycaemic control in individuals with type 2 diabetes. Eur J Clin Nutr 2014; 68: 767-772\. \[ [Links](javascript:void%280%29;) \]
+
+65\. Salas-Salvadó J, Bulló M, Estruch R, Ros E, Covas Mi, Ibarrola-Jurado N, et al. Prevention of diabetes with Mediterranean diets: A subgroup analysis of a randomized trial. Ann Intern Med 2014; 160: 1-10\. \[ [Links](javascript:void%280%29;) \]
+
+66\. Larsen TM, Dalskov S, Van Baak M, Jebb S, Kafatos A, Pfeiffer A, et al. The diet, obesity and genes (Diogenes) dietary study in eight European countries - a comprehensive design for long-term intervention. Obes Rev 2010; 11: 76-91\. \[ [Links](javascript:void%280%29;) \]
+
+67\. Larsen TM, Dalskov SM, Van Baak M, Jebb SA, Papadaki A, Pfeiffer AF, et al. Diets with high or low protein content and glycemic index for weight-loss maintenance. New Eng J Med 2010; 363: 2102-2113\. \[ [Links](javascript:void%280%29;) \]
+
+68\. Moore Cs, Lindroos Ak, Kreutzer M, Larsen Tm, Astrup A, Van Baak Ma, et al. Dietary strategy to manipulate ad libitum macronutrient intake, and glycaemic index, across eight European countries in the Diogenes Study. Obes Rev 2010; 11: 67-75\. \[ [Links](javascript:void%280%29;) \]
+
+69\. Abete I, Astrup A, Martinez JA, Thorsdottir I, Zulet MA. Obesity and the metabolic syndrome: role of different dietary macronutrient distribution patterns and specific nutritional components on weight loss and maintenance. Nutr Rev 2010; 68: 214-231\. \[ [Links](javascript:void%280%29;) \]
+
+70\. Papadaki A, Linardakis M, Plada M, Larsen TM, Damsgaard CT, Van Baak MA, et al. Impact of weight loss and maintenance with ad libitum diets varying in protein and glycemic index content on metabolic syndrome. Nutrition 2014; 30: 410-417\. \[ [Links](javascript:void%280%29;) \]
+
+71\. EPIC. Estudio Prospectivo Europeo sobre Dieta, Cáncer y Salud (consultado el 10 de Junio de 2015). Disponible en: <http://www.epic-spain.com/acercaeuropa.html>. \[ [Links](javascript:void%280%29;) \]
+
+72\. Rossi M, Turati F, Lagiou P, Trichopoulos D. Mediterranean diet and glycaemic load in relation to incidence of type 2 diabetes: results from the Greed cohort of the population-based European Prospective Investigation into Cancer And Nutrition (EPIC). Diabetologia 2013; 56: 2405-2413\. \[ [Links](javascript:void%280%29;) \]
+
+73\. Getting in balance: A Workplace Diabetes Prevention Intervention Trial (GIBW). (Consultado el 1 de enero de 2016) Disponible en: https://clinicaltrials.gov/ct2/show/NCT02589873?term=diabetes+prevention&rank=1\. \[ [Links](javascript:void%280%29;) \]
+
+74\. The MoMMii Study. Diabetes Prevention Intervention on Families With Past Gestational Diabetes (MoMMii). (Consultado el 1 de marzo de 2016). Disponible en: https://clinicaltrials.gov/ct2/show/NCT02343354?term=diabetes+prevention&rank=7\. \[ [Links](javascript:void%280%29;) \]
+
+75\. Serrano R, García-Soidán Fj, Díaz Redondo A, Artola S, Franch J, Díez J, et al. Estudio de cohortes en atención primaria sobre la evolución de sujetos con prediabetes (PREDAPS). Fundamentos y metodología. Rev Esp Salud Pública 2013; 87: 121-135\. \[ [Links](javascript:void%280%29;) \]
+
+[![](/img/revistas/asisna/v39n2/seta.gif)](#top)**Dirección para correspondencia:**   
+J. Alfredo Martínez   
+Departamento de Ciencias de la Alimentación y Fisiología   
+Centro de Investigación en Nutrición   
+Universidad de Navarra   
+Irunlarrea, 1   
+31008 Pamplona   
+E-mail: [jalfmtz@unva.es](mailto:jalfmtz@unva.es)
+
+Recepción: 05-10-2015   
+Aceptación provisional: 18-02-2016   
+Aceptación definitiva: 01-04-2016
+
+Pabellón de Docencia, Recinto Hospital de Navarra, C/ Irunlarrea, 3, Pamplona, Navarra, ES, 31008, 848 422 653, 948 422 009  
+![](/img/es/e-mailt.gif)  
+[anales@navarra.es](mailto:anales@navarra.es)![](https://analytics.isciii.es/matomo.php?idsite=2&rec=1) 
