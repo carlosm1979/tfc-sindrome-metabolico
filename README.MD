@@ -2,13 +2,14 @@
 
 # Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 
-- Objetivos
-  - Obtener información sobre que es el S. Metabólico
-  - Estudiar la importancia de la alimentación en su aparición
-  - Definir pautas para prevenir y controlar su desarrollo
-  - Investigar que conocimiento tiene la población acerca de este síndrome
-
 ## Qué es
+
+El síndrome metabólico es un grupo de trastornos que se presentan al mismo tiempo y aumentan el riesgo de enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2\. 
+Estos trastornos incluyen:
+- aumento de la presión arterial
+- niveles altos de azúcar en sangre
+- exceso de grasa corporal alrededor de la cintura
+- niveles anormales de colesterol o triglicéridos
 
 ### Historia
 En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia a la insulina, dislipidemia e hipertensión.
