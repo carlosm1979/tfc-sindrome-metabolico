@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "pandoc -s README.MD -o dist/tfc-sindrome-metabolico.docx",
-    "prepush": "echo 'asdfasdf'"
+    "prepush": "npm run build"
   },
   "repository": {
     "type": "git",
