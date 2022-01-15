@@ -1,0 +1,1 @@
+Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia

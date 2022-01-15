@@ -1,0 +1,22 @@
+{
+  "name": "tfc-sindrome-metabolico",
+  "version": "1.0.0",
+  "description": "Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosm1979/tfc-sindrome-metabolico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosm1979/tfc-sindrome-metabolico/issues"
+  },
+  "homepage": "https://github.com/carlosm1979/tfc-sindrome-metabolico#readme"
+}
