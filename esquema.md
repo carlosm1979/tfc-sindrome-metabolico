@@ -2,9 +2,9 @@
 
 Objetivos
   Obtener información sobre que es el S. Metabólico
-  Estudirar la importancia de la aliemntacion en su aparición
+  Estudiar la importancia de la alimentación en su aparición
   Definir pautas para prevenir y controlar su desarrollo
-  Investigar que conocimiento tiene la población acerca de este sindrome
+  Investigar que conocimiento tiene la población acerca de este síndrome
 
 
 
