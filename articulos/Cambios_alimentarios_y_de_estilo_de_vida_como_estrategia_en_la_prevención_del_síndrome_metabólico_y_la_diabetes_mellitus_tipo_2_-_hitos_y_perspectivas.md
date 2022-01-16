@@ -436,7 +436,7 @@ Pabellón de Docencia, Recinto Hospital de Navarra, C/ Irunlarrea, 3, Pamplona, 
 
 **Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas**
 
-**NOTAS**
+# NOTAS
 
 El elevado aporte calórico de la alimentación actual y el sedentarismo, son los principales causantes del notable incremento de la obesidad en nuestra sociedad. A su vez, esto conlleva un aumento de las patologías asociadas a ella, como pueden ser el **síndrome metabólico** y la **diabetes tipo 2**.
 
@@ -483,10 +483,10 @@ La actividad física es parte fundamental tanto del tratamiento de los pacientes
 - Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos
 
 
-Principales estudios y programas de intervención
+## Principales estudios y programas de intervención
 ---
 
-- Programa de Prevención de la Diabetes (DPP)
+### Programa de Prevención de la Diabetes (DPP)
 
 
 > Todos los participantes del estudio presentaban intolerancia a la glucosa y tenían un IMC medio de 34 kg/m2, factores de riesgo característicos en el desarrollo de DM2.  
@@ -498,7 +498,7 @@ Los resultados publicados mostraron en el grupo de intervención de estilo de vi
 
 segunda fase opcional, DPP Outcome Study (DPPOS)46, en la que se educó a todos los participantes para un cambio de vida intensivo durante un periodo de tiempo de 6,8 años. El objetivo fundamental de esta fase, fue determinar si la prevención de DM2 era sostenible en el tiempo. Los resultados también fueron positivos y demostraron que la prevención o retardo de la diabetes lograda a través de los cambios de estilo de vida, puede persistir durante un periodo de tiempo de al menos 10 años.
 
-- Estudio chino Da Qing
+### Estudio chino Da Qing
 
 > 577 participantes con intolerancia a la glucosa  
 
@@ -508,7 +508,7 @@ segunda fase opcional, DPP Outcome Study (DPPOS)46, en la que se educó a todos 
 - práctica regular de actividad física
 - con combinación de estos dos últimos
 
-- Finish Diabetes Prevention Study (DPS)
+### Finish Diabetes Prevention Study (DPS)
 
 > 522 individuos de mediana edad
 > con IMC medio de 31 kg/m2 e intolerancia a la glucosa
@@ -523,7 +523,7 @@ A las personas identificadas como de alto riesgo de padecer DM2 por el test, se 
 
 Las sesiones son dirigidas por un equipo multidisciplinar y se reúnen cada una o dos semanas. En ellas se debaten distintos temas, se asignan tareas para realizar en casa y se trabajan técnicas de modificación de conducta para reforzar la motivación, que es la clave del éxito.
 
-- Estudio de Malmo Suecia
+### Estudio de Malmo Suecia
 
 > personas con niveles de glucosa normales, intolerancia a la glucosa y DM2
 
@@ -533,7 +533,7 @@ Primeros resultados, mostrando una reducción de la incidencia de DM2 desde 4,3 
 
 Esta reducción en la mortalidad se correlacionó con la disminución del peso y el aumento de la actividad física.
 
-- Programa Indio de Prevención de Diabetes
+### Programa Indio de Prevención de Diabetes
    
 > 531 sujetos (421 hombres y 110 mujeres) con intolerancia a la glucosa.
 > La edad media de los participantes fue de 45,9 años
@@ -541,7 +541,7 @@ un IMC medio de 25,8 kg/m2
 
 El grupo 1 fue el grupo control, el grupo 2 recibió consejos sobre la modificación del estilo de vida, el grupo 3 fue tratado con metformina y el grupo 4 recibió consejos sobre la modificación del estilo de vida y metformina.
 
-- Programa de Prevención de Diabetes del Gran Triángulo Verde
+### Programa de Prevención de Diabetes del Gran Triángulo Verde
   
 > 311 personas entre 40 y 75 años de edad
 > con riesgo moderado-severo de desarrollar DM2
@@ -566,7 +566,7 @@ A los 12 meses de intervención, pudo apreciarse:
 
 También los indicadores psicológicos mostraron una mejoría significativa.
 
-- Impacto de cambios en el estilo de vida en personas con intolerancia a la glucosa
+### Impacto de cambios en el estilo de vida en personas con intolerancia a la glucosa
 
 > 78 personas entre 24 y 75 años
 
@@ -577,7 +577,7 @@ Un grupo control sin intervención, y otro grupo que recibió asesoramiento sobr
 Reducción significativa en el consumo total de grasas y del peso corporal a los 6 meses (-1,6 kg) y a los 2 años de seguimiento (-3,3 kg).
 También se evidenció un aumento de la sensibilidad de la insulina al cabo de 1 año de seguimiento (0,52g/min).
 
-- Estudio CARMEN (CArbohydrate Ratio Management in European National diets)
+### Estudio CARMEN (CArbohydrate Ratio Management in European National diets)
 
 > 400 voluntarios con sobrepeso (IMC >25)
 
@@ -595,7 +595,7 @@ Se prestó mayor atención a la relación entre grasas e hidratos de carbono en 
 
 Este estudio ha puesto de manifiesto que se puede controlar el peso sin restricción calórica, simplemente con el hecho de la elección de un tipo de alimentos u otros, y que la diferenciación entre hidratos de carbono simples y complejos, no es significativa a la hora de reconocer sus efectos en el control o reducción del peso corporal en una dieta con un bajo contenido en grasa.
 
-- Estudio PREDIMED (PREvención con DIeta MEDiterránea)
+### Estudio PREDIMED (PREvención con DIeta MEDiterránea)
 
 
 > 7.447 voluntarios con un alto riesgo cardiovascular
@@ -609,7 +609,7 @@ Tres modelos de intervención:
 
 La dieta mediterránea suplementada con aceite de oliva, es la que mejor se asocia con la reducción del riesgo de padecer DM262.
 
-- Estudio DIOGENES (Dieta, Obesidad y Genes)
+### Estudio DIOGENES (Dieta, Obesidad y Genes)
 
 > familias participantes fueron 938, las cuales debían tener al menos un padre/madre con sobrepeso u obesidad
 
@@ -629,11 +629,10 @@ Los seis meses posteriores se llevó a cabo un seguimiento sin ningún tipo de i
  Los participantes que siguieron las instrucciones de alimentación moderadamente alta en proteínas y con índice glucémico bajo, fueron los que mejor mantuvieron el peso perdido
 
 
-Otros estudios y programas en marcha
----
+## Otros estudios y programas en marcha
 
 
-- **Estudio PREVIEW (Prevention of diabetes through lifestyle Intervention and population studies in Europe and around the World)**
+### Estudio PREVIEW (Prevention of diabetes through lifestyle Intervention and population studies in Europe and around the World)
 
 
 > 2.500 participantes (200 niños y adolescentes entre 10 y 18 años, 800 adultos jóvenes entre 25 y 44 años, y 1.500 adultos mayores, entre 55 y 70 años)
