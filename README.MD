@@ -64,7 +64,20 @@ Objetivos
 -   Estudiar la importancia de la alimentación en su aparición\
 -   Definir pautas para prevenir y controlar su desarrollo\
 -   Investigar que conocimiento tiene la población acerca de este
-    síndrome
+    síndrome\
+    \# Parte teórica
+
+Material y métodos
+==================
+
+Resultados
+==========
+
+Discusión
+=========
+
+Conclusión
+==========
 
 Bibliografía
 ------------
