@@ -3,6 +3,8 @@ Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 
 [PDF](./tfc-sindrome-metabolico.pdf)
 
+\pagebreak
+
 **Índice**
 
 -   Objetivos\
@@ -36,6 +38,8 @@ Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 -   Bibliografía
 
 -   Anexos
+
+\pagebreak
 
 Qué es
 ------
