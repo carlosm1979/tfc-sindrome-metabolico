@@ -30,6 +30,7 @@ actividades de ocio al aire libre orientadas a un mayor consumo calórico como p
 
 como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos
 
+---
 ## [Anales del Sistema Sanitario de Navarra](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=1137-6627&lng=es&nrm=iso)
 
 ## _versión impresa_ ISSN 1137-6627
