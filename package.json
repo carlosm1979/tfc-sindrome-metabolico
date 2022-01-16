@@ -7,9 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "pandoc -s titulo.md pagebreak.md esquema.md pagebreak.md proyecto.md -o README.MD",
+    "build": "pandoc -s titulo.md esquema.md proyecto.md -o README.MD",
     "to-docx": "pandoc -s README.MD -o tfc-sindrome-metabolico.docx",
-    "to-pdf": "pandoc -V geometry:margin=1in -s README.MD -o tfc-sindrome-metabolico.pdf",
+    "to-pdf": "pandoc -s titulo.md pagebreak.md esquema.md pagebreak.md proyecto.md -o pdf.MD && pandoc -V geometry:margin=1in -s pdf.MD -o tfc-sindrome-metabolico.pdf",
     "prepush": "npm run build"
   },
   "repository": {
