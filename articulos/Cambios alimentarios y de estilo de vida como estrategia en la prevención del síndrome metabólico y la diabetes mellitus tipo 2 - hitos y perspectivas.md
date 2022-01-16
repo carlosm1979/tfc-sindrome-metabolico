@@ -37,8 +37,8 @@ Principales estudios y programas de intervención
 - Programa de Prevención de la Diabetes (DPP)
 
 
-> Todos los participantes del estudio presentaban intolerancia a la glucosa y tenían un IMC medio de 34 kg/m2, factores de riesgo característicos en el desarrollo de DM2.
-> El 45% de los participantes pertenecían a grupos minoritarios de la sociedad (afroamericanos, hispanoamericanos, asiáticos, islas del pacífico, indios americanos), que se encuentran en mayor riesgo de desarrollar diabetes.
+> Todos los participantes del estudio presentaban intolerancia a la glucosa y tenían un IMC medio de 34 kg/m2, factores de riesgo característicos en el desarrollo de DM2.  
+> El 45% de los participantes pertenecían a grupos minoritarios de la sociedad (afroamericanos, hispanoamericanos, asiáticos, islas del pacífico, indios americanos), que se encuentran en mayor riesgo de desarrollar diabetes.  
 
 El primer grupo, llamado grupo de intervención de estilo de vida, recibió asesoramiento sobre dieta saludable, actividad física de intensidad moderada (150 minutos semanales) y técnicas de modificación de conducta. 
 
