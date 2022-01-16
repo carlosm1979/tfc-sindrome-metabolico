@@ -1,3 +1,35 @@
+**notas**
+
+El elevado aporte calórico de la alimentación actual y el sedentarismo, son los principales causantes del notable incremento de la obesidad en nuestra sociedad. A su vez, esto conlleva un aumento de las patologías asociadas a ella, como pueden ser el síndrome metabólico y la diabetes tipo 2.
+
+favorecen el desarrollo del SM otros factores, tales como el sedentarismo, un elevado consumo calórico a través de bebidas azucaradas y alimentos ricos en grasa saturada, una disminución en el consumo de fibra y el tabaquismo.
+
+Dos de las principales complicaciones que confiere el SM son el desarrollo de enfermedades cardiovasculares y de DM
+
+relación entre el SM y el cáncer colorrectal, de mama y de próstata
+
+enfermedades como la esteatosis hepática, el síndrome de apnea del sueño, la enfermedad renal crónica, el síndrome del ovario poliquístico y la infertilidad masculina
+
+ la prevención es uno de los elementos clave para el control de esta enfermedad, ya que se ha estimado que unos correctos hábitos alimentarios y de estilo de vida son suficientes para prevenir su aparición en 90 de cada 100 casos, puesto que la investigación muestra que sólo un 10% se debe a herencia genética
+
+cambios de alimentación, actividad física, y programas de educación nutricional
+
+ Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han demostrado ser efectivas para mejorar el control metabólico, el riesgo cardiovascular y aumentar la esperanza de vida
+
+reducir el peso corporal en al menos un 5%, permite obtener una mejoría a corto plazo de la resistencia a la insulina, el SM y los factores de riesgo asociados
+
+El patrón alimentario a seguir, siempre debe ser personalizado y adaptado a las necesidades de cada individuo. Debe considerar la edad, el sexo, la actividad física, el estado metabólico, la situación económica y los alimentos típicos y disponibles del lugar de origen del individuo
+
+Como regla general, los hábitos alimentarios deben basarse en una alimentación con un bajo contenido en grasa saturada, grasa trans y colesterol, siendo el aceite de oliva el principal aporte de grasa en la dieta. También se recomienda disminuir el consumo de azúcares sencillos, aumentar el consumo de pescado, especialmente el de pescado azul e incrementar la ingesta de frutas, verduras y cereales integrales
+
+La actividad física es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población
+
+aparcando actividades sedentarias como la televisión o los videojuegos
+
+actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo
+
+como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos
+
 ## [Anales del Sistema Sanitario de Navarra](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=1137-6627&lng=es&nrm=iso)
 
 ## _versión impresa_ ISSN 1137-6627
