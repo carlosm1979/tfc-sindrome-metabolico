@@ -7,8 +7,14 @@ Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 
 -   Objetivos\
 -   Obtener información sobre que es el S. Metabólico\
--   Estudiar la importancia de la alimentación en su aparición\
+    [articulos/sm-descripcion-general.md](articulos/sm-descripcion-general.md)
+    [articulos/sm-diagnostico.md](articulos/sm-diagnostico.md)
+    [articulos/sm-reaven.md](articulos/sm-reaven.md)
+
+-   Estudiar la importancia de la alimentación en su aparición
+
 -   Definir pautas para prevenir y controlar su desarrollo\
+    [articulos/Cambios\_alimentarios\_y\_de\_estilo\_de\_vida\_como\_estrategia\_en\_la\_prevención\_del\_síndrome\_metabólico\_y\_la\_diabetes\_mellitus\_tipo\_2\_-\_hitos\_y\_perspectivas.md](articulos/Cambios_alimentarios_y_de_estilo_de_vida_como_estrategia_en_la_prevención_del_síndrome_metabólico_y_la_diabetes_mellitus_tipo_2_-_hitos_y_perspectivas.md)
 -   Investigar que conocimiento tiene la población acerca de este
     síndrome
 
