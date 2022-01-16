@@ -48,18 +48,15 @@ segunda fase opcional, DPP Outcome Study (DPPOS)46, en la que se educó a todos 
 
 - Estudio chino Da Qing
 
-```
-577 participantes con intolerancia a la glucosa
-```
+> 577 participantes con intolerancia a la glucosa  
 
 4 grupos de intervención: control, asesorados con un plan de alimentación, práctica regular de actividad física y con combinación de estos dos últimos
 
 - Finish Diabetes Prevention Study (DPS)
 
-```
-522 individuos de mediana edad
-con IMC medio de 31 kg/m2 e intolerancia a la glucosa
-```
+> 522 individuos de mediana edad
+> con IMC medio de 31 kg/m2 e intolerancia a la glucosa
+
 Los participantes fueron distribuidos aleatoriamente entre un grupo control con asesoramiento dietético y de actividad física general y un grupo con intervención intensiva en el estilo de vida.
 
  los autores concluyeron que las intervenciones intensivas basadas en un plan de alimentación y de práctica regular de actividad física, son efectivas en la prevención de desarrollar DM2 y sugieren que este tipo de intervenciones deberían implantarse a nivel de atención primaria
@@ -71,9 +68,8 @@ Las sesiones son dirigidas por un equipo multidisciplinar y se reúnen cada una 
 
 - Estudio de Malmo Suecia
 
-```
-personas con niveles de glucosa normales, intolerancia a la glucosa y DM2
-```
+> personas con niveles de glucosa normales, intolerancia a la glucosa y DM2
+
 uno de los grupos sin intervención y otro de los grupos con intervención con dieta y actividad física
 
 primeros resultados, mostrando una reducción de la incidencia de DM2 desde 4,3 a 1,3% por año. Posteriormente se realizó un seguimiento de 6 años más a través de un estudio observacional, mostrando una mayor reducción de la mortalidad del grupo sometido a intervención (14%), respecto al grupo control (6,5%).
@@ -81,21 +77,19 @@ primeros resultados, mostrando una reducción de la incidencia de DM2 desde 4,3 
 Esta reducción en la mortalidad se correlacionó con la disminución del peso y el aumento de la actividad física.
 
 - Programa Indio de Prevención de Diabetes
-  
-```
-531 sujetos (421 hombres y 110 mujeres) con intolerancia a la glucosa.
-La edad media de los participantes fue de 45,9 años
+   
+
+> 531 sujetos (421 hombres y 110 mujeres) con intolerancia a la glucosa.
+> La edad media de los participantes fue de 45,9 años
 un IMC medio de 25,8 kg/m2
-```
+
 
 El grupo 1 fue el grupo control, el grupo 2 recibió consejos sobre la modificación del estilo de vida, el grupo 3 fue tratado con metformina y el grupo 4 recibió consejos sobre la modificación del estilo de vida y metformina.
 
 - Programa de Prevención de Diabetes del Gran Triángulo Verde
   
-```
-311 personas entre 40 y 75 años de edad
-con riesgo moderado-severo de desarrollar DM2
-```
+> 311 personas entre 40 y 75 años de edad
+> con riesgo moderado-severo de desarrollar DM2
 
 Este programa fue implantado en un pueblo de modestos recursos de Australia.
 
@@ -107,9 +101,9 @@ También los indicadores psicológicos mostraron una mejoría significativa.
 
 - Impacto de cambios en el estilo de vida en personas con intolerancia a la glucosa
 
-```
-78 personas entre 24 y 75 años
-```
+
+> 78 personas entre 24 y 75 años
+
 Newcastle (Reino Unido)
 
 un grupo control sin intervención, y otro grupo que recibió asesoramiento sobre cambios de estilo de vida, durante un periodo de 2 años.
@@ -118,9 +112,9 @@ reducción significativa en el consumo total de grasas y del peso corporal a los
 
 - Estudio CARMEN (CArbohydrate Ratio Management in European National diets)
 
-```
-400 voluntarios con sobrepeso (IMC >25)
-```
+
+> 400 voluntarios con sobrepeso (IMC >25)
+
 
 grupo control (sin intervención) y en 3 grupos de intervención: dieta de control (dieta típica de la ingesta media nacional), un grupo con dieta baja en grasa y alta en hidratos de carbono simples y un tercer grupo con dieta baja en grasa y alta en hidratos de carbono complejos
 
@@ -134,9 +128,9 @@ Este estudio ha puesto de manifiesto que se puede controlar el peso sin restricc
 
 - Estudio PREDIMED (PREvención con DIeta MEDiterránea)
 
-```
-7.447 voluntarios con un alto riesgo cardiovascular
-```
+
+> 7.447 voluntarios con un alto riesgo cardiovascular
+
 
 principal objetivo de constatar si la dieta mediterránea suplementada con aceite de oliva virgen extra o frutos secos evita la aparición tanto de DM2 como de enfermedades cardiovasculares (muerte de origen cardiovascular, infarto de miocardio y/o accidente vascular cerebral), en comparación con una dieta baja en grasa.
 
@@ -146,9 +140,9 @@ la dieta mediterránea suplementada con aceite de oliva, es la que mejor se asoc
 
 - Estudio DIOGENES (Dieta, Obesidad y Genes)
 
-```
-familias participantes fueron 938, las cuales debían tener al menos un padre/madre con sobrepeso u obesidad
-```
+
+> familias participantes fueron 938, las cuales debían tener al menos un padre/madre con sobrepeso u obesidad
+
 
  objetivo del mismo fue evaluar el efecto de dietas con bajo contenido en grasa, distinto contenido en proteínas y distinto tipo de azúcares sobre el control del peso corporal, en adultos obesos o con sobrepeso y en sus hijos.
 
@@ -167,9 +161,9 @@ Otros estudios y programas en marcha
 - **Estudio PREVIEW (Prevention of diabetes through lifestyle Intervention and population studies in Europe and around the World)**
 
 
-```
-2.500 participantes (200 niños y adolescentes entre 10 y 18 años, 800 adultos jóvenes entre 25 y 44 años, y 1.500 adultos mayores, entre 55 y 70 años)
-```
+
+> 2.500 participantes (200 niños y adolescentes entre 10 y 18 años, 800 adultos jóvenes entre 25 y 44 años, y 1.500 adultos mayores, entre 55 y 70 años)
+
 
 Intervención nutricional donde se compararán:
 - dietas con mayor o menor contenido en proteína, 
