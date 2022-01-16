@@ -80,7 +80,7 @@ Conclusión
 ==========
 
 Bibliografía
-------------
+============
 
 -   [Síndrome
     metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
@@ -114,5 +114,5 @@ Bibliografía
 Nomenclaturas
 -------------
 
-IDF: Inernational Diabetes Federation ATP: Adult Treatment Panel
-(ATP-III)
+IDF: Inernational Diabetes Federation\
+ATP: Adult Treatment Panel (ATP-III)
