@@ -30,6 +30,95 @@ actividades de ocio al aire libre orientadas a un mayor consumo calórico como p
 
 como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos
 
+
+Principales estudios y programas de intervención
+---
+
+- Programa de Prevención de la Diabetes (DPP)
+
+El primer grupo, llamado grupo de intervención de estilo de vida, recibió asesoramiento sobre dieta saludable, actividad física de intensidad moderada (150 minutos semanales) y técnicas de modificación de conducta. 
+
+Los resultados publicados mostraron en el grupo de intervención de estilo de vida, una reducción del 58% en el avance de intolerancia a la glucosa a DM2.
+
+segunda fase opcional, DPP Outcome Study (DPPOS)46, en la que se educó a todos los participantes para un cambio de vida intensivo durante un periodo de tiempo de 6,8 años. El objetivo fundamental de esta fase, fue determinar si la prevención de DM2 era sostenible en el tiempo. Los resultados también fueron positivos y demostraron que la prevención o retardo de la diabetes lograda a través de los cambios de estilo de vida, puede persistir durante un periodo de tiempo de al menos 10 años.
+
+- Estudio chino Da Qing
+
+4 grupos de intervención: control, asesorados con un plan de alimentación, práctica regular de actividad física y con combinación de estos dos últimos
+
+- Finish Diabetes Prevention Study (DPS)
+
+Los participantes fueron distribuidos aleatoriamente entre un grupo control con asesoramiento dietético y de actividad física general y un grupo con intervención intensiva en el estilo de vida.
+
+ los autores concluyeron que las intervenciones intensivas basadas en un plan de alimentación y de práctica regular de actividad física, son efectivas en la prevención de desarrollar DM2 y sugieren que este tipo de intervenciones deberían implantarse a nivel de atención primaria
+
+- Programa de Desarrollo para la Prevención y la Atención a la Diabetes 2000-2010
+
+A las personas con una puntuación intermedia se les entrega información escrita sobre hábitos y estilos de vida saludables, lugares donde realizar actividad física y educación nutricional a nivel local. Por otro lado, a las personas identificadas como de alto riesgo de padecer DM2 por el test, se les invita a participar en un programa de intervención sobre el estilo de vida.
+
+Las sesiones son dirigidas por un equipo multidisciplinar y se reúnen cada una o dos semanas. En ellas se debaten distintos temas, se asignan tareas para realizar en casa y se trabajan técnicas de modificación de conducta para reforzar la motivación, que es la clave del éxito.
+
+- Estudio de Malmo Suecia
+
+uno de los grupos sin intervención y otro de los grupos con intervención con dieta y actividad física
+
+primeros resultados, mostrando una reducción de la incidencia de DM2 desde 4,3 a 1,3% por año. Posteriormente se realizó un seguimiento de 6 años más a través de un estudio observacional, mostrando una mayor reducción de la mortalidad del grupo sometido a intervención (14%), respecto al grupo control (6,5%).
+
+Esta reducción en la mortalidad se correlacionó con la disminución del peso y el aumento de la actividad física.
+
+- Programa Indio de Prevención de Diabetes
+El grupo 1 fue el grupo control, el grupo 2 recibió consejos sobre la modificación del estilo de vida, el grupo 3 fue tratado con metformina y el grupo 4 recibió consejos sobre la modificación del estilo de vida y metformina.
+
+- Programa de Prevención de Diabetes del Gran Triángulo Verde
+Este programa fue implantado en un pueblo de modestos recursos de Australia.
+
+programa de educación estructurado en 6 sesiones de 90 minutos cada una, durante un periodo de 8 meses.
+
+Al cabo de 3 meses de intervención, se observó una reducción significativa del peso, la circunferencia de la cintura, del colesterol total y del colesterol LDL. A los 12 meses de intervención, pudo apreciarse una disminución del peso, de la circunferencia de la cintura, de la glucosa plasmática en ayunas y a las 2h post-ingesta, del colesterol total, de los triglicéridos y de la presión diastólica
+
+También los indicadores psicológicos mostraron una mejoría significativa.
+
+- Impacto de cambios en el estilo de vida en personas con intolerancia a la glucosa
+
+Newcastle (Reino Unido)
+
+n grupo control sin intervención, y otro grupo que recibió asesoramiento sobre cambios de estilo de vida, durante un periodo de 2 años.
+
+reducción significativa en el consumo total de grasas y del peso corporal a los 6 meses (-1,6 kg) y a los 2 años de seguimiento (-3,3 kg). También se evidenció un aumento de la sensibilidad de la insulina al cabo de 1 año de seguimiento (0,52g/min).
+
+- Estudio CARMEN (CArbohydrate Ratio Management in European National diets)
+
+grupo control (sin intervención) y en 3 grupos de intervención: dieta de control (dieta típica de la ingesta media nacional), un grupo con dieta baja en grasa y alta en hidratos de carbono simples y un tercer grupo con dieta baja en grasa y alta en hidratos de carbono complejos
+
+Los voluntarios elegían sus alimentos en un supermercado especialmente diseñado para el proyecto en cada uno de los países participantes, donde se realizaba un seguimiento de la composición nutricional de todos los alimentos que consumían para que sus dietas contuvieran sólo un 30% de energía procedente de la grasa (grupos bajos en grasa).
+
+se prestó mayor atención a la relación entre grasas e hidratos de carbono en lugar de controlar el número de calorías
+
+ Al final del periodo de intervención de 6 meses, el grupo control aumentó algo de peso. Por el contrario, los otros dos grupos que siguieron una dieta baja en grasas y alta en hidratos de carbono perdieron peso (entre 1 y 2 kg.).
+
+Este estudio ha puesto de manifiesto que se puede controlar el peso sin restricción calórica, simplemente con el hecho de la elección de un tipo de alimentos u otros, y que la diferenciación entre hidratos de carbono simples y complejos, no es significativa a la hora de reconocer sus efectos en el control o reducción del peso corporal en una dieta con un bajo contenido en grasa.
+
+- Estudio PREDIMED (PREvención con DIeta MEDiterránea)
+
+principal objetivo de constatar si la dieta mediterránea suplementada con aceite de oliva virgen extra o frutos secos evita la aparición tanto de DM2 como de enfermedades cardiovasculares (muerte de origen cardiovascular, infarto de miocardio y/o accidente vascular cerebral), en comparación con una dieta baja en grasa.
+
+tres modelos de intervención: al primero de ellos se les proporcionó una dieta mediterránea con aceite de oliva virgen extra, al segundo se suplementó esta misma dieta con frutos secos y al tercero se le asesoró en el seguimiento de una dieta baja en grasas.
+
+la dieta mediterránea suplementada con aceite de oliva, es la que mejor se asocia con la reducción del riesgo de padecer DM262.
+
+- Estudio DIOGENES (Dieta, Obesidad y Genes)
+
+ objetivo del mismo fue evaluar el efecto de dietas con bajo contenido en grasa, distinto contenido en proteínas y distinto tipo de azúcares sobre el control del peso corporal, en adultos obesos o con sobrepeso y en sus hijos.
+
+5 tipos de dietas experimentales diseñadas (control, alta en proteínas-alto índice glucémico, alta en proteínas-bajo índice glucémico, baja en proteínas-bajo índice glucémico, baja en proteínas-alto índice glucémico) que seguieron ad limitum durante 6 meses mediante instrucciones dietéticas impartidas por dietistas.
+
+Los seis meses posteriores se llevó a cabo un seguimiento sin ningún tipo de intervención nutricional, con lo que se completaron los 12 meses previstos como final del estudio
+
+ los participantes que siguieron las instrucciones de alimentación moderadamente alta en proteínas y con índice glucémico bajo, fueron los que mejor mantuvieron el peso perdido
+
+
+
+
 ---
 ## [Anales del Sistema Sanitario de Navarra](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=1137-6627&lng=es&nrm=iso)
 
