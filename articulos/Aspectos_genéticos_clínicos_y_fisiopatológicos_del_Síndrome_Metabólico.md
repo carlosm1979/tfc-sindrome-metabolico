@@ -1,17 +1,3 @@
-Ref: http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006
-
-**Notas**
-
-El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
-
-- Un aspecto fundamental de la obesidad que se asocia con el riesgo a la aparición del síndrome metabólico es la distribución preferencial del TA. En general se describen dos grandes tipos de distribución del tejido adiposo:
-
-	+ La topografía ginecoide, caracterizada por la acumulación del TA en el tejido subcutáneo glúteo femoral, que se considera *benigna*, pues no favorece la aparición del síndrome.
-
-	+ La topografía androide, que es la acumulación de TA en la región visceral abdominal y que se asocia a la aparición de esta patología (35).
-
----
-
 ## [Anales Venezolanos de Nutrición](http://ve.scielo.org/scielo.php?script=sci%5Fserial&pid=0798-0752&lng=es&nrm=iso)
 
 ## _versión impresa_ ISSN 0798-0752
@@ -338,3 +324,15 @@ Urbanización Altamira,8º Transversal con 7ª Avenida. Quinta Pacairigua. Carac
 Código Postal 1010.Teléfono: 2637127 - 2636918   
 ![](/img/es/e-mailt.gif)  
 [maritzal@telcel.net.ve ](mailto:maritzal@telcel.net.ve%20)[ fbengoanutricion@cantv.net ](mailto:%20fbengoanutricion@cantv.net%20) 
+
+---
+
+**NOTAS**
+
+El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
+
+- Un aspecto fundamental de la obesidad que se asocia con el riesgo a la aparición del síndrome metabólico es la distribución preferencial del TA. En general se describen dos grandes tipos de distribución del tejido adiposo:
+
+	+ La topografía ginecoide, caracterizada por la acumulación del TA en el tejido subcutáneo glúteo femoral, que se considera *benigna*, pues no favorece la aparición del síndrome.
+
+	+ La topografía androide, que es la acumulación de TA en la región visceral abdominal y que se asocia a la aparición de esta patología (35).

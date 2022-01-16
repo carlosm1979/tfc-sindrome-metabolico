@@ -17,21 +17,23 @@
 - Que es  
   - Descubrimiento  
   - Características  
-    - Rasgos  
-      - Circunferencia grande de cintura  
-      - Colesterol bueno o de lipoproteínas de alta densidad reducido  
-      - Glucosa sanguínea en ayunas elevada  
-      - Hipertensión arterial  
-      - Niveles elevados de triglicéridos
+    - Como identificarlo
+      - Rasgos
+        - Circunferencia grande de cintura  
+        - Colesterol bueno o de lipoproteínas de alta densidad reducido  
+        - Glucosa sanguínea en ayunas elevada  
+        - Hipertensión arterial  
+        - Niveles elevados de triglicéridos
+      - Patologías relacionadas
 
-
-
-- Prevención y Tratamiento  
+  - Relación con la alimentación
+  
+  - Prevención y Tratamiento  
   - ¿Cómo detectarlo?  
     - Origen de la enfermedad  
     - Factores adversos  
     - Influencias ambientales  
-  - Diferentes estrategias  
+
 
 
 - Resultados  

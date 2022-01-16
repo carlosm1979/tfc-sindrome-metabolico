@@ -76,22 +76,3 @@ En algunos casos pueden administrarse medicamentos para tratar el síndrome meta
 
 
 
-
-**Síntomas**
-
-* **[Cansancio. Astenia crónica](/enfermedades-tratamientos/enfermedades/astenia-cronica-fatiga)**
-* **[Dificultad respiratoria. Disnea](/enfermedades-tratamientos/enfermedades/disnea)**
-* **[Dolor](/enfermedades-tratamientos/enfermedades/dolor)**
-* **[Edemas](/enfermedades-tratamientos/enfermedades/edemas)**
-* **[Fiebre](/enfermedades-tratamientos/enfermedades/fiebre)**
-* **[Pérdida de peso](/enfermedades-tratamientos/enfermedades/perdida-peso)**
-* **[Trastornos del estado del ánimo](/enfermedades-tratamientos/enfermedades/depresion)**
-
-**Enfermedades que tratamos**
-
-* **[Síndrome metabólico](/enfermedades-tratamientos/enfermedades/sindrome-metabolico)**
-* **[Diabetes mellitus tipo 1](/enfermedades-tratamientos/enfermedades/diabetes-tipo-1)**
-* **[Diabetes mellitus tipo 2](/enfermedades-tratamientos/enfermedades/diabetes-tipo-2)**
-* **[Fibromialgia](/enfermedades-tratamientos/enfermedades/fibromialgia)**
-* **[Hiperlipemias](/enfermedades-tratamientos/enfermedades/hiperlipemias)**
-* **[Hipertensión arterial](/enfermedades-tratamientos/enfermedades/hipertension-arterial)**

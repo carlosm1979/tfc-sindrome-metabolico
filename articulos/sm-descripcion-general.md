@@ -1,9 +1,3 @@
-[https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
-
-
-**Resumen**
-
-
 # [Síndrome metabólico](/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
 
 ## Descripción general
