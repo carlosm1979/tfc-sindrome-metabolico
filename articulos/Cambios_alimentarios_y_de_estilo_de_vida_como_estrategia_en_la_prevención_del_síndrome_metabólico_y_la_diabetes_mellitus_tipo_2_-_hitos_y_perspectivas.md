@@ -432,6 +432,9 @@ Pabellón de Docencia, Recinto Hospital de Navarra, C/ Irunlarrea, 3, Pamplona, 
 
 
 ---
+### Anales Sis San Navarra vol.39 no.2 Pamplona may./ago. 2016
+
+**Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas**
 
 **NOTAS**
 
