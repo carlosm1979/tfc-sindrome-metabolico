@@ -19,12 +19,13 @@
       - Niveles elevados de triglicéridos
 
 
-- Tratamiento  
-  - Diferentes estrategias  
+
+- Prevención y Tratamiento  
   - ¿Cómo detectarlo?  
     - Origen de la enfermedad  
     - Factores adversos  
     - Influencias ambientales  
+  - Diferentes estrategias  
 
 
 - Resultados  
@@ -40,5 +41,3 @@
 
 
 - Anexos  
-
-\pagebreak
