@@ -1,4 +1,4 @@
-## Bibliografía
+# Bibliografía
 
 - [Síndrome metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
 

@@ -1,5 +1,5 @@
 # Anexos
 
 ## Nomenclaturas
-IDF: Inernational Diabetes Federation
-ATP: Adult Treatment Panel (ATP-III)
+IDF: Inernational Diabetes Federation  
+ATP: Adult Treatment Panel (ATP-III)  
