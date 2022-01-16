@@ -1,7 +1,9 @@
 Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 =========================================================================
 
-[PDF](./tfc-sindrome-metabolico.pdf) **Índice**
+[PDF](./tfc-sindrome-metabolico.pdf)
+
+**Índice**
 
 -   Objetivos\
 -   Obtener información sobre que es el S. Metabólico\
