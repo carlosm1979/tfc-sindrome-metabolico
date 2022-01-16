@@ -68,8 +68,10 @@ Objetivos
 -   Estudiar la importancia de la alimentación en su aparición\
 -   Definir pautas para prevenir y controlar su desarrollo\
 -   Investigar que conocimiento tiene la población acerca de este
-    síndrome\
-    \# Parte teórica
+    síndrome
+
+Parte teórica
+=============
 
 Material y métodos
 ==================
@@ -113,7 +115,9 @@ Bibliografía
     prevención del síndrome metabólico y la diabetes mellitus tipo 2:
     hitos y
     perspectivas](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009)
-    \# Anexos
+
+Anexos
+======
 
 Nomenclaturas
 -------------
