@@ -23,12 +23,13 @@ Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
     -   Glucosa sanguínea en ayunas elevada\
     -   Hipertensión arterial\
     -   Niveles elevados de triglicéridos
--   Tratamiento\
--   Diferentes estrategias\
+-   Prevención y Tratamiento\
 -   ¿Cómo detectarlo?
     -   Origen de la enfermedad\
     -   Factores adversos\
-    -   Influencias ambientales
+    -   Influencias ambientales\
+-   Diferentes estrategias
+
 -   Resultados
 
 -   Discusión
