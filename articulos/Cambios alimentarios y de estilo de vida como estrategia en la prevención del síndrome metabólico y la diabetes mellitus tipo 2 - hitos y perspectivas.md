@@ -82,7 +82,7 @@ También los indicadores psicológicos mostraron una mejoría significativa.
 
 Newcastle (Reino Unido)
 
-n grupo control sin intervención, y otro grupo que recibió asesoramiento sobre cambios de estilo de vida, durante un periodo de 2 años.
+un grupo control sin intervención, y otro grupo que recibió asesoramiento sobre cambios de estilo de vida, durante un periodo de 2 años.
 
 reducción significativa en el consumo total de grasas y del peso corporal a los 6 meses (-1,6 kg) y a los 2 años de seguimiento (-3,3 kg). También se evidenció un aumento de la sensibilidad de la insulina al cabo de 1 año de seguimiento (0,52g/min).
 
@@ -117,6 +117,44 @@ Los seis meses posteriores se llevó a cabo un seguimiento sin ningún tipo de i
  los participantes que siguieron las instrucciones de alimentación moderadamente alta en proteínas y con índice glucémico bajo, fueron los que mejor mantuvieron el peso perdido
 
 
+
+Otros estudios y programas en marcha
+---
+
+
+- **Estudio PREVIEW (Prevention of diabetes through lifestyle Intervention and population studies in Europe and around the World)**
+
+Intervención nutricional donde se compararán:
+- dietas con mayor o menor contenido en proteína, 
+- mayor o menor índice glucémico
+  
+y combinación con dos niveles distintos de actividad física:
+- moderado
+- alto
+  
+Además de realizar un seguimiento durante un periodo de 3 años en personas prediabéticas con sobrepeso y obesidad.
+
+Un total de 2.500 participantes (200 niños y adolescentes entre 10 y 18 años, 800 adultos jóvenes entre 25 y 44 años, y 1.500 adultos mayores, entre 55 y 70 años) han sido reclutados para el estudio.
+
+Las dos intervenciones dietéticas son:
+
+1. MP = Moderada en proteína: consumo de proteína normal (comparado con las recomendaciones nacionales), y consumo de hidratos de carbono de absorción moderada (índice glucémico -IG- moderado).
+
+2. HP = Alta en proteína: consumo de proteína mayor, hidratos de carbono normal o levemente disminuidos, con énfasis en hidratos de carbono de absorción lenta (IG bajo).
+
+Las dos intervenciones de ejercicio son:
+
+1. IM = Intensidad moderada: 150 minutos semanales, como andar rápido (ejercicio sin sudar o resoplar de forma evidente)
+
+2. AI = Alta intensidad: 75 minutos semanales, como correr (ejercicio que le hace sudar y resoplar al menos un poco).
+
+Los participantes reciben instrucciones sobre cómo elaborar la dieta. El material también incluye un libro de cocina diseñado exclusivamente para PREVIEW, con recetas específicas para cada tipo de dieta.
+
+Los participantes deben estar animados, motivados y tener disposición al cambio de hábitos
+
+El personal de PREVIEW les guiará en el camino con las técnicas más efectivas de modificación de conducta
+
+El número total de combinaciones (grupos de intervención) es de cuatro (MP-IM, MP-IA, HP-IM y HP-IA)
 
 
 ---
