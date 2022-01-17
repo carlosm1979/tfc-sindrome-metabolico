@@ -40,12 +40,21 @@ Indice general
 Introducción
 ============
 
+En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
+a la insulina, dislipidemia e hipertensión. Desde 1999 la OMS lo
+denomiana 'síndrome metabólico'.
+
 Historia
 --------
 
-En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
-a la insulina, dislipidemia e hipertensión. Desde 1999 la OMS lo
-denomiana 'síndrome metabólico'
+Diversas instituciones han establecido criterios bsucando una definición
+y modo de diagnosticarlo.
+
+Desde el punto de vista operativo, es el conjunto de alteraciones
+metabólicas y vasculares que parten de la obesidad abdominal y la
+resistencia insulina, fenómenos que a través de procesos inflamatorios,
+oxidativos y de disfunción endotelial, predisponen a un mayor riesgo de
+diabetes y eventos cardiovasculares.
 
 Qué es
 ------
