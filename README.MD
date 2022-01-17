@@ -5,13 +5,13 @@ Indice general
 ==============
 
 -   Introduccion
+-   Descubrimiento
 
 -   Objetivos
 
 -   Parte teorica
 
 -   Que es
-    -   Descubrimiento\
     -   Características\
     -   Como identificarlo
         -   Rasgos
@@ -21,47 +21,52 @@ Indice general
         -   Glucosa sanguínea en ayunas elevada\
         -   Hipertensión arterial\
         -   Niveles elevados de triglicéridos
-        -   Patologías relacionadas
-    -   Relación con la alimentación
+    -   Patologías relacionadas
 
-    -   Prevención y Tratamiento\
-    -   ¿Cómo detectarlo?\
-    -   Origen de la enfermedad\
-    -   Factores adversos\
-    -   Influencias ambientales
+    -   Relación con la alimentación
+    -   Hábitos de vida\
+    -   Prevención y Tratamiento
+
+    -   Por grupos de población
+    -   niños
+    -   adultos
+    -   mujer
+        -   menopausia
+    -   tercera edad
 
 -   Material y metodos
 -   Resultados
 -   Discusion
 -   Conclusion
 -   Bibliografia
--   
 
 Introducción
 ============
 
 En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
-a la insulina, dislipidemia e hipertensión. Desde 1999 la OMS lo
-denomiana 'síndrome metabólico'.
-
-Historia
---------
+a la insulina, dislipidemia e hipertensión, que 1999 la OMS denomiana
+'síndrome metabólico'.
 
 Diversas instituciones han establecido criterios buscando definir la
 lista de factores que lo componen, siendo los aceptados de forma común:
 obesidad abdominal, dislipidemia aterogénica, aumento de la presión
 arterial, resistencia insulina, estado proinflamatorio y estado
-protrombótico.
+protrombótico. Aunque no se ha llegado a un acuerdo sobre todos los
+factores y varemos que pudieran determinar el diagnóstico del SM com
+tal.
 
-Finalmente se ha buscado un enfoque en el que, en vez de pretender
+Finalmente se ha visto que el enfoque adecuado, en vez de pretender
 realizar un diagnóstico de SM que cumpla una lista cerrada de criterios,
-ayude a detectar los factores de riesgo que pueden desembocar en
-diabetes y enfermedades cardiovasculares. Así, desde el punto de vista
-operativo, SM es el conjunto de alteraciones metabólicas y vasculares
-que parten de la obesidad abdominal y la resistencia insulina, fenómenos
-que a través de procesos inflamatorios, oxidativos y de disfunción
-endotelial, predisponen a un mayor riesgo de diabetes y eventos
-cardiovasculares.
+sea una guía que ayude a detectar los factores de riesgo que pueden
+desembocar en diabetes y enfermedades cardiovasculares. De esta manera
+resulta una mejor herramienta clínica para la prevención y detección del
+riesgo de esas enfermedades.
+
+Así, desde el punto de vista operativo, SM es el conjunto de
+alteraciones metabólicas y vasculares que parten de la obesidad
+abdominal y la resistencia insulina, fenómenos que a través de procesos
+inflamatorios, oxidativos y de disfunción endotelial, predisponen a un
+mayor riesgo de diabetes y eventos cardiovasculares.
 
 Qué es
 ------
@@ -147,7 +152,21 @@ Bibliografía
 
 -   Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
     Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages 931–938,
-    https://doi.org/10.1373/clinchem.2005.048611 \# Anexos
+    https://doi.org/10.1373/clinchem.2005.048611
+
+-   [Proteina C reactiva ultrasensible como marcador de estado
+    proinflamatorio en pacientes con síndrome
+    metabólico](http://dspace.utalca.cl/handle/1950/4714) \# Anexos
+
+Vocabulario
+-----------
+
+dislipidemia aterogénica: elevación de triglicéridos y/o descenso de
+cHDL\
+estado proinflamatorio: aumento de la proteína c reactiva. Un estado
+proinflamatorio se caracteriza por un elevado número de citoquinas
+inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
+de plasminógeno 1 y fibrinógeno.
 
 Abreviaturas
 ------------
