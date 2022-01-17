@@ -1,9 +1,9 @@
 **térmimos sobre los que buscar información**
+
 ---
 
-Rasgos apetitivos como vías conductuales en la susceptibilidad genética a la obesidad: un estudio transversal de base poblacional
+SM Por grupos de edad
 
-https://www.nature.com/articles/srep14726
 ---
 
 https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico

@@ -62,7 +62,17 @@ En junio de 2004 la federación Internacional de diabetes realizó un taller a f
 - estado protrombótico: aumento del inhibidor de plasminógeno 1 y fibrinógeno.  
 
 
-la asociación Americana de diabetes y la asociación Europea para el estudio de la diabetes se reunieron y llegaron a la conclusión de que los criterios del síndrome metabólico son ambiguos o incompletos, que la razón para los valores de corte no está bien definida, qué es cuestionable el valor de incluir a la diabetes mellitus y es incierto si la resistencia a la insulina es el criterio que unifica; dictaminaron que un valor de riesgo de enfermedad cardiovascular es variable y dependiente de los factores específicos existentes, así que no hay bases claras por incluir o excluir ciertos criterios; finalizaron determinando que el riesgo de enfermedad cardiovascular asociado con síndrome metabólico, aparentemente, es mayor que la suma de sus partes y que el tratamiento no difiere del de cada uno de sus componentes, por lo que no está claro el valor médico de diagnosticar síndrome metabólico y. por ende coma en un artículo conjunto declararon que: uno se debe evitar etiquetar los pacientes con el término síndrome metabólico. Dos los adultos con cualquier factor de riesgo mayor de enfermedad cardiovascular deben ser evaluados para la existencia de otro factor de riesgo de enfermedad cardiovascular. 3 todos los factores de riesgo de enfermedad cardiovascular deben ser tratados individual y agresivamente.
+### asociación Americana de diabetes y la asociación Europea para el estudio de la diabetes
+
+se reunieron y llegaron a la conclusión de que los criterios del síndrome metabólico son ambiguos o incompletos, que la razón para los valores de corte no está bien definida, qué es cuestionable el valor de incluir a la diabetes mellitus y es incierto si la resistencia a la insulina es el criterio que unifica;
+
+dictaminaron que un valor de riesgo de enfermedad cardiovascular es variable y dependiente de los factores específicos existentes, así que no hay bases claras por incluir o excluir ciertos criterios; 
+
+finalizaron determinando que el riesgo de enfermedad cardiovascular asociado con síndrome metabólico, aparentemente, es mayor que la suma de sus partes y que el tratamiento no difiere del de cada uno de sus componentes, por lo que no está claro el valor médico de diagnosticar síndrome metabólico y. por ende, en un artículo conjunto declararon que:
+- se debe evitar etiquetar los pacientes con el término síndrome metabólico.
+- los adultos con cualquier factor de riesgo mayor de enfermedad cardiovascular deben ser evaluados para la existencia de otro factor de riesgo de enfermedad cardiovascular.
+- todos los factores de riesgo de enfermedad cardiovascular deben ser tratados individual y agresivamente.
+
 De lograr estás metas, opinan, ya no habría necesidad de hacer el diagnóstico de síndrome metabólico.
 
 
