@@ -20,3 +20,5 @@
 - [Síndrome metabólico - Diagnostico](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
 
 - [Síndrome metabolico - Descripción General](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
+
+- Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace, Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages 931–938, https://doi.org/10.1373/clinchem.2005.048611
