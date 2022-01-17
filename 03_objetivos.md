@@ -1,6 +1,17 @@
 # Objetivos
 
+```
 - Obtener información sobre que es el S. Metabólico  
 - Estudiar la importancia de la alimentación en su aparición  
 - Definir pautas para prevenir y controlar su desarrollo  
 - Investigar que conocimiento tiene la población acerca de este síndrome  
+```
+
+Este proyecto busca hacer una recopilación de la información que se tiene actualmente acerca del SM. Enfocándose en los aspectos relacionados con la alimentación que afectan en las diversas enfermedades que lo componen.
+
+También definir tratamientos y hábitos de vida que ayudarían a tratarlo y prevenirlo.
+
+Finalmente se busca determinar el conocimiento que tiene la población acerca del SM, y de como los hábitos de vida y de alimentación afectan a la aparición de la alteraciones de salud que lo componen.
+
+
+
