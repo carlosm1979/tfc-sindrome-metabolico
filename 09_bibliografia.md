@@ -22,3 +22,7 @@
 - [Síndrome metabolico - Descripción General](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
 
 - Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace, Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages 931–938, https://doi.org/10.1373/clinchem.2005.048611
+
+
+
+- [Proteina C reactiva ultrasensible como marcador de estado proinflamatorio en pacientes con síndrome metabólico](http://dspace.utalca.cl/handle/1950/4714)
