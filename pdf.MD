@@ -135,12 +135,6 @@ Bibliografía
     (4):
     146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
 
--   [síndrome metabólico - perspectiva
-    general](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
-
--   [La falta de sueño puede disminuir el colesterol
-    «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
-
 -   [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
     Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages
     931–938](https://doi.org/10.1373/clinchem.2005.048611)
@@ -148,11 +142,17 @@ Bibliografía
 -   [Proteina C reactiva ultrasensible como marcador de estado
     proinflamatorio en pacientes con síndrome
     metabólico](http://dspace.utalca.cl/handle/1950/4714)
+    http://dspace.utalca.cl/handle/1950/4714
 
 -   [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
-    del área de salud de A Coruña -
-    https://ruc.udc.es/dspace/handle/2183/16548](https://ruc.udc.es/dspace/handle/2183/16548)
+    del área de salud de A
+    Coruña](https://ruc.udc.es/dspace/handle/2183/16548)
+    https://ruc.udc.es/dspace/handle/2183/16548
+
+-   [La falta de sueño puede disminuir el colesterol
+    «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
+    https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/
 
 -   [Síndrome
     metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
@@ -163,6 +163,10 @@ Bibliografía
 -   [Síndrome metabolico - Descripción
     General](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916
+
+-   [síndrome metabólico - perspectiva
+    general](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
+    https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico
 
 Anexos
 ======
