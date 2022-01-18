@@ -84,7 +84,7 @@ Historia
                                              Vague                                          1947                                       Obesidad ginoide y androide; diabetes,
                                                                                                                                        hipertensión, gota y aterosclerosis
 
-  “Trisíndrome metabólico”                   Camus                                          1966                                       Gota, diabetes e hiperlipidemia
+  Trisíndrome metabólico                     Camus                                          1966                                       Gota, diabetes e hiperlipidemia
 
   “Síndrome plurimetabólico”                 Avogaro y Crepaldi                             1967                                       Hiperlipidemia, obesidad y diabetes, y su
                                                                                                                                        asociación con hipertensión y enfermedad
