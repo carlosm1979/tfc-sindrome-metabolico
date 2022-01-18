@@ -12,20 +12,14 @@ Finalmente se ha visto que el enfoque adecuado, en vez de pretender realizar un 
 ## Historia
 
 
-| Column A | Column B | Column C |
-|----------|----------|----------|
-| A1 | B1 | C1 |
-| A2 | B2 | C2 |
-| A3 | B3 | C3 |
 
-
-| Denomina | Autor | Año | Criterios y factores de riesgo asociado |
-|----------|-------|---- |-----------------------------------------|
-|                        | Hitzenberger y Richter-Quittner | 1921 | Hipertensión y normalidades metabólicas
-|                        | Marañón | 1922 | Hipertensión y diabetes mellitus
-|                        | Kylin | 1923 | Síndrome hipertensión-hiperglucemia-hiperuricemia
-|                        | Vague | 1947 | Obesidad ginoide y androide. diabetes, hipertensión, gota y aterosclerosis
-| Trisíndrome metabólico | Camus | 1966 | Gota, diabetes e hiperlipidemia
+Denomina | Autor | Año | Criterios y factores de riesgo asociado
+---------|----------|--------- |---------
+|   | Hitzenberger y Richter-Quittner | 1921 | Hipertensión y normalidades metabólicas
+| | Marañón | 1922 | Hipertensión y diabetes mellitus
+| | Kylin | 1923 | Síndrome hipertensión-hiperglucemia-hiperuricemia
+| | Vague | 1947 | Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
+| “Trisíndrome metabólico” | Camus | 1966 | Gota, diabetes e hiperlipidemia
 | “Síndrome plurimetabólico” | Avogaro y Crepaldi | 1967 | Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
 | “Síndrome de opulencia | Mehnert y Kuhlmann | 1968 | Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países desarrollado
 | “Síndrome Metabólico” | Hanefeld y Leonhardt | 1981 | Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis
@@ -37,6 +31,10 @@ Finalmente se ha visto que el enfoque adecuado, en vez de pretender realizar un 
 | | National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII) | 2005 | Disminuyó las cifras de tensión mínimas,que en 2001 eran ≥ 135/85 mmHg, a 130/85 mmHg o cifras normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser ≥ 100 mg/dL
 | “Síndrome metabólico” |  International Diabetes Federation (IDF) | 2005 | Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia, hipertrigliceridemia e hipertensión
 | | International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International Association for the Study of Obesity | 2009 | Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
+
+
+
+
 
 
 
