@@ -24,7 +24,7 @@ Denomina | Autor | Año | Criterios y factores de riesgo asociado
 |                        | Hitzenberger y Richter-Quittner | 1921 | Hipertensión y normalidades metabólicas
 |                        | Marañón | 1922 | Hipertensión y diabetes mellitus
 |                        | Kylin | 1923 | Síndrome hipertensión-hiperglucemia-hiperuricemia
-|                        | Vague | 1947 | Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
+|                        | Vague | 1947 | Obesidad ginoide y androide. diabetes, hipertensión, gota y aterosclerosis
 | Trisíndrome metabólico | Camus | 1966 | Gota, diabetes e hiperlipidemia
 | “Síndrome plurimetabólico” | Avogaro y Crepaldi | 1967 | Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
 | “Síndrome de opulencia | Mehnert y Kuhlmann | 1968 | Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países desarrollado
