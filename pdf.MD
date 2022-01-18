@@ -155,16 +155,14 @@ Bibliografía
 -   [Síndrome
     metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
 
--   [síndrome metabólico - Perspectiva
-    general](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
-    https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico
+-   [síndrome metabólico - Perspectiva general |
+    https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
 
--   [Síndrome metabólico -
-    Diagnostico](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
+-   [Síndrome metabólico - Diagnostico |
+    https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
 
--   [Síndrome metabolico - Descripción
-    General](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
-    https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916
+-   [Síndrome metabolico - Descripción General |
+    https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
 
 Anexos
 ======
