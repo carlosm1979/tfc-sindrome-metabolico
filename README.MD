@@ -86,7 +86,7 @@ Historia
 
                                                                                        Kylin                                                               1923                                       Síndrome hipertensión-hiperglucemia-hiperuricemia
 
-                                                                                       Vague                                                               1947                                       Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
+                                                                                       Vague                                                               1947                                       Obesidad ginoide y androide. diabetes, hipertensión, gota y aterosclerosis
 
   Trisíndrome metabólico                                                               Camus                                                               1966                                       Gota, diabetes e hiperlipidemia
 
