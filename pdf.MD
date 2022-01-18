@@ -162,7 +162,10 @@ Bibliografía
 -   [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
     del área de salud de A
-    Coruña](https://ruc.udc.es/dspace/handle/2183/16548) \# Anexos
+    Coruña](https://ruc.udc.es/dspace/handle/2183/16548)
+
+Anexos
+======
 
 Vocabulario
 -----------
