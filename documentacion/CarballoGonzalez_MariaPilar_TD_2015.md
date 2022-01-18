@@ -51,24 +51,26 @@ Conviene advertir que al no valorar el IMC la composición ni la distribución d
 
 Tradicionalmente el IMC ha sido el método más utilizado para determinar la prevalencia de exceso de peso así como el nivel de riesgo en la salud de los individuos.
 
-Las medidas de la obesidad central, principalmente circunferencia de la cintura, cintura/cadera y la relación cintura /altura, describen con más exactitud la
-distribución de la grasa corporal en comparación con el IMC sugiriéndose que están más estrechamente asociados con la morbilidad y mortalidad.
+Las medidas de la obesidad central, principalmente circunferencia de la cintura, cintura/cadera y la relación cintura /altura, describen con más exactitud la distribución de la grasa corporal en comparación con el IMC sugiriéndose que están más estrechamente asociados con la morbilidad y mortalidad.
 
 La obesidad abdominal o visceral evaluada por la circunferencia de cintura o por la relación cintura/cadera, está relacionada con un aumento de riesgo de odas las causas de mortalidad en todo el rango del IMC.
 
 En un estudio realizado en una consulta de endocrinología y nutrición unos valores de índice de cintura/altura de 0,54 tenían una probabilidad del 20% en el pronóstico de concurrencia de síndrome metabólico y hasta del 40% si las cifras del índice de cintura/altura eran de 0,65, para ambos sexos.
-Los autores concluyen afirmando que el índice cintura/altura debería incluirse entre los valores antropométricos en la exploración física, aunque señalan asimismo que habría que establecer los valores con mayor nivel de sensibilidad y especificidad para poder predecir la aparición de síndrome metabólico en la población
+
+Los autores concluyen afirmando que el índice cintura/altura debería incluirse entre los valores antropométricos en la exploración física, aunque señalan asimismo que habría que establecer los valores con mayor nivel de sensibilidad y especificidad para poder predecir la aparición de síndrome metabólico en la población.
 
 ## 2.3. Obesidad en personas mayores de edad
 
 Hay resultados que nos muestran que una alta cantidad de grasa corporal es un predictor independiente de la discapacidad relacionada con la movilidad en los hombres y las mujeres de más edad. Estos hallazgos sugieren que la alta cantidad de grasa corporal en la edad avanzada se debe evitar para reducir el riesgo de discapacidad.
 
 El peso corporal asociado con la supervivencia máxima crece con el aumento de edad. Y describen en la senectud la “paradoja de la obesidad”, ya que en esta etapa de la vida el sobrepeso se asocia con un mayor riesgo de enfermedad cardiovascular, pero disminuye la mortalidad por dichas patologías.
+
 Por lo tanto aunque la pérdida de peso intencionada por las personas mayores obesas es probablemente segura y beneficiosa, en el caso de presentar comorbilidades relacionadas con la obesidad, se debe tener precaución a la hora de recomendar la pérdida de peso, sobre la base únicamente del valor del peso corporal.
 
 En mayores, así como en los adultos más jóvenes, la pérdida voluntaria de peso puede ayudar a prevenir las consecuencias adversas para la salud de la obesidad.
 
 Hay pacientes en los que el IMC efectuará una valoración inexacta de la adiposidad.
+
 Las personas corpulentas y/o con mucha masa muscular (deportistas) pueden clasificarse incorrectamente como obesas, pero en el otro extremo las personas con pérdida de masa muscular pero con gran cantidad de tejido adiposo podrían clasificarse como bien nutridas sin estarlo, ello ocurre en las personas obesas de edad avanzada.
 
 ### 2.3.1. Medidas antropométricas en las personas mayores
@@ -87,9 +89,9 @@ La sarcopenia (del griego sarx, carne, y penia, pobreza) es la pérdida de masa 
 
 Contribuye en gran medida a la discapacidad y la pérdida de independencia del anciano. Por ello se infiere que la sarcopenia está directamente relacionada con la fragilidad en estos pacientes, a la vez que tiene implicaciones etiopatogénicas en la obesidad y en la resistencia a la insulina.
 
-Comprueban que con el incremento de la prevalencia de la obesidad en la persona mayor se incrementa también la sarcopenia observada en estos pacientes:
-- Con el aumento de peso, el mayor reducirá la actividad física, lo que provocará a su vez una pérdida de masa muscular con la consecuente disminución del tejido diana para la insulina, que origina una situación de síndrome metabólico en los pacientes de edad.  
-- El incremento de tejido adiposo estimula la producción de moléculas bioactivas: factor de necrosis tumoral alfa (TNF-α), de Interleucina 6 (IL-6) y otras adipocinas que promueven la resistencia a la insulina. Estas presentan un potencial efecto catabólico en el músculo, acelerando los cambios en la composición corporal típicos del proceso del envejecimiento.
+Comprueban que con el incremento de la prevalencia de la obesidad en la persona mayor se incrementa también la sarcopenia observada en estos pacientes:  
+- Con el aumento de peso, el mayor reducirá la actividad física, lo que provocará a su vez una pérdida de masa muscular con la consecuente disminución del tejido diana para la insulina, que origina una situación de síndrome metabólico en los pacientes de edad.    
+- El incremento de tejido adiposo estimula la producción de moléculas bioactivas: factor de necrosis tumoral alfa (TNF-α), de Interleucina 6 (IL-6) y otras adipocinas que promueven la resistencia a la insulina. Estas presentan un potencial efecto catabólico en el músculo, acelerando los cambios en la composición corporal típicos del proceso del envejecimiento.  
 
 La masa magra disminuye con la edad en las personas mayores. Este hecho ocurre por la pérdida de la masa muscular esquelética, aunque también debido la disminución del número y tamaño de las fibras musculares, lo cual va a contribuir a la pérdida de fuerza y a la disminución de actividad física.
 
@@ -103,7 +105,9 @@ El aumento de peso en estos pacientes, de producirse, será a expensas de la mas
 La sarcopenia y la obesidad podrían actuar sinérgicamente en alteraciones metabólicas y funcionales en los ancianos. La sarcopenia puede contribuir a la discapacidad física y los trastornos metabólicos en adultos mayores con diabetes.
 
 Los estudios han mostrado una mejora en los factores de riesgo después de la pérdida de peso en los ancianos con obesidad.
+
 El reciente énfasis en los factores proinflamatorios relacionados con la adiposidad sugiere que la pérdida de grasa podría mejorar algunas condiciones catabólicas del envejecimiento, ya que algunas citocinas pueden impactar directamente sobre la síntesis de proteínas musculares y provocar su descomposición.
+
 La reducción de peso simplemente, también puede aliviar la carga mecánica sobre las articulaciones débiles y los músculos mejorando así la movilidad de estas personas. 
 
 Sin embargo, mientras no se pruebe una estrategia que permita prevenir pérdida de masa muscular, se debe de evitar promover la pérdida de peso mediante la restricción calórica, en los individuos con obesidad sarcopénica.
@@ -137,9 +141,11 @@ El proceso de envejecimiento se asocia principalmente con cifras alteradas en la
 - Aumento del estrés oxidativo.  
 
 La circunferencia de cintura es un índice aproximado de la masa grasa intrabdominal y de la grasa corporal total.
-La grasa intraabdominal y la obesidad per se se asocian con intolerancia a la glucosa y con resistencia a la insulina
+
+La grasa intraabdominal y la obesidad per se se asocian con intolerancia a la glucosa y con resistencia a la insulina.
+
 Ambas alteraciones son factores de riesgo para el desarrollo de la diabetes mellitus tipo 2.
 De esta forma la obesidad sobre todo la de larga duración y de tipo visceral van a ser pilares de la patogénesis de la diabetes tipo 2.
-A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer sarcopenia; por lo que estas características pueden contribuir a la discapacidad física y a los trastornos metabólicos en adultos mayores con diabetes.
 
+A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer sarcopenia; por lo que estas características pueden contribuir a la discapacidad física y a los trastornos metabólicos en adultos mayores con diabetes.
 
