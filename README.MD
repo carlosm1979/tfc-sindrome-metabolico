@@ -74,14 +74,14 @@ Historia
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Denomina                                   Autor                                          Año                                        Criterios y factores de riesgo asociado
   ------------------------------------------ ---------------------------------------------- ------------------------------------------ ------------------------------------------
-  \_                                         Hitzenberger y Richter-Quittner                1921                                       Hipertensión y normalidades metabólicas
+  .                                          Hitzenberger y Richter-Quittner                1921                                       Hipertensión y normalidades metabólicas
 
-  \_                                         Marañón                                        1922                                       Hipertensión y diabetes mellitus
+  .                                          Marañón                                        1922                                       Hipertensión y diabetes mellitus
 
-  \_                                         Kylin                                          1923                                       Síndrome
+  .                                          Kylin                                          1923                                       Síndrome
                                                                                                                                        hipertensión-hiperglucemia-hiperuricemia
 
-  \_                                         Vague                                          1947                                       Obesidad ginoide y androide; diabetes,
+  .                                          Vague                                          1947                                       Obesidad ginoide y androide; diabetes,
                                                                                                                                        hipertensión, gota y aterosclerosis
 
   Trisíndrome metabólico                     Camus                                          1966                                       Gota, diabetes e hiperlipidemia
