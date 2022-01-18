@@ -175,3 +175,4 @@ Denomina | Autor | Año | Criterios y factores de riesgo asociado
 | | International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International Association for the Study of Obesity | 2009 | Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
 
 
+## 3.2. Concepto y prevalencia
