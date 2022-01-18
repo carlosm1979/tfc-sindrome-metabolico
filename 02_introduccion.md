@@ -20,7 +20,7 @@ Column A | Column B | Column C
 
 
 | Denomina | Autor | Año | Criterios y factores de riesgo asociado |
-|--------|-------|---- |-------------------------------------------|
+|----------|-------|---- |-----------------------------------------|
 |                        | Hitzenberger y Richter-Quittner | 1921 | Hipertensión y normalidades metabólicas
 |                        | Marañón | 1922 | Hipertensión y diabetes mellitus
 |                        | Kylin | 1923 | Síndrome hipertensión-hiperglucemia-hiperuricemia
