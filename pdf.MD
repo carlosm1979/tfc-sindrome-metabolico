@@ -69,6 +69,9 @@ abdominal y la resistencia insulina, fenómenos que a través de procesos
 inflamatorios, oxidativos y de disfunción endotelial, predisponen a un
 mayor riesgo de diabetes y eventos cardiovasculares.
 
+![Tabla
+2](articulos/El_sindrome_metabolico_Requiescat_in_Pace_tabla2.png)
+
 Historia
 --------
 
