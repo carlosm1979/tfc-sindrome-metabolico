@@ -7,9 +7,8 @@ Indice general
 ==============
 
 -   Introduccion\
--   Descubrimiento
--   Objetivos
-
+-   Descubrimiento\
+-   Objetivos\
 -   Parte teórica
 -   Que es
 -   Factores de riesgo
