@@ -11,7 +11,7 @@ Indice general
 
 -   Objetivos
 
--   Parte teórica\
+-   Parte teórica
 -   Que es
 -   Factores de riesgo
     -   Circunferencia grande de cintura
@@ -27,7 +27,7 @@ Indice general
     -   SM en la infancia
     -   SM en adultos
     -   SM en la mujer
-    -   menopausia
+    -   Menopausia
     -   SN en la tercera edad
 -   Material y métodos
 -   Resultados
