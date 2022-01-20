@@ -24,6 +24,7 @@ Como regla general, los hábitos alimentarios deben basarse en:
 - disminuir el consumo de azúcares sencillos
 - aumentar el consumo de pescado, especialmente el de pescado azul
 - incrementar la ingesta de frutas, verduras y cereales integrales
+
 ### Hábitos de vida    
 
 Favorecen el desarrollo del SM otros factores:
