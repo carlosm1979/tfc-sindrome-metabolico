@@ -7,9 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "pandoc -s 01.1.titulo.md 01.2.indice_general.md 01.3_indice_tablas.md 02_introduccion.md 03_objetivos.md 04_parte_teorica.md 05_material_y_metodos.md 06_resultados.md 07_discusion.md 08_conclusion.md 09_bibliografia.md 10_anexos.md -o README.MD",
+    "build": "pandoc -s secciones/*.md -o README.MD",
     "to-docx": "pandoc -s README.MD -o tfc-sindrome-metabolico.docx",
-    "to-pdf": "pandoc pb.md 01.2.indice_general.md 01.3_indice_tablas.md pb.md 02_introduccion.md 03_objetivos.md 04_parte_teorica.md 05_material_y_metodos.md 06_resultados.md 07_discusion.md 08_conclusion.md 09_bibliografia.md 10_anexos.md -o pdf.MD && pandoc -V fontsize=12pt -V geometry:margin=0.590551in -V title='Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia' -V author='Beatriz Carro Otero' --data-dir=./templates pdf.MD -o tfc-sindrome-metabolico.pdf",
+    "to-pdf": "pandoc secciones/*.md -o pdf.MD && pandoc -V fontsize=12pt -V geometry:margin=0.590551in -V title='Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia' -V author='Beatriz Carro Otero' --data-dir=./templates pdf.MD -o tfc-sindrome-metabolico.pdf",
     "publish": "npm run build && npm run to-pdf && git add . && git commit -m $(date \"+%d-%m-%Y\") && git push"
   },
   "repository": {

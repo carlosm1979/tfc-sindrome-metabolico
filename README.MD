@@ -1,3 +1,5 @@
+\pagebreak
+
 Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
 =========================================================================
 
@@ -39,6 +41,8 @@ Indice general
 -   Discusion
 -   Conclusion
 -   Bibliografia
+
+\pagebreak
 
 Introducción
 ============
