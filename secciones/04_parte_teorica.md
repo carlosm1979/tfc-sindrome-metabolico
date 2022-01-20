@@ -2,6 +2,7 @@
 ## Que es
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan al mismo tiempo cuya presencia aumentan el riesgo de enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
+
 ## Como identificarlo
 
 ### Factores de riesgo
