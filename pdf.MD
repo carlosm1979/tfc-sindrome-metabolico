@@ -7,7 +7,7 @@ Indice general
 ==============
 
 -   Introduccion
--   Descubrimiento
+    -   Descubrimiento
 -   Objetivos
 -   Parte teórica
 -   Que es
