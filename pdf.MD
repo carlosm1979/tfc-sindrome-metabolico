@@ -136,10 +136,10 @@ Como regla general, los hábitos alimentarios deben basarse en:
 
 Favorecen el desarrollo del SM otros factores:
 
--   **sedentarismo**\
+-   **sedentarismo** Prueba
 -   **un elevado consumo calórico a través de bebidas azucaradas y
-    alimentos ricos en grasa saturada**\
--   **disminución en el consumo de fibra**\
+    alimentos ricos en grasa saturada**
+-   **disminución en el consumo de fibra**
 -   **el tabaquismo**
 
 La actividad física es parte fundamental tanto del tratamiento de los
