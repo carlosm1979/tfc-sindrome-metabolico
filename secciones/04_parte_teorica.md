@@ -37,9 +37,9 @@ Favorecen el desarrollo del SM otros factores:
 
 La actividad física es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población.
 
-**Aparcando actividades sedentarias como la televisión o los videojuegos**  
-**Actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo**  
-**Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos**  
+- **Aparcando actividades sedentarias como la televisión o los videojuegos**  
+- **Actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo**  
+- **Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos**  
 
 ### Prevención y Tratamiento  
 
