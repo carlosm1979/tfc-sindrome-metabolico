@@ -6,13 +6,13 @@ Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan a
     - Características  
 ## Como identificarlo
 
-        - Factores de riesgo
-          - Circunferencia grande de cintura  
-          - Colesterol bueno o de lipoproteínas de alta densidad reducido  
-          - Glucosa sanguínea en ayunas elevada  
-          - Hipertensión arterial  
-          - Niveles elevados de triglicéridos
-      - Patologías relacionadas
+### Factores de riesgo
+#### Circunferencia grande de cintura  
+#### Colesterol bueno o de lipoproteínas de alta densidad reducido  
+#### Glucosa sanguínea en ayunas elevada  
+#### Hipertensión arterial  
+#### Niveles elevados de triglicéridos
+### Patologías relacionadas
 
     - Relación con la alimentación
     - Hábitos de vida    
