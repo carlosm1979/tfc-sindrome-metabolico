@@ -6,7 +6,7 @@ Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan a
 ## Como identificarlo
 
 ### Factores de riesgo
-#### Circunferencia grande de cintura  
+    #### Circunferencia grande de cintura  
 #### Colesterol bueno o de lipoproteínas de alta densidad reducido  
 #### Glucosa sanguínea en ayunas elevada  
 #### Hipertensión arterial  

@@ -102,7 +102,7 @@ Como identificarlo
 
 ### Factores de riesgo
 
-#### Circunferencia grande de cintura
+    #### Circunferencia grande de cintura  
 
 #### Colesterol bueno o de lipoproteínas de alta densidad reducido
 
