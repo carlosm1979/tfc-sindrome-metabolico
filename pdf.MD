@@ -14,17 +14,15 @@ Indice general
 -   Parte teórica\
 -   Que es
 -   Factores de riesgo
-    -   Circunferencia grande de cintura\
-    -   Colesterol bueno o de lipoproteínas de alta densidad reducido\
-    -   Glucosa sanguínea en ayunas elevada\
-    -   Hipertensión arterial\
+    -   Circunferencia grande de cintura
+    -   Colesterol bueno o de lipoproteínas de alta densidad reducido
+    -   Glucosa sanguínea en ayunas elevada
+    -   Hipertensión arterial
     -   Niveles elevados de triglicéridos
 -   Patologías relacionadas
-
 -   Relación con la alimentación
--   Hábitos de vida\
--   Prevención y Tratamiento
-
+-   Hábitos de vida
+-   Prevención y Tratamiento\
 -   Por grupos de población
     -   SM en la infancia
     -   SM en adultos
