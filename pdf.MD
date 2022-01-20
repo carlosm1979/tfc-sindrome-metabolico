@@ -102,15 +102,11 @@ Como identificarlo
 
 ### Factores de riesgo
 
-    - **Circunferencia grande de cintura**
-
-#### Colesterol bueno o de lipoproteínas de alta densidad reducido
-
-#### Glucosa sanguínea en ayunas elevada
-
-#### Hipertensión arterial
-
-#### Niveles elevados de triglicéridos
+-   **Circunferencia grande de cintura**
+-   **Colesterol bueno o de lipoproteínas de alta densidad reducido**\
+-   **Glucosa sanguínea en ayunas elevada**\
+-   **Hipertensión arterial**\
+-   **Niveles elevados de triglicéridos**
 
 ### Relación con la alimentación
 
@@ -128,12 +124,12 @@ tipo 2.
 
 Como regla general, los hábitos alimentarios deben basarse en:
 
--   una alimentación con un bajo contenido en grasa saturada, grasa
-    trans y colesterol,
--   el aceite de oliva el principal aporte de grasa en la dieta
--   disminuir el consumo de azúcares sencillos
--   aumentar el consumo de pescado, especialmente el de pescado azul
--   incrementar la ingesta de frutas, verduras y cereales integrales
+-   **una alimentación con un bajo contenido en grasa saturada, grasa
+    trans y colesterol**
+-   **el aceite de oliva el principal aporte de grasa en la dieta**
+-   **disminuir el consumo de azúcares sencillos**
+-   **aumentar el consumo de pescado, especialmente el de pescado azul**
+-   **incrementar la ingesta de frutas, verduras y cereales integrales**
 
 ### Hábitos de vida
 
