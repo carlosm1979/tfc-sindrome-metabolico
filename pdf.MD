@@ -25,7 +25,7 @@ Indice general
     -   SM en la infancia
     -   SM en adultos
     -   SM en la mujer
-    -   Menopausia
+        -   Menopausia
     -   SN en la tercera edad
 -   Material y métodos
 -   Resultados
