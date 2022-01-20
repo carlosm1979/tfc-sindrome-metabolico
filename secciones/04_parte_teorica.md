@@ -1,11 +1,7 @@
 # Parte teórica
-
-
-
-
 ## Que es
 
-Es un conjunto de factores de riesgo reconocidos cuya presencia está relacionada con la resistencia  a la insulina. Y sirve como herramienta de diagnóstico para identificar a personas con riesgo de ECV.
+Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan al mismo tiempo cuya presencia aumentan el riesgo de enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
 
     - Características  
 ## Como identificarlo

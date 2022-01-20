@@ -1,7 +1,7 @@
 \pagebreak
 
-Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia
-=========================================================================
+Sindrome metabólico
+===================
 
 Indice general
 ==============
@@ -11,7 +11,7 @@ Indice general
 
 -   Objetivos
 
--   Parte teorica\
+-   Parte teórica\
 -   Que es
     -   Factores de riesgo
     -   Circunferencia grande de cintura\
@@ -26,16 +26,16 @@ Indice general
     -   Prevención y Tratamiento
 
 -   Por grupos de población
-    -   SM en la infrancia
+    -   SM en la infancia
     -   SM en adultos
     -   SM en la mujer
     -   menopausia
     -   SN en la tercera edad
--   Material y metodos
+-   Material y métodos
 -   Resultados
--   Discusion
--   Conclusion
--   Bibliografia
+-   Discusión
+-   Conclusión
+-   Bibliografía
 
 \pagebreak
 
@@ -70,17 +70,6 @@ mayor riesgo de diabetes y eventos cardiovasculares.
 Historia
 --------
 
-Qué es
-------
-
-El síndrome metabólico es un grupo de trastornos que se presentan al
-mismo tiempo y aumentan el riesgo de enfermedad cardíaca, accidente
-cerebrovascular y diabetes tipo 2. Estos trastornos incluyen:\
-- aumento de la presión arterial\
-- niveles altos de azúcar en sangre\
-- exceso de grasa corporal alrededor de la cintura\
-- niveles anormales de colesterol o triglicéridos
-
 Objetivos
 =========
 
@@ -107,9 +96,9 @@ Parte teórica
 Que es
 ------
 
-Es un conjunto de factores de riesgo reconocidos cuya presencia está
-relacionada con la resistencia a la insulina. Y sirve como herramienta
-de diagnóstico para identificar a personas con riesgo de ECV.
+Es un conjunto de trastornos y factores de riesgo reconocidos que se
+presentan al mismo tiempo cuya presencia aumentan el riesgo de
+enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
 
     - Características  
 
