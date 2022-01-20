@@ -22,7 +22,7 @@ Indice general
 -   Patologías relacionadas
 -   Relación con la alimentación
 -   Hábitos de vida
--   Prevención y Tratamiento\
+-   Prevención y Tratamiento
 -   Por grupos de población
     -   SM en la infancia
     -   SM en adultos
