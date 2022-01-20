@@ -24,3 +24,14 @@
 - [Síndrome metabolico - Descripción General | https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
 
 
+- [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o realidad?. An. Fac. med. [online]. 2020, vol.81, n.1 [citado  2022-01-20], pp.92-98. Disponible en: <http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832020000100092&lng=es&nrm=iso>. ISSN 1025-5583.  http://dx.doi.org/10.15381/anales.v81i1.17787.](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832020000100092&lng=es)
+
+- [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea  y  GUTIERREZ GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr. Hosp. [online]. 2017, vol.34, n.5 [citado  2022-01-20], pp.1105-1111. Disponible en: <http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso>. ISSN 1699-5198.  https://dx.doi.org/10.20960/nh.1024.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013)
+
+- [Síndrome metabólico M. Güemes-Hidalgo*, M.T. Muñoz-Calvo** *Departamento de Endocrinología. Great Ormond Street Hospital for Children. Londres.Reino Unido. **Servicio de Endocrinología. Hospital Infantil Universitario Niño Jesús.Profesora Asociada de Pediatría. Universidad Autónoma. Madrid](https://www.pediatriaintegral.es/publicacion-2015-07/sindrome-metabolico/)
+
+- [Asociación del síndrome metabólico con bajo peso al nacimiento, consumo de dietas hipercalóricas y acantosis nigricans en escolares y adolescentes con sobrepeso y obesidad - Endocrinología, Diabetes y Nutrición Vol. 64. Núm. 1.Páginas 1-62 (Enero 2017)](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-articulo-asociacion-del-sindrome-metabolico-con-S2530016416300106)
+
+- [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en población laboral: El corazón de Asepeyo. An. Med. Interna (Madrid) [online]. 2008, vol.25, n.7 [citado  2022-01-20], pp.325-330. Disponible en: <http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-71992008000700003&lng=es&nrm=iso>. ISSN 0212-7199.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-71992008000700003)
+
+- [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad Central del Ecuador Hospital  Quito-Ecuador Bernardo Aguirre F. Universidad de las Américas (UDLA) Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
