@@ -2,8 +2,6 @@
 ## Que es
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan al mismo tiempo cuya presencia aumentan el riesgo de enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
-
-    - Características  
 ## Como identificarlo
 
 ### Factores de riesgo
@@ -14,9 +12,9 @@ Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan a
 #### Niveles elevados de triglicéridos
 ### Patologías relacionadas
 
-    - Relación con la alimentación
-    - Hábitos de vida    
-    - Prevención y Tratamiento  
+### Relación con la alimentación
+### Hábitos de vida    
+### Prevención y Tratamiento  
 
 ## Por grupos de población
 ### SM en la infrancia
