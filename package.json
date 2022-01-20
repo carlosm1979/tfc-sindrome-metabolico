@@ -10,7 +10,7 @@
     "build": "pandoc -s secciones/*.md -o README.MD",
     "to-docx": "pandoc -s README.MD -o tfc-sindrome-metabolico.docx",
     "to-pdf": "pandoc secciones/*.md -o pdf.MD && pandoc -V fontsize=12pt -V geometry:margin=0.590551in -V title='El síndrome metabólico' -V author='Beatriz Carro Otero' --data-dir=./templates pdf.MD -o tfc-sindrome-metabolico.pdf",
-    "publish": "npm run build && npm run to-pdf && git add . && git commit -m $(date \"+%d-%m-%Y\") && git push"
+    "publish": "npm run build && npm run to-pdf && git add . && git commit -m $(date \"+%d-%m-%Y-%H:%m:%s\") && git push"
   },
   "repository": {
     "type": "git",
