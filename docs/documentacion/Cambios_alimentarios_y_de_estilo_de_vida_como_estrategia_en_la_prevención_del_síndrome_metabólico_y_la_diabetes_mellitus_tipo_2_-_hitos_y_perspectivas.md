@@ -1,4 +1,4 @@
-[resumen](/docs/resumenes/Cambios_alimentarios_y_de_estilo_de_vida_como_estrategia_en_la_prevención_del_síndrome_metabólico_y_la_diabetes_mellitus_tipo_2_-_hitos_y_perspectivas.md)
+[ver resumen](/docs/resumenes/Cambios_alimentarios_y_de_estilo_de_vida_como_estrategia_en_la_prevención_del_síndrome_metabólico_y_la_diabetes_mellitus_tipo_2_-_hitos_y_perspectivas.md)
 
 ## [Anales del Sistema Sanitario de Navarra](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=1137-6627&lng=es&nrm=iso)
 
