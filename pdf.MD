@@ -6,9 +6,9 @@ El síndrome metabólico
 Indice general
 ==============
 
--   Introduccion\
--   Descubrimiento\
--   Objetivos\
+-   Introduccion
+-   Descubrimiento
+-   Objetivos
 -   Parte teórica
 -   Que es
 -   Factores de riesgo
