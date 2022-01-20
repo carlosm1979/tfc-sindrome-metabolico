@@ -8,7 +8,6 @@ Indice general
 
 -   Introduccion
 -   Descubrimiento
-
 -   Objetivos
 
 -   Parte teórica
