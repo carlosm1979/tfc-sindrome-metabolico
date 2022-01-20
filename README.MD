@@ -18,15 +18,15 @@ Indice general
         -   Glucosa sanguínea en ayunas elevada
         -   Hipertensión arterial
         -   Niveles elevados de triglicéridos
-    -   Relación con la alimentación
-    -   Hábitos de vida
-    -   Prevención y Tratamiento
     -   Por grupos de población
         -   SM en la infancia
         -   SM en adultos
         -   SM en la mujer
             -   Menopausia
         -   SN en la tercera edad
+    -   Relación con la alimentación
+    -   Hábitos de vida
+    -   Prevención y Tratamiento
     -   Patologías relacionadas
 -   Material y métodos
 -   Resultados

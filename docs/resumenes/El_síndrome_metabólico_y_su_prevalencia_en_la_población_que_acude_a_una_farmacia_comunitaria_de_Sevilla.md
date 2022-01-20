@@ -1,7 +1,7 @@
+[ver fuente](/docs/documentacion/sindrome_metabolico_farmacia_comunitaria_sevilla_03-4-146-150.pdf)
+
+
 [https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
-
-
-
 
 # El síndrome metabólico y su prevalencia en la población que acude a una farmacia comunitaria de Sevilla
 

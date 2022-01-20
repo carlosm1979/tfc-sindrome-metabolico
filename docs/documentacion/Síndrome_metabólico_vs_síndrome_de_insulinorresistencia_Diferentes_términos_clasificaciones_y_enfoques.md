@@ -292,7 +292,3 @@ Ciudad de La Habana, CP 10400
 Cuba  
 ![](/img/es/e-mailt.gif)  
 [ecimed@infomed.sld.cu](mailto:ecimed@infomed.sld.cu) 
-
-
-
-# Anotaciones

@@ -327,7 +327,7 @@ Código Postal 1010.Teléfono: 2637127 - 2636918
 
 ---
 
-**NOTAS**
+**RESUMEN**
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
 

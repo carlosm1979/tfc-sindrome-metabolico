@@ -1,3 +1,4 @@
+[ver fuente](/docs/documentacion/Breve_crónica_de_la_definición_del_síndrome_metabólico.pdf)
 # Breve crónica de la definición del síndrome metabólico
 
 En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia a la insulina, dislipidemia e hipertensión.
