@@ -11,17 +11,13 @@ Indice general
 
 -   Objetivos
 
--   Parte teorica
-
+-   Parte teorica\
 -   Que es
-    -   Características\
-    -   Como identificarlo
-        -   Rasgos
-        -   Circunferencia grande de cintura\
-        -   Colesterol bueno o de lipoproteínas de alta densidad
-            reducido\
-        -   Glucosa sanguínea en ayunas elevada\
-        -   Hipertensión arterial\
+    -   Factores de riesgo
+    -   Circunferencia grande de cintura\
+    -   Colesterol bueno o de lipoproteínas de alta densidad reducido\
+    -   Glucosa sanguínea en ayunas elevada\
+    -   Hipertensión arterial
         -   Niveles elevados de triglicéridos
     -   Patologías relacionadas
 
@@ -29,13 +25,12 @@ Indice general
     -   Hábitos de vida\
     -   Prevención y Tratamiento
 
-    -   Por grupos de población
-    -   niños
-    -   adultos
-    -   mujer
-        -   menopausia
-    -   tercera edad
-
+-   Por grupos de población
+    -   SM en la infrancia
+    -   SM en adultos
+    -   SM en la mujer
+    -   menopausia
+    -   SN en la tercera edad
 -   Material y metodos
 -   Resultados
 -   Discusion
@@ -108,6 +103,43 @@ la aparición de la alteraciones de salud que lo componen.
 
 Parte teórica
 =============
+
+Que es
+------
+
+Es un conjunto de factores de riesgo reconocidos cuya presencia está
+relacionada con la resistencia a la insulina. Y sirve como herramienta
+de diagnóstico para identificar a personas con riesgo de ECV.
+
+    - Características  
+
+Como identificarlo
+------------------
+
+        - Factores de riesgo
+          - Circunferencia grande de cintura  
+          - Colesterol bueno o de lipoproteínas de alta densidad reducido  
+          - Glucosa sanguínea en ayunas elevada  
+          - Hipertensión arterial  
+          - Niveles elevados de triglicéridos
+      - Patologías relacionadas
+
+    - Relación con la alimentación
+    - Hábitos de vida    
+    - Prevención y Tratamiento  
+
+Por grupos de población
+-----------------------
+
+### SM en la infrancia
+
+### SM en adultos
+
+### SM en la mujer
+
+#### menopausia
+
+### SN en la tercera edad
 
 Material y métodos
 ==================
