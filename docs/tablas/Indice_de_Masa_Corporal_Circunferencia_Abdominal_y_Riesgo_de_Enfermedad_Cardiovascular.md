@@ -1,5 +1,4 @@
-Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular
-
+**Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular**
 
 Categoria | IMC | Hombres< 102 cm Mujeres < 88 cm 1,3 | Hombres< 102 cm Mujeres < 88 cm
 ---------|----------|----------|---------
