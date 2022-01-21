@@ -6,8 +6,11 @@ El síndrome metabólico
 Indice general
 ==============
 
--   Introduccion
-    -   Descubrimiento
+[Introduccion](#introducción)
+=============================
+
+    - Descubrimiento
+
 -   Objetivos
 -   Parte teórica
     -   Que es
