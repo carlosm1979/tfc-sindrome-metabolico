@@ -27,9 +27,12 @@ El indicador de obesidad mundialmente reconocido es el Índice de Masa Corporal 
 
 Desde hace mucho tiempo se ha descrito que la obesidad aumenta el riesgo de aparición de ciertas enfermedades y que el incremento del diámetro de la circunferencia abdominal podría ser usado como indicador de obesidad.
 
-1. El riesgo de enfermedad se correlaciona con el aumento del IMC: a mayor IMC mayor riesgo.
+[Tabla 3](/docs/tablas/tabla3_Indice_de_Masa_Corporal_Circunferencia_Abdominal_y_Riesgo_de_Enfermedad_Cardiovascular.md)
 
+Del Cuadro anterior se puede deducir que:  
+1. El riesgo de enfermedad se correlaciona con el aumento del IMC: a mayor IMC mayor riesgo.
 2. Cuando el diámetro de la circunferencia abdominal es mayor de 102 cm para el hombre o de 88 cm para la mujer el riesgo de enfermedad aumenta aún en presencia de peso corporal normal.
+
 
 ## Síndrome de Resistencia a la Insulina
 
@@ -44,5 +47,9 @@ Esta diferencia se relaciona con:
 2. se aumentan los sustratos para la síntesis hepática de lipoproteínas ricas en triglicéridos
 3. no se inhibe eficazmente la producción hepática de glucosa, el músculo disminuye su captación lo cual conduce a un incremento en la glucemia, que provoca un aumento en la secreción de insulina y eventualmente hiperinsulinismo
 4. Otra alteración que forma parte del Síndrome Metabólico es la aparición de lipoproteínas de baja densidad (LDL) pequeñas y densas (40) que siguen estudiándose como factor etiopatogénico de la aterogénesis.
+
+
+
+## Diagnóstico de Síndrome Metabólico
 
 
