@@ -8,8 +8,8 @@ Indice general
 
 -   [Introduccion](#introducción)
     -   Descubrimiento
--   Objetivos
--   Parte teórica
+-   [Objetivos](#objetivos)
+-   [Parte teórica](#parte-teórica)
     -   Que es
     -   Factores de riesgo
         -   Circunferencia grande de cintura
@@ -28,11 +28,11 @@ Indice general
     -   Hábitos de vida
     -   Prevención y Tratamiento
     -   Patologías relacionadas
--   Material y métodos
--   Resultados
--   Discusión
--   Conclusión
--   Bibliografía
+-   [Material y métodos](#material-y-métodos)
+-   [Resultados](#resultados)
+-   [Discusión](#difusión)
+-   [Conclusión](#discusión)
+-   [Bibliografía](#bibliografía)
 
 \pagebreak
 
