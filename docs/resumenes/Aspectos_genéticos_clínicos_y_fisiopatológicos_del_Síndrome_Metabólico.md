@@ -31,9 +31,7 @@ Desde hace mucho tiempo se ha descrito que la obesidad aumenta el riesgo de apar
 
 2. Cuando el diámetro de la circunferencia abdominal es mayor de 102 cm para el hombre o de 88 cm para la mujer el riesgo de enfermedad aumenta aún en presencia de peso corporal normal.
 
-
 ## Síndrome de Resistencia a la Insulina
-
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
 
