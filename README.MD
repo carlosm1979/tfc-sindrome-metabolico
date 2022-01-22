@@ -15,22 +15,22 @@ Indice general
     -   Que es
     -   [Diagnóstico](#Diagnóstico)
         -   [Factores de riesgo](#Factores-de-riesgo)
-        -   [Circunferencia grande de
-            cintura](#Circunferencia-grande-de-cintura)
-        -   [Colesterol bueno o de lipoproteínas de alta densidad
-            reducido](#Colesterol-bueno-o-de-lipoproteínas-de-alta-densidad-reducido)
-        -   [Glucosa sanguínea en ayunas
-            elevada](#Glucosa-sanguínea-en-ayunas-elevada)
-        -   [Hipertensión arterial](#Hipertensión-arterial)
-        -   [Niveles elevados de
-            triglicéridos](#Niveles-elevados-de-triglicéridos)
-    -   Por grupos de población
-        -   SM en adultos
-        -   SM en la mujer
+            -   [Circunferencia grande de
+                cintura](#Circunferencia-grande-de-cintura)
+            -   [Colesterol bueno o de lipoproteínas de alta densidad
+                reducido](#Colesterol-bueno-o-de-lipoproteínas-de-alta-densidad-reducido)
+            -   [Glucosa sanguínea en ayunas
+                elevada](#Glucosa-sanguínea-en-ayunas-elevada)
+            -   [Hipertensión arterial](#Hipertensión-arterial)
+            -   [Niveles elevados de
+                triglicéridos](#Niveles-elevados-de-triglicéridos)
+        -   Por grupos de población
+            -   SM en el hombre
+            -   SM en la mujer
             -   Menopausia
             -   Embarazo
-        -   SM en la infancia
-        -   SN en la tercera edad
+            -   SM en la infancia
+            -   SN en la tercera edad
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
         -   Cambios alimenticios y estilo de vida como estrategia para
             la prevención del SM
@@ -81,10 +81,10 @@ resistencia insulina, estado proinflamatorio y estado protrombótico.
 Aunque no se ha llegado a un acuerdo sobre todos los factores y varemos
 que pudieran determinar el diagnóstico del SM com tal.
 
-Finalmente se ha visto que el enfoque adecuado, en vez de pretender
-realizar un diagnóstico de SM que cumpla una lista cerrada de criterios,
-sea entender el SM como una guía que ayude a detectar los factores de
-riesgo que pueden desembocar en diabetes y enfermedades
+Actualmente lo que se está considenrado como un enfoque adecuado, en vez
+de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
+de criterios, sea entender el SM como una guía que ayude a detectar los
+factores de riesgo que pueden desembocar en diabetes y enfermedades
 cardiovasculares. De esta manera resulta una mejor herramienta clínica
 para la prevención y detección del riesgo de esas enfermedades.
 
