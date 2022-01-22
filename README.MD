@@ -100,7 +100,10 @@ epigenéticas (como el estado nutricional durante el embarazo), lo que
 podría acabar derivando
 
 Con respecto a los motivos que pueden generar el SM Alimentación Hábitos
-de vida Bases genéticas \# Objetivos
+de vida Bases genéticas \pagebreak
+
+Objetivos
+=========
 
     - Obtener información sobre que es el S. Metabólico  
     - Estudiar la importancia de la alimentación en su aparición  
