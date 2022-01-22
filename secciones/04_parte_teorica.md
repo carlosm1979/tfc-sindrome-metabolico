@@ -11,7 +11,8 @@ Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan a
 #### Glucosa sanguínea en ayunas elevada
 #### Hipertensión arterial
 #### Niveles elevados de triglicéridos
-## Prevención  
+## Tratamiento y prevención  
+Como síndrome, no hay establecido un tratamiento específico para el conjunto de los factores que lo componen sino que deben tratarse cada una de las enfermedades por separado.
 
 La prevención es uno de los elementos clave para el control de esta enfermedad, ya que se ha estimado que unos correctos hábitos alimentarios y de estilo de vida son suficientes para prevenir su aparición en 90 de cada 100 casos, puesto que la investigación muestra que sólo un 10% se debe a herencia genética.
 
@@ -46,11 +47,6 @@ La actividad física es parte fundamental tanto del tratamiento de los pacientes
 - **Aparcando actividades sedentarias como la televisión o los videojuegos**  
 - **Actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo**  
 - **Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos** 
-
-## Tratamiento
-
-Como síndrome, no hay establecido un tratamiento específico para el conjunto de los factores que lo componen sino que deben tratarse cada una de las enfermedades por separado.
-
 
 
 ## Por grupos de población

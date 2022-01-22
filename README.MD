@@ -30,14 +30,11 @@ Indice general
         -   SM en la mujer
             -   Menopausia
         -   SN en la tercera edad
-    -   [Prevención](#prevencion)
+    -   [Tratamiento y prevención](#Tratamiento-y-prevención)
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
-    -   [Tratamiento](#tratamiento)
-
     -   Patologías relacionadas
-
 -   [Material y métodos](#material-y-métodos)
 -   [Resultados](#resultados)
 -   [Discusión](#difusión)
@@ -137,8 +134,12 @@ Diagnóstico
 
 #### Niveles elevados de triglicéridos
 
-Prevención
-----------
+Tratamiento y prevención
+------------------------
+
+Como síndrome, no hay establecido un tratamiento específico para el
+conjunto de los factores que lo componen sino que deben tratarse cada
+una de las enfermedades por separado.
 
 La prevención es uno de los elementos clave para el control de esta
 enfermedad, ya que se ha estimado que unos correctos hábitos
@@ -194,13 +195,6 @@ población.
     calórico como pasear, andar en bici, nadar o hacer excursionismo**\
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
-
-Tratamiento
------------
-
-Como síndrome, no hay establecido un tratamiento específico para el
-conjunto de los factores que lo componen sino que deben tratarse cada
-una de las enfermedades por separado.
 
 Por grupos de población
 -----------------------
