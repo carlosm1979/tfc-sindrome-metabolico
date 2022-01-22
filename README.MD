@@ -14,7 +14,7 @@ Indice general
 -   [Parte teórica](#parte-teórica)
     -   Que es
     -   [Diagnóstico](#Diagnóstico)
-    -   [Factores de riesgo](#Factores-de-riesgo)
+        -   [Factores de riesgo](#Factores-de-riesgo)
         -   [Circunferencia grande de
             cintura](#Circunferencia-grande-de-cintura)
         -   [Colesterol bueno o de lipoproteínas de alta densidad
