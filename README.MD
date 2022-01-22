@@ -29,7 +29,7 @@ Indice general
         -   SN en la tercera edad
     -   [Prevención](#prevencion)
         -   [Relación con la
-            alimentación](#relacion-con-la-alimentacion)
+            alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
     -   Diagnostico
     -   Factores de riesgo
