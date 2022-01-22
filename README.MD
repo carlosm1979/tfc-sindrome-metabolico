@@ -216,7 +216,7 @@ Conclusión
 Bibliografía
 ============
 
-#### 1.
+#### 1
 
 [CALDERIN BOUZA, Raúl Orlando y ORLANDI GONZALEZ, Neraldo. Síndrome
 metabólico vs síndrome de insulinorresistencia. Diferentes términos,
