@@ -14,12 +14,6 @@ Indice general
 -   [Objetivos](#objetivos)
 -   [Parte teórica](#parte-teórica)
     -   Que es
-    -   Por grupos de población
-        -   SM en la infancia
-        -   SM en adultos
-        -   SM en la mujer
-            -   Menopausia
-        -   SN en la tercera edad
     -   [Diagnóstico](#Diagnóstico)
     -   [Factores de riesgo](#Factores-de-riesgo)
         -   [Circunferencia grande de
@@ -38,6 +32,12 @@ Indice general
     -   [Tratamiento](#tratamiento)
 
     -   Patologías relacionadas
+    -   Por grupos de población
+        -   SM en la infancia
+        -   SM en adultos
+        -   SM en la mujer
+            -   Menopausia
+        -   SN en la tercera edad
 
 -   [Material y métodos](#material-y-métodos)
 -   [Resultados](#resultados)
