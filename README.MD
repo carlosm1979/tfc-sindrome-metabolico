@@ -66,10 +66,10 @@ dislipidemia e hipertensión.[1](#1)
 
 En 1999 la OMS cambió la denominación a 'Síndrome metabólico', y
 estableció una definición en la que considera que hay evidencia de que
-la resistencia a la insulina como es factor causal común de los
+la resistencia a la insulina (RI) como es factor causal común de los
 componentes individuales del síndrome metabólico, aunque afectando de
 forma diferentes a cada uno de ellos. También que cada uno es un factor
-de riesgo cardiovascular pero en combinación son mucho más potentes. Y
+de riesgo cardiovascular pero en combinación son mucho más potentes, y
 que el tratamiento no debe enfocarse únicamente al control de la
 glucosa, si no incluir también estrategias para reducir los factores de
 riesgo cardiovascular.
@@ -94,10 +94,11 @@ desarrollar los factores que constituyen el SM, la alimentación y los
 hábitos de vida son determinantes en la gran mayoría de los casos.
 Sedentarismo y un elevado consumo calórico favorecen la aparición de la
 obesidad, que está relacionada con el aumento en enfermedades como
-diabetes tipo 2 y del SM. Un 10% de los casos de SM está tiene causas
-genéticas. También hay estudios relacionan la obesidad con causas
-epigenéticas (como el estado nutricional durante el embarazo), lo que
-podría acabar derivando
+diabetes tipo 2 y del SM.\
+Un 10% de los casos de SM está tiene causas genéticas.\
+También hay estudios relacionan la obesidad con causas epigenéticas
+(como el estado nutricional durante el embarazo), lo que podría acabar
+derivando
 
 Con respecto a los motivos que pueden generar el SM Alimentación Hábitos
 de vida Bases genéticas \pagebreak
@@ -452,4 +453,4 @@ Abreviaturas
 SM: Síndrome Metabólico\
 IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
-OMS: Organización mundial de la salud
+OMS: Organización mundial de la salud RI: Resistencia a la insulina

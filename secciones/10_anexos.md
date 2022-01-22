@@ -11,3 +11,4 @@ SM: Síndrome Metabólico
 IDF: Inernational Diabetes Federation  
 ATP: Adult Treatment Panel (ATP-III)  
 OMS: Organización mundial de la salud
+RI: Resistencia a la insulina
