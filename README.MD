@@ -10,7 +10,6 @@ Indice general
 ==============
 
 -   [Introduccion](#introducción)
-    -   Descubrimiento
 -   [Objetivos](#objetivos)
 -   [Parte teórica](#parte-teórica)
     -   Que es
@@ -25,6 +24,12 @@ Indice general
         -   [Hipertensión arterial](#Hipertensión-arterial)
         -   [Niveles elevados de
             triglicéridos](#Niveles-elevados-de-triglicéridos)
+    -   Por grupos de población
+        -   SM en la infancia
+        -   SM en adultos
+        -   SM en la mujer
+            -   Menopausia
+        -   SN en la tercera edad
     -   [Prevención](#prevencion)
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
@@ -32,12 +37,6 @@ Indice general
     -   [Tratamiento](#tratamiento)
 
     -   Patologías relacionadas
-    -   Por grupos de población
-        -   SM en la infancia
-        -   SM en adultos
-        -   SM en la mujer
-            -   Menopausia
-        -   SN en la tercera edad
 
 -   [Material y métodos](#material-y-métodos)
 -   [Resultados](#resultados)
