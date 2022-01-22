@@ -46,7 +46,7 @@ Introducción
 
 En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
 a la insulina, dislipidemia e hipertensión, que 1999 la OMS denomiana
-'síndrome metabólico'.[1](#biblio-1)
+'síndrome metabólico'.[1](#1)
 
 Diversas instituciones han establecido criterios buscando definir la
 lista de factores que lo componen, siendo los aceptados de forma común:
@@ -216,7 +216,7 @@ Conclusión
 Bibliografía
 ============
 
-#### biblio 1
+#### 1
 
 [CALDERIN BOUZA, Raúl Orlando y ORLANDI GONZALEZ, Neraldo. Síndrome
 metabólico vs síndrome de insulinorresistencia. Diferentes términos,
