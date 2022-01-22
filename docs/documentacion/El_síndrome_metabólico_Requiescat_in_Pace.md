@@ -115,10 +115,6 @@ Síndromes clínicos asociados a la resistencia a la insulina
  Ciertas formas de cancer
  Apnea del sueño
 
-
-![Tabla 2](/docs/tablas/El_sindrome_metabolico_Requiescat_in_Pace_tabla2.png)
-
-
 1.	Executive summary of the third report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, And Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III). JAMA 2001;285:2486-2497.
 2.	Ford ES, Giles WH, Dietz WH. Prevalence of the metabolic syndrome among US adults: findings from the Third National Health and Nutrition Examination Survey. JAMA 2002;287:356-359.
 3.	Cruz ML, Weigensberg MJ, Huang TT, Ball G, Shaibi GQ, Goran MI. The metabolic syndrome in overweight Hispanic youth and the role of insulin sensitivity. J Clin Endocrinol Metab 2004;89:108-113.
