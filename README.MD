@@ -28,7 +28,7 @@ Indice general
             -   SM en el hombre
             -   SM en la mujer\
                 **Menopausia**\
-                **Embarazo**\
+                **Embarazo**
             -   SM en la infancia
             -   SM en la tercera edad
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
