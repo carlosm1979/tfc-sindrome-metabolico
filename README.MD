@@ -89,19 +89,19 @@ riesgo que pueden desembocar en diabetes y enfermedades
 cardiovasculares. De esta manera resulta una mejor herramienta clínica
 para la prevención y detección del riesgo de esas enfermedades.
 
-Con respecto a los posibles desencadenantes para que alguien pueda
-desarrollar los factores que constituyen el SM, la alimentación y los
-hábitos de vida son determinantes en la gran mayoría de los casos.
-Sedentarismo y un elevado consumo calórico favorecen la aparición de la
-obesidad, que está relacionada con el aumento en enfermedades como
-diabetes tipo 2 y del SM.\
-Un 10% de los casos de SM está tiene causas genéticas.\
-También hay estudios relacionan la obesidad con causas epigenéticas
-(como el estado nutricional durante el embarazo), lo que podría acabar
-derivando
+Con respecto a los posibles desencadenantes para desarrollar los
+factores que conforman el SM, se consideran factores genéticos
+(endógenos) y ambientales como la alimentación y el sedentarismo.
 
-Con respecto a los motivos que pueden generar el SM Alimentación Hábitos
-de vida Bases genéticas \pagebreak
+Una alimentación con elevado consumo de grasas saturadas y de alto nivel
+calórico, junto con una vida sendentaria son factores determinantes para
+su desarrollo. Solo un 10% de los casos de SM está tiene causas
+genéticas.\
+Hay estudios relacionan la obesidad con causas epigenéticas (como el
+estado nutricional durante el embarazo), lo que podría acabar derivando
+de adulto en obesidad.
+
+\pagebreak
 
 Objetivos
 =========
