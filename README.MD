@@ -28,8 +28,9 @@ Indice general
             -   Menopausia
         -   SN en la tercera edad
     -   [Prevención](#prevencion)
-    -   [Relación con la alimentación](#relacion-con-la-alimentacion)
-    -   [Hábitos de vida](#habitos-de-vida)
+        -   [Relación con la
+            alimentación](#relacion-con-la-alimentacion)
+        -   [Hábitos de vida](#habitos-de-vida)
     -   Diagnostico
     -   Factores de riesgo
     -   [Tratamiento](#tratamiento)
