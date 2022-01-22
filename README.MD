@@ -12,7 +12,7 @@ Indice general
 -   [Introduccion](#introducción)
 -   [Objetivos](#objetivos)
 -   [Parte teórica](#parte-teórica)
-    -   Que es
+    -   Que es *Patologías relacionadas*
     -   [Diagnóstico](#Diagnóstico)
         -   [Factores de riesgo](#Factores-de-riesgo)
             -   [Circunferencia grande de
@@ -37,7 +37,6 @@ Indice general
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
-    -   Patologías relacionadas
 -   [Material y métodos](#material-y-métodos)
 -   [Resultados](#resultados)
 -   [Discusión](#difusión)
