@@ -88,7 +88,7 @@ Tal vez el punto se hace aún más enfáticamente si se atiende la atención a l
 
 En conclusión, parece que hacer que el diagnóstico del síndrome metabólico no le traiga mucho en el camino de la comprensión fisiopatológica o la utilidad clínica, y decidir que las personas no lo tienen porque no cumplen con los cinco de los cinco criterios elegidos arbitrariamente pueden retenerIntervención terapéutica relevante.¿El concepto ATP III del síndrome metabólico tiene virtudes de redención?Esa es una pregunta que solo el lector puede responder.
 
-### tabla 2
+##### tabla 2
 
 Criterios ATP III para el diagnóstico del síndrome metabólico | _
 --------- | ---
