@@ -1,7 +1,7 @@
 {
   "name": "tfc-sindrome-metabolico",
   "version": "1.0.0",
-  "description": "Sindrome metabólico, síndrome de Reaven, síndrome de insulinorresistencia",
+  "description": "Sindrome metabólico",
   "main": "index.js",
   "directories": {
     "doc": "docs"

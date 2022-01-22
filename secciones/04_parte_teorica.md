@@ -24,7 +24,7 @@ El patrón alimentario a seguir, siempre debe ser personalizado y adaptado a las
 
 El elevado aporte calórico de la alimentación actual y el sedentarismo, son los principales causantes del notable incremento de la obesidad en nuestra sociedad. A su vez, esto conlleva un aumento de las patologías asociadas a ella, como pueden ser el síndrome metabólico y la diabetes tipo 2.
 
-Como regla general, los hábitos alimentarios deben basarse en:
+Como regla general, los hábitos alimentarios deben basarse en[3](#3):
 
 - **una alimentación con un bajo contenido en grasa saturada, grasa trans y colesterol**
 - **el aceite de oliva el principal aporte de grasa en la dieta**
@@ -35,14 +35,14 @@ Como regla general, los hábitos alimentarios deben basarse en:
  
 ### Hábitos de vida
 
-Favorecen el desarrollo del SM otros factores:
+Favorecen el desarrollo del SM otros factores[3](#3):
 
 - **sedentarismo**  
 - **un elevado consumo calórico a través de bebidas azucaradas y alimentos ricos en grasa saturada**
 - **disminución en el consumo de fibra**
 - **el tabaquismo**
 
-La actividad física es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población.
+La actividad física es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población.[3](#3)
 
 - **Aparcando actividades sedentarias como la televisión o los videojuegos**  
 - **Actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo**  

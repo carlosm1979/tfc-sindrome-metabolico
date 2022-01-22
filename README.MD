@@ -89,8 +89,18 @@ riesgo que pueden desembocar en diabetes y enfermedades
 cardiovasculares. De esta manera resulta una mejor herramienta clínica
 para la prevención y detección del riesgo de esas enfermedades.
 
-Objetivos
-=========
+Con respecto a los posibles desencadenantes para que alguien pueda
+desarrollar los factores que constituyen el SM, la alimentación y los
+hábitos de vida son determinantes en la gran mayoría de los casos.
+Sedentarismo y un elevado consumo calórico favorecen la aparición de la
+obesidad, que está relacionada con el aumento en enfermedades como
+diabetes tipo 2 y del SM. Un 10% de los casos de SM está tiene causas
+genéticas. También hay estudios relacionan la obesidad con causas
+epigenéticas (como el estado nutricional durante el embarazo), lo que
+podría acabar derivando
+
+Con respecto a los motivos que pueden generar el SM Alimentación Hábitos
+de vida Bases genéticas \# Objetivos
 
     - Obtener información sobre que es el S. Metabólico  
     - Estudiar la importancia de la alimentación en su aparición  
@@ -165,7 +175,7 @@ nuestra sociedad. A su vez, esto conlleva un aumento de las patologías
 asociadas a ella, como pueden ser el síndrome metabólico y la diabetes
 tipo 2.
 
-Como regla general, los hábitos alimentarios deben basarse en:
+Como regla general, los hábitos alimentarios deben basarse en[3](#3):
 
 -   **una alimentación con un bajo contenido en grasa saturada, grasa
     trans y colesterol**
@@ -176,7 +186,7 @@ Como regla general, los hábitos alimentarios deben basarse en:
 
 ### Hábitos de vida
 
-Favorecen el desarrollo del SM otros factores:
+Favorecen el desarrollo del SM otros factores[3](#3):
 
 -   **sedentarismo**\
 -   **un elevado consumo calórico a través de bebidas azucaradas y
@@ -187,7 +197,7 @@ Favorecen el desarrollo del SM otros factores:
 La actividad física es parte fundamental tanto del tratamiento de los
 pacientes con la enfermedad, como de los que están en riesgo de
 desarrollarla y debe de ser incluida en la vida cotidiana de la
-población.
+población.[3](#3)
 
 -   **Aparcando actividades sedentarias como la televisión o los
     videojuegos**\
@@ -263,48 +273,50 @@ ISSN
 Breve crónica de la definición del síndrome metabólico. Med Int Méx
 2014;30:312-328](https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf)
 
+##### 3
+
+[HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de estilo
+de vida como estrategia en la prevención del síndrome metabólico y la
+diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra.
+2016, vol.39, n.2 \[citado 2022-01-17\], pp.269-289. ISSN
+1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
+
 ------------------------------------------------------------------------
 
-1.  [HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de
-    estilo de vida como estrategia en la prevención del síndrome
-    metabólico y la diabetes mellitus tipo 2: hitos y perspectivas.
-    Anales Sis San Navarra. 2016, vol.39, n.2 \[citado 2022-01-17\],
-    pp.269-289. ISSN
-    1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
-2.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
+1.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
     metabólico y su prevalencia en la población que acude a una farmacia
     comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3
     (4):
     146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
-3.  [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
+2.  [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
     Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages
     931–938](https://doi.org/10.1373/clinchem.2005.048611)
-4.  [Proteina C reactiva ultrasensible como marcador de estado
+3.  [Proteina C reactiva ultrasensible como marcador de estado
     proinflamatorio en pacientes con síndrome metabólico |
     http://dspace.utalca.cl/handle/1950/4714](http://dspace.utalca.cl/handle/1950/4714)
-5.  [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
+4.  [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
     del área de salud de A Coruña |
     https://ruc.udc.es/dspace/handle/2183/16548](https://ruc.udc.es/dspace/handle/2183/16548)
-6.  [La falta de sueño puede disminuir el colesterol
+5.  [La falta de sueño puede disminuir el colesterol
     «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
     https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/
-7.  [Síndrome
+6.  [Síndrome
     metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
-8.  [síndrome metabólico - Perspectiva general |
+7.  [síndrome metabólico - Perspectiva general |
     https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
-9.  [Síndrome metabólico - Diagnostico |
+8.  [Síndrome metabólico - Diagnostico |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/
     iagnosis-treatment/drc-20351921](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
-10. [Síndrome metabolico - Descripción General |
+9.  [Síndrome metabolico - Descripción General |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
-11. [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o
+10. [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o
     realidad?. An. Fac. med. \[online\]. 2020, vol.81, n.1 \[citado
     2022-01-20\], pp.92-98. Disponible en:
     &lt;http://www.scielo.org.pe/scielo.php?script=sci\_arttext&pid=S1025-55832020000100092&lng=es&nrm=iso&gt;.
     ISSN 1025-5583.
     http://dx.doi.org/10.15381/anales.v81i1.17787.](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832020000100092&lng=es)
-12. [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
+11. [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
     GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de
     riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr.
     Hosp. \[online\]. 2017, vol.34, n.5 \[citado 2022-01-20\],
@@ -312,25 +324,25 @@ Breve crónica de la definición del síndrome metabólico. Med Int Méx
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
     ISSN 1699-5198.
     https://dx.doi.org/10.20960/nh.1024.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013)
-13. [Síndrome metabólico M. Güemes-Hidalgo\*, M.T. Muñoz-Calvo\*\*
+12. [Síndrome metabólico M. Güemes-Hidalgo\*, M.T. Muñoz-Calvo\*\*
     \*Departamento de Endocrinología. Great Ormond Street Hospital for
     Children. Londres.Reino Unido. \*\*Servicio de Endocrinología.
     Hospital Infantil Universitario Niño Jesús.Profesora Asociada de
     Pediatría. Universidad Autónoma.
     Madrid](https://www.pediatriaintegral.es/publicacion-2015-07/sindrome-metabolico/)
-14. [Asociación del síndrome metabólico con bajo peso al nacimiento,
+13. [Asociación del síndrome metabólico con bajo peso al nacimiento,
     consumo de dietas hipercalóricas y acantosis nigricans en escolares
     y adolescentes con sobrepeso y obesidad - Endocrinología, Diabetes y
     Nutrición Vol. 64. Núm. 1.Páginas 1-62
     (Enero 2017)](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-articulo-asociacion-del-sindrome-metabolico-con-S2530016416300106)
-15. [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en
+14. [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en
     población laboral: El corazón de Asepeyo. An. Med. Interna (Madrid)
     \[online\]. 2008, vol.25, n.7 \[citado 2022-01-20\], pp.325-330.
     Disponible en:
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-71992008000700003&lng=es&nrm=iso&gt;.
     ISSN
     0212-7199.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-71992008000700003)
-16. [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad
+15. [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad
     Central del Ecuador Hospital Quito-Ecuador Bernardo Aguirre F.
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
