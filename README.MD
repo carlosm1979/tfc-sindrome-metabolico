@@ -30,7 +30,7 @@ Indice general
     -   [Prevención](#prevencion)
         -   [Relación con la
             alimentación](#relacion-con-la-alimentacion)
-        -   [Hábitos de vida](#habitos-de-vida)
+        -   [Hábitos de vida](#hábitos-de-vida)
     -   Diagnostico
     -   Factores de riesgo
     -   [Tratamiento](#tratamiento)
