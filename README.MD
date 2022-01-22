@@ -81,6 +81,10 @@ resistencia insulina, estado proinflamatorio y estado protrombótico.
 Aunque no se ha llegado a un acuerdo sobre todos los factores y varemos
 que pudieran determinar el diagnóstico del SM com tal.
 
+(historia y controversias)
+
+(variación por etnias)
+
 Actualmente lo que se está considenrado como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
 de criterios, sea entender el SM como una guía que ayude a detectar los
