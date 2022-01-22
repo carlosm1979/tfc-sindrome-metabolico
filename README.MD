@@ -12,7 +12,8 @@ Indice general
 -   [Introduccion](#introducción)
 -   [Objetivos](#objetivos)
 -   [Parte teórica](#parte-teórica)
-    -   Que es *Patologías relacionadas*
+    -   Que es\
+        *Patologías relacionadas*
     -   [Diagnóstico](#Diagnóstico)
         -   [Factores de riesgo](#Factores-de-riesgo)
             -   [Circunferencia grande de
