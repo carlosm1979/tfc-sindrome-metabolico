@@ -289,6 +289,8 @@ Bibliografía
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
 
+\pagebreak
+
 ##### tabla 1
 
 **Evolución histórica de los criterios del síndrome metabólico**
