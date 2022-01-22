@@ -37,7 +37,7 @@ Indice general
 Indice general
 ==============
 
-[Historia](#tabla-2) \pagebreak
+[Historia](#tabla-1) \pagebreak
 
 Introducción
 ============
@@ -90,22 +90,11 @@ Finalmente se busca determinar el conocimiento que tiene la población
 acerca del SM, y de como los hábitos de vida y de alimentación afectan a
 la aparición de la alteraciones de salud que lo componen.
 
-##### tabla 2
+Parte teórica
+=============
 
-  Criterios ATP III para el diagnóstico del síndrome metabólico   \_
-  --------------------------------------------------------------- ------------------------------------------------------
-  **Obesidad abdominal**                                          -
-  \_                                                              Hombres: WC &gt;40 pulgadas (102cm)
-  \_                                                              Mujeres: WC &gt;35 pulgadas (89cm)
-  **Grucosa en ayunas**                                           &gt;=110 a &lt;126mg/dL (&gt;=6,1 a &lt;=7,0 mmol/L)
-  **Presión arterial**                                            &gt;=130/80 mm Hg
-  **TG**                                                          &gt;=150 mg/dL (1,7 mmol/L)
-  **C-DHL**                                                       -
-  \_                                                              Hombres: &lt;40 mg/dL (1,04 mmol/L)
-  \_                                                              Mujeres: &lt;50 mg/dL (1,3 mmol/L)
-
-El síndrome metabólico está presente cuando se cumblen tres o más de los
-cinco criterios. \# Parte teórica \#\# Que es
+Que es
+------
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se
 presentan al mismo tiempo cuya presencia aumentan el riesgo de

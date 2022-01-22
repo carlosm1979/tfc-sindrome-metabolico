@@ -1,4 +1,4 @@
-### tabla 1
+##### tabla 1
 **Evolución histórica de los criterios del síndrome metabólico**
 
 Denomina | Autor | Año | Criterios y factores de riesgo asociado
