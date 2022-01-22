@@ -27,10 +27,15 @@ Indice general
         -   SM en la mujer
             -   Menopausia
         -   SN en la tercera edad
-    -   Relación con la alimentación
-    -   Hábitos de vida
-    -   Prevención y Tratamiento
+    -   [Prevención](#prevencion)
+    -   [Relación con la alimentación](#relacion-con-la-alimentacion)
+    -   [Hábitos de vida](#habitos-de-vida)
+    -   Diagnostico
+    -   Factores de riesgo
+    -   [Tratamiento](#tratamiento)
+
     -   Patologías relacionadas
+
 -   [Material y métodos](#material-y-métodos)
 -   [Resultados](#resultados)
 -   [Discusión](#difusión)
@@ -51,13 +56,19 @@ En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
 a la insulina, dislipidemia e hipertensión, que 1999 la OMS denomiana
 'síndrome metabólico'.[1](#1)
 
-Diversas instituciones han establecido criterios buscando definir la
-lista de factores que lo componen, siendo los aceptados de forma común:
-obesidad abdominal, dislipidemia aterogénica, aumento de la presión
-arterial, resistencia insulina, estado proinflamatorio y estado
-protrombótico. Aunque no se ha llegado a un acuerdo sobre todos los
-factores y varemos que pudieran determinar el diagnóstico del SM com
-tal.
+SM es el conjunto de alteraciones metabólicas y vasculares que parten de
+la obesidad abdominal y la resistencia insulina, fenómenos que a través
+de procesos inflamatorios, oxidativos y de disfunción endotelial,
+predisponen a un mayor riesgo de diabetes y eventos
+cardiovasculares.[2](#2)
+
+Diversos investigadores e instituciones han establecido criterios
+buscando definir la lista de factores que lo componen, siendo los
+aceptados de forma común: obesidad abdominal, dislipidemia aterogénica,
+aumento de la presión arterial, resistencia insulina, estado
+proinflamatorio y estado protrombótico. Aunque no se ha llegado a un
+acuerdo sobre todos los factores y varemos que pudieran determinar el
+diagnóstico del SM com tal.
 
 Finalmente se ha visto que el enfoque adecuado, en vez de pretender
 realizar un diagnóstico de SM que cumpla una lista cerrada de criterios,
@@ -65,12 +76,6 @@ sea una guía que ayude a detectar los factores de riesgo que pueden
 desembocar en diabetes y enfermedades cardiovasculares. De esta manera
 resulta una mejor herramienta clínica para la prevención y detección del
 riesgo de esas enfermedades.
-
-Así, desde el punto de vista operativo, SM es el conjunto de
-alteraciones metabólicas y vasculares que parten de la obesidad
-abdominal y la resistencia insulina, fenómenos que a través de procesos
-inflamatorios, oxidativos y de disfunción endotelial, predisponen a un
-mayor riesgo de diabetes y eventos cardiovasculares.[2](#2)
 
 Historia
 --------
@@ -108,15 +113,19 @@ enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
 Como identificarlo
 ------------------
 
-### Factores de riesgo
+### Prevención
 
--   **Circunferencia grande de cintura**
--   **Colesterol bueno o de lipoproteínas de alta densidad reducido**\
--   **Glucosa sanguínea en ayunas elevada**\
--   **Hipertensión arterial**\
--   **Niveles elevados de triglicéridos**
+La prevención es uno de los elementos clave para el control de esta
+enfermedad, ya que se ha estimado que unos correctos hábitos
+alimentarios y de estilo de vida son suficientes para prevenir su
+aparición en 90 de cada 100 casos, puesto que la investigación muestra
+que sólo un 10% se debe a herencia genética.
 
-### Relación con la alimentación
+Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
+demostrado ser efectivas para mejorar el control metabólico, el riesgo
+cardiovascular y aumentar la esperanza de vida.
+
+#### Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
 adaptado a las necesidades de cada individuo. Debe considerar la edad,
@@ -139,12 +148,11 @@ Como regla general, los hábitos alimentarios deben basarse en:
 -   **aumentar el consumo de pescado, especialmente el de pescado azul**
 -   **incrementar la ingesta de frutas, verduras y cereales integrales**
 
-### Hábitos de vida
+#### Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
 -   **sedentarismo**\
-    Prueba
 -   **un elevado consumo calórico a través de bebidas azucaradas y
     alimentos ricos en grasa saturada**
 -   **disminución en el consumo de fibra**
@@ -161,18 +169,21 @@ población.
     calórico como pasear, andar en bici, nadar o hacer excursionismo**\
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
+    \#\#\# Diagnóstico
 
-### Prevención y Tratamiento
+#### Factores de riesgo
 
-La prevención es uno de los elementos clave para el control de esta
-enfermedad, ya que se ha estimado que unos correctos hábitos
-alimentarios y de estilo de vida son suficientes para prevenir su
-aparición en 90 de cada 100 casos, puesto que la investigación muestra
-que sólo un 10% se debe a herencia genética.
+-   **Circunferencia grande de cintura**
+-   **Colesterol bueno o de lipoproteínas de alta densidad reducido**\
+-   **Glucosa sanguínea en ayunas elevada**\
+-   **Hipertensión arterial**\
+-   **Niveles elevados de triglicéridos**
 
-Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
-demostrado ser efectivas para mejorar el control metabólico, el riesgo
-cardiovascular y aumentar la esperanza de vida.
+### Tratamiento
+
+Como síndrome, no existe un tratamiento específico para el conjunto de
+los factores que lo componen sino que deben afrontarse tratarse cada uno
+de los factores detectados por separado.
 
 Por grupos de población
 -----------------------
