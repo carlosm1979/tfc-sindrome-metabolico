@@ -87,8 +87,7 @@ Finalmente se busca determinar el conocimiento que tiene la población
 acerca del SM, y de como los hábitos de vida y de alimentación afectan a
 la aparición de la alteraciones de salud que lo componen.
 
-tabla 2
-=======
+##### tabla 2
 
   Criterios ATP III para el diagnóstico del síndrome metabólico   \_
   --------------------------------------------------------------- ------------------------------------------------------
