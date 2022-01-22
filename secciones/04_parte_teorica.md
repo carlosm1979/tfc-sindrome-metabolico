@@ -3,15 +3,21 @@
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se presentan al mismo tiempo cuya presencia aumentan el riesgo de enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
 
-## Como identificarlo
+## Diagnóstico
 
-### Prevención  
+### Factores de riesgo
+#### Circunferencia grande de cintura
+#### Colesterol bueno o de lipoproteínas de alta densidad reducido
+#### Glucosa sanguínea en ayunas elevada
+#### Hipertensión arterial
+#### Niveles elevados de triglicéridos
+## Prevención  
 
 La prevención es uno de los elementos clave para el control de esta enfermedad, ya que se ha estimado que unos correctos hábitos alimentarios y de estilo de vida son suficientes para prevenir su aparición en 90 de cada 100 casos, puesto que la investigación muestra que sólo un 10% se debe a herencia genética.
 
 Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han demostrado ser efectivas para mejorar el control metabólico, el riesgo cardiovascular y aumentar la esperanza de vida.
 
-#### Relación con la alimentación
+### Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y adaptado a las necesidades de cada individuo. Debe considerar la edad, el sexo, la actividad física, el estado metabólico, la situación económica y los alimentos típicos y disponibles del lugar de origen del individuo.
 
@@ -26,7 +32,7 @@ Como regla general, los hábitos alimentarios deben basarse en:
 - **incrementar la ingesta de frutas, verduras y cereales integrales**
 
  
-#### Hábitos de vida
+### Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
@@ -40,18 +46,10 @@ La actividad física es parte fundamental tanto del tratamiento de los pacientes
 - **Aparcando actividades sedentarias como la televisión o los videojuegos**  
 - **Actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo**  
 - **Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración de al menos 30 minutos** 
-### Diagnóstico
 
-#### Factores de riesgo
-- **Circunferencia grande de cintura**
-- **Colesterol bueno o de lipoproteínas de alta densidad reducido**  
-- **Glucosa sanguínea en ayunas elevada**  
-- **Hipertensión arterial**  
-- **Niveles elevados de triglicéridos**
+## Tratamiento
 
-### Tratamiento
-
-Como síndrome, no existe un tratamiento específico para el conjunto de los factores que lo componen sino que deben afrontarse tratarse cada uno de los factores detectados por separado.
+Como síndrome, no hay establecido un tratamiento específico para el conjunto de los factores que lo componen sino que deben tratarse cada una de las enfermedades por separado.
 
 
 

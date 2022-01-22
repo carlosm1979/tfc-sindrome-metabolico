@@ -27,12 +27,21 @@ Indice general
         -   SM en la mujer
             -   Menopausia
         -   SN en la tercera edad
+    -   [Diagnóstico](#Diagnóstico)
+    -   [Factores de riesgo](#Factores-de-riesgo)
+        -   [Circunferencia grande de
+            cintura](#Circunferencia-grande-de-cintura)
+        -   [Colesterol bueno o de lipoproteínas de alta densidad
+            reducido](#Colesterol-bueno-o-de-lipoproteínas-de-alta-densidad-reducido)
+        -   [Glucosa sanguínea en ayunas
+            elevada](#Glucosa-sanguínea-en-ayunas-elevada)
+        -   [Hipertensión arterial](#Hipertensión-arterial)
+        -   [Niveles elevados de
+            triglicéridos](#Niveles-elevados-de-triglicéridos)
     -   [Prevención](#prevencion)
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
-    -   Diagnostico
-    -   Factores de riesgo
     -   [Tratamiento](#tratamiento)
 
     -   Patologías relacionadas
@@ -53,30 +62,40 @@ Indice tablas
 Introducción
 ============
 
-En 1988 Gerarld Reaven llamó 'síndrome X' a la agrupación de resistencia
-a la insulina, dislipidemia e hipertensión, que 1999 la OMS denomiana
-'síndrome metabólico'.[1](#1)
+Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
+vasculares que parten de la obesidad abdominal y la resistencia
+insulina, fenómenos que a través de procesos inflamatorios, oxidativos y
+de disfunción endotelial, predisponen a un mayor riesgo de diabetes y
+eventos cardiovasculares.[2](#2)
 
-SM es el conjunto de alteraciones metabólicas y vasculares que parten de
-la obesidad abdominal y la resistencia insulina, fenómenos que a través
-de procesos inflamatorios, oxidativos y de disfunción endotelial,
-predisponen a un mayor riesgo de diabetes y eventos
-cardiovasculares.[2](#2)
+El primer intento de definición lo realizó Gerarld Reaven en 1988,
+cuando llamó 'síndrome X' a la agrupación de resistencia a la insulina,
+dislipidemia e hipertensión.[1](#1)
 
-Diversos investigadores e instituciones han establecido criterios
-buscando definir la lista de factores que lo componen, siendo los
-aceptados de forma común: obesidad abdominal, dislipidemia aterogénica,
-aumento de la presión arterial, resistencia insulina, estado
-proinflamatorio y estado protrombótico. Aunque no se ha llegado a un
-acuerdo sobre todos los factores y varemos que pudieran determinar el
+En 1999 la OMS cambió la denominación a 'Síndrome metabólico', y
+estableció una definición en la que considera que hay evidencia de que
+la resistencia a la insulina como es factor causal común de los
+componentes individuales del síndrome metabólico, aunque afectando de
+forma diferentes a cada uno de ellos. También que cada uno es un factor
+de riesgo cardiovascular pero en combinación son mucho más potentes. Y
+que el tratamiento no debe enfocarse únicamente al control de la
+glucosa, si no incluir también estrategias para reducir los factores de
+riesgo cardiovascular.
+
+Diversos investigadores e instituciones han establecido posteriormente
+criterios buscando definir la lista de factores que lo componen, siendo
+los aceptados de forma común: obesidad abdominal, dislipidemia
+aterogénica, aumento de la presión arterial, resistencia insulina,
+estado proinflamatorio y estado protrombótico. Aunque no se ha llegado a
+un acuerdo sobre todos los factores y varemos que pudieran determinar el
 diagnóstico del SM com tal.
 
 Finalmente se ha visto que el enfoque adecuado, en vez de pretender
 realizar un diagnóstico de SM que cumpla una lista cerrada de criterios,
-sea una guía que ayude a detectar los factores de riesgo que pueden
-desembocar en diabetes y enfermedades cardiovasculares. De esta manera
-resulta una mejor herramienta clínica para la prevención y detección del
-riesgo de esas enfermedades.
+sea entender el SM como una guía que ayude a detectar los factores de
+riesgo que pueden desembocar en diabetes y enfermedades
+cardiovasculares. De esta manera resulta una mejor herramienta clínica
+para la prevención y detección del riesgo de esas enfermedades.
 
 Historia
 --------
@@ -111,10 +130,23 @@ Es un conjunto de trastornos y factores de riesgo reconocidos que se
 presentan al mismo tiempo cuya presencia aumentan el riesgo de
 enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
 
-Como identificarlo
-------------------
+Diagnóstico
+-----------
 
-### Prevención
+### Factores de riesgo
+
+#### Circunferencia grande de cintura
+
+#### Colesterol bueno o de lipoproteínas de alta densidad reducido
+
+#### Glucosa sanguínea en ayunas elevada
+
+#### Hipertensión arterial
+
+#### Niveles elevados de triglicéridos
+
+Prevención
+----------
 
 La prevención es uno de los elementos clave para el control de esta
 enfermedad, ya que se ha estimado que unos correctos hábitos
@@ -126,7 +158,7 @@ Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
 demostrado ser efectivas para mejorar el control metabólico, el riesgo
 cardiovascular y aumentar la esperanza de vida.
 
-#### Relación con la alimentación
+### Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
 adaptado a las necesidades de cada individuo. Debe considerar la edad,
@@ -149,7 +181,7 @@ Como regla general, los hábitos alimentarios deben basarse en:
 -   **aumentar el consumo de pescado, especialmente el de pescado azul**
 -   **incrementar la ingesta de frutas, verduras y cereales integrales**
 
-#### Hábitos de vida
+### Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
@@ -170,21 +202,13 @@ población.
     calórico como pasear, andar en bici, nadar o hacer excursionismo**\
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
-    \#\#\# Diagnóstico
 
-#### Factores de riesgo
+Tratamiento
+-----------
 
--   **Circunferencia grande de cintura**
--   **Colesterol bueno o de lipoproteínas de alta densidad reducido**\
--   **Glucosa sanguínea en ayunas elevada**\
--   **Hipertensión arterial**\
--   **Niveles elevados de triglicéridos**
-
-### Tratamiento
-
-Como síndrome, no existe un tratamiento específico para el conjunto de
-los factores que lo componen sino que deben afrontarse tratarse cada uno
-de los factores detectados por separado.
+Como síndrome, no hay establecido un tratamiento específico para el
+conjunto de los factores que lo componen sino que deben tratarse cada
+una de las enfermedades por separado.
 
 Por grupos de población
 -----------------------
@@ -419,4 +443,5 @@ Abreviaturas
 
 SM: Síndrome Metabólico\
 IDF: Inernational Diabetes Federation\
-ATP: Adult Treatment Panel (ATP-III)
+ATP: Adult Treatment Panel (ATP-III)\
+OMS: Organización mundial de la salud

@@ -10,4 +10,4 @@ estado protrombótico: aumento del inhibidor de plasminógeno 1 y fibrinógeno.
 SM: Síndrome Metabólico  
 IDF: Inernational Diabetes Federation  
 ATP: Adult Treatment Panel (ATP-III)  
-
+OMS: Organización mundial de la salud
