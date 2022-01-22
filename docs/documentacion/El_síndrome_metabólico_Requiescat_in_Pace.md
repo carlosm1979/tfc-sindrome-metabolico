@@ -88,6 +88,21 @@ Tal vez el punto se hace aún más enfáticamente si se atiende la atención a l
 
 En conclusión, parece que hacer que el diagnóstico del síndrome metabólico no le traiga mucho en el camino de la comprensión fisiopatológica o la utilidad clínica, y decidir que las personas no lo tienen porque no cumplen con los cinco de los cinco criterios elegidos arbitrariamente pueden retenerIntervención terapéutica relevante.¿El concepto ATP III del síndrome metabólico tiene virtudes de redención?Esa es una pregunta que solo el lector puede responder.
 
+### tabla 2
+
+Criterios ATP III para el diagnóstico del síndrome metabólico | _
+--------- | ---
+ **Obesidad abdominal** | -
+ _ | Hombres: WC >40 pulgadas (102cm)
+ _ | Mujeres: WC >35 pulgadas (89cm)
+ **Grucosa en ayunas** | >=110 a <126mg/dL (>=6,1 a <=7,0 mmol/L)
+ **Presión arterial** | >=130/80 mm Hg
+ **TG** | >=150 mg/dL (1,7 mmol/L)
+ **C-DHL** | -
+ _ | Hombres: <40 mg/dL (1,04 mmol/L)
+ _ | Mujeres: <50 mg/dL (1,3 mmol/L)
+ El síndrome metabólico está presente cuando se cumblen tres o más de los cinco criterios.
+
 ![Tabla 1](/docs/tablas/El_sindrome_metabolico_Requiescat_in_Pace_tabla1.png)
 ![Tabla 2](/docs/tablas/El_sindrome_metabolico_Requiescat_in_Pace_tabla2.png)
 
