@@ -34,6 +34,9 @@ Indice general
 -   [Conclusión](#discusión)
 -   [Bibliografía](#bibliografía)
 
+Indice general
+==============
+
 [Historia](#tabla-2) \pagebreak
 
 Introducción
