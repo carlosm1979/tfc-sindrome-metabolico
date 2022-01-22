@@ -103,7 +103,19 @@ Criterios ATP III para el diagnóstico del síndrome metabólico | _
  _ | Mujeres: <50 mg/dL (1,3 mmol/L)
  El síndrome metabólico está presente cuando se cumblen tres o más de los cinco criterios.
 
-![Tabla 1](/docs/tablas/El_sindrome_metabolico_Requiescat_in_Pace_tabla1.png)
+##### Tabla 3
+
+Síndromes clínicos asociados a la resistencia a la insulina
+---------
+ Diabetes tiop 2
+ ECV
+ Hipertensión esencial
+ Síndrome de Ovario poliquístico
+ Enfermedad de hígrado graso no alcohólico
+ Ciertas formas de cancer
+ Apnea del sueño
+
+
 ![Tabla 2](/docs/tablas/El_sindrome_metabolico_Requiescat_in_Pace_tabla2.png)
 
 
