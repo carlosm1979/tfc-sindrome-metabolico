@@ -88,7 +88,7 @@ que pudieran determinar el diagnóstico del SM com tal.
 Actualmente lo que se está considenrado como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
 de criterios, sea entender el SM como una guía que ayude a detectar los
-factores de riesgo que pueden desembocar en diabetes melitus 2 y
+factores de riesgo que pueden desembocar en diabetes Mellitus 2 y
 enfermedades cardiovasculares. De esta manera resulta una mejor
 herramienta clínica para la prevención y detección del riesgo de esas
 enfermedades.
