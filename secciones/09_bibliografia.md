@@ -1,5 +1,10 @@
 # Bibliografía
 
+
+#### 1.[CALDERIN BOUZA, Raúl Orlando  y  ORLANDI GONZALEZ, Neraldo. Síndrome metabólico vs síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no?. Rev Cubana Endocrinol [online]. 2006, vol.17, n.3 [citado  2022-01-22]. Disponible en: <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006&lng=es&nrm=iso>. ISSN 1561-2953.](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006)
+
+
+
 1. [Córdova-Pluma VH, Castro-Martínez G, Rubio-Guerra A, Hegewisch ME. Breve crónica de la definición del síndrome metabólico. Med Int Méx 2014;30:312-328](https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf)
 2. [HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra. 2016, vol.39, n.2 [citado  2022-01-17], pp.269-289. ISSN 1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
 3. [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome metabólico y su prevalencia en la población que acude a una farmacia comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3 (4): 146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)

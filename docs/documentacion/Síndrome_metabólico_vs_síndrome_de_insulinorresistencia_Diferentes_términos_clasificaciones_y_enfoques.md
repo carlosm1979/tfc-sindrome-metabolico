@@ -9,7 +9,7 @@
 
 Hospital Clinicoquirúrgico Hermanos Ameijeiras 
 
-## Síndrome metabólico _vs_  síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no? 
+## Síndrome metabólico _vs_ síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no? 
 
 [Dr. Raúl Orlando Calderín Bouza1 y Dr. Neraldo Orlandi González2 ](#cargo)
 
