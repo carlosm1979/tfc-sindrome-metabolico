@@ -25,12 +25,15 @@ Indice general
         -   [Niveles elevados de
             triglicéridos](#Niveles-elevados-de-triglicéridos)
     -   Por grupos de población
-        -   SM en la infancia
         -   SM en adultos
         -   SM en la mujer
             -   Menopausia
+            -   Embarazo
+        -   SM en la infancia
         -   SN en la tercera edad
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
+        -   Cambios alimenticios y estilo de vida como estrategia para
+            la prevención del SM
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
@@ -85,9 +88,6 @@ sea entender el SM como una guía que ayude a detectar los factores de
 riesgo que pueden desembocar en diabetes y enfermedades
 cardiovasculares. De esta manera resulta una mejor herramienta clínica
 para la prevención y detección del riesgo de esas enfermedades.
-
-Historia
---------
 
 Objetivos
 =========
@@ -229,8 +229,15 @@ enfermedades como:
 Material y métodos
 ==================
 
+Precisar los material y métodos que se van a necesitar para desarrollar
+el trabajo. El objetivo será proporcionar al lector todos los detalles
+para que se pueda repetir dicho estudio.
+
 Resultados
 ==========
+
+En este apartado deberéis incluir los resultados de las encuestas y los
+resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
 Discusión
 =========
