@@ -169,7 +169,7 @@ cursa con aumento del peso corporal, siendo el incremento del diámetro
 de la circunferencia abdominal un indicador de obesidad.
 
 Se conoce que la obesidad aumenta el riesgo de aparición de ciertas
-enfermedades. A mayor IMC más riesgo[4](#4). [Tabla 2: Indice de Masa
+enfermedades. A mayor IMC más riesgo.[4](#4) [Tabla 2: Indice de Masa
 Corporal, Circunferencia Abdominal y Riesgo de Enfermedad
 Cardiovascular](#tabla-2)
 
