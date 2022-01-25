@@ -411,10 +411,32 @@ ISSN
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
 
-Tablas
+\pagebreak
+
+Anexos
 ======
 
-\pagebreak
+Vocabulario
+-----------
+
+dislipidemia aterogénica: elevación de triglicéridos y/o descenso de
+cHDL\
+estado proinflamatorio: aumento de la proteína c reactiva. Un estado
+proinflamatorio se caracteriza por un elevado número de citoquinas
+inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
+de plasminógeno 1 y fibrinógeno.
+
+Abreviaturas
+------------
+
+SM: Síndrome Metabólico\
+IDF: Inernational Diabetes Federation\
+ATP: Adult Treatment Panel (ATP-III)\
+OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
+Índice de masa corporal DM2: Diabetes Mellitus tipo 2
+
+Tablas
+======
 
 ##### tabla 1
 
@@ -569,26 +591,4 @@ Diabetes Federation (2006).**
   Japón \*\*                                                                                                                                                 Hombres = 90 cm                                                                Mujeres = 80 cm
   Sur América y Centro América                                                                                                       Usar las recomendaciones para Asiahasta tener nueva información.                                     
   Africa sub-Sahariana                                                                                                                    Usar los datos europeos hasta tener nueva información                                           
-  Poblaciones Árabes y del Mediterráneo.                                                                                                  Usar los datos europeos hasta tener nueva información                                           
-
-Anexos
-======
-
-Vocabulario
------------
-
-dislipidemia aterogénica: elevación de triglicéridos y/o descenso de
-cHDL\
-estado proinflamatorio: aumento de la proteína c reactiva. Un estado
-proinflamatorio se caracteriza por un elevado número de citoquinas
-inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
-de plasminógeno 1 y fibrinógeno.
-
-Abreviaturas
-------------
-
-SM: Síndrome Metabólico\
-IDF: Inernational Diabetes Federation\
-ATP: Adult Treatment Panel (ATP-III)\
-OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
-Índice de masa corporal DM2: Diabetes Mellitus tipo 2
+  Poblaciones Árabes y del Mediterráneo.                                                                                                  Usar los datos europeos hasta tener nueva información
