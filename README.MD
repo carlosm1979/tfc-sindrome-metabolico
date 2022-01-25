@@ -149,7 +149,8 @@ del Síndrome Metabólico (NCEP ATP III)](#tabla-3) [Tabla: Diagnóstico de
 Síndrome Metabólico. Criterios de la IDF (International Diabetes
 Federation](#tabla-4). No existen unos varemos aceptados universalmente
 y se ha detectado que los valores de corte difieren según la étnica de
-los grupos de población.[Tabla 5](#tabla-5)
+los grupos de población.[Tabla: Valores de circunferencia abdominal
+indicándose la especificidad étnica](#tabla-5)
 
 ### Factores de riesgo
 
@@ -546,7 +547,7 @@ Diabetes Federation (2006).**
 
 ##### tabla 5
 
-  **Valores de circunferencia abdominal indicándose la especificidad étnica.**                                                                                                                                                            
+  **Valores de circunferencia abdominal indicándose la especificidad étnica**                                                                                                                                                             
   ---------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------- -----------------
   Europeos\*                                                                                                                                                 Hombres = 94 cm                                                                Mujeres = 80 cm
   USA: es probable seguir con ATP III                                                                                                                        Hombres = 102 cm                                                               Mujeres = 88 cm
