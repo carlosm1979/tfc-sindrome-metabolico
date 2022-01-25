@@ -144,10 +144,12 @@ que cuando está presente en un paciente es indicador de un elevado
 riesgo cardiovascular.
 
 Como se ha indicado ha habido varios intentos para establecer unos
-criterios que ayuden a diagnosticar SM [Tabla 3](#3) [Tabla 4](#4). No
-existen unos varemos aceptados universalmente y se ha detectado que los
-valores de corte difieren según la étnica de los grupos de
-población.[Tabla 5](#5)
+criterios que ayuden a diagnosticar SM [Tabla: Criterios diagnósticos
+del Síndrome Metabólico (NCEP ATP III)](#tabla-3) [Tabla: Diagnóstico de
+Síndrome Metabólico. Criterios de la IDF (International Diabetes
+Federation](#tabla-4). No existen unos varemos aceptados universalmente
+y se ha detectado que los valores de corte difieren según la étnica de
+los grupos de población.[Tabla 5](#tabla-5)
 
 ### Factores de riesgo
 
@@ -158,7 +160,9 @@ cursa con aumento del peso corporal, siendo el incremento del diámetro
 de la circunferencia abdominal un indicador de obesidad.
 
 Se conoce que la obesidad aumenta el riesgo de aparición de ciertas
-enfermedades. A mayor IMC más riesgo[4](#4). [Tabla 2](#tabla-2)
+enfermedades. A mayor IMC más riesgo[4](#4). [Tabla: Indice de Masa
+Corporal, Circunferencia Abdominal y Riesgo de Enfermedad
+Cardiovascular](#tabla-2)
 
 Uno de los efectos secundarios del sobrepeso y la obesidad es la
 aparición de un aumento en los niveles plasmáticos de insulina
@@ -507,8 +511,8 @@ Enfermedad Cardiovascular**
 
 ##### tabla 3
 
-  **Criterios diagnósticos del Síndrome Metabólico (NCEP ATP III).**
-  --------------------------------------------------------------------
+  **Criterios diagnósticos del Síndrome Metabólico (NCEP ATP III)**
+  -------------------------------------------------------------------
   Obesidad Abdominal
   Hombres &gt;102 cm Mujeres &gt; 88 cm\*\*
   Presión Arterial ( = 130 / 85)
