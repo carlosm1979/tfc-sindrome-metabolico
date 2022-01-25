@@ -301,6 +301,8 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 Discusión
 =========
 
+\pagebreak
+
 Conclusión
 ==========
 
