@@ -38,7 +38,10 @@ Del Cuadro anterior se puede deducir que:
 
 Uno de los efectos secundarios del sobrepeso y la obesidad es la aparición de un aumento en los niveles plasmáticos de insulina
 
-El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
+El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona. Esta falta de sensibilidad provoca como respuesta un aumento excesivo de su producción; que puede desenvocar en una disfunsión metabólica y a la aparición de, entre otras patologías: DM2, ECV, dislipidemias, síndrome de ovario poliquístico e hipertensión arterial.
+
+## Distribución corporal del tejido adiposo en el Síndrome Metabólico
+
 
 Un aspecto fundamental de la obesidad que se asocia con el riesgo a la aparición del síndrome metabólico es la distribución preferencial del TA. En general se describen dos grandes tipos de distribución del tejido adiposo:
 - La topografía ginecoide, caracterizada por la acumulación del TA en el tejido subcutáneo glúteo femoral, que se considera *benigna*, pues no favorece la aparición del síndrome.
@@ -56,3 +59,4 @@ Esta diferencia se relaciona con:
 
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en que cuando está presente en un paciente es indicador de un elevado riesgo cardiovascular.
 
+Como se ha indicado ha habido varios intentos para establecer unos criterios que ayuden a diagnosticar SM. No existen unos varemos aceptados universalmente y se ha detectado que los valores de corte difieren según la étnica de los grupos de población.

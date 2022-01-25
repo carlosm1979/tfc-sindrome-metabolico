@@ -12,3 +12,5 @@ IDF: Inernational Diabetes Federation
 ATP: Adult Treatment Panel (ATP-III)  
 OMS: Organización mundial de la salud
 RI: Resistencia a la insulina
+IMC: Índice de masa corporal
+DM2: Diabetes Mellitus tipo 2

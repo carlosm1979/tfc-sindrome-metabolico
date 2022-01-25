@@ -10,6 +10,10 @@
 ##### 3
 [HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra. 2016, vol.39, n.2 [citado  2022-01-17], pp.269-289. ISSN 1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
 
+##### 4
+
+[SCHNELL, Mercedes; DOMINGUEZ, Zury A  y  CARRERA, Carlos. Aspectos genéticos, clínicos y fisiopatológicos del Síndrome Metabólico. An Venez Nutr [online]. 2007, vol.20, n.2 [citado  2022-01-25], pp.92-98. Disponible en: <http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006&lng=es&nrm=iso>. ISSN 0798-0752](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006)
+
 ---
 
 1. [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome metabólico y su prevalencia en la población que acude a una farmacia comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3 (4): 146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
