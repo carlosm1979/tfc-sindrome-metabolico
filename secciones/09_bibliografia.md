@@ -1,6 +1,7 @@
 # Bibliografía
 
 **Introducción**
+
 ##### 1
 [CALDERIN BOUZA, Raúl Orlando  y  ORLANDI GONZALEZ, Neraldo. Síndrome metabólico vs síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no?. Rev Cubana Endocrinol [online]. 2006, vol.17, n.3 [citado  2022-01-22]. Disponible en: <http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006&lng=es&nrm=iso>. ISSN 1561-2953.](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006)
 
