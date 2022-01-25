@@ -36,6 +36,8 @@ Del Cuadro anterior se puede deducir que:
 
 ## Síndrome de Resistencia a la Insulina
 
+Uno de los efectos secundarios del sobrepeso y la obesidad es la aparición de un aumento en los niveles plasmáticos de insulina
+
 El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad tisular a la acción de la hormona
 
 Un aspecto fundamental de la obesidad que se asocia con el riesgo a la aparición del síndrome metabólico es la distribución preferencial del TA. En general se describen dos grandes tipos de distribución del tejido adiposo:
@@ -52,4 +54,5 @@ Esta diferencia se relaciona con:
 
 ## Diagnóstico de Síndrome Metabólico
 
+La importancia de hacer el diagnóstico de Síndrome Metabólico radica en que cuando está presente en un paciente es indicador de un elevado riesgo cardiovascular.
 

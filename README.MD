@@ -143,6 +143,13 @@ Diagnóstico
 
 #### Circunferencia grande de cintura
 
+La obesidad es el aumento en la acumulación de tejido adiposo (TA) que
+cursa con aumento del peso corporal, siendo el incremento del diámetro
+de la circunferencia abdominal un indicador de obesidad.
+
+Se conoce que la obesidad aumenta el riesgo de aparición de ciertas
+enfermedades. [Tabla 2](#tabla-2)
+
 #### Colesterol bueno o de lipoproteínas de alta densidad reducido
 
 #### Glucosa sanguínea en ayunas elevada
@@ -150,6 +157,36 @@ Diagnóstico
 #### Hipertensión arterial
 
 #### Niveles elevados de triglicéridos
+
+Por grupos de población
+-----------------------
+
+### SM en la infrancia
+
+### SM en adultos
+
+### SM en la mujer
+
+#### menopausia
+
+### SN en la tercera edad
+
+### Patologías relacionadas
+
+Relación entre el SM y:
+
+-   el cáncer colorrectal
+-   cáncer de mama
+-   cáncer de próstata
+
+El SM confiere un riesgo importante para el desarrollo de otras
+enfermedades como:
+
+-   la esteatosis hepática,
+-   el síndrome de apnea del sueño,
+-   la enfermedad renal crónica,
+-   el síndrome del ovario poliquístico
+-   la infertilidad masculina
 
 Tratamiento y prevención
 ------------------------
@@ -212,36 +249,6 @@ población.[3](#3)
     calórico como pasear, andar en bici, nadar o hacer excursionismo**\
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
-
-Por grupos de población
------------------------
-
-### SM en la infrancia
-
-### SM en adultos
-
-### SM en la mujer
-
-#### menopausia
-
-### SN en la tercera edad
-
-### Patologías relacionadas
-
-Relación entre el SM y:
-
--   el cáncer colorrectal
--   cáncer de mama
--   cáncer de próstata
-
-El SM confiere un riesgo importante para el desarrollo de otras
-enfermedades como:
-
--   la esteatosis hepática,
--   el síndrome de apnea del sueño,
--   la enfermedad renal crónica,
--   el síndrome del ovario poliquístico
--   la infertilidad masculina
 
 Material y métodos
 ==================
@@ -354,6 +361,9 @@ diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra.
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
 
+Tablas
+======
+
 \pagebreak
 
 ##### tabla 1
@@ -436,6 +446,30 @@ diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra.
                                              International Association for the Study of                                                
                                              Obesity                                                                                   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de
+Enfermedad Cardiovascular**
+
+  ---------------------------------------------------------------------
+  Categoria        IMC               Hombres&lt; 102   Hombres&lt; 102
+                                     cm Mujeres &lt;   cm Mujeres &lt;
+                                     88 cm 1,3         88 cm
+  ---------------- ----------------- ----------------- ----------------
+  Peso Bajo        &lt;18.5          -                 -
+
+  Normal           18.5 - 24.9       -                 Leve-Moderada
+
+  Sobrepeso        25 - 29.9         Moderado          Alto
+
+  Obesidad         -                 -                 -
+
+  Clase I          30 - 34.9         Alto              Muy alto
+
+  Clase II         35 - 39.9         Muy alto          Muy alto
+
+  Clase III        &gt;40            Extremadamente    Extremadamente
+                                     alto              alto
+  ---------------------------------------------------------------------
 
 Anexos
 ======
