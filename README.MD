@@ -14,7 +14,7 @@ Indice general
 -   [Parte teórica](#parte-teórica)
     -   Que es\
         *Patologías relacionadas*
-    -   [Diagnóstico](#Diagnóstico)
+    -   [Diagnóstico](#diagnóstico)
         -   [Factores de riesgo](#Factores-de-riesgo)
             -   [Circunferencia grande de
                 cintura](#Circunferencia-grande-de-cintura)
