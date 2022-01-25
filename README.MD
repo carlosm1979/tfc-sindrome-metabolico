@@ -306,6 +306,8 @@ Discusión
 Conclusión
 ==========
 
+\pagebreak
+
 Bibliografía
 ============
 
