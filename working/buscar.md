@@ -1,5 +1,11 @@
 **térmimos sobre los que buscar información**
 
+
+---
+- Un mal funcionamiento de la ipofisis puede generar sindrome metabólico
+
+
+
 ---
 
 SM Por grupos de edad
