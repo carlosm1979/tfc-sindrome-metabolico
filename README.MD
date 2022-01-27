@@ -198,6 +198,11 @@ Por grupos de población
 
 ### SM en la infrancia
 
+En niños la circunferencia de cintura es predictora del síndrome de
+insulinorresistencia, recomendándose su lectura en la práctica clínica
+como herramienta simple para identificar a niños con riesgo de presentar
+en un futuro ECV y diabetes tipo II.[4](#4)
+
 ### SM en adultos
 
 ### SM en la mujer
@@ -347,7 +352,10 @@ Disponible en:
 ISSN
 0798-0752](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006)
 
-------------------------------------------------------------------------
+##### 5
+
+[Estudio de la obesidad, síndrome metabólico, comorbilidad y estado nutricional en pacientes no institucionalizados mayores de 64 años del área de salud de A Coruña, Mª Pilar Carballo González, http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
     metabólico y su prevalencia en la población que acude a una farmacia

@@ -9,7 +9,8 @@ presentes en una muestra de 793 pacientes no institucionalizados, mayores de 64 
 
 El estado nutricional en el envejecimiento está influido por aspectos psicosociales, médicos, funcionales [10] y por supuesto dietéticos.
 
-## 1.2. Modificaciones asociadas al envejecimiento y su relación con aspectos nutricionales
+# I. Introducción
+## I.1.2. Modificaciones asociadas al envejecimiento y su relación con aspectos nutricionales
 
 Con el envejecimiento, ocurren una serie de modificaciones fisiológicas, morfológicas y funcionales.
 
@@ -19,9 +20,9 @@ Con el envejecimiento, ocurren una serie de modificaciones fisiológicas, morfol
   La infiltración de lípidos en el músculo puede desempeñar un papel importante en el perfil metabólico adverso, asociado con la pérdida de músculo en el envejecimiento [20], con la hipertensión arterial y con una tolerancia anormal a la glucosa  
 - Tanto los hombres como las mujeres van a experimentar cambios en la distribución de la composición corporal  
 - 
-# 2. Obesidad
+# I.2. Obesidad
 
-## 2.1 Concepto y prevalencia
+## I.2.1 Concepto y prevalencia
 
 Según la OMS el sobrepeso y la obesidad se definen como una acumulación anormal o excesiva de grasa que puede afectar a la salud.
 
@@ -31,7 +32,7 @@ En la obesidad es necesario conocer no sólo la cantidad total de la grasa corpo
 
 La prevalencia de la obesidad se desencadena en todos los países sin excepción, por un mayor consumo de alimentos hipercalóricos (azúcares, grasas no saludables) y alto contenido en sal, a la vez con una menor calidad nutritiva y acompañado de una actividad física deficiente.
 
-## 2.2. Técnicas aplicadas para su evaluación
+## I.2.2. Técnicas aplicadas para su evaluación
 
 La obesidad precisa la adopción de criterios de diagnóstico para definir el exceso de grasa en el cuerpo. Por lo cual, los parámetros deben de estar restringidos a ciertos grupos determinados por sexo, edad y raza / etnia; y se deben recomendar, únicamente,a la población para la cual fueron determinados.
 
@@ -39,7 +40,7 @@ Así en la pubertad debido al crecimiento, al desarrollo de varios tejidos y com
 
 Se considera que un individuo tiene sobrepeso si su índice de masa corporal (kg/m2) está entre los percentiles 85 y 95 para su edad y sexo; se habla de obesidad si sobrepasa el percentil 95.
 
-## 2.2.1. Antropometría
+## I.2.2.1. Antropometría
 
  La recolección de datos antropométricos de peso, altura, circunferencia de brazo, muñeca, pantorrilla, cintura, cadera, y los índices que derivan de estos parámetros, además de la medida de los pliegues cutáneos, pueden ser usados para la determinación indirecta del grado obesidad en la población, de forma no  invasiva y económica.
 
@@ -61,7 +62,7 @@ En un estudio realizado en una consulta de endocrinología y nutrición unos val
 
 Los autores concluyen afirmando que el índice cintura/altura debería incluirse entre los valores antropométricos en la exploración física, aunque señalan asimismo que habría que establecer los valores con mayor nivel de sensibilidad y especificidad para poder predecir la aparición de síndrome metabólico en la población.
 
-## 2.3. Obesidad en personas mayores de edad
+## I.2.3. Obesidad en personas mayores de edad
 
 Hay resultados que nos muestran que una alta cantidad de grasa corporal es un predictor independiente de la discapacidad relacionada con la movilidad en los hombres y las mujeres de más edad. Estos hallazgos sugieren que la alta cantidad de grasa corporal en la edad avanzada se debe evitar para reducir el riesgo de discapacidad.
 
@@ -75,7 +76,7 @@ Hay pacientes en los que el IMC efectuará una valoración inexacta de la adipos
 
 Las personas corpulentas y/o con mucha masa muscular (deportistas) pueden clasificarse incorrectamente como obesas, pero en el otro extremo las personas con pérdida de masa muscular pero con gran cantidad de tejido adiposo podrían clasificarse como bien nutridas sin estarlo, ello ocurre en las personas obesas de edad avanzada.
 
-### 2.3.1. Medidas antropométricas en las personas mayores
+### I.2.3.1. Medidas antropométricas en las personas mayores
 
 #### c. Índice de masa corporal
 
@@ -85,7 +86,7 @@ Los valores bajos de la masa corporal magra están probablemente mejor reflejado
 
 #### d. Circunferencia de cintura, diámetro abdominal sagital, índice cintura/cadera, e índice cintura /altura
 
-## 2.4. Sarcopenia
+## I.2.4. Sarcopenia
 
 La sarcopenia (del griego sarx, carne, y penia, pobreza) es la pérdida de masa muscular esquelética por envejecimiento.
 
@@ -114,13 +115,13 @@ La reducción de peso simplemente, también puede aliviar la carga mecánica sob
 
 Sin embargo, mientras no se pruebe una estrategia que permita prevenir pérdida de masa muscular, se debe de evitar promover la pérdida de peso mediante la restricción calórica, en los individuos con obesidad sarcopénica.
 
-# 3. Síndrome metabólico
+# I.3. Síndrome metabólico
 
-## 3.1. Evolución histórica
+## I.3.1. Evolución histórica
 
 El introductor de la endocrinología en España, Gregorio Marañón (1887-1960), escribe sobre la patología de la obesidad y su tratamiento endocrino en su obra: «Gordos y flacos» (1926). En esta, Marañón repasa los conocimientos etiopatogénicos acerca de la obesidad de la época, dándole importancia al factor endocrino. Así mismo, realiza distintas publicaciones sobre las patologías que se relacionan con el síndrome metabólico (diabetes, hipertensión, gota, arteriosclerosis…), escribiendo también acerca de la adiposidad abdominal en el climaterio. [109].
 
-## 3.2. Concepto y prevalencia
+## I.3.2. Concepto y prevalencia
 
 La circunferencia de la cintura es una medida que se correlaciona con la cantidad de tejido adiposo visceral y la resistencia a la insulina. Asimismo la medida de la obesidad abdominal se asocia fuertemente con el aumento de riesgo cardiometabólico, las patologías cardiovasculares y la mortalidad.
 
@@ -134,7 +135,7 @@ Las personas con SM tienen el doble de riesgo de padecer enfermedad cardiovascul
 
 Encuentran también relación entre hiperuricemia y síndrome metabólico: la prevalencia de hiperuricemia es cuatro veces mayor en los pacientes con hipertensión y síndrome metabólico asociado, que en los que sólo presenten hipertensión.
 
-## 3.3. Síndrome metabólico en la vejez
+## I.3.3. Síndrome metabólico en la vejez
 
 El proceso de envejecimiento se asocia principalmente con cifras alteradas en la glucemia, motivado por la disminución de la acción de la insulina. La relación entre la resistencia a la insulina y la edad ha sido explicada por cuatro principales vías:  
 - Cambios antropométricos (aumento de masa grasa con disminución de masa muscular).  
