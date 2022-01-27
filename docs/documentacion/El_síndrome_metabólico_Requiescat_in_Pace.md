@@ -1,3 +1,5 @@
+[ver resumen](/docs/resumenes/El_síndrome_metabólico_Requiescat_in_Pace.md)
+
 [The Metabolic Syndrome: Requiescat in Pace](https://academic.oup.com/clinchem/article/51/6/931/5629897)
 
 #  The Metabolic Syndrome: Requiescat in Pace 
