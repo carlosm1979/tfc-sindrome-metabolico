@@ -372,8 +372,12 @@ ISSN
 
 ##### 5
 
-[Estudio de la obesidad, síndrome metabólico, comorbilidad y estado nutricional en pacientes no institucionalizados mayores de 64 años del área de salud de A Coruña, Mª Pilar Carballo González, http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
+nutricional en pacientes no institucionalizados mayores de 64 años del
+área de salud de A Coruña, Mª Pilar Carballo González,
+http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
+
+------------------------------------------------------------------------
 
 1.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
     metabólico y su prevalencia en la población que acude a una farmacia
