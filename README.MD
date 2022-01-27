@@ -267,7 +267,7 @@ Como regla general, los hábitos alimentarios deben basarse en[3](#3):
 
 Favorecen el desarrollo del SM otros factores[3](#3):
 
--   **sedentarismo**\
+-   **sedentarismo**
 -   **un elevado consumo calórico a través de bebidas azucaradas y
     alimentos ricos en grasa saturada**
 -   **disminución en el consumo de fibra**
@@ -279,9 +279,9 @@ desarrollarla y debe de ser incluida en la vida cotidiana de la
 población.[3](#3)
 
 -   **Aparcando actividades sedentarias como la televisión o los
-    videojuegos**\
+    videojuegos**
 -   **Actividades de ocio al aire libre orientadas a un mayor consumo
-    calórico como pasear, andar en bici, nadar o hacer excursionismo**\
+    calórico como pasear, andar en bici, nadar o hacer excursionismo**
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
 
