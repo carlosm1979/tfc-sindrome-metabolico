@@ -209,9 +209,27 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 
 #### menopausia
 
-### SN en la tercera edad
+### SN en la tercera edad [4](#4)
 
-### Patologías relacionadas
+El proceso de envejecimiento se asocia principalmente con cifras
+alteradas en la glucemia, motivado por la disminución de la acción de la
+insulina.
+
+La relación entre la resistencia a la insulina y la edad ha sido
+explicada por cuatro principales vías:
+
+-   Cambios antropométricos (aumento de masa grasa con disminución de
+    masa muscular).
+-   Cambios ambientales (hábitos dietéticos y disminución de actividad
+    física).
+-   Variaciones neurohormonales que pueden tener efecto opuesto a la
+    insulina.
+-   Aumento del estrés oxidativo.
+
+A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer
+sarcopenia; por lo que estas características pueden contribuir a la
+discapacidad física y a los trastornos metabólicos en adultos mayores
+con diabetes. \#\#\# Patologías relacionadas
 
 Relación entre el SM y:
 
@@ -444,6 +462,12 @@ IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
 OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
 Índice de masa corporal DM2: Diabetes Mellitus tipo 2
+
+Glosario
+--------
+
+**Sarcopenia**: Afección que se caracteriza por la pérdida de masa,
+fuerza y funcionamiento de los músculos en los adultos mayores.
 
 Tablas
 ======
