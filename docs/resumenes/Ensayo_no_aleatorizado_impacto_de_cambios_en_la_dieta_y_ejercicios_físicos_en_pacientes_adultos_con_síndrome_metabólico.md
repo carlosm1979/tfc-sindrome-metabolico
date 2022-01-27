@@ -26,7 +26,9 @@ El incremento de la actividad física y los ejercicios reducen los factores de r
 ## MÉTODOS
 
  Por muestreo intencional se asignaron 35 pacientes al grupo control y 34 al grupo experimental que presentaran SM y tuvieran ≥ 18 años.  
- Los pacientes se asignaron a los grupos de una población de 101 personas con SM.
- Se excluyeron mujeres embarazadas (n=19) y pacientes con enfermedades crónicas en etapa terminal (n=13).
- La intervención abarcó desde octubre de 2011 hasta abril 2012.
+ Los pacientes se asignaron a los grupos de una población de 101 personas con SM.  
+ Se excluyeron mujeres embarazadas (n=19) y pacientes con enfermedades crónicas en etapa terminal (n=13).  
+ La intervención abarcó desde octubre de 2011 hasta abril 2012.  
  El grupo control siguió sus actividades cotidianas y al grupo de intervención, se recomendó dieta hipocalórica balanceada y se aplicó un programa de ejercicios físicos aerobios de 30 semanas de duración.
+
+ 
