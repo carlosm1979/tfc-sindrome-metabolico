@@ -31,4 +31,54 @@ El incremento de la actividad física y los ejercicios reducen los factores de r
  La intervención abarcó desde octubre de 2011 hasta abril 2012.  
  El grupo control siguió sus actividades cotidianas y al grupo de intervención, se recomendó dieta hipocalórica balanceada y se aplicó un programa de ejercicios físicos aerobios de 30 semanas de duración.
 
+
+ La dieta sugerida:
  
+ - un déficit de 300 Kcal/día, repartidas en 50-60 % de glúcidos, menos del 30 % de grasas, 10-15 % de proteínas y menos de 300 mg de colesterol;
+ - se recomendó una ingesta baja en sal y rica en fibra dietética.
+ - Se recomendó el consumo de vegetales y frutas.
+ - Se comprobó cada 15 días el cumplimiento de la dieta y se realizaron las correcciones pertinentes para su adherencia.
+
+Programa de ejercicios
+
+30 semanas, con tres frecuencias semanales de 80 minutos de duración, en días alternos, para lograr el proceso de recuperación y con ello, la compensación de los compuestos macro energéticos fosforilados
+
+- Especificidad del entrenamiento:. Las adaptaciones del organismo son específicas para el tipo de ejercicio y los músculos involucrados.
+- De la sobrecarga. Para mejorar la aptitud física, el organismo tiene que someterse a una carga de trabajo superior a la que el individuo está acostumbrado.
+- Del aumento progresivo de la carga. El organismo tiene la capacidad de adaptarse con facilidad a la carga cuando se repite. Se debe incrementar de forma gradual la carga de trabajo.
+- De la individualidad. La respuesta es muy variable y depende de factores como la edad, el sexo, el nivel de aptitud física y el estado de salud.
+- De la reversibilidad. Los efectos positivos de la actividad física se pierden con relativa rapidez cuando se abandona el entrenamiento.
+- De la sistematicidad. Las adaptaciones al entrenamiento no se logran en pocos días de ejercicios o cuando se dejan prolongados lapsos de tiempo sin entrenar.
+
+
+Al comparar ambos grupos a las 30 semanas, disminuyeron significativamente:  
+- los valores de presión arterial diastólica
+- las concentraciones séricas de colesterol total
+- el índice colesterol total/HDL-colesterol
+
+aumentaron significativamente:
+- las concentraciones de HDL-colesterol en el grupo de intervención con relación al grupo control
+
+
+DISCUSIÓN
+
+La RI es un estado en que cantidades normales de insulina producen una respuesta biológica insuficiente para incrementar la utilización de la glucosa por los tejidos periféricos, especialmente hígado, músculo esquelético y tejido adiposo
+
+El programa de ejercicios físicos y las recomendaciones de dietas equilibradas que se aplicó en esta intervención, redujo las cifras de presión arterial diastólica y mejoró el perfil lipídico, debido a un efecto sinérgico de la dieta y los ejercicios físicos aerobios sobre el grado de adiposidad o sobre la RI. Una restricción calórica moderada y cambios en la actividad física y en la composición de la dieta constituyen estrategias de manejo primario.
+
+La inactividad física puede favorecer:
+- la producción endotelial de radicales de oxígeno en los vasos
+- la disfunción endotelial
+- la aterosclerosis
+por lo que el entrenamiento deportivo incrementa la biodisponibilidad de óxido nítrico y contribuye a la protección vascular 
+
+Otros mecanismos protectores del ejercicio físico son:
+- el incremento de las defensas antioxidantes
+- la reducción de la síntesis basal de oxidantes
+- el estrés oxidativo
+procesos asociados con los estadios iniciales de la aterosclerosis
+
+La falta de ejercicios físicos favorece también el depósito de grasa corporal y la obesidad  
+la combinación de dieta y ejercicios ayuda a prevenir y tratar el SM con mejores resultados  
+El ejercicio físico mejora la sensibilidad de la insulina en los diferentes tejidos y reduce el riesgo de SM  
+
