@@ -1,26 +1,6 @@
 [reusmen](/docs/resumenes/Fetal_nutrition_and_adult_disease.md)
 #  Fetal nutrition and adult disease 
 
-[![Issue Cover](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajcn/Issue/71/5/5/m_cover.jpeg?Expires=1645903480&Signature=LYptV96~DSsAmr9PEKgXM1JTC-Bc69Np5B4yHhye4GqnaQP2~cPzMaBF~131VAEaa0AArLLFpWOzFS7TglHY-qwhyCsr5nlml5L69rsNkfro~~lMvImpHKPWP35vHYqvwwvdIwAw9P88VzJjhfdn1c8YI3vAp~RUvvojjYgbFUlY76CwiiF9hDTb5SUCbAdj2UkTPlJXsuOsZ-D9Xvnbc2Kg1KvK~g5r3pOHVCsZ5sG75e7jOIbex63VpS82cjoe1cA4t515K1VIJ24sWXvL1oxNJNESriS29bg9swcVKqNlKZgWX96vNTPfTZ6KvABp6H6gCYbdACFJVVD~6UrG0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](/ajcn/issue/71/5) 
-
-[ Volume 71 Issue 5 ](/ajcn/issue/71/5) 
-
-May 2000 
-
-### Article Contents
-
-* [ABSTRACT](#111383620)
-* [PROGRAMMING AND THE “FETAL ORIGINS” HYPOTHESIS](#111383622)
-* [FETAL GROWTH AND CORONARY HEART DISEASE](#111383626)
-* [FETAL NUTRITION](#111383648)
-* [IMPLICATIONS AND FUTURE WORK](#111383678)
-* [REFERENCES](#111383682)
-* [FOOTNOTES](#111383683)
-
- Article Navigation 
-
-#  Fetal nutrition and adult disease 
-
 [Keith M Godfrey](javascript:;), 
 
  Keith M Godfrey[](javascript:;) 
@@ -56,777 +36,768 @@ Select Format Select format .ris (Mendeley, Papers, Zotero) .enw (EndNote) .bibt
 
 ## ABSTRACT
 
-Recent research suggests that several of the major diseases of later life, including coronary heart disease, hypertension, and type 2 diabetes, originate in impaired intrauterine growth and development. These diseases may be consequences of “programming,” whereby a stimulus or insult at a critical, sensitive period of early life has permanent effects on structure, physiology, and metabolism. Evidence that coronary heart disease, hypertension, and diabetes are programmed came from longitudinal studies of 25000 UK men and women in which size at birth was related to the occurrence of the disease in middle age. People who were small or disproportionate (thin or short) at birth had high rates of coronary heart disease, high blood pressure, high cholesterol concentrations, and abnormal glucose-insulin metabolism. These relations were independent of the length of gestation, suggesting that cardiovascular disease is linked to fetal growth restriction rather than to premature birth. Replication of the UK findings has led to wide acceptance that low rates of fetal growth are associated with cardiovascular disease in later life. Impaired growth and development in utero seem to be widespread in the population, affecting many babies whose birth weights are within the normal range. Although the influences that impair fetal development and program adult cardiovascular disease remain to be defined, there are strong pointers to the importance of the fetal adaptations invoked when the maternoplacental nutrient supply fails to match the fetal nutrient demand.
+Las investigaciones recientes sugieren que varias de las enfermedades principales de la vida posterior, incluida la enfermedad coronaria, la hipertensión y la diabetes tipo 2, se originan en el desarrollo y el desarrollo intrauterina afectados. Estas enfermedades pueden ser consecuencias de la "programación", por lo que un estímulo o un insulto en un período crítico y sensible de la vida temprana tiene efectos permanentes en la estructura, la fisiología y el metabolismo. Evidencia de que la enfermedad cardíaca coronaria, la hipertensión y la diabetes se programan provenientes de estudios longitudinales de 25000 hombres y mujeres del Reino Unido en los que el tamaño al nacer se relacionó con la ocurrencia de la enfermedad en la mediana edad. Las personas que eran pequeñas o desproporcionadas (delgadas o cortas) al nacer tenían tasas altas de enfermedad coronaria, presión arterial alta, concentraciones altas de colesterol y metabolismo anormal de la insulina de la glucosa. Estas relaciones fueron independientes de la duración de la gestación, lo que sugiere que la enfermedad cardiovascular está vinculada a la restricción de crecimiento fetal en lugar de al parto prematuro. La replicación de los hallazgos del Reino Unido ha llevado a una amplia aceptación de que las tasas bajas de crecimiento fetal se asocian con la enfermedad cardiovascular en la vida posterior. El crecimiento y el desarrollo de problemas en el útero parecen estar generalizados en la población, afectando a muchos bebés cuyos pesos al nacer están dentro del rango normal. Aunque las influencias que perjudican el desarrollo fetal y el programa de enfermedades cardiovasculares adultas, existen punteros fuertes a la importancia de las adaptaciones fetales invocadas cuando el suministro de nutrientes maternoplacional no coincide con la demanda de nutrientes fetales.
 
 [Maternal nutrition](javascript:;), [fetal growth retardation](javascript:;), [coronary heart disease](javascript:;), [hypertension](javascript:;), [type 2 diabetes](javascript:;), [polycystic ovary syndrome](javascript:;), [maternal body composition](javascript:;), [programming](javascript:;)
 
-## PROGRAMMING AND THE “FETAL ORIGINS” HYPOTHESIS
+## Programación y la hipótesis de "orígenes fetales".
+La hipótesis de "orígenes fetales" propone que las alteraciones en la nutrición fetal y el estado endocrino resultan en adaptaciones de desarrollo que cambien permanentemente la estructura, la fisiología y el metabolismo, predisponen a los individuos a enfermedades cardiovasculares, metabólicas y endocrinas en la vida adulta ([1] (JavaScript: ;)). El proceso por el cual un estímulo o insulto en un período de desarrollo sensible o crítico tiene efectos a largo plazo se denomina _Programming_ ([2] (JavaScript:;)). En términos evolutivos, es probable que el fenómeno refleje los beneficios de la plasticidad durante el desarrollo temprano. Consistente con esto, se piensa que la enfermedad cardíaca coronaria puede ser una consecuencia de las adaptaciones fetales a la desnutrición que son beneficiosas para la supervivencia a corto plazo, aunque son perjudiciales para la salud en la vida postrroductiva ([3] (JavaScript:;)).
 
-The “fetal origins” hypothesis proposes that alterations in fetal nutrition and endocrine status result in developmental adaptations that permanently change structure, physiology, and metabolism, thereby predisposing individuals to cardiovascular, metabolic, and endocrine disease in adult life ([1](javascript:;)). The process whereby a stimulus or insult at a sensitive or critical period of development has long-term effects is termed _programming_ ([2](javascript:;)). In evolutionary terms, the phenomenon is likely to reflect the benefits of plasticity during early development. Consistent with this, it is thought that coronary heart disease may be a consequence of fetal adaptations to undernutrition that are beneficial for short-term survival, even though they are detrimental to health in postreproductive life ([3](javascript:;)).
+Los estudios experimentales en animales han documentado muchos ejemplos de programación fetal, con estudios recientes que muestran que las alteraciones en la nutrición materna pueden tener efectos a largo plazo en la descendencia que son relevantes para la enfermedad cardiovascular humana. Por ejemplo, alimentar ratas embarazadas, una dieta baja en proteínas da como resultado una elevación de por vida de la presión arterial en la descendencia ([4] (JavaScript:;)). Ratas cuyas madres habían sido alimentadas una dieta con una proporción baja de proteínas a la energía durante el embarazo mostraron un equilibrio alterado permanentemente entre la producción y la utilización de la glucosa hepática; Las ratas de control alimentadas con la misma dieta durante la vida postnatal no tenían alteraciones en el metabolismo hepático de la glucosa ([5] (JavaScript:;)). Otros efectos notables a largo plazo de las alteraciones en la nutrición materna incluyen cambios en el metabolismo del colesterol, la secreción de insulina y el desarrollo renal ([3] (JavaScript:;)).
 
-Experimental studies in animals have documented many examples of fetal programming, with recent studies showing that alterations in maternal nutrition can have long-term effects on the offspring that are relevant to human cardiovascular disease. For example, feeding pregnant rats a low-protein diet results in lifelong elevation of blood pressure in the offspring ([4](javascript:;)). Rats whose mothers had been fed a diet with a low ratio of protein to energy during pregnancy showed a permanently altered balance between hepatic glucose production and utilization; control rats fed the same diet during postnatal life had no alterations in hepatic glucose metabolism ([5](javascript:;)). Other notable long-term effects of alterations in maternal nutrition include changes in cholesterol metabolism, insulin secretion, and renal development ([3](javascript:;)).
+Aunque algunos efectos de la nutrición pueden ser consecuencias directas de las alteraciones en la disponibilidad de sustratos, se cree que varios se median por los efectos hormonales. Estos pueden alterar el desarrollo de tejidos fetales específicos durante períodos sensibles de desarrollo ([6] (JavaScript:;), [7] (JavaScript:;)), o puede provocar cambios duraderos en la secreción de hormonas o la sensibilidad hormonal del tejido ( [8] (JavaScript:;)). Los experimentos en animales han implicado el hipotálamo fetal como un sitio clave que puede programarse por cambios transitorios en el estado endocrino prenatal ([3] (JavaScript:;)).
 
-Although some effects of nutrition may be direct consequences of alterations in substrate availability, several are thought to be mediated by hormonal effects. These may alter the development of specific fetal tissues during sensitive periods of development ([6](javascript:;), [7](javascript:;)), or may lead to long-lasting changes in hormone secretion or tissue hormone sensitivity ([8](javascript:;)). Experiments in animals have implicated the fetal hypothalamus as a key site that can be programmed by transient changes in prenatal endocrine status ([3](javascript:;)).
+## crecimiento fetal y enfermedad cardíaca coronaria
 
-## FETAL GROWTH AND CORONARY HEART DISEASE
+A principios del siglo XX, la incidencia de la enfermedad cardíaca coronaria se elevó abruptamente en los países occidentales para convertirse en la causa más común de muerte. En muchos de estos países, el aumento empinado fue seguido por una caída en las últimas décadas que no se pueden explicar por los cambios en el estilo de vida adulto. La incidencia de la enfermedad coronaria ahora está aumentando en otras partes del mundo a la que se extienden las influencias occidentales, incluyendo China, India y Europa del Este.
 
-At the start of the twentieth century, the incidence of coronary heart disease rose steeply in Western countries to become the most common cause of death. In many of these countries, the steep rise was followed by a fall over recent decades that cannot be accounted for by changes in adult lifestyle. The incidence of coronary heart disease is now rising in other parts of the world to which Western influences are extending, including China, India, and Eastern Europe.
+Aunque el pronunciado aumento de la enfermedad coronaria en Gran Bretaña y otros países occidentales se asoció con la creciente prosperidad, los estudios geográficos han demostrado que las tasas ahora son el doble de altas en las áreas más bajas del país y en los grupos de bajos ingresos ([3] (JavaScript :;)). Combinado con la capacidad limitada de los factores de riesgo de estilo de vida adulto para predecir la enfermedad cardíaca coronaria, esta paradoja llevó a la hipótesis de que las influencias adversas en la vida temprana pueden jugar un papel importante. El apoyo a esta hipótesis provino de la observación por Rose ([9] (JavaScript:;)) que los hermanos de los pacientes con enfermedad coronaria tenían tasas fetales y mortalidad infantil que eran el doble de altas como las de los sujetos de control. Esto lo llevó a concluir que "la enfermedad cardíaca isquémica tiende a ocurrir en individuos que provienen de una acción constitucionalmente más débil" ([9] (JavaScript:;)). Otro apoyo posteriormente provino de los estudios geográficos reportados por Forsdahl ([10] (JavaScript:;)), mostrando que la mortalidad infantil pasada se correlacionó con una enfermedad cardíaca arteriosclerótica posterior en los 20 condados de Noruega. Aunque estos estudios sugirieron que un mal nivel de vida en la infancia y la adolescencia fue un factor de riesgo para la enfermedad cardíaca, las comparaciones geográficas en Inglaterra y Gales apuntaron con más fuerza a la importancia de un entorno adverso en la vida intrauterina y la infancia temprana ([11] (JavaScript :;)). Las áreas con alta mortalidad neonatal y postneanatal a principios de este siglo se encontró que tuvieron tasas de MUERTE CORONIOS CORONARIOS MUERTE ([11] (JavaScript:;)). Debido a que el bajo peso al nacer está fuertemente asociado con una mortalidad neonatal y postneonatal elevada, estas observaciones llevaron a la hipótesis de que los bebés de bajo peso al nacer que sobrevivieron a la infancia y la infancia podrían tener un mayor riesgo de enfermedad coronaria como adultos.
 
-Although the steep rise in coronary heart disease in Britain and other Western countries was associated with rising prosperity, geographic studies have shown that rates are now twice as high in the poorer areas of the country and in lower-income groups ([3](javascript:;)). Combined with the limited ability of adult lifestyle risk factors to predict coronary heart disease, this paradox led to the hypothesis that adverse influences in early life might play an important role. Support for this hypothesis came from the observation by Rose ([9](javascript:;)) that siblings of patients with coronary heart disease had stillbirth and infant mortality rates that were twice as high as those of control subjects. This led him to conclude that “ischaemic heart disease tends to occur in individuals who come from a constitutionally weaker stock” ([9](javascript:;)). Further support subsequently came from geographic studies reported by Forsdahl ([10](javascript:;)), showing that past infant mortality correlated with later arteriosclerotic heart disease in the 20 counties of Norway. Although these studies suggested that a poor standard of living in childhood and adolescence was a risk factor for heart disease, geographic comparisons in England and Wales pointed more strongly to the importance of an adverse environment in intrauterine life and early infancy ([11](javascript:;)). Areas with high neonatal and postneonatal mortality earlier this century were found to have markedly elevated coronary heart disease death rates ([11](javascript:;)). Because low birth weight is strongly associated with elevated neonatal and postneonatal mortality, these observations led to the hypothesis that low-birth-weight babies who survived infancy and childhood might be at increased risk of coronary heart disease as adults.
-
-The early epidemiologic studies that pointed to long-term effects of an adverse intrauterine environment were based on the strategy of following up men and women in middle and late life whose body measurements at birth had been recorded. A follow-up study of men and women born in Hertfordshire, United Kingdom, showed for the first time that those who had had low birth weights had relatively high death rates from coronary heart disease in adult life ([12](javascript:;)). Thus, among 15726 men and women born during 1911–1930, death rates from coronary heart disease fell progressively with increasing birth weight in both men and women ([Figure 1](javascript:;)) ([3](javascript:;)). A small rise in death rates from coronary heart disease at the highest birth weights in men could relate to the macrosomic infants of women with gestational diabetes. Another study, of 1586 men born in Sheffield during 1907–1925, showed that it was particularly people who were small at birth as a result of growth retardation, rather than those born prematurely, who were at increased risk of the disease ([13](javascript:;)).
-
+Los primeros estudios epidemiológicos que señalaron los efectos a largo plazo de un entorno intrauterino adverso se basaron en la estrategia de seguimiento de hombres y mujeres en la vida media y tardía cuyas medidas corporales al nacer habían sido registradas. Un estudio de seguimiento de hombres y mujeres nacidos en Hertfordshire, Reino Unido, demostró por primera vez que aquellos que habían tenido ponderaciones de nacción bajos tenían tasas de mortalidad relativamente altas de la enfermedad coronaria en la vida adulta ([12] (JavaScript:;) ). Por lo tanto, entre 15726 hombres y mujeres nacidos durante 1911-1930, las tasas de mortalidad por enfermedad coronaria cayeron progresivamente con el aumento del peso al nacer en los hombres y las mujeres ([Figura 1] (JavaScript:;)) ([3] (JavaScript:;) ). Un pequeño aumento en las tasas de mortalidad por enfermedad coronaria en los pesos de nacimiento más altos en los hombres podría relacionarse con los bebés macrosómicos de las mujeres con diabetes gestacional. Otro estudio, de 1586 hombres nacidos en Sheffield durante 1907-1925, mostró que era particularmente las personas que eran pequeñas al nacer como resultado del retraso del crecimiento, en lugar de aquellas nacidas prematuramente, que estaban a un mayor riesgo de la enfermedad ([13] (JavaScript:;)).
 FIGURE 1.
 
 ![Coronary heart disease death rates, expressed as standardized mortality ratios, in 10141 men and 5585 women born in Hertfordshire, United Kingdom, from 1911 to 1930, according to birth weight. Derived from Osmond et al (12).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajcn/71/5/10.1093_ajcn_71.5.1344s/3/m_134401.gif?Expires=1645343046&Signature=fsGXfWv4PjtZGKlKIqBp83l5jXW9eMOVHQY91WQbFWlUwN9ETG9flx9X6w5OXCi3N04ZEBdP9kVtnR9NnmStbzZpx9c9LQpHEDmQLkeKmqYJn2yHkrXw1RKo2Z9RZ6zGV-nt5ZbMe9KjBE-OAcIVdUbb9P1-VxIYyWooZZSahk7Q17aUv6hhbUVhsTZHbgE72Phj3YfSUVYr~o0isYD6epejJFVefPkm89nsKAX67zGbuK2YpCYpe3~nBNLlDVvRjN9~GbzOSe-xjsPButQFrcRnh-HkZPrWkzNB6-DagrFjEdrmmivn-8XnUpC24qapnfMwDDJdmGPo5-0VRd8oKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 [Open in new tab](/view-large/figure/111383630/134401.gif)[Download slide](/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content%5Fpublic/Journal/ajcn/71/5/10.1093%5Fajcn%5F71.5.1344s/3/134401.gif?Expires=1645343046&Signature=WEx-lZAGxQ8r1BPv0SxPydcdO-a48lOjkpabopm5II40xTuD6RjcoQw3Z4LN3t1oCqSQohGhy7aAWz59SXSI7bAETUaO2AHfmSjREOHxhbwCPof8QCqCQ6IczSoOuKLGLzwUzEmRreTxJYCKKUg8xft-tQIT1s~HYE6tmbupuXnUskhTN-n2b4-0NErIkIWw6ih2TJKstMf70fl2YUNe0UK~jKZ00eqBOiirkPM5pCxOETV7S2aiDRT4bWPIT-QcqlrpH0liGG-2y7Qbx89mdb3bmfec1DvrUsimoFhzLgdSmdC64Yc3PW5vJp2tM2PAoGcY27EhniQ6wCX7~qeKKg%5F%5F&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=111383630&ar=4729552&xsltPath=~/UI/app/XSLT&imagename=&siteId=6122)
 
-Coronary heart disease death rates, expressed as standardized mortality ratios, in 10141 men and 5585 women born in Hertfordshire, United Kingdom, from 1911 to 1930, according to birth weight. Derived from Osmond et al ([12](javascript:;)).
-
+Las tasas de mortalidad de la enfermedad coronaria, expresadas como ratios de mortalidad estandarizados, en 10141 hombres y 5585 mujeres nacidas en Hertfordshire, Reino Unido, de 1911 a 1930, según el peso al nacer.Derivado de Osmond et al ([12] (JavaScript:;)).
 FIGURE 1.
 
 ![Coronary heart disease death rates, expressed as standardized mortality ratios, in 10141 men and 5585 women born in Hertfordshire, United Kingdom, from 1911 to 1930, according to birth weight. Derived from Osmond et al (12).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajcn/71/5/10.1093_ajcn_71.5.1344s/3/m_134401.gif?Expires=1645343046&Signature=fsGXfWv4PjtZGKlKIqBp83l5jXW9eMOVHQY91WQbFWlUwN9ETG9flx9X6w5OXCi3N04ZEBdP9kVtnR9NnmStbzZpx9c9LQpHEDmQLkeKmqYJn2yHkrXw1RKo2Z9RZ6zGV-nt5ZbMe9KjBE-OAcIVdUbb9P1-VxIYyWooZZSahk7Q17aUv6hhbUVhsTZHbgE72Phj3YfSUVYr~o0isYD6epejJFVefPkm89nsKAX67zGbuK2YpCYpe3~nBNLlDVvRjN9~GbzOSe-xjsPButQFrcRnh-HkZPrWkzNB6-DagrFjEdrmmivn-8XnUpC24qapnfMwDDJdmGPo5-0VRd8oKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 [Open in new tab](/view-large/figure/111383630/134401.gif)[Download slide](/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content%5Fpublic/Journal/ajcn/71/5/10.1093%5Fajcn%5F71.5.1344s/3/134401.gif?Expires=1645343046&Signature=WEx-lZAGxQ8r1BPv0SxPydcdO-a48lOjkpabopm5II40xTuD6RjcoQw3Z4LN3t1oCqSQohGhy7aAWz59SXSI7bAETUaO2AHfmSjREOHxhbwCPof8QCqCQ6IczSoOuKLGLzwUzEmRreTxJYCKKUg8xft-tQIT1s~HYE6tmbupuXnUskhTN-n2b4-0NErIkIWw6ih2TJKstMf70fl2YUNe0UK~jKZ00eqBOiirkPM5pCxOETV7S2aiDRT4bWPIT-QcqlrpH0liGG-2y7Qbx89mdb3bmfec1DvrUsimoFhzLgdSmdC64Yc3PW5vJp2tM2PAoGcY27EhniQ6wCX7~qeKKg%5F%5F&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=111383630&ar=4729552&xsltPath=~/UI/app/XSLT&imagename=&siteId=6122)
 
-Coronary heart disease death rates, expressed as standardized mortality ratios, in 10141 men and 5585 women born in Hertfordshire, United Kingdom, from 1911 to 1930, according to birth weight. Derived from Osmond et al ([12](javascript:;)).
+Las tasas de mortalidad de la enfermedad coronaria, expresadas como ratios de mortalidad estandarizados, en 10141 hombres y 5585 mujeres nacidas en Hertfordshire, Reino Unido, de 1911 a 1930, según el peso al nacer.Derivado de Osmond et al ([12] (JavaScript:;)).
 
-Replication of the UK findings has led to wide acceptance that low rates of fetal growth are associated with coronary heart disease in later life. For example, confirmation of a link between low birth weight and adult coronary heart disease has come from studies of 70297 nurses in the United States ([14](javascript:;)); of 1200 men in Caerphilly, South Wales ([15](javascript:;)); and of 517 men and women in Mysore, South India ([16](javascript:;)). In the latter study, for example, the prevalence of coronary heart disease in men and women aged ≥45 y ranged from 15% in those who weighed ≤2.5 kg at birth to 4% in those who weighed ≥3.2 kg ([16](javascript:;)).
+La replicación de los hallazgos del Reino Unido ha llevado a una amplia aceptación de que las tasas bajas de crecimiento fetal se asocian con la enfermedad coronaria en la vida posterior.Por ejemplo, la confirmación de un vínculo entre el bajo peso al nacer y la enfermedad coronaria de adultos ha provisto de estudios de 70297 enfermeras en los Estados Unidos ([14] (JavaScript:;));de 1200 hombres en Caerphilly, South Wales ([15] (JavaScript:;));y de 517 hombres y mujeres en Mysore, Sur de la India ([16] (JavaScript:;)).En este último estudio, por ejemplo, la prevalencia de la enfermedad coronaria del corazón en hombres y mujeres de ≥45 y desde el 15% en aquellos que pesaron ≤2.5 kg al nacer a un 4% en aquellos que pesaban ≥3.2 kg ([16] (JavaScript:;).
 
-Studies examining the mechanisms underlying these associations have shown that the trends in coronary heart disease with birth weight are paralleled by similar trends between restricted early growth and traditional cardiovascular disease risk factors ([3](javascript:;)). Subsequent studies have found that a wide range of organs and systems may be programmed by the intrauterine environment. These findings are in keeping with the results of experimental studies in animals and suggest that programming reflects a general principle of developmental biology. Listed in [Table 1](javascript:;) are several key tissues and systems for which evidence exists in humans pointing to programming by the nutrient and hormonal milieu of the fetus. Observations linking the intrauterine environment with later hypertension, diabetes, elevated blood cholesterol and fibrinogen concentrations, and polycystic ovary syndrome serve to illustrate some of the principles that underlie fetal programming and are described in more detail below.
+Los estudios que examinan los mecanismos que subyacen a estas asociaciones han demostrado que las tendencias en la enfermedad cardíaca coronaria con peso al nacer son paralelos por tendencias similares entre el crecimiento temprano restringido y los factores de riesgo de enfermedad cardiovascular tradicionales ([3] (JavaScript:;)). Los estudios posteriores han encontrado que una amplia gama de órganos y sistemas puede ser programada por el entorno intrauterino. Estos hallazgos están de acuerdo con los resultados de los estudios experimentales en animales y sugieren que la programación refleja un principio general de la biología del desarrollo. Enumerados en [Tabla 1] (JavaScript:;) son varios tejidos y sistemas clave para los cuales existe evidencia en los humanos que señalan la programación por parte del nutriente y el medio hormonal del feto. Observaciones que vinculan el entorno intrauterino con hipertensión posterior, diabetes, colesterol de sangre elevado y concentraciones de fibrinógeno, y síndrome de ovario poliquístico sirven para ilustrar algunos de los principios que subyacen a la programación fetal y se describen con más detalle a continuación.
 
-TABLE 1
+TABLA 1
 
-Tissues and systems for which there is evidence of programming in humans[_1_](javascript:;)
+Tejidos y sistemas para los cuales existe evidencia de programación en humanos [_1 _] (JavaScript:;)
 
-Tissue or system . 
+Tejido o sistema.
 
-Examples of programming . 
+Ejemplos de programación.
 
-Reference . 
+Referencia.
 
-Cardiovascular system 
+Sistema cardiovascular
 
-Vascular compliance 
+Cumplimiento vascular
 
-17 
+17
 
-Endothelial function 
+Función endotelial
 
-18 
+18
 
-Respiratory system 
+Sistema respiratorio
 
-Lung volume 
+Volumen pulmonar
 
-19 
+19
 
-Endocrine system 
+Sistema endocrino
 
-Hypothalamic-pituitary-adrenal axis 
+Eje hipotalámico pituitario adrenal
 
-20 
+20
 
-Glucose-insulin metabolism 
+Metabolismo de la insulina de la glucosa
 
-21, 22 
+21, 22
 
-Growth hormone–IGF-I axis 
+Eje de crecimiento hormonal-IGF-I
 
-23 
+23
 
-Reproductive system 
+Sistema reproductivo
 
-Age at menarche 
+Edad en Menarche
 
-24 
+24
 
-Polycystic ovary syndrome 
+Sindrome de Ovario poliquistico
 
-25 
+25
 
-Central nervous system 
+Sistema nervioso central
 
-Schizophrenia 
+Esquizofrenia
 
-26 
+26
 
-Skeletal muscle 
+Músculo esquelético
 
-Insulin resistance 
+Resistencia a la insulina
 
-8 
+8
 
-Glycolysis during exercise 
+Glicolisis durante el ejercicio
 
-27 
+27
 
-Bone 
+Hueso
 
-Bone mineral content 
+Contenido mineral óseo
 
-28 
+28
 
-Kidney 
+Riñón
 
-Renin-angiotensin system 
+Sistema de renina-angiotensina
 
-29 
+29
 
-Liver 
+Hígado
 
-Cholesterol metabolism 
+Metabolismo del colesterol
 
-30 
+30
 
-Fibrinogen and factor VII synthesis 
+Síntesis de fibrinógeno y factor VII.
 
-31 
+31
 
-Immune system 
+Sistema inmune
 
-Thyroid autoantibodies 
+Autoanticuerpos tiroideos
 
-32 
+32
 
-IgE concentrations 
+Concentraciones de IgE
 
-33 
+33
 
-Tissue or system . 
+Tejido o sistema.
 
-Examples of programming . 
+Ejemplos de programación.
 
-Reference . 
+Referencia.
 
-Cardiovascular system 
+Sistema cardiovascular
 
-Vascular compliance 
+Cumplimiento vascular
 
-17 
+17
 
-Endothelial function 
+Función endotelial
 
-18 
+18
 
-Respiratory system 
+Sistema respiratorio
 
-Lung volume 
+Volumen pulmonar
 
-19 
+19
 
-Endocrine system 
+Sistema endocrino
 
-Hypothalamic-pituitary-adrenal axis 
+Eje hipotalámico pituitario adrenal
 
-20 
+20
 
-Glucose-insulin metabolism 
+Metabolismo de la insulina de la glucosa
 
-21, 22 
+21, 22
 
-Growth hormone–IGF-I axis 
+Eje de crecimiento hormonal-IGF-I
 
-23 
+23
 
-Reproductive system 
+Sistema reproductivo
 
-Age at menarche 
+Edad en Menarche
 
-24 
+24
 
-Polycystic ovary syndrome 
+Sindrome de Ovario poliquistico
 
-25 
+25
 
-Central nervous system 
+Sistema nervioso central
 
-Schizophrenia 
+Esquizofrenia
 
-26 
+26
 
-Skeletal muscle 
+Músculo esquelético
 
-Insulin resistance 
+Resistencia a la insulina
 
-8 
+8
 
-Glycolysis during exercise 
+Glicolisis durante el ejercicio
 
-27 
+27
 
-Bone 
+Hueso
 
-Bone mineral content 
+Contenido mineral óseo
 
-28 
+28
 
-Kidney 
+Riñón
 
-Renin-angiotensin system 
+Sistema de renina-angiotensina
 
-29 
+29
 
-Liver 
+Hígado
 
-Cholesterol metabolism 
+Metabolismo del colesterol
 
-30 
+30
 
-Fibrinogen and factor VII synthesis 
+Síntesis de fibrinógeno y factor VII.
 
-31 
+31
 
-Immune system 
+Sistema inmune
 
-Thyroid autoantibodies 
+Autoanticuerpos tiroideos
 
-32 
+32
 
-IgE concentrations 
+Concentraciones de IgE
 
-33 
+33
 
 1
 
-IGF-I, insulin-like growth factor I; Ig, immunoglobulin.
+IGF-I, factor de crecimiento similar a la insulina I; Ig, inmunoglobulina.
 
 <div class=" graphic-wrap ">[ Open in new tab](/view-large/111383633)
 
-TABLE 1
+TABLA 1
 
-Tissues and systems for which there is evidence of programming in humans[_1_](javascript:;)
+Tejidos y sistemas para los cuales existe evidencia de programación en humanos [_1 _] (JavaScript:;)
 
-Tissue or system . 
+Tejido o sistema.
 
-Examples of programming . 
+Ejemplos de programación.
 
-Reference . 
+Referencia.
 
-Cardiovascular system 
+Sistema cardiovascular
 
-Vascular compliance 
+Cumplimiento vascular
 
-17 
+17
 
-Endothelial function 
+Función endotelial
 
-18 
+18
 
-Respiratory system 
+Sistema respiratorio
 
-Lung volume 
+Volumen pulmonar
 
-19 
+19
 
-Endocrine system 
+Sistema endocrino
 
-Hypothalamic-pituitary-adrenal axis 
+Eje hipotalámico pituitario adrenal
 
-20 
+20
 
-Glucose-insulin metabolism 
+Metabolismo de la insulina de la glucosa
 
-21, 22 
+21, 22
 
-Growth hormone–IGF-I axis 
+Eje de crecimiento hormonal-IGF-I
 
-23 
+23
 
-Reproductive system 
+Sistema reproductivo
 
-Age at menarche 
+Edad en Menarche
 
-24 
+24
 
-Polycystic ovary syndrome 
+Sindrome de Ovario poliquistico
 
-25 
+25
 
-Central nervous system 
+Sistema nervioso central
 
-Schizophrenia 
+Esquizofrenia
 
-26 
+26
 
-Skeletal muscle 
+Músculo esquelético
 
-Insulin resistance 
+Resistencia a la insulina
 
-8 
+8
 
-Glycolysis during exercise 
+Glicolisis durante el ejercicio
 
-27 
+27
 
-Bone 
+Hueso
 
-Bone mineral content 
+Contenido mineral óseo
 
-28 
+28
 
-Kidney 
+Riñón
 
-Renin-angiotensin system 
+Sistema de renina-angiotensina
 
-29 
+29
 
-Liver 
+Hígado
 
-Cholesterol metabolism 
+Metabolismo del colesterol
 
-30 
+30
 
-Fibrinogen and factor VII synthesis 
+Síntesis de fibrinógeno y factor VII.
 
-31 
+31
 
-Immune system 
+Sistema inmune
 
-Thyroid autoantibodies 
+Autoanticuerpos tiroideos
 
-32 
+32
 
-IgE concentrations 
+Concentraciones de IgE
 
-33 
+33
 
-Tissue or system . 
+Tejido o sistema.
 
-Examples of programming . 
+Ejemplos de programación.
 
-Reference . 
+Referencia.
 
-Cardiovascular system 
+Sistema cardiovascular
 
-Vascular compliance 
+Cumplimiento vascular
 
-17 
+17
 
-Endothelial function 
+Función endotelial
 
-18 
+18
 
-Respiratory system 
+Sistema respiratorio
 
-Lung volume 
+Volumen pulmonar
 
-19 
+19
 
-Endocrine system 
+Sistema endocrino
 
-Hypothalamic-pituitary-adrenal axis 
+Eje hipotalámico pituitario adrenal
 
-20 
+20
 
-Glucose-insulin metabolism 
+Metabolismo de la insulina de la glucosa
 
-21, 22 
+21, 22
 
-Growth hormone–IGF-I axis 
+Eje de crecimiento hormonal-IGF-I
 
-23 
+23
 
-Reproductive system 
+Sistema reproductivo
 
-Age at menarche 
+Edad en Menarche
 
-24 
+24
 
-Polycystic ovary syndrome 
+Sindrome de Ovario poliquistico
 
-25 
+25
 
-Central nervous system 
+Sistema nervioso central
 
-Schizophrenia 
+Esquizofrenia
 
-26 
+26
 
-Skeletal muscle 
+Músculo esquelético
 
-Insulin resistance 
+Resistencia a la insulina
 
-8 
+8
 
-Glycolysis during exercise 
+Glicolisis durante el ejercicio
 
-27 
+27
 
-Bone 
+Hueso
 
-Bone mineral content 
+Contenido mineral óseo
 
-28 
+28
 
-Kidney 
+Riñón
 
-Renin-angiotensin system 
+Sistema de renina-angiotensina
 
-29 
+29
 
-Liver 
+Hígado
 
-Cholesterol metabolism 
+Metabolismo del colesterol
 
-30 
+30
 
-Fibrinogen and factor VII synthesis 
+Síntesis de fibrinógeno y factor VII.
 
-31 
+31
 
-Immune system 
+Sistema inmune
 
-Thyroid autoantibodies 
+Autoanticuerpos tiroideos
 
-32 
+32
 
-IgE concentrations 
+Concentraciones de IgE
 
-33 
+33
 
 1
 
-IGF-I, insulin-like growth factor I; Ig, immunoglobulin.
+IGF-I, factor de crecimiento similar a la insulina I; Ig, inmunoglobulina.
 
 <div class=" graphic-wrap ">[ Open in new tab](/view-large/111383633)
 
-### High blood pressure and hypertension
+### presión arterial alta e hipertensión
+Una revisión sistemática de 34 estudios que examinan la relación entre el peso al nacer y la presión arterial en diferentes poblaciones en todo el mundo encontraron un fuerte apoyo para una asociación entre el bajo peso al nacer y la presión arterial alta en niños y adultos prepúberes ([34] (JavaScript:;)) . La relación se encontró menos consistentemente en los adolescentes, tal vez porque el seguimiento de la presión arterial está perturbado por el crecimiento del crecimiento de los adolescentes ([34] (JavaScript:;)). De manera similar a la enfermedad coronaria, la presión arterial alta se encuentra en las personas que eran pequeñas para la edad gestacional en lugar de los nacidos prematuramente ([3] (JavaScript:;)). Los estudios de seguimiento de hombres y mujeres que tenían mediciones antropométricas neonatales detalladas han demostrado que aquellos que fueron desproporcionados (delgados o cortos) al nacer también tendían a tener una presión arterial alta y un mayor riesgo de hipertensión en la vida adulta ([3] (JavaScript :;)).
 
-A systematic review of 34 studies examining the relation between birth weight and blood pressure in different populations around the world found strong support for an association between low birth weight and high blood pressure in prepubertal children and adults ([34](javascript:;)). The relation was found less consistently in adolescents, perhaps because the tracking of blood pressure is perturbed by the adolescent growth spurt ([34](javascript:;)). Similarly to coronary heart disease, high blood pressure is found in people who were small for gestational age rather than those born prematurely ([3](javascript:;)). Follow-up studies of men and women who had detailed neonatal anthropometric measurements have shown that those who were disproportionate (thin or short) at birth also tended to have high blood pressure and a greater risk of hypertension in adult life ([3](javascript:;)).
+Se ha argumentado que las personas que estuvieron expuestas a un entorno adverso en el útero y no lograron crecer bien, continúan estando expuestos a las influencias adversas en la vida infantil y adulta, y son estas influencias posteriores que producen los efectos atribuidos a la programación en el útero. Sin embargo, hay poca evidencia para apoyar este argumento. Más bien, las asociaciones entre el peso al nacer y la presión arterial adulta, por ejemplo, se encuentran en cada grupo social y son independientes de las influencias como fumar, la ingesta de alcohol y la obesidad en la vida adulta ([1] (JavaScript:;), [3] (JavaScript:;)).
 
-It has been argued that people who were exposed to an adverse environment in utero and failed to grow well continue to be exposed to adverse influences in childhood and adult life, and it is these later influences that produce the effects attributed to programming in utero. There is, however, little evidence to support this argument. Rather, associations between birth weight and adult blood pressure, for example, are found in each social group and are independent of influences such as smoking, alcohol intake, and obesity in adult life ([1](javascript:;), [3](javascript:;)).
+### Tipo 2 diabetes y resistencia a la insulina
+Se informó una asociación entre el bajo peso al nacer y el metabolismo de la glucosa alterada en 9 estudios de hombres y mujeres en Europa, Estados Unidos y Australia ([3] (JavaScript:;), [8] (Javascript:;), [21] (JavaScript:;), [22] (JavaScript:;), [35] (JavaScript:;) - [38] (JavaScript:;)). En la mayoría de las poblaciones, se encontró que la prevalencia de la diabetes tipo 2 y la tolerancia a la glucosa deteriorada caía progresivamente entre aquellos que eran pequeños y los que eran grandes al nacer. Las tendencias son fuertes, como lo ilustra un estudio de 370 hombres de 65 y de 65 y nacidas en Hertfordshire, que se muestran en [Tabla 2] (JavaScript:;). La prevalencia de la diabetes tipo 2 y la tolerancia a la glucosa deteriorada cayó del 40% entre los que pesaban ≤5.5 lb (2.54 kg) al nacer, al 14% entre los que pesaban> 9.5 lb (4,31 kg) ([21] (JavaScript:; )). En las poblaciones con una alta prevalencia de la diabetes en el embarazo, como los indios PIMA de América del Norte, se ha encontrado una relación en forma de U, con altas tasas de diabetes que también se producen en aquellas que pesaron ≥4,5 kg al nacer ([36] (JavaScript :;)).
 
-### Type 2 diabetes and insulin resistance
+TABLA 2
 
-An association between low birth weight and altered glucose metabolism was reported in 9 studies of men and women in Europe, the United States, and Australia ([3](javascript:;), [8](javascript:;), [21](javascript:;), [22](javascript:;), [35](javascript:;)–[38](javascript:;)). In most populations, the prevalence of type 2 diabetes and impaired glucose tolerance was found to fall progressively between those who were small and those who were large at birth. The trends are strong, as illustrated by a study of 370 men aged 65 y born in Hertfordshire, shown in [Table 2](javascript:;). The prevalence of type 2 diabetes and impaired glucose tolerance fell from 40% among those who weighed ≤5.5 lb (2.54 kg) at birth, to 14% among those who weighed >9.5 lb (4.31 kg) ([21](javascript:;)). In populations with a high prevalence of diabetes in pregnancy, such as the North American Pima Indians, a U-shaped relation has been found, with high rates of diabetes also occurring in those who weighed ≥4.5 kg at birth ([36](javascript:;)).
+Prevalencia de diabetes tipo 2 (glucosa 2-H ≥11.1 mmol / L) y tolerancia a la glucosa deteriorada (glucosa 2-H 7.8-11.0 mmol / L) en 370 hombres de 59-70 y [_1 _] (JavaScript:;)
 
-TABLE 2
+Peso al nacer en libras (kg).
 
-Prevalence of type 2 diabetes (2-h glucose ≥11.1 mmol/L) and impaired glucose tolerance (2-h glucose 7.8–11.0 mmol/L) in 370 men aged 59–70 y[_1_](javascript:;)
+Porcentaje con diabetes tipo 2.
 
-Birth weight in lbs (kg) . 
+Porcentaje con tolerancia a la glucosa con problemas.
 
-Percentage with type 2 diabetes . 
+Relación de probabilidades (IC 95%) de diabetes tipo 2 o tolerancia de glucosa deteriorada [_2 _] (JavaScript:;).
 
-Percentage with impaired glucose tolerance . 
+%
 
-Odds ratio (95% CI) of type 2 diabetes or impaired glucose tolerance[_2_](javascript:;) . 
+%
 
-% 
+<5.5 (2.54) (_n_ \ = 20
 
-% 
+10
 
-<5.5 (2.54) (_n_ \= 20 
+40
 
-10 
+6.6 (1.5-28)
 
-40 
+-6.5 (2.95) (_n_ \ = 47)
 
-6.6 (1.5–28) 
+13
 
-−6.5 (2.95) (_n_ \= 47) 
+34
 
-13 
+4.8 (1.3-17)
 
-34 
+-7.5 (3.41) (_n_ \ = 104)
 
-4.8 (1.3–17) 
+6
 
-−7.5 (3.41) (_n_ \= 104) 
+31
 
-6 
+4.6 (1.4-16)
 
-31 
+-8.5 (3.86) (_n_ \ = 117)
 
-4.6 (1.4–16) 
+7
 
-−8.5 (3.86) (_n_ \= 117) 
+22
 
-7 
+2.6 (0.8-8.9)
 
-22 
+-9.5 (4.31) (_n_ \ = 54)
 
-2.6 (0.8–8.9) 
+9
 
-−9.5 (4.31) (_n_ \= 54) 
+13
 
-9 
+1.4 (0.3-5.6)
 
-13 
+\> 9.5 (4.31) (_n_ \ = 28)
 
-1.4 (0.3–5.6) 
+0
 
-\>9.5 (4.31) (_n_ \= 28) 
+14
 
-0 
+1.0
 
-14 
+Todos (_n_ \ = 370)
 
-1.0 
+7
 
-All (_n_ \= 370) 
+25
 
-7 
+Peso al nacer en libras (kg).
 
-25 
+Porcentaje con diabetes tipo 2.
 
-Birth weight in lbs (kg) . 
+Porcentaje con tolerancia a la glucosa con problemas.
 
-Percentage with type 2 diabetes . 
+Relación de probabilidades (IC 95%) de diabetes tipo 2 o tolerancia de glucosa deteriorada [_2 _] (JavaScript:;).
 
-Percentage with impaired glucose tolerance . 
+%
 
-Odds ratio (95% CI) of type 2 diabetes or impaired glucose tolerance[_2_](javascript:;) . 
+%
 
-% 
+<5.5 (2.54) (_n_ \ = 20
 
-% 
+10
 
-<5.5 (2.54) (_n_ \= 20 
+40
 
-10 
+6.6 (1.5-28)
 
-40 
+-6.5 (2.95) (_n_ \ = 47)
 
-6.6 (1.5–28) 
+13
 
-−6.5 (2.95) (_n_ \= 47) 
+34
 
-13 
+4.8 (1.3-17)
 
-34 
+-7.5 (3.41) (_n_ \ = 104)
 
-4.8 (1.3–17) 
+6
 
-−7.5 (3.41) (_n_ \= 104) 
+31
 
-6 
+4.6 (1.4-16)
 
-31 
+-8.5 (3.86) (_n_ \ = 117)
 
-4.6 (1.4–16) 
+7
 
-−8.5 (3.86) (_n_ \= 117) 
+22
 
-7 
+2.6 (0.8-8.9)
 
-22 
+-9.5 (4.31) (_n_ \ = 54)
 
-2.6 (0.8–8.9) 
+9
 
-−9.5 (4.31) (_n_ \= 54) 
+13
 
-9 
+1.4 (0.3-5.6)
 
-13 
+\> 9.5 (4.31) (_n_ \ = 28)
 
-1.4 (0.3–5.6) 
+0
 
-\>9.5 (4.31) (_n_ \= 28) 
+14
 
-0 
+1.0
 
-14 
+Todos (_n_ \ = 370)
 
-1.0 
+7
 
-All (_n_ \= 370) 
-
-7 
-
-25 
+25
 
 1
 
-Derived from Hales et al ([21](javascript:;)).
+Derivado de Hales et al ([21] (JavaScript:;)).
 
 2
 
-Adjusted for current BMI.
+Ajustado para el BMI actual.
 
 <div class=" graphic-wrap ">[ Open in new tab](/view-large/111383639)
 
-TABLE 2
+TABLA 2
 
-Prevalence of type 2 diabetes (2-h glucose ≥11.1 mmol/L) and impaired glucose tolerance (2-h glucose 7.8–11.0 mmol/L) in 370 men aged 59–70 y[_1_](javascript:;)
+Prevalencia de diabetes tipo 2 (glucosa 2-H ≥11.1 mmol / L) y tolerancia a la glucosa deteriorada (glucosa 2-H 7.8-11.0 mmol / L) en 370 hombres de 59-70 y [_1 _] (JavaScript:;)
 
-Birth weight in lbs (kg) . 
+Peso al nacer en libras (kg).
 
-Percentage with type 2 diabetes . 
+Porcentaje con diabetes tipo 2.
 
-Percentage with impaired glucose tolerance . 
+Porcentaje con tolerancia a la glucosa con problemas.
 
-Odds ratio (95% CI) of type 2 diabetes or impaired glucose tolerance[_2_](javascript:;) . 
+Relación de probabilidades (IC 95%) de diabetes tipo 2 o tolerancia de glucosa deteriorada [_2 _] (JavaScript:;).
 
-% 
+%
 
-% 
+%
 
-<5.5 (2.54) (_n_ \= 20 
+<5.5 (2.54) (_n_ \ = 20
 
-10 
+10
 
-40 
+40
 
-6.6 (1.5–28) 
+6.6 (1.5-28)
 
-−6.5 (2.95) (_n_ \= 47) 
+-6.5 (2.95) (_n_ \ = 47)
 
-13 
+13
 
-34 
+34
 
-4.8 (1.3–17) 
+4.8 (1.3-17)
 
-−7.5 (3.41) (_n_ \= 104) 
+-7.5 (3.41) (_n_ \ = 104)
 
-6 
+6
 
-31 
+31
 
-4.6 (1.4–16) 
+4.6 (1.4-16)
 
-−8.5 (3.86) (_n_ \= 117) 
+-8.5 (3.86) (_n_ \ = 117)
 
-7 
+7
 
-22 
+22
 
-2.6 (0.8–8.9) 
+2.6 (0.8-8.9)
 
-−9.5 (4.31) (_n_ \= 54) 
+-9.5 (4.31) (_n_ \ = 54)
 
-9 
+9
 
-13 
+13
 
-1.4 (0.3–5.6) 
+1.4 (0.3-5.6)
 
-\>9.5 (4.31) (_n_ \= 28) 
+\> 9.5 (4.31) (_n_ \ = 28)
 
-0 
+0
 
-14 
+14
 
-1.0 
+1.0
 
-All (_n_ \= 370) 
+Todos (_n_ \ = 370)
 
-7 
+7
 
-25 
+25
 
-Birth weight in lbs (kg) . 
+Peso al nacer en libras (kg).
 
-Percentage with type 2 diabetes . 
+Porcentaje con diabetes tipo 2.
 
-Percentage with impaired glucose tolerance . 
+Porcentaje con tolerancia a la glucosa con problemas.
 
-Odds ratio (95% CI) of type 2 diabetes or impaired glucose tolerance[_2_](javascript:;) . 
+Relación de probabilidades (IC 95%) de diabetes tipo 2 o tolerancia de glucosa deteriorada [_2 _] (JavaScript:;).
 
-% 
+%
 
-% 
+%
 
-<5.5 (2.54) (_n_ \= 20 
+<5.5 (2.54) (_n_ \ = 20
 
-10 
+10
 
-40 
+40
 
-6.6 (1.5–28) 
+6.6 (1.5-28)
 
-−6.5 (2.95) (_n_ \= 47) 
+-6.5 (2.95) (_n_ \ = 47)
 
-13 
+13
 
-34 
+34
 
-4.8 (1.3–17) 
+4.8 (1.3-17)
 
-−7.5 (3.41) (_n_ \= 104) 
+-7.5 (3.41) (_n_ \ = 104)
 
-6 
+6
 
-31 
+31
 
-4.6 (1.4–16) 
+4.6 (1.4-16)
 
-−8.5 (3.86) (_n_ \= 117) 
+-8.5 (3.86) (_n_ \ = 117)
 
-7 
+7
 
-22 
+22
 
-2.6 (0.8–8.9) 
+2.6 (0.8-8.9)
 
-−9.5 (4.31) (_n_ \= 54) 
+-9.5 (4.31) (_n_ \ = 54)
 
-9 
+9
 
-13 
+13
 
-1.4 (0.3–5.6) 
+1.4 (0.3-5.6)
 
-\>9.5 (4.31) (_n_ \= 28) 
+\> 9.5 (4.31) (_n_ \ = 28)
 
-0 
+0
 
-14 
+14
 
-1.0 
+1.0
 
-All (_n_ \= 370) 
+Todos (_n_ \ = 370)
 
-7 
+7
 
-25 
+25
 
 1
 
-Derived from Hales et al ([21](javascript:;)).
+Derivado de Hales et al ([21] (JavaScript:;)).
 
 2
 
-Adjusted for current BMI.
+Ajustado para el BMI actual.
 
 <div class=" graphic-wrap ">[ Open in new tab](/view-large/111383639)
 
-As for high blood pressure, the associations between birth weight and later glucose tolerance are independent of adult lifestyle influences ([1](javascript:;)). Adult obesity does, however, add to the intrauterine effects, such that the highest prevalence of type 2 diabetes and impaired glucose tolerance is seen in people who were small at birth but obese as adults ([21](javascript:;), [38](javascript:;)). There is some evidence that poor fetal growth led to a reduced number of pancreatic β cells and a diminished capacity to make insulin, making them less able to withstand the stress of becoming obese as adults ([39](javascript:;)). There is stronger evidence that people who were thin at birth tend to be insulin resistant in adulthood and to have metabolic changes suggestive of a bias toward fuel conservation ([8](javascript:;)). Thus, insulin-tolerance tests in a group of 103 men and women aged 50 y born in Preston, United Kingdom, showed that those who had a low ponderal index and were thin at birth had a slower fall in blood glucose after an insulin challenge ([40](javascript:;)). More detailed studies using 31P magnetic resonance spectroscopy found that adults who were thin at birth had reduced rates of glycolysis and glycolytic ATP production ([27](javascript:;)) and that the lipid content of tissues such as muscle was low in these subjects ([41](javascript:;)). Measurements of metabolic fuel utilization with indirect calorimetry or 13C-labeled carbohydrate suggest that low birth weight is associated with reduced postprandial glucose oxidation ([42](javascript:;)).
+En cuanto a la presión arterial alta, las asociaciones entre el peso al nacer y la tolerancia posterior de la glucosa son independientes de las influencias de los estilos de vida de adultos ([1] (JavaScript:;)). Sin embargo, la obesidad de los adultos aumenta los efectos intrauterinos, de manera que la más alta prevalencia de la diabetes tipo 2 y la tolerancia a la glucosa deteriorada se ve en personas pequeñas al nacer, pero obesas como adultos ([21] (Javascript:;), [38 ] (JavaScript:;)). Hay alguna evidencia de que el crecimiento fetal deficiente llevó a un número reducido de células β pancreáticas y una capacidad disminuida para hacer insulina, lo que los hace menos capaces de soportar el estrés de ser obeso como adultos ([39] (JavaScript:;)). Hay pruebas más fuertes de que las personas delgadas al nacer tienden a ser resistentes a la insulina en la edad adulta y tener cambios metabólicos sugieren un sesgo hacia la conservación del combustible ([8] (JavaScript:;)). Por lo tanto, las pruebas de tolerancia a la insulina en un grupo de 103 hombres y mujeres de 50 y 50 y de 50 y nacidas en Preston, Reino Unido, demostraron que aquellos que tenían un índice ponderal bajo y fueron delgados al nacer, tuvieron una caída más lenta en la glucosa en la sangre después de un desafío de insulina ( [40] (JavaScript:;)). Los estudios más detallados que utilizan la espectroscopia de resonancia magnética 31P encontraron que los adultos que estaban delgados al nacer habían reducido las tasas de glicólisis y la producción de ATP glicolítica ([27] (JavaScript:;)) y que el contenido de lípidos de tejidos como el músculo era bajo en estos sujetos. ([41] (JavaScript:;)). Las mediciones de la utilización de combustible metabólica con calorimetría indirecta o carbohidratos etiquetados con 13C sugieren que el bajo peso al nacer se asocia con la oxidación de glucosa postprandial reducida ([42] (JavaScript:;)).
 
-These data have led to the hypothesis that adult insulin resistance could indicate persistence of a fetal glucose-conserving adaptation ([8](javascript:;)). In fetal life, the glucose–insulin–insulin-like glucose factor I axis has a key role in stimulating cell division ([43](javascript:;)); insulin resistance in specific tissues, including skeletal muscle, might conserve glucose by reducing growth and result in diminished muscle mass and thinness at birth. In adult life, persistence of insulin resistance in skeletal muscle would, however, result in a range of metabolic abnormalities and could underlie the strong association between low birth weight and thinness at birth and the insulin resistance syndrome in adult life.
+Estos datos han llevado a la hipótesis de que la resistencia a la insulina adulta podría indicar la persistencia de una adaptación de conservación de glucosa fetal ([8] (JavaScript:;)). En la vida fetal, el eje del factor de glucosa en forma de glucosa-insulina-insulina-insulina. Tiene un papel clave en la estimulación de la división celular ([43] (JavaScript:;)); La resistencia a la insulina en tejidos específicos, incluido el músculo esquelético, puede conservar la glucosa al reducir el crecimiento y dar lugar a disminuir la masa muscular y la delgadez al nacer. Sin embargo, en la vida adulta, la persistencia de la resistencia a la insulina en el músculo esquelético resultaría en un rango de anomalías metabólicas y podría subyactar la fuerte asociación entre el bajo peso al nacer y la delgadez al nacer y el síndrome de resistencia a la insulina en la vida adulta.
 
-### Cholesterol metabolism and blood coagulation
+### Metabolismo de colesterol y coagulación de la sangre.
+Los estudios de varios grupos de hombres y mujeres adultos en el Reino Unido demostraron que aquellos cuyo crecimiento fetal se restringió a tener concentraciones de suero altas de colesterol total, colesterol LDL, apolipoproteína B, fibrinógeno y factor VII ([3] (JavaScript:; ), [30] (JavaScript:;), [31] (JavaScript:;)). Estas anomalías se encontraron particularmente en aquellas que habían tenido proporciones de cuerpo anormales al nacer y un cuerpo corto en relación con el tamaño de su cabeza. Los registros de nacimiento de las personas estudiadas en Sheffield, Reino Unido, incluyeron su circunferencia abdominal al nacer; En particular, un valor bajo para esta medición de nacimiento predijo altos concentraciones de ldl-colesterol y fibrinógeno de plasma en la vida adulta ([30] (JavaScript:;)). Las diferencias en las concentraciones de colesterol en todo el rango de circunferencias abdominales fueron grandes, estadísticamente equivalentes a una diferencia del 30% en la mortalidad por enfermedad cardíaca coronaria.
 
-Studies of several groups of adult men and women in the United Kingdom showed that those whose fetal growth was restricted tended to have high serum concentrations of total cholesterol, LDL cholesterol, apolipoprotein B, fibrinogen, and factor VII ([3](javascript:;), [30](javascript:;), [31](javascript:;)). These abnormalities were found particularly in those who had had abnormal body proportions at birth and a short body in relation to their head size. The birth records of people studied in Sheffield, United Kingdom, included their abdominal circumference at birth; in particular, a low value for this birth measurement predicted high serum LDL-cholesterol and plasma fibrinogen concentrations in adult life ([30](javascript:;)). The differences in cholesterol concentrations across the range of abdominal circumferences were large, statistically equivalent to a 30% difference in mortality from coronary heart disease.
+Se cree que la desproporción en la longitud corporal en relación con el tamaño de la cabeza es el resultado de la redistribución craneal de la sangre oxigenada alejada del tronco para sostener el metabolismo cerebral, una respuesta adaptativa presente en los mamíferos ([44] (JavaScript:;)). Esto perjudica el crecimiento del hígado y puede infringir las anomalías permanentes en la regulación de los factores de colesterol y coagulación.
 
-Disproportion in body length relative to head size is thought to result from cranial redistribution of oxygenated blood away from the trunk to sustain brain metabolism—an adaptive response present in mammals ([44](javascript:;)). This impairs the growth of the liver and may underlie permanent abnormalities in the regulation of cholesterol and clotting factors.
+### Sindrome de Ovario poliquistico
+Las presentaciones clínicas y la endocrinología de las mujeres con el síndrome de ovario poliquístico son heterogéneos, pero incluyen a las mujeres con el peso corporal normal y las concentraciones de hormonas luteinizantes en suero alto (LH), así como las mujeres con sobrepeso con androgenización y las altas concentraciones plasmáticas de LH y Testosterona ([45] (45] (45] ( JavaScript:;). Los estudios experimentales en ratas han demostrado que el patrón de liberación de gonadotropina por el hipotálamo puede programarse por la concentración de andrógenos durante el desarrollo temprano ([46] (JavaScript:;)). Las ratas hembras expuestas a las altas concentraciones de andrógenos han persisten cambios en la fisiología reproductiva, incluida la esterilidad óvulatoria y los ovarios poliquísticos ([47] (JavaScript:;), [48] (JavaScript:;)).
 
-### Polycystic ovary syndrome
+Un estudio de 235 mujeres de 40 a 42 y nacidas en Sheffield, Reino Unido, sugirió que las 2 formas comunes de síndrome de ovario poliquístico pueden tener diferentes orígenes en la vida intrauterina ([25] (JavaScript:;)). Las mujeres con ovarios poliquísticos que fueron de promedio o por debajo del promedio de peso corporal tenían más probabilidades de haber nacido Postterm; Esto podría haber resultado en alteraciones permanentes en el control hipotalámico del lanzamiento de LH. Obese, las mujeres de Hirsute con ovarios poliquísticos y una alta secreción de óviares de andrógenos eran de mayor peso al nacer y tendían a tener madres con un índice de masa corporal alto en el embarazo ([25] (JavaScript:;)). Estas observaciones sugieren que los patrones de liberación de hormonas y la sensibilidad al tisular establecidos en el útero podrían influir en el desarrollo de la enfermedad en la vida adulta posterior.
 
-The clinical presentations and endocrinology of women with the polycystic ovary syndrome are heterogeneous but include women with normal body weight and high serum luteinizing hormone (LH) concentrations as well as overweight women with androgenization and high plasma concentrations of LH and testosterone ([45](javascript:;)). Experimental studies in rats have shown that the pattern of gonadotropin release by the hypothalamus can be programmed by the concentration of androgens during early development ([46](javascript:;)). Female rats exposed to high androgen concentrations have persisting changes in reproductive physiology, including anovulatory sterility and polycystic ovaries ([47](javascript:;), [48](javascript:;)).
+## nutrición fetal
+El hallazgo de que las variaciones normales en el tamaño fetal al nacer tienen implicaciones para la salud a lo largo de la vida, ha provocado una reevaluación de la regulación del crecimiento y desarrollo fetales. Aunque el genoma fetal determina el potencial de crecimiento en el útero, el peso de la evidencia sugiere que desempeña un papel subordinado en la determinación del crecimiento que realmente se logra ([49] (JavaScript:;), [50] (JavaScript:;)). Más bien, parece que el determinante dominante del crecimiento fetal es el entorno nutricional y hormonal en el que se desarrolla el feto, y en particular, el suministro de nutrientes y oxígeno ([51] (JavaScript:;), [52] (JavaScript:;) ).
 
-A study of 235 women aged 40–42 y born in Sheffield, United Kingdom, suggested that the 2 common forms of polycystic ovary syndrome may have different origins in intrauterine life ([25](javascript:;)). Women with polycystic ovaries who were of average or below average body weight were more likely to have been born postterm; this could have resulted in permanent alterations in the hypothalamic control of LH release. Obese, hirsute women with polycystic ovaries and high ovarian secretion of androgens were found to be of higher birth weight and tended to have mothers with a high body mass index in pregnancy ([25](javascript:;)). These observations suggest that patterns of hormone release and tissue sensitivity established in utero could influence the development of disease in later adult life.
+La evidencia que respalda la importancia del entorno intrauterino proviene de experimentos de cría de animales ([53] (JavaScript:;)), de los estudios de medias hermanos relacionados con la madre o el Padre ([54] (Javascript:;)) y de los estudios de transferencia de embriones ([55] (JavaScript:;)). Por ejemplo, entre los medios hermanos, aquellos con la misma madre tienen pesos similares al parto, el coeficiente de correlación es de 0.58; Sin embargo, los pesos de nacimiento de los medios hermanos con el mismo padre son disímiles, el coeficiente de correlación siendo solo 0.1 ([54] (JavaScript:;)). En los estudios de transferencia de embriones, es la madre receptora en lugar de la madre del donante que influye más firmemente en el crecimiento del feto; Un feto transferido a un útero más grande logrará un tamaño de parto más grande ([55] (JavaScript:;)). Aunque se sabe que el tabaquismo de los cigarrillos materno restringe el crecimiento fetal, los estudios de seguimiento han encontrado que no está relacionado con el desarrollo de factores de riesgo cardiovascular en la descendencia en la infancia ([56] (JavaScript:;), [57] (JavaScript: ;)).
 
-## FETAL NUTRITION
+Los experimentos con animales han sugerido que la desnutrición fetal en la gestación temprana produce una descendencia pequeña pero normalmente proporcionada, mientras que la desnutrición en la gestación tardía puede tener efectos profundos en las proporciones corporales pero poco efecto sobre el peso al nacer ([3] (JavaScript:;)). Los períodos críticos variables durante los cuales los órganos y los sistemas maduran indican que es probable que un entorno intrauterino adverso en diferentes etapas de desarrollo tenga efectos específicos a corto y largo plazo. Existe un período crítico para el desarrollo gonadal, por ejemplo, muy temprano en la gestación ([58] (JavaScript:;)), en comparación con un período crítico para el desarrollo renal en la gestación, entre 26 y 34 semanas de embarazo ([59] (JavaScript:;)). Consistente con estos diferentes períodos críticos, los estudios de seguimiento de los bebés que fueron simétricamente pequeños, cortos o delgados al nacer mostraron que estos bebés están predispuestos a diferentes trastornos en la vida adulta ([1] (JavaScript:;)).
 
-The finding that normal variations in fetal size at birth have implications for health throughout life has prompted a reevaluation of the regulation of fetal growth and development. Although the fetal genome determines growth potential in utero, the weight of evidence suggests that it plays a subordinate role in determining the growth that is actually achieved ([49](javascript:;), [50](javascript:;)). Rather, it seems that the dominant determinant of fetal growth is the nutritional and hormonal milieu in which the fetus develops, and in particular, the nutrient and oxygen supply ([51](javascript:;), [52](javascript:;)).
+Los bebés proporcionalmente pequeños tienen un mayor riesgo de alta presión arterial adulta, pero no parecen desarrollar enfermedades del corazón coronario ([3] (JavaScript:;)). Mediante la regulación del crecimiento en respuesta a la desnutrición temprana del desarrollo, el feto puede reducir su demanda de nutrientes, tendiendo a protegerse de la desnutrición relativa en la gestación tardía ([3] (JavaScript:;)). Como adultos, los individuos que fueron desproporcionadamente cortos al nacer tienden a tener anomalías de los sistemas controlados por el hígado, y tienen mayores tasas de enfermedad coronaria ([60] (Javascript:;)). Estos pueden reflejar los efectos adversos en el desarrollo hepático asociado con la redistribución craneal del flujo de sangre más adelante en la gestación ([43] (JavaScript:;)). Se cree que los bebés delgados con un índice ponderal bajo (peso natal / longitud3) se cree que al nacer el síndrome de resistencia a la insulina y el corazón coronario como resultado de la desnutrición fetal en las semanas previos a la entrega ([3] (JavaScript :;)). Consistente con esto, un estudio de seguimiento reciente de hombres y mujeres cuyas madres estaban expuestas a la hambruna en el embarazo mostró que la exposición al hambre del tercer trimestre resultó en la tolerancia a la glucosa deteriorada en la descendencia en la vida adulta posterior ([61] (JavaScript:;) ). Como podría esperarse, el fenotipo predominante del retraso del crecimiento fetal y la combinación de bebés con diferentes tipos varían en gran medida en diferentes poblaciones ([3] (JavaScript:;)). Estas variaciones pueden contribuir a las diferencias geográficas en la prevalencia de la enfermedad cardíaca coronaria.
 
-Evidence supporting the importance of the intrauterine environment comes from animal cross-breeding experiments ([53](javascript:;)), from studies of half-siblings related through either the mother or the father ([54](javascript:;)), and from embryo transfer studies ([55](javascript:;)). For example, among half-siblings, those with the same mother have similar birth weights, the correlation coefficient being 0.58; the birth weights of half-siblings with the same father are, however, dissimilar, the correlation coefficient being only 0.1 ([54](javascript:;)). In embryo transfer studies, it is the recipient mother rather than the donor mother that more strongly influences the growth of the fetus; a fetus transferred to a larger uterus will achieve a larger birth size ([55](javascript:;)). Although maternal cigarette smoking is known to restrict fetal growth, follow-up studies have found that it is not related to the development of cardiovascular risk factors in the offspring in childhood ([56](javascript:;), [57](javascript:;)).
+Con respecto al tiempo, es importante apreciar que los efectos que se manifiestan tarde en el embarazo pueden originarse comúnmente mucho antes en la gestación.Por ejemplo, los estudios de la hambruna de 1944-1945 en los Países Bajos ([62] (JavaScript:;)) llevaron al dogma que la delgadese en el nacimiento se debe a las influencias que operan en el último trimestre del embarazo.Fuera del entorno de hambre, tanto los estudios de animales como los humanos indican que la desnutrición fetal tardía en el embarazo es, sin embargo, más comúnmente una consecuencia de una capacidad de suministro de maternoplacenta inadecuada que se establece anteriormente en la gestación ([63] (JavaScript:;), [64](JavaScript:;)).Por lo tanto, aunque los efectos a corto y largo plazo de una hambruna aguda y grave son de gran importancia científica, debemos ser conscientes de que estos efectos podrían resultar en conclusiones erróneas sobre el tiempo en situaciones de nofamina.
 
-Animal experiments have suggested that fetal undernutrition in early gestation produces small but normally proportioned offspring, whereas undernutrition in late gestation may have profound effects on body proportions but little effect on birth weight ([3](javascript:;)). The varying critical periods during which organs and systems mature indicate that an adverse intrauterine environment at different developmental stages is likely to have specific short- and long-term effects. A critical period for gonadal development exists, for example, very early in gestation ([58](javascript:;)), as compared with a critical period for renal development later in gestation, between 26 and 34 wk of pregnancy ([59](javascript:;)). Consistent with these differing critical periods, follow-up studies of babies that were symmetrically small, short, or thin at birth showed that these infants are predisposed to different disorders in adult life ([1](javascript:;)).
+### influencias materna en la nutrición fetal
+El tamaño al nacer refleja el producto de la trayectoria del crecimiento del feto, establecido en una etapa temprana en el desarrollo y la capacidad maternoplacional para suministrar suficientes nutrientes para mantener esa trayectoria. En las comunidades occidentales, se ha pensado que los mecanismos regulatorios en los sistemas maternos y placenteros actúan para garantizar que el crecimiento y el desarrollo fetal humano se vean poco influenciados por las variaciones normales en la ingesta de nutrientes materna y que existe una relación simple entre la composición corporal de una mujer y la Crecimiento de su feto. Los recientes estudios experimentales en animales y nuestras propias observaciones en los humanos desafían estos conceptos ([3] (JavaScript:;)). Estos estudios sugieren que el propio crecimiento fetal de la madre y sus ingestas dietéticas y la composición corporal pueden ejercer efectos importantes en el equilibrio entre la demanda fetal de nutrientes y la capacidad matinoplacional para satisfacer esa demanda. El fracaso de la línea de suministro de maternoplacentales para satisfacer los requisitos de nutrientes fetales da como resultado un rango de adaptaciones fetales y cambios de desarrollo; Aunque estas adaptaciones pueden ser beneficiosas para la supervivencia a corto plazo, pueden conducir a alteraciones permanentes en la estructura y el metabolismo del cuerpo y, por lo tanto, a la enfermedad cardiovascular y metabólica en la vida adulta ([3] (JavaScript:;)). Un marco conceptual que ilustra esta hipótesis se muestra en [Figura 2] (JavaScript:;).
 
-Proportionately small babies are at increased risk of high adult blood pressure but do not appear to develop coronary heart disease ([3](javascript:;)). By down-regulating growth in response to undernutrition early in development, the fetus may reduce its demand for nutrients, tending to protect itself from relative undernutrition in late gestation ([3](javascript:;)). As adults, individuals who were disproportionately short at birth tend to have abnormalities of systems controlled by the liver, and have increased rates of coronary heart disease ([60](javascript:;)). These may reflect adverse effects on liver development associated with cranial redistribution of blood flow later in gestation ([43](javascript:;)). Thin babies with a low ponderal index (birth weight/length3) at birth are thought to be at increased risk of the insulin resistance syndrome and coronary heart disease as a result of fetal undernutrition in the weeks leading up to delivery ([3](javascript:;)). Consistent with this, a recent follow-up study of men and women whose mothers were exposed to famine in pregnancy showed that third-trimester famine exposure resulted in impaired glucose tolerance in the offspring in later adult life ([61](javascript:;)). As might be expected, the predominant phenotype of fetal growth retardation and the mix of babies with different types vary greatly in different populations ([3](javascript:;)). These variations may contribute to geographic differences in the prevalence of coronary heart disease.
-
-With respect to timing, it is important to appreciate that effects that are manifest late in pregnancy may commonly originate much earlier in gestation. For example, studies of the famine of 1944–1945 in the Netherlands ([62](javascript:;)) led to the dogma that thinness at birth results from influences operating in the last trimester of pregnancy. Outside the setting of famine, both animal and human studies indicate that fetal undernutrition late in pregnancy is, however, more commonly a consequence of an inadequate maternoplacental supply capacity set up earlier in gestation ([63](javascript:;), [64](javascript:;)). Thus, although the short- and long-term effects of an acute, severe famine are of great scientific importance, we must be aware that these effects could result in erroneous conclusions about timing in nonfamine situations.
-
-### Maternal influences on fetal nutrition
-
-Size at birth reflects the product of the fetus's trajectory of growth, set at an early stage in development, and the maternoplacental capacity to supply sufficient nutrients to maintain that trajectory. In Western communities, it has been thought that regulatory mechanisms in the maternal and placental systems act to ensure that human fetal growth and development is little influenced by normal variations in maternal nutrient intake and that there is a simple relation between a woman's body composition and the growth of her fetus. Recent experimental studies in animals and our own observations in humans challenge these concepts ([3](javascript:;)). These studies suggest that a mother's own fetal growth and her dietary intakes and body composition can exert major effects on the balance between the fetal demand for nutrients and the maternoplacental capacity to meet that demand. Failure of the maternoplacental supply line to satisfy fetal nutrient requirements results in a range of fetal adaptations and developmental changes; although these adaptations may be beneficial for short-term survival, they may lead to permanent alterations in the body's structure and metabolism and thereby to cardiovascular and metabolic disease in adult life ([3](javascript:;)). A conceptual framework illustrating this hypothesis is shown in [Figure 2](javascript:;).
-
-Quite apart from any long-term effects on health in adult life, specific issues that have not been adequately addressed in previous studies of maternal nutrition include _1_) effects on the trajectory of fetal growth, _2_) intergenerational effects, _3_) paradoxical effects on placental growth, _4_) effects on fetal proportions and specific tissues, and _5_) the importance of the balance of macronutrients in the mother's diet and of her body composition.
+Bastante aparte de cualquier efecto a largo plazo en la salud en la vida adulta, los problemas específicos que no se han abordado adecuadamente en los estudios anteriores de la nutrición materna incluyen los efectos _1_) en la trayectoria de crecimiento fetal, _2_) efectos intergeneracionales, _3_) efectos paradójicos en placentero Efectos de crecimiento, _4_) en proporciones fetales y tejidos específicos, y _5_) la importancia del equilibrio de macronutrientes en la dieta de la madre y de su composición corporal.
 
 FIGURE 2.
 
@@ -842,19 +813,16 @@ FIGURE 2.
 
 [Open in new tab](/view-large/figure/111383657/134402.gif)[Download slide](/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content%5Fpublic/Journal/ajcn/71/5/10.1093%5Fajcn%5F71.5.1344s/3/134402.gif?Expires=1645343046&Signature=Sv5zG~~DLBp7IauobiPe10n030vCyeZLTp-X8HDy5EgH8DfKvMoW~y0aaC018CUfwYQW-sZ05RMBOb0sgm3jU7K3Qq1Lksj7g6avMbh9gGkTUhVeKNyK8OYv3HgcwGCMV4lUfqTBCqs2HnSTXAXR3ZZ8wfn6U0mQl4lhGNMM2Nnhb7--uJFP3fFljuSyynXVmkr6p0utD5VXPwajVgRm62rm-IcIPfs5uX0jEmCccdR0rMemPgpMAaAsQSzh9maqE4FKyjWTSur4C3JeU1ZOft-MCt6KLuCIqmuVpTQou-jW5YTtfCaNAH5xa3CDYrLT5X5r4X7T~Z1LVa9syI0N2A%5F%5F&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=111383657&ar=4729552&xsltPath=~/UI/app/XSLT&imagename=&siteId=6122)
 
-Framework for understanding the maternal regulation of fetal development and programming.
+Marco para comprender la regulación materna del desarrollo y la programación fetales.
 
-### The fetal growth trajectory
+### la trayectoria de crecimiento fetal
+Una trayectoria rápida del crecimiento aumenta la demanda de nutrientes del feto. Esto refleja los efectos tanto en los requisitos de mantenimiento, mayor en los fetos que han logrado un tamaño mayor como resultado de una trayectoria de crecimiento más rápida, y en los requisitos para el crecimiento futuro. En términos absolutos, la demanda fetal de nutrientes es pequeña hasta tarde en el embarazo. Los estudios experimentales de las ovejas embarazadas mostraron que, aunque una trayectoria de crecimiento rápido se asocia generalmente con un tamaño fetal más grande y una supervivencia neonatal mejorada, hace que el feto sea más vulnerable a un suministro de nutrientes más reducido de matrimonio en la gestación tardía. Por lo tanto, la desnutrición materna durante el último trimestre afectó adversamente el desarrollo de fetos en rápido crecimiento con altos requisitos y tiene poco efecto en los que crecen más lentamente ([65] (Javascript:;)). Se encontró que los fetos en rápido crecimiento hicieran una serie de adaptaciones para sobrevivir, incluida la pérdida de la masa magra fetal para proporcionar aminoácidos para la oxidación en la placenta para mantener la salida de lactato al feto ([65] (JavaScript:;)).
 
-A rapid trajectory of growth increases the fetus's demand for nutrients. This reflects effects both on maintenance requirements, greater in fetuses that have achieved a larger size as a result of a faster growth trajectory, and on requirements for future growth. In absolute terms, the fetal demand for nutrients is small until late in pregnancy. Experimental studies of pregnant ewes showed that, although a fast growth trajectory is generally associated with larger fetal size and improved neonatal survival, it does render the fetus more vulnerable to a reduced maternoplacental supply of nutrients in late gestation. Thus, maternal undernutrition during the last trimester adversely affected the development of rapidly growing fetuses with high requirements while having little effect on those growing more slowly ([65](javascript:;)). Rapidly growing fetuses were found to make a series of adaptations to survive, including wasting of fetal lean mass to provide amino acids for oxidation in the placenta to maintain lactate output to the fetus ([65](javascript:;)).
+Se cree que la trayectoria del crecimiento fetal se establece en una etapa temprana en el desarrollo. Los experimentos en animales han demostrado que las alteraciones periconocepcionales en la dieta materna y las concentraciones de progesterona de plasma pueden alterar la expresión génica en el embrión de preimplantación para cambiar la trayectoria de crecimiento fetal ([66] (JavaScript:;), [67] (JavaScript:;)). Los efectos ambientales se han mostrado en las tasas de crecimiento embrionarias y en la asignación celular en el embrión de preimplantación. El tratamiento con progesterona materna puede, por ejemplo, alterar permanentemente la trayectoria del crecimiento fetal al cambiar la asignación de células entre la masa celular interna que se desarrolla en el feto y el trofecto exterior que se convierte en la placenta ([66] (JavaScript:;), [ 67] (JavaScript:;)). Se cree que la trayectoria del crecimiento fetal aumenta con las mejoras en la nutrición periconeptiva, y es más rápida en los fetos machos ([68] (JavaScript:;)). Una posibilidad es que la mayor vulnerabilidad de tales fetos en una trayectoria de crecimiento rápido podría contribuir al aumento de la enfermedad coronaria con la occidentalización y las mayores tasas de mortalidad en los hombres.
+### efectos intergeneracionales
+Los estudios experimentales en animales han demostrado que la desnutrición durante muchas generaciones puede tener efectos acumulativos en el desempeño reproductivo durante varias generaciones. Por lo tanto, las ratas de alimentación, una dieta deficiente en proteínas, durante 12 generaciones, dio como resultado un retraso progresivamente mayor de crecimiento fetal durante las generaciones; Cuando las ratas se reformaron con una dieta normal, luego tomó 3 generaciones para normalizar el crecimiento y el desarrollo ([69] (JavaScript:;)).
 
-The trajectory of fetal growth is thought to be set at an early stage in development. Experiments in animals have shown that periconceptional alterations in maternal diet and plasma progesterone concentrations can alter gene expression in the preimplantation embryo to change the fetal growth trajectory ([66](javascript:;), [67](javascript:;)). Environmental effects have been shown on both embryonic growth rates and on cell allocation in the preimplantation embryo. Maternal progesterone treatment can, for example, permanently alter the trajectory of fetal growth by changing the allocation of cells between the inner cell mass that develops into the fetus and the outer trophectoderm that becomes the placenta ([66](javascript:;), [67](javascript:;)). The trajectory of fetal growth is thought to increase with improvements in periconceptional nutrition, and is faster in male fetuses ([68](javascript:;)). One possibility is that the greater vulnerability of such fetuses on a fast growth trajectory could contribute to the rise in coronary heart disease with Westernization and the higher death rates in men.
-
-### Intergenerational effects
-
-Experimental studies in animals have shown that undernutrition over many generations can have cumulative effects on reproductive performance over several generations. Thus, feeding rats a protein-deficient diet over 12 generations resulted in progressively greater fetal growth retardation over the generations; when the rats were refed with a normal diet, it then took 3 generations to normalize growth and development ([69](javascript:;)).
-
-Strong evidence of major intergenerational effects in humans has come from studies showing that a woman's birth weight influences the birth weight of her offspring ([70](javascript:;), [71](javascript:;)). We found, moreover, that whereas low-birth-weight mothers tend to have thin infants with a low ponderal index, the father's birth weight is unrelated to ponderal index at birth ([Figure 3](javascript:;)); crown-heel length at birth is, however, more strongly related to the father's birth weight than to the mother's ([64](javascript:;)). The effect of maternal birth weight on thinness at birth is consistent with the hypothesis that the maternoplacental supply line may be unable to satisfy fetal nutrient demand in low-birth-weight mothers. Potential mechanisms underlying this effect include alterations in the uterine or systemic vasculature, programmed changes in maternal metabolic status, and impaired placentation. The strong effect of paternal birth weight on crown-heel length may reflect paternal imprinting of genes important for skeletal growth, such as those regulating the concentrations of insulin-like growth factors ([72](javascript:;)).
+La evidencia sólida de los principales efectos intergeneracionales en los humanos ha provisto de estudios que muestran que el peso del nacimiento de una mujer influye en el peso al nacer de su descendencia ([70] (JavaScript:;), [71] (JavaScript:;)). Encontramos, además, que, mientras que las madres de bajo peso al parto tienden a tener bebés delgados con un índice ponderal bajo, el peso del nacimiento del padre no está relacionado con el índice de ponderal al nacer ([Figura 3] (JavaScript:;)); Sin embargo, la longitud del talón de la corona al nacer está, sin embargo, más estrictamente relacionada con el peso del nacimiento del padre que a la madre ([64] (JavaScript:;)). El efecto del peso de natalidad materna en la delgadez al nacer es consistente con la hipótesis de que la línea de suministro de maternoplacenta puede ser incapaz de satisfacer la demanda de nutrientes fetales en madres con bajo peso al nacer. Los mecanismos potenciales que subyacen a este efecto incluyen alteraciones en la vasculatura uterina o sistémica, cambios programados en el estado metabólico materno y la placentación deteriorada. El fuerte efecto del peso al nacer paterno en la longitud del talón de la corona puede reflejar la impresión paterna de los genes importantes para el crecimiento esquelético, como aquellos que regulan las concentraciones de factores de crecimiento similares a la insulina ([72] (JavaScript:;)).
 
 FIGURE 3.
 
@@ -862,291 +830,288 @@ FIGURE 3.
 
 [Open in new tab](/view-large/figure/111383664/134403.gif)[Download slide](/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content%5Fpublic/Journal/ajcn/71/5/10.1093%5Fajcn%5F71.5.1344s/3/134403.gif?Expires=1645343046&Signature=Tu9y6nJWOe9Qog9efT2oFYvjsFd9ljCfgE8tNzSmN~tUvnPlznbZXyxaQ5-1KJS2qSAmfO2UtzuAEvC138p~bIFJMEdDPXpiSe6OivjJreNTbR8lQLjOh0mLnDDLEq7ErlNrykYcV~7Yvux2vuwdwg3mBaNf6S5ukjJa4Xx3UhX4Q~suwSzrVrT9~daHaFNtEkEewaR1nCWcr24LFhVuyiobzr6sDiWODjexXotiHRxKzaFKTpXce2ZrP7fqKF~HPPxcnIgq9aQIBtScR3StbSfnME4E6MXBoUa8hmbNoVvJNxY7ozoLbxy1n4dwWTyrctHJ42lQbQTIv0Wz-4lq0g%5F%5F&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=111383664&ar=4729552&xsltPath=~/UI/app/XSLT&imagename=&siteId=6122)
 
-Ponderal index at birth in 492 term Southampton pregnancies according to the mother's and father's birth weights. Values are means (±SEs) adjusted for sex and gestation. Derived from Godfrey et al ([64](javascript:;)).
-
+Índice de Ponderal al nacer en los embarazos de Southampton a término de 492 años de acuerdo con los pesos del nacimiento de la madre y del padre.Los valores son medios (± SES) ajustados para el sexo y la gestación.Derivado de Godfrey et al ([64] (JavaScript:;)).
 FIGURE 3.
 
 ![Ponderal index at birth in 492 term Southampton pregnancies according to the mother's and father's birth weights. Values are means (±SEs) adjusted for sex and gestation. Derived from Godfrey et al (64).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajcn/71/5/10.1093_ajcn_71.5.1344s/3/m_134403.gif?Expires=1645343046&Signature=FrQr-cQ8H1ULm2OcKy-TQii8lSgipR2QgoMgiYpHXwMMEPCqG8Py1DxHRoaGLUCXhnhO7kLHea-LmGeTMvBX5uCAKWz8BdPdOMjZLTUO1b4Hqtq0SB6PoHM5s8uL4s6VNWMmyTZEnLiNnXSNJSrYN6FDiRrCrMseJwEr0tMp9JahIepT0E8eiazw0ej0gFEBUr6kA39EwlGj18LjQl5EaeGAbOyPrtDNBB5ku09I60K3Z1-T3BoHe0OxDCKoKC2Bu3B4PBgfq~MVYxODYvLZA1IXV7-D2tyfe~0nPScf9jHXU5KY7F6YE82BS8CH07T8yGaZEipeouY8tn0XVGyLhg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 [Open in new tab](/view-large/figure/111383664/134403.gif)[Download slide](/DownloadFile/DownloadImage.aspx?image=https://oup.silverchair-cdn.com/oup/backfile/Content%5Fpublic/Journal/ajcn/71/5/10.1093%5Fajcn%5F71.5.1344s/3/134403.gif?Expires=1645343046&Signature=Tu9y6nJWOe9Qog9efT2oFYvjsFd9ljCfgE8tNzSmN~tUvnPlznbZXyxaQ5-1KJS2qSAmfO2UtzuAEvC138p~bIFJMEdDPXpiSe6OivjJreNTbR8lQLjOh0mLnDDLEq7ErlNrykYcV~7Yvux2vuwdwg3mBaNf6S5ukjJa4Xx3UhX4Q~suwSzrVrT9~daHaFNtEkEewaR1nCWcr24LFhVuyiobzr6sDiWODjexXotiHRxKzaFKTpXce2ZrP7fqKF~HPPxcnIgq9aQIBtScR3StbSfnME4E6MXBoUa8hmbNoVvJNxY7ozoLbxy1n4dwWTyrctHJ42lQbQTIv0Wz-4lq0g%5F%5F&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA&sec=111383664&ar=4729552&xsltPath=~/UI/app/XSLT&imagename=&siteId=6122)
 
-Ponderal index at birth in 492 term Southampton pregnancies according to the mother's and father's birth weights. Values are means (±SEs) adjusted for sex and gestation. Derived from Godfrey et al ([64](javascript:;)).
+Índice de Ponderal al nacer en los embarazos de Southampton a término de 492 años de acuerdo con los pesos del nacimiento de la madre y del padre.Los valores son medios (± SES) ajustados para el sexo y la gestación.Derivado de Godfrey et al ([64] (JavaScript:;)).
+### Capacidades de transferencia y tamaño placentario.
 
-### Placental size and transfer capabilities
+Aunque el tamaño de la placenta da solo una medida indirecta de su capacidad para transferir nutrientes al feto, no obstante, está fuertemente asociado con el tamaño fetal al nacer. Los experimentos en ovejas mostraron que la nutrición materna en el embarazo temprano puede ejercer efectos importantes en el crecimiento de la placenta y alterar así el desarrollo fetal ([63] (Javascript:;), [73] (JavaScript:;)). Los efectos producidos dependían del estado nutricional de la OEWE en el período periconepcional. En las ovejas mal alimentadas alrededor del tiempo de concepción, las tomas de nutrientes altas en el embarazo temprano aumentaron el tamaño de la placenta. A la inversa, en las ovejas bien alimentadas alrededor del tiempo de concepción, las tomas altas en el embarazo temprano dieron como resultado un tamaño placentario más pequeño ([63] (JavaScript:;)). Aunque esta supresión parece paradójica, en la agricultura de ovejas, es una práctica común para que las ovejas se coloquen en un pasto rico antes de acoplarse y luego en el pasto pobre durante un período en el embarazo temprano ([74] (JavaScript:;)).
 
-Although the size of the placenta gives only an indirect measure of its capacity to transfer nutrients to the fetus, it is nonetheless strongly associated with fetal size at birth. Experiments in sheep showed that maternal nutrition in early pregnancy can exert major effects on the growth of the placenta and thereby alter fetal development ([63](javascript:;), [73](javascript:;)). The effects produced depended on the nutritional status of the ewe in the periconceptional period. In ewes poorly nourished around the time of conception, high nutrient intakes in early pregnancy increased the size of the placenta. Conversely, in ewes well nourished around the time of conception, high intakes in early pregnancy resulted in smaller placental size ([63](javascript:;)). Although this suppression appears paradoxical, in sheep farming it is common practice for ewes to be put on rich pasture before mating and then on poor pasture for a period in early pregnancy ([74](javascript:;)).
+Como parte de un estudio diseñado para evaluar si las variaciones normales en la dieta materna que se encuentran en las comunidades occidentales podrían influir en el crecimiento y el desarrollo fetal, hemos encontrado evidencia de un efecto supresor similar de alta ingesta dietética en el embarazo temprano en el crecimiento placentario ([75] ( JavaScript:;). Por lo tanto, entre 538 mujeres que se entregaron a término, aquellas con altas ingestas dietéticas en el embarazo temprano, especialmente de los carbohidratos, tenían placentas más pequeñas, particularmente si se combinaban con bajas ingestas de proteínas lácteas en el embarazo tardío ([Tabla 3] (JavaScript:;)) ([75] (JavaScript:;)). Estos efectos fueron independientes del estado del cuerpo, la clase social y el estado del cuerpo de la madre, y dieron lugar a alteraciones en la proporción de peso placentario al peso al nacer (relación placentaria). Confirmación de que la dieta materna puede alterar el crecimiento placentario ha provisto de los análisis del hambre holandés de 1944-1945, en el que la exposición al hambre en el embarazo temprano aumentó el peso placentario ([76] (JavaScript:;)).
 
-As part of a study designed to evaluate whether the normal variations in maternal diet found in Western communities could influence fetal growth and development, we have found evidence of a similar suppressive effect of high dietary intakes in early pregnancy on placental growth ([75](javascript:;)). Thus, among 538 women who delivered at term, those with high dietary intakes in early pregnancy, especially of carbohydrate, had smaller placentas, particularly if combined with low intakes of dairy protein in late pregnancy ([Table 3](javascript:;)) ([75](javascript:;)). These effects were independent of the mother's body size, social class, and smoking status, and resulted in alterations in the ratio of placental weight to birth weight (placental ratio). Confirmation that maternal diet can alter placental growth has come from analyses of the Dutch famine of 1944–1945, in which famine exposure in early pregnancy increased placental weight ([76](javascript:;)).
+TABLA 3
 
-TABLE 3
+Peso placentario medio en 538 mujeres que se entregaron a término en Southampton, Reino Unido [_1 _] (JavaScript:;)
 
-Mean placental weight in 538 women who delivered at term in Southampton, United Kingdom[_1_](javascript:;)
+ .
 
- . 
+Ingesta de carbohidratos en el embarazo temprano (g / d).
 
-Carbohydrate intake in early pregnancy (g/d) . 
+Ingesta de proteínas lácteas en el embarazo tardío (g / d).
 
-Dairy protein intake in late pregnancy (g/d) . 
+≤265.
 
-≤265 . 
+340.
 
-340 . 
+\> 340.
 
-\>340 . 
+Todo .
 
-All . 
+≤18.5
 
-≤18.5 
+539
 
-539 
+507
 
-507 
+494
 
-494 
+516
 
-516 
+26.5
 
-26.5 
+556
 
-556 
+546
 
-546 
+509
 
-509 
+540
 
-540 
+\> 26.5
 
-\>26.5 
+582
 
-582 
+533
 
-533 
+536
 
-536 
+544
 
-544 
+Todo
 
-All 
+554
 
-554 
+531
 
-531 
+517
 
-517 
+534 [_2 _] (JavaScript:;)
 
-534[_2_](javascript:;) 
+ .
 
- . 
+Ingesta de carbohidratos en el embarazo temprano (g / d).
 
-Carbohydrate intake in early pregnancy (g/d) . 
+Ingesta de proteínas lácteas en el embarazo tardío (g / d).
 
-Dairy protein intake in late pregnancy (g/d) . 
+≤265.
 
-≤265 . 
+340.
 
-340 . 
+\> 340.
 
-\>340 . 
+Todo .
 
-All . 
+≤18.5
 
-≤18.5 
+539
 
-539 
+507
 
-507 
+494
 
-494 
+516
 
-516 
+26.5
 
-26.5 
+556
 
-556 
+546
 
-546 
+509
 
-509 
+540
 
-540 
+\> 26.5
 
-\>26.5 
+582
 
-582 
+533
 
-533 
+536
 
-536 
+544
 
-544 
+Todo
 
-All 
+554
 
-554 
+531
 
-531 
+517
 
-517 
-
-534[_2_](javascript:;) 
+534 [_2 _] (JavaScript:;)
 
 1
 
-Values are adjusted for sex and the duration of gestation at delivery. Significant association with placental weight for carbohydrate, _P_ \= 0.002 and dairy protein, _P_ \= 0.005\. Derived from Godfrey et al ([75](javascript:;)).
+Los valores se ajustan para el sexo y la duración de la gestación en la entrega. Asociación significativa con peso placentario para carbohidratos, _P_ \ = 0.002 y proteínas lácteas, _P_ \ = 0.005 \. Derivado de Godfrey et al ([75] (JavaScript:;)).
 
 2
 
-Overall SD = 121 g.
+En general, SD = 121 g.
 
-<div class=" graphic-wrap ">[ Open in new tab](/view-large/111383668)
+<DIV Class = "Graphic-Wrap"> [Abrir en la pestaña NUEVA] (/ Ver-grande / 111383668)
 
-TABLE 3
+TABLA 3
 
-Mean placental weight in 538 women who delivered at term in Southampton, United Kingdom[_1_](javascript:;)
+Peso placentario medio en 538 mujeres que se entregaron a término en Southampton, Reino Unido [_1 _] (JavaScript:;)
 
- . 
+ .
 
-Carbohydrate intake in early pregnancy (g/d) . 
+Ingesta de carbohidratos en el embarazo temprano (g / d).
 
-Dairy protein intake in late pregnancy (g/d) . 
+Ingesta de proteínas lácteas en el embarazo tardío (g / d).
 
-≤265 . 
+≤265.
 
-340 . 
+340.
 
-\>340 . 
+\> 340.
 
-All . 
+Todo .
 
-≤18.5 
+≤18.5
 
-539 
+539
 
-507 
+507
 
-494 
+494
 
-516 
+516
 
-26.5 
+26.5
 
-556 
+556
 
-546 
+546
 
-509 
+509
 
-540 
+540
 
-\>26.5 
+\> 26.5
 
-582 
+582
 
-533 
+533
 
-536 
+536
 
-544 
+544
 
-All 
+Todo
 
-554 
+554
 
-531 
+531
 
-517 
+517
 
-534[_2_](javascript:;) 
+534 [_2 _] (JavaScript:;)
 
- . 
+ .
 
-Carbohydrate intake in early pregnancy (g/d) . 
+Ingesta de carbohidratos en el embarazo temprano (g / d).
 
-Dairy protein intake in late pregnancy (g/d) . 
+Ingesta de proteínas lácteas en el embarazo tardío (g / d).
 
-≤265 . 
+≤265.
 
-340 . 
+340.
 
-\>340 . 
+\> 340.
 
-All . 
+Todo .
 
-≤18.5 
+≤18.5
 
-539 
+539
 
-507 
+507
 
-494 
+494
 
-516 
+516
 
-26.5 
+26.5
 
-556 
+556
 
-546 
+546
 
-509 
+509
 
-540 
+540
 
-\>26.5 
+\> 26.5
 
-582 
+582
 
-533 
+533
 
-536 
+536
 
-544 
+544
 
-All 
+Todo
 
-554 
+554
 
-531 
+531
 
-517 
+517
 
-534[_2_](javascript:;) 
+534 [_2 _] (JavaScript:;)
 
 1
 
-Values are adjusted for sex and the duration of gestation at delivery. Significant association with placental weight for carbohydrate, _P_ \= 0.002 and dairy protein, _P_ \= 0.005\. Derived from Godfrey et al ([75](javascript:;)).
+Los valores se ajustan para el sexo y la duración de la gestación en la entrega. Asociación significativa con peso placentario para carbohidratos, _P_ \ = 0.002 y proteínas lácteas, _P_ \ = 0.005 \. Derivado de Godfrey et al ([75] (JavaScript:;)).
 
 2
 
-Overall SD = 121 g.
-
+En general, SD = 121 g.
 <div class=" graphic-wrap ">[ Open in new tab](/view-large/111383668)
 
-Effects on placental growth may be of long-term importance. A follow-up study of men born earlier this century in Sheffield found a U-shaped relation between the placental ratio and later coronary heart disease ([77](javascript:;)). Whereas babies with a disproportionately small placenta may suffer as a consequence of an impaired placental supply capacity, those with a disproportionately large placenta may experience fetal catabolism and wasting to supply amino acids for placental consumption ([52](javascript:;), [78](javascript:;)). Consequent fetal adaptations may underlie the increased death rates of adult coronary heart disease in those with both low and high placental ratios.
+Los efectos sobre el crecimiento placentario pueden ser de importancia a largo plazo. Un estudio de seguimiento de los hombres nacidos a principios de este siglo en Sheffield encontró una relación en forma de U entre la relación placentaria y la enfermedad coronaria posterior ([77] (JavaScript:;)). Considerando que los bebés con una placenta desproporcionadamente pequeña pueden sufrir como consecuencia de una capacidad de suministro placentaria deteriorada, aquellos con una placenta desproporcionadamente grande pueden experimentar catabolismo fetal y desperdicios para suministrar aminoácidos para el consumo placentario ([52] (JavaScript:;), [78 ] (JavaScript:;)). Las consiguientes adaptaciones fetales pueden subyacenar a la mayor cantidad de tasas de muerte de la enfermedad coronaria adulta en aquellos con relaciones placentarias tanto bajas como altas.
 
-### Effects on specific fetal tissues
+### efectos en tejidos fetales específicos
 
-Experimental studies in animals have shown that dietary manipulations during early development can have tissue-specific effects, resulting in alterations in an animal's proportions. For example, in pigs fed differing diets in the first year of life, those fed a protein-deficient diet had a disproportionately large head, ears, and genitalia compared with those fed an energy-deficient diet ([6](javascript:;)). Recent experiments in guinea pigs showed that maternal undernutrition in pregnancy resulted in offspring that not only had altered body proportions at birth, but also showed profound elevations of serum cholesterol concentrations when fed a high-cholesterol diet in the postweaning period ([79](javascript:;)).
+Los estudios experimentales en animales han demostrado que las manipulaciones dietéticas durante el desarrollo temprano pueden tener efectos específicos de los tejidos, lo que resulta en alteraciones en las proporciones de un animal. Por ejemplo, en los cerdos alimentados con diferentes dietas en el primer año de vida, aquellos alimentados con una dieta deficiente en proteínas tenían una cabeza, oídos y genitales desproporcionadamente grandes en comparación con los alimentados con una dieta deficiente en la energía ([6] (Javascript:;) ). Los experimentos recientes en los conejillos de indias mostraron que la desnutrición materna en el embarazo resultó en descendencia que no solo habían alterado las proporciones corporales al nacer, sino que también mostraban elevaciones profundas de las concentraciones de colesterol sérico cuando alimentaban una dieta de alto colesterol en el período postetreo ([79] (JavaScript :;)).
 
-In humans, few studies have examined the possibility of maternal nutrition during pregnancy having tissue-specific effects on the fetus leading to greater alterations in neonatal proportions than in birth weight. Any such effects may be important because adult coronary heart disease and type 2 diabetes are more strongly associated with altered birth proportions than with birth weight ([38](javascript:;), [80](javascript:;)). We found that women with low dairy protein intakes in late pregnancy tended to have babies that were thinner at birth ([64](javascript:;)); maternal dairy protein intakes were not, however, related to birth weight ([75](javascript:;)). Furthermore, a recent follow-up study of children whose mothers took part in a randomized, controlled trial of calcium supplementation in pregnancy found that although maternal supplementation was associated with a lowering of the offspring's blood pressure in childhood, this effect was not associated with any change in birth weight ([81](javascript:;)).
+En los humanos, pocos estudios han examinado la posibilidad de nutrición materna durante el embarazo que tiene efectos específicos de tejido en el feto que conduce a mayores alteraciones en las proporciones neonatales que en el peso al nacer. Cualquier efecto de este tipo puede ser importante porque la enfermedad cardíaca coronaria adulta y la diabetes tipo 2 se asocian con mayor fuerza con las proporciones alteradas de nacimientos que con el peso al nacer ([38] (JavaScript:;), [80] (JavaScript:;)). Encontramos que las mujeres con las tomas de proteínas bajas de lácteos en el embarazo tardío tendían a tener bebés más delgados al nacer ([64] (Javascript:;)); Sin embargo, las tomas de proteínas lácteas maternos no estaban relacionadas con el peso al nacer ([75] (JavaScript:;)). Además, un reciente estudio de seguimiento de los niños cuyas madres participaron en un ensayo controlado al azar y controlado de la suplementación con calcio en el embarazo encontró que aunque la suplementación materna se asoció con una reducción de la presión arterial de la descendencia en la infancia, este efecto no se asoció con ninguna Cambio en peso al nacer ([81] (JavaScript:;)).
 
-### Maternal dietary balance and body composition
+### Equilibrio dietético materno y composición corporal.
 
-Indications that the balance of macronutrients in the mother's diet can have important short- and long-term effects on the offspring came from a series of experimental studies in pregnant rats. These studies found that maternal diets with a low ratio of protein to carbohydrate and fat alter fetal and placental growth and result in lifelong elevations of blood pressure in the offspring ([4](javascript:;)). A follow-up study of 40-y-old men and women in Aberdeen, United Kingdom, suggested that alterations in the maternal macronutrient balance during pregnancy could have similar adverse effects on the offspring ([82](javascript:;)); the relations with maternal diet were, however, complex, and studies to replicate them are in progress. Among women who reported animal protein intakes <50 g/d, a high maternal carbohydrate intake was associated with higher adult blood pressure in the offspring; among those who reported animal protein intakes >50 g/d, a low maternal carbohydrate intake was associated with higher blood pressure. These increases in blood pressure were associated with reduced placental size ([82](javascript:;)).
+Indicaciones de que el equilibrio de macronutrientes en la dieta de la madre puede tener importantes efectos a corto y largo plazo en la descendencia que vino de una serie de estudios experimentales en ratas embarazadas. Estos estudios encontraron que las dietas maternas con una proporción baja de proteínas al crecimiento fetal y placentero alteran la grasa y resultan en elevaciones de por vida de la presión arterial en la descendencia ([4] (JavaScript:;)). Un estudio de seguimiento de hombres y mujeres de 40 y ancianos en Aberdeen, Reino Unido, sugirió que las alteraciones en el equilibrio macronutriente materno durante el embarazo podrían tener efectos adversos similares en la descendencia ([82] (JavaScript:;)); Sin embargo, las relaciones con la dieta materna fueron complejas, y los estudios para replicarlos están en progreso. Entre las mujeres que denunciaron tomas de proteínas animales <50 g / d, una ingesta alta de carbohidratos materna se asoció con una mayor presión arterial adulta en la descendencia; Entre los que reportaron las tomas de proteínas animales> 50 g / d, una ingesta baja de carbohidratos materna se asoció con una presión arterial más alta. Estos aumentos en la presión arterial se asociaron con un tamaño de placentero reducido ([82] (JavaScript:;)).
 
-Support for the thesis that alterations in fetal and placental development may result from a low ratio of animal protein to carbohydrate came from observational studies of maternal nutrition in pregnancy ([75](javascript:;)). Support for adverse effects of a high ratio of animal protein to carbohydrate came from a review of 16 trials of protein supplementation showing that supplements with a high protein density were consistently associated with lower birth weights ([83](javascript:;)).
+El apoyo a la tesis de que las alteraciones en el desarrollo fetal y placentero pueden resultar de una proporción baja de proteínas animales al carbohidrato provenientes de estudios observacionales de nutrición materna en el embarazo ([75] (JavaScript:;)). El soporte para los efectos adversos de una alta proporción de proteína animal al carbohidrato provino de una revisión de 16 ensayos de suplementos de proteínas que muestran que los suplementos con una alta densidad de proteínas se asociaron constantemente con menores pesos de natalidad ([83] (Javascript:;)).
 
-Evidence that maternal body composition has important effects on the offspring came from studies showing that extremes of maternal body composition in pregnancy are associated with adverse long-term outcomes in the offspring. Follow-up of a group of Jamaican children showed that those whose mothers had thin skinfold thicknesses in pregnancy and a low pregnancy weight gain had relatively higher blood pressure at the age of 11 y ([84](javascript:;)). A subsequent study of 11-y-old children in Birmingham, United Kingdom, found similar associations ([85](javascript:;)). Studies in India found that a low maternal weight in pregnancy is associated with an increased risk of coronary heart disease in the offspring in adult life ([16](javascript:;)).
+Evidencia de que la composición del cuerpo materno tiene efectos importantes en la descendencia que vino de estudios que muestran que los extremos de la composición del cuerpo materno en el embarazo se asocian con resultados adversos a largo plazo en la descendencia. El seguimiento de un grupo de niños jamaicanos mostró que aquellos cuyas madres tenían espesores delgados en el embarazo y un bajo aumento de peso del embarazo tuvo una presión arterial relativamente mayor a la edad de 11 años ([84] (JavaScript:;)). Un estudio posterior de niños de 11 años en Birmingham, Reino Unido, encontró asociaciones similares ([85] (JavaScript:;)). Los estudios en la India encontraron que un bajo peso materno en el embarazo se asocia con un mayor riesgo de enfermedad coronaria en la descendencia en la vida adulta ([16] (JavaScript:;)).
 
-At the other extreme of maternal body fatness, evidence of long-term effects of maternal obesity came from follow-up of a group of men in Finland born earlier this century ([80](javascript:;)). Markedly raised coronary heart disease death rates were found in men whose mothers had a high body mass index in pregnancy. This effect was independent of an association between thinness at birth and increased rates of adult coronary heart disease. Modeling the data to derive contour lines of similar coronary heart disease death rates indicated that increasing maternal body mass index had little effect on the offspring's death rates in tall women, but strong effects in short women ([3](javascript:;), [80](javascript:;)). One interpretation of these findings is that greater maternal body fatness may increase fetal growth and hence the fetal demand for nutrients; short women may not be able to meet this increased demand as a result of a constrained nutrient supply capacity determined during their own intrauterine development ([80](javascript:;)).
+En el otro extremo de la gordura corporal materna, la evidencia de los efectos a largo plazo de la obesidad materna provino del seguimiento de un grupo de hombres en Finlandia nacida a principios de este siglo ([80] (JavaScript:;)). Las tasas de mortalidad coronarias de la enfermedad coronaria aumentaron en los hombres cuyas madres tenían un alto índice de masa corporal en el embarazo. Este efecto fue independiente de una asociación entre la delgadez al nacer y el aumento de las tasas de enfermedad coronaria adulta. Modelar los datos para obtener líneas de contorno de las tasas de muerte coronarias similares similares a las tasas de muerte indicadas que aumentar el índice de masa corporal materna tuvo poco efecto en las tasas de mortalidad de la descendencia en mujeres altas, pero efectos fuertes en las mujeres cortas ([3] (JavaScript:;), [ 80] (JavaScript:;)). Una interpretación de estos hallazgos es que la mayor grasa corporal materna puede aumentar el crecimiento fetal y, por lo tanto, la demanda fetal de los nutrientes; Es posible que las mujeres cortas no puedan cumplir con esta mayor demanda como resultado de una capacidad de suministro de nutrientes restringida determinada durante su propio desarrollo intrauterino ([80] (JavaScript:;)).
 
-## IMPLICATIONS AND FUTURE WORK
+## implicaciones y trabajo futuro
 
-The finding that normal variations in fetal size and thinness at birth have implications for health throughout life has prompted a reevaluation of the regulation of fetal development. Impetus has been added to this reevaluation by recent findings showing that a woman's diet and body composition in pregnancy are related to cardiovascular disease risk factors and the prevalence of coronary heart disease in her offspring in adult life. These observations challenge the view that the fetus is little affected by changes in maternal nutrition except in circumstances of famine.
+El hallazgo de que las variaciones normales en el tamaño y la delgadez fetal al nacer tienen implicaciones para la salud a lo largo de la vida, ha provocado una reevaluación de la regulación del desarrollo fetal. Se ha agregado un impulso a esta reevaluación por los recientes hallazgos que muestran que la dieta y la composición corporal de una mujer en el embarazo están relacionadas con los factores de riesgo de enfermedad cardiovascular y la prevalencia de la enfermedad cardíaca coronaria en su descendencia en la vida adulta. Estas observaciones desafían la opinión de que el feto está poco afectado por los cambios en la nutrición materna, excepto en las circunstancias de la hambruna.
 
-If, as we believe, a woman's own fetal growth and diet and body composition before and during pregnancy play a major role in programming the future health of her children, mothers will want to know what they can do to optimize the intrauterine environment they provide for their babies. The complexities of fetal growth and development are, however, such that currently available data form no basis for changing dietary recommendations for pregnant women. The long time-scale over which the effects of an adverse intrauterine environment act dictate that we now need to progress beyond epidemiologic associations to greater understanding of the cellular and molecular processes that underlie them.
+Si, como creemos, el propio crecimiento fetal de una mujer y la alimentación de la dieta y el cuerpo antes y durante el embarazo desempeñan un papel importante en la programación de la salud futura de sus hijos, las madres querrán saber qué pueden hacer para optimizar el entorno intrauterino que prevén sus bebés Sin embargo, las complejidades del crecimiento y desarrollo fetales son, sin embargo, de tales que los datos actualmente disponibles no forman base para cambiar las recomendaciones dietéticas para las mujeres embarazadas. La larga escala de tiempo sobre la cual los efectos de una Ley de entorno intrauterino adversos dictan que ahora necesitamos progresar más allá de las asociaciones epidemiológicas a una mayor comprensión de los procesos celulares y moleculares que los subyacen.
 
-Future work will need to identify the factors that set the trajectory of fetal growth and the influences that limit the maternoplacental delivery of nutrients and oxygen to the fetus. We also need to define how the fetus adapts to a limited nutrient supply, how these adaptations program the structure and physiology of the body, and by what molecular mechanisms nutrients and hormones alter gene expression. Further research requires a strategy of interdependent clinical, animal, and epidemiologic investigations. Such an approach may allow us to use the information outlined here to reduce the prevalence of major diseases.
+El trabajo futuro deberá identificar los factores que establecen la trayectoria del crecimiento fetal y las influencias que limitan la entrega maternoplacional de nutrientes y oxígeno al feto. También debemos definir cómo se adapta el feto a un suministro de nutrientes limitado, cómo estas adaptaciones programan la estructura y la fisiología del cuerpo, y por qué mecanismos moleculares nutrientes y hormonas alteran la expresión génica. Otra investigación requiere una estrategia de investigaciones clínicas, animales y epidemiológicos interdependientes. Un enfoque de este tipo puede permitirnos utilizar la información descrita aquí para reducir la prevalencia de enfermedades principales.
 
 ## REFERENCES
 
