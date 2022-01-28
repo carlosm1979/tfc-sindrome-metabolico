@@ -1,3 +1,15 @@
 [ver original](/docs/documentacion/Fetal_nutrition_and_adult_disease.md)
 
 #  Fetal nutrition and adult disease 
+
+ABSTRACT
+
+Las investigaciones recientes sugieren que varias de las enfermedades principales de la vida posterior, incluida la enfermedad coronaria, la hipertensión y la diabetes tipo 2, se originan en el desarrollo y el desarrollo intrauterina afectados.
+
+Evidencia de que la enfermedad cardíaca coronaria, la hipertensión y la diabetes se programan provenientes de estudios longitudinales de 25000 hombres y mujeres del Reino Unido en los que el tamaño al nacer se relacionó con la ocurrencia de la enfermedad en la mediana edad.
+
+Las personas que eran pequeñas o desproporcionadas (delgadas o cortas) al nacer tenían tasas altas de enfermedad coronaria, presión arterial alta, concentraciones altas de colesterol y metabolismo anormal de la insulina de la glucosa.
+
+ Estas relaciones fueron independientes de la duración de la gestación, lo que sugiere que la enfermedad cardiovascular está vinculada a la restricción de crecimiento fetal en lugar de al parto prematuro.
+
+hay fuertes indicadores de la importancia de las adaptaciones fetales invocadas cuando el suministro de nutrientes maternoplacentario no logra igualar la demanda de nutrientes fetales
