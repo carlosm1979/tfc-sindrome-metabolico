@@ -1,3 +1,4 @@
+[reusmen](/docs/resumenes/Fetal_nutrition_and_adult_disease.md)
 #  Fetal nutrition and adult disease 
 
 [![Issue Cover](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ajcn/Issue/71/5/5/m_cover.jpeg?Expires=1645903480&Signature=LYptV96~DSsAmr9PEKgXM1JTC-Bc69Np5B4yHhye4GqnaQP2~cPzMaBF~131VAEaa0AArLLFpWOzFS7TglHY-qwhyCsr5nlml5L69rsNkfro~~lMvImpHKPWP35vHYqvwwvdIwAw9P88VzJjhfdn1c8YI3vAp~RUvvojjYgbFUlY76CwiiF9hDTb5SUCbAdj2UkTPlJXsuOsZ-D9Xvnbc2Kg1KvK~g5r3pOHVCsZ5sG75e7jOIbex63VpS82cjoe1cA4t515K1VIJ24sWXvL1oxNJNESriS29bg9swcVKqNlKZgWX96vNTPfTZ6KvABp6H6gCYbdACFJVVD~6UrG0Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](/ajcn/issue/71/5) 

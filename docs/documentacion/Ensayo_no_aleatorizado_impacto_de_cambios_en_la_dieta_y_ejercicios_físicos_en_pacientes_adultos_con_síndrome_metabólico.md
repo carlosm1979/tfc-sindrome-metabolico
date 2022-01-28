@@ -1,3 +1,5 @@
+[resumen](/docs/resumenes/Ensayo_no_aleatorizado_impacto_de_cambios_en_la_dieta_y_ejercicios_físicos_en_pacientes_adultos_con_síndrome_metabólico.md)
+
 ## Ensayo no aleatorizado: impacto de cambios en la dieta y ejercicios físicos en pacientes adultos con síndrome metabólico
 
 ## [Correo Científico Médico](http://scielo.sld.cu/scielo.php?script=sci%5Fserial&pid=1560-4381&lng=es&nrm=iso)
