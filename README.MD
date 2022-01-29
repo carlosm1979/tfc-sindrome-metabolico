@@ -226,30 +226,51 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 
 ### SM en la mujer
 
+#### Embarazo
+
+> El reconocimiento de este síndrome durante el embarazo podría ayudar a
+> identificar a un subgrupo de mujeres quienes no solamente pueden
+> desarrollar complicaciones durante el embarazo, sino que
+> potencialmente tienen un riesgo incrementado de condiciones
+> metabólicas y cardiovasculares a lo largo de su vida.
+
+> Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
+> enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
+> síndrome es detectado precozmente, pueden realizarse cambios
+> significativos en la conducta médica durante el embarazo desde su
+> inicio, para prevenir las complicaciones maternas y fetales asociadas,
+> de esta manera contribuiría como una herramienta diagnóstica útil para
+> su aplicación en todas aquellas gestantes que acudan a su control
+> prenatal e incluso en la consulta preconcepcional, para hacer
+> diagnóstico de rutina y así recomendarles que deben tratarse.
+
+> La presencia de SM antes del inicio del embarazo es un factor de
+> riesgo importante para trastornos hipertensivos del embarazo. Se ha
+> correlacionado con la hipertensión de la gestación en un 11 % y con la
+> preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
+> hipertensivos en el primer embarazo incrementa el riesgo de
+> desarrollar posteriormente SM de 3 a 5 veces
+
+> Es difícil demostrar que se produzcan lesiones a largo plazo en madres
+> gestantes debido al SM, al contrario de lo que ocurre con los efectos
+> de una predisposición a las enfermedades cardiovasculares y la
+> diabetes tipo 2. Sin embargo tanto la diabetes de la DG como los
+> trastornos hipertensivos del embarazo (THE) pueden verse como
+> expresiones del síndrome durante la gestación (4).
+
+Podría decirse que la DG es una manifestación temprana del SM en la
+mujer. La resistencia a la insulina, característica del embarazo, puede
+resultar en DG.
+
 Existen una serie diagnósticos que pueden ser identificados como
-síntomas tempranos de SM, com opueden ser el síndrome de ovario
+síntomas tempranos de SM, como pueden ser el síndrome de ovario
 poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
 o la diabetes gestacional.
 
-En Estados Unidos, la prevalencia del SM en mujeres:\
+En Estados Unidos, la prevalencia del SM en mujeres[6](#6):\
 - mayores de 20 años es de 24%\
 - en mayores de 50 años es de 30%\
 - 40 % después de los 60 años
-
-**Diagnóstico diabetes gestacional**
-
-El Comité de expertos de la Organización Mundial de la Salud (OMS)
-recomienda el **diagnóstico de DG a través de una prueba basada en una
-sobrecarga glucosada similar a la utilizada en adultos fuera del
-embarazo**.
-
-Después de tres días de una dieta libre con una ingesta mayor de 150 g
-de glucosa diaria, se toma una muestra en ayunas y se administra 75 g de
-glucosa oral para luego tomar una muestra de sangre dos horas después.\
-- La respuesta normal a las dos horas debe ser menor de 140 mg/dL - si
-la glicemia se encuentra entre 140 mg/dL y 199 mg/dL, existe una
-intolerancia de la glucosa en la gestación (IGG) - si la glucosa excede
-los 200 mg/dL la prueba es diagnóstica de DG
 
 #### Complicaciones materno-fetales
 
@@ -286,12 +307,19 @@ Complicaciones en los recién nacidos relacionadas con SM de las madres
 pueden ser: hipoglicemia, bajo peso al nacer o sepsis.
 
 Tanto la DG como la diabetes tipo 2 se relacionan con varias
-consencuencias negativas para el feto, como pueden ser muerte prematura,
+consecuencias negativas para el feto, como pueden ser muerte prematura,
 macrosomía, hipoglicemia y trauma neonatal. Los fetos macrosómicos y
-recién nacidos de madres obesas tienen mayor riesgo de presentar SM en
-el futuro. Y los hijos de mujeres con diabetes tipo 1 tienen
+recién nacidos de madres obesas tienen mayor riesgo de presentar SM a
+largo plazo, sumado a cualquier predisposición hereditaria. Una alta
+concentración de triglicéridos en la madre también puede provocar
+macrosomía y se ha sugerido que puede ser un recurso adicional para
+monitorizar el SM. Y los hijos de mujeres con diabetes tipo 1 tienen
 predisposición al desarrollo de enfermedades cardiovasculares durante la
 infancia.
+
+No encontramos relación entre el SM y la asfixia, el trauma neonatal, el
+ingreso a la unidad de terapia intensiva neonatal (UTIN), la
+trombocitopenia y el alto peso al nacer.
 
 ##### Prevención
 
@@ -304,6 +332,15 @@ infancia.
 > diagnóstico de rutina y así recomendarles que deben tratarse.
 
 #### Menopausia
+
+    **Diagnóstico diabetes gestacional**
+
+    El Comité de expertos de la Organización Mundial de la Salud (OMS) recomienda el **diagnóstico de DG a través de una prueba basada en una sobrecarga glucosada similar a la utilizada en adultos fuera del embarazo**.
+
+    Después de tres días de una dieta libre con una ingesta mayor de 150 g de glucosa diaria, se toma una muestra en ayunas y se administra 75 g de glucosa oral para luego tomar una muestra de sangre dos horas después.  
+      - La respuesta normal a las dos horas debe ser menor de 140 mg/dL
+      - si la glicemia se encuentra entre 140 mg/dL y 199 mg/dL, existe una intolerancia de la glucosa en la gestación (IGG)
+      - si la glucosa excede los 200 mg/dL la prueba es diagnóstica de DG
 
 ### SM en la tercera edad
 
@@ -567,7 +604,16 @@ Glosario
 --------
 
 **Sarcopenia**: Afección que se caracteriza por la pérdida de masa,
-fuerza y funcionamiento de los músculos en los adultos mayores.
+fuerza y funcionamiento de los músculos en los adultos mayores.\
+**Morbimortalidad**: tasa de muertes por enfermedad en una población y
+tiempo determinados.\
+**Preclampsia**: complicación del embarazo caracterizada por presión
+arteial alta y signos de daños en otro sistema de órganos, generalmente
+hígado y riñón. Generalmente comienza después de las veinte semanas de
+embarazo en mujeres cuya presión arterial había sido normal, si no se
+trata puede ser mortal para la madre y para el bebe.\
+**Macrosomía**: El feto macrosómico es el bebé que nace con más de
+cuatro kilos tras nueve meses de gestación.
 
 Tablas
 ======
