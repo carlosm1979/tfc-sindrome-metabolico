@@ -333,7 +333,7 @@ médicos de hipertensión arterial o diabetes mellitus.
 ##### Consecuencias a largo plazo para la mujer
 
 El SM en embarazadas es un indicador de predisposición a desarrollar
-enfermedades cardiovasculare y diabetes tipo 2.
+enfermedades cardiovasculares y diabetes tipo 2.
 
 Tener trastornos THE durante el embarazo es indicativo de riesgo para la
 mujer de sufrir diversas patologías en el futuro, como obesidad,
