@@ -313,9 +313,10 @@ recién nacidos de madres obesas tienen mayor riesgo de presentar SM a
 largo plazo, sumado a cualquier predisposición hereditaria. Una alta
 concentración de triglicéridos en la madre también puede provocar
 macrosomía y se ha sugerido que puede ser un recurso adicional para
-monitorizar el SM. Y los hijos de mujeres con diabetes tipo 1 tienen
-predisposición al desarrollo de enfermedades cardiovasculares durante la
-infancia.
+monitorizar el SM. Por otro lado el bajo peso al nacer va asociado a
+embarazos de mujeres con edades avanzadas. Y los hijos de mujeres con
+diabetes tipo 1 tienen predisposición al desarrollo de enfermedades
+cardiovasculares durante la infancia.
 
 No encontramos relación entre el SM y la asfixia, el trauma neonatal, el
 ingreso a la unidad de terapia intensiva neonatal (UTIN), la
