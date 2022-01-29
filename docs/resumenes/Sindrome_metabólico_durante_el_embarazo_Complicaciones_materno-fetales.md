@@ -3,7 +3,7 @@
 # Síndrome metabólico durante el embarazo. Complicaciones materno-fetales
 
 
-DG: Diabetes de gestación
+DG: Diabetes de gestación  
 THE: trastornos hipertensivos del embarazo
 ## RESUMEN
 
@@ -28,7 +28,6 @@ La complicaciónes fetales:
 La complicaciónes fetales:
 - 4,3 % macrosomía  
 
-
 ## INTRODUCCIÓN
 
  estudio reciente realizado por Noussitou y col. (1) en Suiza, encontraron en 159 embarazadas con diabetes de la gestación (DG) una incidencia del 26 % de SM previo al embarazo; utilizaron criterios propios para el SM y como criterio principal, mujeres con DG más uno de los siguientes factores: hipertensión, dislipidemia y obesidad. 
@@ -45,9 +44,8 @@ Es difícil demostrar que se produzcan lesiones a largo plazo en madres gestante
 Tanto la diabetes de la DG como los trastornos hipertensivos del embarazo (THE) pueden verse como expresiones del síndrome durante la gestación
 
 la DG es una manifestación temprana del SM en la mujer.
-la DG es una manifestación temprana del SM en la mujer.
 
-establece el diagnóstico de DG, realizar en la embarazada una **prueba basada en una sobrecarga glucosada** similar a la utilizada en adultos fuera del embarazo. 
+Establece el diagnóstico de DG según el criterio sugerido por el Comité de expertos de la Organización Mundial de la Salud (OMS), el cual recomienda realizar en la embarazada una prueba basada en una **sobrecarga glucosada** similar a la utilizada en adultos fuera del embarazo.
 
 Después de tres días de una dieta libre con una ingesta mayor de 150 g de glucosa diaria, se toma una muestra en ayunas y se administra 75 g de glucosa oral para luego tomar una muestra de sangre dos horas después.
 - La respuesta normal a las dos horas debe ser menor de 140 mg/dL

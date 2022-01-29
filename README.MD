@@ -29,7 +29,7 @@ Indice general
             -   SM en el hombre
             -   SM en la mujer\
                 *Menopausia*\
-                *Embarazo*
+                *Complicaciones materno-fetales*
             -   SM en la infancia
             -   SM en la tercera edad
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
@@ -196,8 +196,22 @@ arterial.
 
 #### Niveles elevados de triglicéridos
 
-Por grupos de población
------------------------
+### Patologías relacionadas
+
+Relación entre el SM y:
+
+-   el cáncer colorrectal
+-   cáncer de mama
+-   cáncer de próstata
+
+El SM confiere un riesgo importante para el desarrollo de otras
+enfermedades como:
+
+-   la esteatosis hepática,
+-   el síndrome de apnea del sueño,
+-   la enfermedad renal crónica,
+-   el síndrome del ovario poliquístico
+-   la infertilidad masculina
 
 ### SM en la infrancia
 
@@ -210,9 +224,59 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 
 ### SM en la mujer
 
-#### menopausia
+En Estados Unidos, la prevalencia del SM en mujeres: - mayores de 20
+años es de 24 % - en mayores de 50 años es de 30 % - 40 % después de los
+60 años (2).
 
-### SN en la tercera edad [4](#4)
+#### Complicaciones materno-fetales
+
+Diabetes gestacional como el THE es una manifestacion temprana del SM en
+la mujer.
+
+Algunos autores señalan que los antecedentes familiares de hipertensión
+arterial, de diabetes mellitus, así como el peso, talla e IMC de los
+padres de las gestantes, predisponen a estas mujeres a presentar un
+mayor riesgo de enfermedad cardiovascular
+
+Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
+enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
+síndrome es detectado precozmente, pueden realizarse cambios
+significativos en la conducta médica durante el embarazo desde su
+inicio, para prevenir las complicaciones maternas y fetales asociadas,
+de esta manera contribuiría como una herramienta diagnóstica útil para
+su aplicación en todas aquellas gestantes que acudan a su control
+prenatal e incluso en la consulta preconcepcional, para hacer
+diagnóstico de rutina y así recomendarles que deben tratarse.
+
+El reconocimiento de este síndrome durante el embarazo podría ayudar a
+identificar a un subgrupo de mujeres quienes no solamente pueden
+desarrollar complicaciones durante el embarazo, sino que potencialmente
+tienen un riesgo incrementado de condiciones metabólicas y
+cardiovasculares a lo largo de su vida.
+
+La presencia de SM antes del inicio del embarazo es un factor de riesgo
+importante para trastornos hipertensivos del embarazo. Se ha
+correlacionado con la hipertensión de la gestación en un 11 % y con la
+preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
+hipertensivos en el primer embarazo incrementa el riesgo de desarrollar
+posteriormente SM de 3 a 5 veces (3).
+
+Algunos autores señalan que los antecedentes familiares de hipertensión
+arterial, de diabetes mellitus, así como el peso, talla e IMC de los
+padres de las gestantes, predisponen a estas mujeres a presentar un
+mayor riesgo de enfermedad cardiovascular (2).
+
+DG es una manifestación temprana del SM en la mujer
+
+Establece el diagnóstico de DG según el criterio sugerido por el Comité
+de expertos de la Organización Mundial de la Salud (OMS), el cual
+recomienda realizar en la embarazada una prueba basada en una
+**sobrecarga glucosada** similar a la utilizada en adultos fuera del
+embarazo.
+
+#### Menopausia
+
+### SM en la tercera edad [4](#4)
 
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
@@ -232,22 +296,10 @@ explicada por cuatro principales vías:
 A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer
 sarcopenia; por lo que estas características pueden contribuir a la
 discapacidad física y a los trastornos metabólicos en adultos mayores
-con diabetes. \#\#\# Patologías relacionadas
+con diabetes.
 
-Relación entre el SM y:
-
--   el cáncer colorrectal
--   cáncer de mama
--   cáncer de próstata
-
-El SM confiere un riesgo importante para el desarrollo de otras
-enfermedades como:
-
--   la esteatosis hepática,
--   el síndrome de apnea del sueño,
--   la enfermedad renal crónica,
--   el síndrome del ovario poliquístico
--   la infertilidad masculina
+Por grupos de población
+-----------------------
 
 Tratamiento y prevención
 ------------------------
@@ -379,6 +431,16 @@ ISSN
 nutricional en pacientes no institucionalizados mayores de 64 años del
 área de salud de A Coruña, Mª Pilar Carballo González,
 http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
+
+##### 6
+
+[YEPEZ, Mayel Cristina; ZEPPENFEL, María Eugenia; COLON, José Antonio y
+ZIMMER, Eveline. Síndrome metabólico durante el embarazo: Complicaciones
+materno-fetales. Rev Obstet Ginecol Venez \[online\]. 2011, vol.71, n.2
+\[citado 2022-01-29\], pp.77-87. Disponible en:
+&lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso&gt;.
+ISSN
+0048-7732.](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso)
 
 ------------------------------------------------------------------------
 

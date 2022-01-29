@@ -1,0 +1,1 @@
+[ver origen](/docs/documentacion/Relacion_entre_diabetes_gestacional_y_sindrome_metabolico.md)
