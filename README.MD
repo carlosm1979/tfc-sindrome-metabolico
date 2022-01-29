@@ -220,9 +220,9 @@ insulinorresistencia, recomendándose su lectura en la práctica clínica
 como herramienta simple para identificar a niños con riesgo de presentar
 en un futuro ECV y diabetes tipo II.[4](#4)
 
-\pagebreak
-
 ### SM en adultos
+
+\pagebreak
 
 ### SM en la mujer
 
