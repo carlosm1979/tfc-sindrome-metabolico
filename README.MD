@@ -31,7 +31,7 @@ Indice general
                 *Menopausia*\
                 *Complicaciones materno-fetales*
             -   SM en la infancia
-            -   SM en la tercera edad
+            -   [SM en la tercera edad](#4)
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
         -   Alimentación y estilo de vida como estrategia para la
             prevención del SM
