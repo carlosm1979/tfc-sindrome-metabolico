@@ -27,7 +27,7 @@ Indice general
                 triglicéridos](#Niveles-elevados-de-triglicéridos)
         -   Por grupos de población
             -   SM en el hombre
-            -   [SM en la mujer](#2.1-sm-en-la-mujer)\
+            -   [SM en la mujer](#21-sm-en-la-mujer)\
                 *Menopausia*\
                 *Embarazo. Complicaciones materno-fetales*
             -   SM en la infancia
