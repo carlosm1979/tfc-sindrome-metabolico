@@ -1,6 +1,6 @@
 [ver original](/docs/documentacion/Sindrome_metabólico_durante_el_embarazo_Complicaciones_materno-fetales.md)
 
-# Síndrome metabólico durante el embarazo. Complicaciones materno-fetales1
+# Síndrome metabólico durante el embarazo. Complicaciones materno-fetales
 
 
 DG: Diabetes de gestación
@@ -38,16 +38,14 @@ En Estados Unidos, la prevalencia del SM en mujeres:
 - en mayores de 50 años es de 30 %
 - 40 % después de los 60 años (2).
 
-
 Algunos autores señalan que los antecedentes familiares de hipertensión arterial, de diabetes mellitus, así como el peso, talla e IMC de los padres de las gestantes, predisponen a estas mujeres a presentar un mayor riesgo de enfermedad cardiovascular
 
 Es difícil demostrar que se produzcan lesiones a largo plazo en madres gestantes debido al SM, al contrario de lo que ocurre con los efectos de una predisposición a las enfermedades cardiovasculares y la diabetes tipo 2.
 
 Tanto la diabetes de la DG como los trastornos hipertensivos del embarazo (THE) pueden verse como expresiones del síndrome durante la gestación
 
- la DG es una manifestación temprana del SM en la mujer.
- la DG es una manifestación temprana del SM en la mujer.
-
+la DG es una manifestación temprana del SM en la mujer.
+la DG es una manifestación temprana del SM en la mujer.
 
 establece el diagnóstico de DG, realizar en la embarazada una **prueba basada en una sobrecarga glucosada** similar a la utilizada en adultos fuera del embarazo. 
 
@@ -63,7 +61,6 @@ En un estudio, 168 primigestas con THE fueron escogidas por edad y año de parto
 - aumento de glicemia en ayunas
 - hiperinsulinemia
 
-
 La nutrición fetal desproporcionada tiene consecuencias a corto y largo plazo.
 Tanto la DG como la diabetes tipo 2, están relacionadas con resultados gravemente adversos para el feto, como:
 - la muerte intrauterina
@@ -76,18 +73,15 @@ Los hijos de mujeres con diabetes tipo 1 (la mayoría de las cuales no tienen SM
 
 El SM no es una enfermedad nueva; como señala Braguinsky (5), su descripción tuvo lugar hace al menos 80 años por parte de Kylin, un médico sueco que definió la asociación entre hipertensión, hiperglicemia y gota. 
 
-
 La etiología del SM no está bien establecida, dos hipótesis han sido sugeridas:
-1. la primera tiene que ver con la resistencia a la insulina, relacionada con la grasa visceral, lo cual resulta en disfunción celular endotelial, daño vascular y formación de ateroma secundario a estrés oxidativo;
-2. la segunda está relacionada con el estrés crónico, asociado con elevación del cortisol en suero. Esta última ha sido postulada como el origen de la obesidad, resistencia a la insulina y la dislipidemia (5).
-
+1. tiene que ver con la resistencia a la insulina, relacionada con la grasa visceral, lo cual resulta en disfunción celular endotelial, daño vascular y formación de ateroma secundario a estrés oxidativo;
+2. está relacionada con el estrés crónico, asociado con elevación del cortisol en suero. Esta última ha sido postulada como el origen de la obesidad, resistencia a la insulina y la dislipidemia (5).
 
 Muchos de los signos y síntomas tempranos del SM están asociados a condiciones comúnmente diagnosticadas y tratadas, las cuales incluyen:
 - el síndrome de ovario poliquístico, que está asociado con un aumento del riesgo de 11 veces la prevalencia de SM
 - disfunción sexual femenina
 - hipertensión en el embarazo
 - DG 
-
 
 Existen diversos factores de riesgo predisponentes relacionados con el SM:
 - obesidad
@@ -110,10 +104,8 @@ Los factores de riesgo emergentes son:
 - pequeñas partículas de LDL
 - estados protrombóticos
 
-
-
-Criterios de inclusión
-
+**Criterios de inclusión
+**
 Embarazadas con edad de gestación menor o igual a 12 semanas, diagnosticadas por fecha de última regla (FUR) o por ecosonografía del primer trimestre, que tenían obesidad central con dos o más de los siguientes criterios: hipertensión, disminución de HDL colesterol, hipertrigliceridemia e hiperglicemia en ayunas.
 
 El grupo control estuvo conformado por embarazadas con edad de gestación menor o igual a 12 semanas, diagnosticadas por FUR o por ecosonografía del primer trimestre y que no presentaron los criterios diagnósticos de SM.
@@ -146,4 +138,3 @@ Las complicaciones de los neonatos de madres que cursan con SM fueron:
 **recomendamos**
 
 Realizar pesquisa de SM en la primera consulta prenatal e incluso en la consulta preconcepcional para identificar a un subgrupo de mujeres con un riesgo elevado de presentar complicaciones obstétricas y perinatales.
-
