@@ -27,7 +27,7 @@ Indice general
                 triglicéridos](#Niveles-elevados-de-triglicéridos)
         -   Por grupos de población
             -   SM en el hombre
-            -   [SM en la mujer](#sm-en-la-mujer)\
+            -   [SM en la mujer](#2-1-sm-en-la-mujer)\
                 *Menopausia*\
                 *Embarazo. Complicaciones materno-fetales*
             -   SM en la infancia
@@ -229,7 +229,7 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 
 ### SM en adultos
 
-### SM en la mujer
+### 2.1 SM en la mujer
 
 #### Embarazo
 
@@ -344,18 +344,6 @@ hiperinsulinemia.
 
 Complicaciones en los recién nacidos relacionadas con SM de las madres
 pueden ser: hipoglicemia, bajo peso al nacer o sepsis.
-
-Tanto la DG como la diabetes tipo 2 se relacionan con varias
-consecuencias negativas para el feto, como pueden ser muerte prematura,
-macrosomía, hipoglicemia y trauma neonatal. Los fetos macrosómicos y
-recién nacidos de madres obesas tienen mayor riesgo de presentar SM a
-largo plazo, sumado a cualquier predisposición hereditaria. Una alta
-concentración de triglicéridos en la madre también puede provocar
-macrosomía y se ha sugerido que puede ser un recurso adicional para
-monitorizar el SM. Por otro lado el bajo peso al nacer va asociado a
-embarazos de mujeres con edades avanzadas. Y los hijos de mujeres con
-diabetes tipo 1 tienen predisposición al desarrollo de enfermedades
-cardiovasculares durante la infancia.
 
 No encontramos relación entre el SM y la asfixia, el trauma neonatal, el
 ingreso a la unidad de terapia intensiva neonatal (UTIN), la
