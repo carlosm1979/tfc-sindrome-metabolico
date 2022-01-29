@@ -310,8 +310,6 @@ En Estados Unidos, la prevalencia del SM en mujeres:\
 
 #### Complicaciones materno-fetales
 
-[6](#6)
-
 Se ha encontrado relación entre el desarrollo de DG durante el embarazo
 con el diagnóstico de SM previo al embarazado. Tanto la diabetes de la
 DG como los trastornos hipertensivos del embarazo pueden verse como
