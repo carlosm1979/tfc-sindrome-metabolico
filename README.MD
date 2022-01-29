@@ -5,7 +5,9 @@ Beatriz Carro Otero
 -------------------
 
 \pagebreak
-\# Indice general
+
+Indice general
+==============
 
 -   [Introduccion](#introducción)
 -   [Objetivos](#objetivos)
