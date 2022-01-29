@@ -1,13 +1,11 @@
-\pagebreak
-
 El síndrome metabólico
 ======================
 
 Beatriz Carro Otero
 -------------------
 
-Indice general
-==============
+\pagebreak
+\# Indice general
 
 -   [Introduccion](#introducción)
 -   [Objetivos](#objetivos)
@@ -116,9 +114,7 @@ su desarrollo. Solo un 10% de los casos de SM tiene causas genéticas.\
 Hay estudios relacionan la obesidad con causas epigenéticas (como el
 estado nutricional durante el embarazo), lo que podría acabar derivando
 de adulto en obesidad. \pagebreak
-
-Objetivos
-=========
+\# Objetivos
 
     - Obtener información sobre que es el S. Metabólico  
     - Estudiar la importancia de la alimentación en su aparición  
@@ -221,8 +217,6 @@ como herramienta simple para identificar a niños con riesgo de presentar
 en un futuro ECV y diabetes tipo II.[4](#4)
 
 ### SM en adultos
-
-\pagebreak
 
 ### SM en la mujer
 
@@ -401,8 +395,8 @@ sarcopenia; por lo que estas características pueden contribuir a la
 discapacidad física y a los trastornos metabólicos en adultos mayores
 con diabetes.
 
-Por grupos de población
------------------------
+\pagebreak
+\#\# Por grupos de población
 
 Tratamiento y prevención
 ------------------------
