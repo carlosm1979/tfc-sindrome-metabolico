@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "pandoc -s secciones/*.md -o README.MD",
-    "to-docx": "pandoc -s secciones/01.02_indice_general.md -o tfc-indice.docx",
+    "to-docx": "pandoc -s pdf.MD -o tfc-sindrome-metabolico.docx",
     "to-pdf": "pandoc secciones/*.md -o pdf.MD && pandoc -V fontsize=12pt -V geometry:margin=0.590551in pdf.MD -o tfc-sindrome-metabolico.pdf",
     "publish": "npm run build && npm run to-pdf && npm run to-docx && git add . && git commit -m $(date \"+%Y-%m-%d@%H:%M\") && git pull && git push"
   },
