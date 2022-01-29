@@ -231,9 +231,10 @@ síntomas tempranos de SM, com opueden ser el síndrome de ovario
 poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
 o la diabetes gestacional.
 
-En Estados Unidos, la prevalencia del SM en mujeres: - mayores de 20
-años es de 24 % - en mayores de 50 años es de 30 % - 40 % después de los
-60 años (2).
+En Estados Unidos, la prevalencia del SM en mujeres:\
+- mayores de 20 años es de 24%\
+- en mayores de 50 años es de 30%\
+- 40 % después de los 60 años
 
 **Diagnóstico diabetes gestacional**
 
