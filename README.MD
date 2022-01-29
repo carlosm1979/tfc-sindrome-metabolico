@@ -133,11 +133,8 @@ Finalmente se busca determinar el conocimiento que tiene la población
 acerca del SM, y de como los hábitos de vida y de alimentación afectan a
 la aparición de la alteraciones de salud que lo componen.
 
-Parte teórica
-=============
-
-Que es
-------
+\pagebreak
+\# Parte teórica \#\# Que es
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se
 presentan al mismo tiempo cuya presencia aumentan el riesgo de
