@@ -29,7 +29,7 @@ Indice general
             -   SM en el hombre
             -   [SM en la mujer](#sm-en-la-mujer)\
                 *Menopausia*\
-                *Complicaciones materno-fetales*
+                *Embarazo. Complicaciones materno-fetales*
             -   SM en la infancia
             -   [SM en la tercera edad](#sm-en-la-tercera-edad)
     -   [Tratamiento y prevención](#Tratamiento-y-prevención)
