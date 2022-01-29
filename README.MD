@@ -230,49 +230,28 @@ años es de 24 % - en mayores de 50 años es de 30 % - 40 % después de los
 
 #### Complicaciones materno-fetales
 
-Diabetes gestacional como el THE es una manifestacion temprana del SM en
-la mujer.
+Se ha encontrado relación entre el desarrollo de DG durante el embarazo
+con el diagnóstico de SM previo al embarazado.[6](#6)
 
-Algunos autores señalan que los antecedentes familiares de hipertensión
-arterial, de diabetes mellitus, así como el peso, talla e IMC de los
-padres de las gestantes, predisponen a estas mujeres a presentar un
-mayor riesgo de enfermedad cardiovascular
+Las mujeres jóvenes adultas la hiperglicemia anterior al embarazo
+conjuntamente con la obesidad anticipan el diagnostico de SM.
 
-Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
-enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
-síndrome es detectado precozmente, pueden realizarse cambios
-significativos en la conducta médica durante el embarazo desde su
-inicio, para prevenir las complicaciones maternas y fetales asociadas,
-de esta manera contribuiría como una herramienta diagnóstica útil para
-su aplicación en todas aquellas gestantes que acudan a su control
-prenatal e incluso en la consulta preconcepcional, para hacer
-diagnóstico de rutina y así recomendarles que deben tratarse.
 
-El reconocimiento de este síndrome durante el embarazo podría ayudar a
-identificar a un subgrupo de mujeres quienes no solamente pueden
-desarrollar complicaciones durante el embarazo, sino que potencialmente
-tienen un riesgo incrementado de condiciones metabólicas y
-cardiovasculares a lo largo de su vida.
+    Diabetes gestacional como el THE es una manifestacion temprana del SM en la mujer.
 
-La presencia de SM antes del inicio del embarazo es un factor de riesgo
-importante para trastornos hipertensivos del embarazo. Se ha
-correlacionado con la hipertensión de la gestación en un 11 % y con la
-preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
-hipertensivos en el primer embarazo incrementa el riesgo de desarrollar
-posteriormente SM de 3 a 5 veces (3).
+    Algunos autores señalan que los antecedentes familiares de hipertensión arterial, de diabetes mellitus, así como el peso, talla e IMC de los padres de las gestantes, predisponen a estas mujeres a presentar un mayor riesgo de enfermedad cardiovascular
 
-Algunos autores señalan que los antecedentes familiares de hipertensión
-arterial, de diabetes mellitus, así como el peso, talla e IMC de los
-padres de las gestantes, predisponen a estas mujeres a presentar un
-mayor riesgo de enfermedad cardiovascular (2).
+    Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este síndrome es detectado precozmente, pueden realizarse cambios significativos en la conducta médica durante el embarazo desde su inicio, para prevenir las complicaciones maternas y fetales asociadas, de esta manera contribuiría como una herramienta diagnóstica útil para su aplicación en todas aquellas gestantes que acudan a su control prenatal e incluso en la consulta preconcepcional, para hacer diagnóstico de rutina y así recomendarles que deben tratarse.
 
-DG es una manifestación temprana del SM en la mujer
+    El reconocimiento de este síndrome durante el embarazo podría ayudar a identificar a un subgrupo de mujeres quienes no solamente pueden desarrollar complicaciones durante el embarazo, sino que potencialmente tienen un riesgo incrementado de condiciones metabólicas y cardiovasculares a lo largo de su vida.
 
-Establece el diagnóstico de DG según el criterio sugerido por el Comité
-de expertos de la Organización Mundial de la Salud (OMS), el cual
-recomienda realizar en la embarazada una prueba basada en una
-**sobrecarga glucosada** similar a la utilizada en adultos fuera del
-embarazo.
+    La presencia de SM antes del inicio del embarazo es un factor de riesgo importante para trastornos hipertensivos del embarazo. Se ha correlacionado con la hipertensión de la gestación en un 11 % y con la preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos hipertensivos en el primer embarazo incrementa el riesgo de desarrollar posteriormente SM de 3 a 5 veces (3).
+
+    Algunos autores señalan que los antecedentes familiares de hipertensión arterial, de diabetes mellitus, así como el peso, talla e IMC de los padres de las gestantes, predisponen a estas mujeres a presentar un mayor riesgo de enfermedad cardiovascular (2).
+
+    DG es una manifestación temprana del SM en la mujer
+
+    Establece el diagnóstico de DG según el criterio sugerido por el Comité de expertos de la Organización Mundial de la Salud (OMS), el cual recomienda realizar en la embarazada una prueba basada en una **sobrecarga glucosada** similar a la utilizada en adultos fuera del embarazo.
 
 #### Menopausia
 
