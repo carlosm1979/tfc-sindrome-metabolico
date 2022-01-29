@@ -114,7 +114,9 @@ su desarrollo. Solo un 10% de los casos de SM tiene causas genéticas.\
 Hay estudios relacionan la obesidad con causas epigenéticas (como el
 estado nutricional durante el embarazo), lo que podría acabar derivando
 de adulto en obesidad. \pagebreak
-\# Objetivos
+
+Objetivos
+=========
 
     - Obtener información sobre que es el S. Metabólico  
     - Estudiar la importancia de la alimentación en su aparición  
@@ -134,7 +136,12 @@ acerca del SM, y de como los hábitos de vida y de alimentación afectan a
 la aparición de la alteraciones de salud que lo componen.
 
 \pagebreak
-\# Parte teórica \#\# Que es
+
+Parte teórica
+=============
+
+Que es
+------
 
 Es un conjunto de trastornos y factores de riesgo reconocidos que se
 presentan al mismo tiempo cuya presencia aumentan el riesgo de
@@ -393,7 +400,9 @@ discapacidad física y a los trastornos metabólicos en adultos mayores
 con diabetes.
 
 \pagebreak
-\#\# Por grupos de población
+
+Por grupos de población
+-----------------------
 
 Tratamiento y prevención
 ------------------------
@@ -456,6 +465,8 @@ población.[3](#3)
     calórico como pasear, andar en bici, nadar o hacer excursionismo**
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
+
+\pagebreak
 
 Material y métodos
 ==================

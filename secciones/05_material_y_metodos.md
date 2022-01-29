@@ -1,3 +1,5 @@
+\pagebreak
+
 # Material y métodos
 
 Precisar los material y métodos que se van a necesitar para desarrollar el trabajo.
