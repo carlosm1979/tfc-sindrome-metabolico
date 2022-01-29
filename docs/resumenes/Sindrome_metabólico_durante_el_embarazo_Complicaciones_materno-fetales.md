@@ -14,7 +14,7 @@ Objetivo: Determinar la asociación entre el síndrome metabólico y las complic
 - 23,7 % tuvieron diabetes
 - 26,3 % parto pretérmino
 - 2,6 % infección puerperal.
-- 
+
 La complicaciónes fetales:
 - 10,5 % macrosomía
 - 23,7 % de casos con bajo peso al nacer
@@ -102,8 +102,8 @@ Los factores de riesgo emergentes son:
 - pequeñas partículas de LDL
 - estados protrombóticos
 
-**Criterios de inclusión
-**
+**Criterios de inclusión**
+
 Embarazadas con edad de gestación menor o igual a 12 semanas, diagnosticadas por fecha de última regla (FUR) o por ecosonografía del primer trimestre, que tenían obesidad central con dos o más de los siguientes criterios: hipertensión, disminución de HDL colesterol, hipertrigliceridemia e hiperglicemia en ayunas.
 
 El grupo control estuvo conformado por embarazadas con edad de gestación menor o igual a 12 semanas, diagnosticadas por FUR o por ecosonografía del primer trimestre y que no presentaron los criterios diagnósticos de SM.
