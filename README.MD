@@ -68,6 +68,11 @@ insulina(RI), fenómenos que a través de procesos inflamatorios,
 oxidativos y de disfunción endotelial, predisponen a un mayor riesgo de
 diabetes y eventos cardiovasculares.[2](#2)
 
+El SM no es una enfermedad nueva; como señala Braguinsky (5), su
+descripción tuvo lugar hace al menos 80 años por parte de Kylin, un
+médico sueco que definió la asociación entre hipertensión, hiperglicemia
+y gota.
+
 El primer intento de definición lo realizó Gerarld Reaven en 1988,
 cuando llamó 'síndrome X' a la agrupación de RI, dislipidemia e
 hipertensión.[1](#1)
@@ -110,9 +115,7 @@ calórico, junto con una vida sendentaria son factores determinantes para
 su desarrollo. Solo un 10% de los casos de SM tiene causas genéticas.\
 Hay estudios relacionan la obesidad con causas epigenéticas (como el
 estado nutricional durante el embarazo), lo que podría acabar derivando
-de adulto en obesidad.
-
-\pagebreak
+de adulto en obesidad. \pagebreak
 
 Objetivos
 =========
