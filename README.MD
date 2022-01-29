@@ -215,6 +215,11 @@ enfermedades como:
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
 
+\pagebreak
+
+Por grupos de población
+-----------------------
+
 ### SM en la infrancia
 
 En niños la circunferencia de cintura es predictora del síndrome de
@@ -400,11 +405,6 @@ A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer
 sarcopenia; por lo que estas características pueden contribuir a la
 discapacidad física y a los trastornos metabólicos en adultos mayores
 con diabetes.
-
-\pagebreak
-
-Por grupos de población
------------------------
 
 Tratamiento y prevención
 ------------------------
