@@ -238,7 +238,8 @@ años es de 24 % - en mayores de 50 años es de 30 % - 40 % después de los
 El Comité de expertos de la Organización Mundial de la Salud (OMS)
 recomienda el diagnóstico de DG a través de una prueba basada en una
 **sobrecarga glucosada** similar a la utilizada en adultos fuera del
-embarazo:\
+embarazo.
+
 Después de tres días de una dieta libre con una ingesta mayor de 150 g
 de glucosa diaria, se toma una muestra en ayunas y se administra 75 g de
 glucosa oral para luego tomar una muestra de sangre dos horas después.\
