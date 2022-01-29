@@ -66,16 +66,15 @@ Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
 vasculares que parten de la obesidad abdominal y la resistencia a la
 insulina(RI), fenómenos que a través de procesos inflamatorios,
 oxidativos y de disfunción endotelial, predisponen a un mayor riesgo de
-diabetes y eventos cardiovasculares.[2](#2)
+diabetes y eventos cardiovasculares.
 
-El SM no es una enfermedad nueva; como señala Braguinsky (5), su
-descripción tuvo lugar hace al menos 80 años por parte de Kylin, un
-médico sueco que definió la asociación entre hipertensión, hiperglicemia
-y gota.
+El SM no es una enfermedad nueva; como señala Braguinsky, su descripción
+tuvo lugar hace al menos 80 años por parte de Kylin, un médico sueco que
+definió la asociación entre hipertensión, hiperglicemia y gota.
 
 El primer intento de definición lo realizó Gerarld Reaven en 1988,
 cuando llamó 'síndrome X' a la agrupación de RI, dislipidemia e
-hipertensión.[1](#1)
+hipertensión.
 
 En 1999 la OMS cambió la denominación a 'Síndrome metabólico', y
 estableció una definición en la que considera que hay evidencia de que
@@ -174,8 +173,8 @@ cursa con aumento del peso corporal, siendo el incremento del diámetro
 de la circunferencia abdominal un indicador de obesidad.
 
 Se conoce que la obesidad aumenta el riesgo de aparición de ciertas
-enfermedades. A mayor IMC más riesgo.[4](#4) [Tabla 2: Indice de Masa
-Corporal, Circunferencia Abdominal y Riesgo de Enfermedad
+enfermedades. A mayor IMC más riesgo. [Tabla 2: Indice de Masa Corporal,
+Circunferencia Abdominal y Riesgo de Enfermedad
 Cardiovascular](#tabla-2)
 
 Uno de los efectos secundarios del sobrepeso y la obesidad es la
@@ -220,14 +219,12 @@ enfermedades como:
 Por grupos de población
 -----------------------
 
-### SM en la infrancia
+### SM en la infancia
 
 En niños la circunferencia de cintura es predictora del síndrome de
 insulinorresistencia, recomendándose su lectura en la práctica clínica
 como herramienta simple para identificar a niños con riesgo de presentar
-en un futuro ECV y diabetes tipo II.[4](#4)
-
-### SM en adultos
+en un futuro ECV y diabetes tipo II. \#\#\# SM en adultos
 
 ### 2.1 SM en la mujer
 
@@ -264,7 +261,7 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 > expresiones del síndrome durante la gestación (4).
 
 Si la diabetes gestacional está asociada con obesidad, se incrementa el
-riesgo de síndrome metabólico de 4 a diez veces.
+riesgo de síndrome metabólico de 4 a 10 veces.
 
 En cuanto a la prevalencia del SM se ha observado un incremente con la
 edad y la obesidad.
@@ -372,8 +369,6 @@ trombocitopenia y el alto peso al nacer.
 
 ### SM en la tercera edad
 
-[4](#4)
-
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
 insulina.
@@ -436,7 +431,7 @@ Como regla general, los hábitos alimentarios deben basarse en[3](#3):
 
 ### Hábitos de vida
 
-Favorecen el desarrollo del SM otros factores[3](#3):
+Favorecen el desarrollo del SM otros factores:
 
 -   **sedentarismo**
 -   **un elevado consumo calórico a través de bebidas azucaradas y
@@ -447,7 +442,7 @@ Favorecen el desarrollo del SM otros factores[3](#3):
 La actividad física es parte fundamental tanto del tratamiento de los
 pacientes con la enfermedad, como de los que están en riesgo de
 desarrollarla y debe de ser incluida en la vida cotidiana de la
-población.[3](#3)
+población.
 
 -   **Aparcando actividades sedentarias como la televisión o los
     videojuegos**
@@ -486,56 +481,40 @@ Bibliografía
 
 **Introducción**
 
-##### 1
-
-[CALDERIN BOUZA, Raúl Orlando y ORLANDI GONZALEZ, Neraldo. Síndrome
-metabólico vs síndrome de insulinorresistencia. Diferentes términos,
-clasificaciones y enfoques: ¿existe o no?. Rev Cubana Endocrinol
-\[online\]. 2006, vol.17, n.3 \[citado 2022-01-22\]. Disponible en:
-&lt;http://scielo.sld.cu/scielo.php?script=sci\_arttext&pid=S1561-29532006000300006&lng=es&nrm=iso&gt;.
-ISSN
-1561-2953.](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006)
-
-##### 2
-
-[Córdova-Pluma VH, Castro-Martínez G, Rubio-Guerra A, Hegewisch ME.
-Breve crónica de la definición del síndrome metabólico. Med Int Méx
-2014;30:312-328](https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf)
-
-##### 3
-
-[HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de estilo
-de vida como estrategia en la prevención del síndrome metabólico y la
-diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra.
-2016, vol.39, n.2 \[citado 2022-01-17\], pp.269-289. ISSN
-1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
-
-##### 4
-
-[SCHNELL, Mercedes; DOMINGUEZ, Zury A y CARRERA, Carlos. Aspectos
-genéticos, clínicos y fisiopatológicos del Síndrome Metabólico. An Venez
-Nutr \[online\]. 2007, vol.20, n.2 \[citado 2022-01-25\], pp.92-98.
-Disponible en:
-&lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0798-07522007000200006&lng=es&nrm=iso&gt;.
-ISSN
-0798-0752](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006)
-
-##### 5
-
-[Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
-nutricional en pacientes no institucionalizados mayores de 64 años del
-área de salud de A Coruña, Mª Pilar Carballo González,
-http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
-
-##### 6
-
-[YEPEZ, Mayel Cristina; ZEPPENFEL, María Eugenia; COLON, José Antonio y
-ZIMMER, Eveline. Síndrome metabólico durante el embarazo: Complicaciones
-materno-fetales. Rev Obstet Ginecol Venez \[online\]. 2011, vol.71, n.2
-\[citado 2022-01-29\], pp.77-87. Disponible en:
-&lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso&gt;.
-ISSN
-0048-7732.](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso)
+-   [CALDERIN BOUZA, Raúl Orlando y ORLANDI GONZALEZ, Neraldo. Síndrome
+    metabólico vs síndrome de insulinorresistencia. Diferentes términos,
+    clasificaciones y enfoques: ¿existe o no?. Rev Cubana Endocrinol
+    \[online\]. 2006, vol.17, n.3 \[citado 2022-01-22\]. Disponible en:
+    &lt;http://scielo.sld.cu/scielo.php?script=sci\_arttext&pid=S1561-29532006000300006&lng=es&nrm=iso&gt;.
+    ISSN
+    1561-2953.](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006)
+-   [Córdova-Pluma VH, Castro-Martínez G, Rubio-Guerra A, Hegewisch ME.
+    Breve crónica de la definición del síndrome metabólico. Med Int Méx
+    2014;30:312-328](https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf)
+-   [HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de
+    estilo de vida como estrategia en la prevención del síndrome
+    metabólico y la diabetes mellitus tipo 2: hitos y perspectivas.
+    Anales Sis San Navarra. 2016, vol.39, n.2 \[citado 2022-01-17\],
+    pp.269-289. ISSN
+    1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
+-   [SCHNELL, Mercedes; DOMINGUEZ, Zury A y CARRERA, Carlos. Aspectos
+    genéticos, clínicos y fisiopatológicos del Síndrome Metabólico. An
+    Venez Nutr \[online\]. 2007, vol.20, n.2 \[citado 2022-01-25\],
+    pp.92-98. Disponible en:
+    &lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0798-07522007000200006&lng=es&nrm=iso&gt;.
+    ISSN
+    0798-0752](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006)
+-   [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
+    nutricional en pacientes no institucionalizados mayores de 64 años
+    del área de salud de A Coruña, Mª Pilar Carballo González,
+    http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
+-   [YEPEZ, Mayel Cristina; ZEPPENFEL, María Eugenia; COLON, José
+    Antonio y ZIMMER, Eveline. Síndrome metabólico durante el embarazo:
+    Complicaciones materno-fetales. Rev Obstet Ginecol Venez \[online\].
+    2011, vol.71, n.2 \[citado 2022-01-29\], pp.77-87. Disponible en:
+    &lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso&gt;.
+    ISSN
+    0048-7732.](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso)
 
 ------------------------------------------------------------------------
 
