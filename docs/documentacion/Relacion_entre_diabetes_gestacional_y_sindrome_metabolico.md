@@ -182,18 +182,3 @@ Por último, destacamos la importancia de realizar en todas las mujeres con diab
 17\. Griffin ME, Coffey M, Johnsont H, Scanlon P, Foley M, Stronget J et al. Universal vs. risk factor-based screening for gestational diabetes mellitus: detection rates, gestation at diagnosis and outcome. _Diabet Med_ 2000; 17: 26-32\. \[ [Links](javascript:void%280%29;) \]
 
 Recibido el 22 de mayo, 2007\. Aceptado el 19 de julio, 2007.
-
-Trabajo financiado por Dirección de Investigación Universidad de Concepción. Código de Proyecto 84B009-1-0
-
-_[![](/fbpe/img/rmc/v135n12/flecha.jpg)](#top)Correspondencia a:_ Marta Molina S. Departamento de Obstetricia y Puericultura, Universidad de Concepción, Concepción. E mail: [marmolin@udec.cl](mailto:marmolin@udec.cl)
-
-[![Creative Commons License](http://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/deed.es) Todo el contenido de esta revista, excepto dónde está identificado, está bajo una [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc/4.0/deed.es)
-
-Bernarda Morín 488, Providencia,  
- Casilla 168, Correo 55  
- Santiago - Chile  
-  
-Tel.: (56-2) 2753 5520  
-  
-![](/img/es/e-mailt.gif)  
-[revmedchile@smschile.cl](mailto:revmedchile@smschile.cl) 
