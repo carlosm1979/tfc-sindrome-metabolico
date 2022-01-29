@@ -258,6 +258,42 @@ en un futuro ECV y diabetes tipo II.[4](#4)
 > trastornos hipertensivos del embarazo (THE) pueden verse como
 > expresiones del síndrome durante la gestación (4).
 
+Si la diabetes gestacional está asociada con obesidad, se incrementa el
+riesgo de síndrome metabólico de 4 a diez veces.
+
+En cuanto a la prevalencia del SM se ha observado un incremente con la
+edad y la obesidad.
+
+> Existen diversos factores de riesgo predisponentes relacionados con el
+> SM, entre los cuales están: obesidad, sedentarismo, dieta rica en
+> grasa. Los de mayor riesgo son los siguientes: hipertensión, hábito
+> tabáquico, concentraciones elevadas de lipoproteínas de baja densidad
+> (LDL) y bajas de lipoproteínas de alta densidad (HDL), antecedentes
+> familiares de enfermedad cardiovascular temprana y la edad.
+
+Existen una serie diagnósticos que pueden ser identificados como
+síntomas tempranos de SM, como pueden ser el síndrome de ovario
+poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
+o la diabetes gestacional.
+
+#### Complicaciones materno-fetales
+
+Las complicaciones neonatales en las gestantes con SM son mayores de las
+que no lo presentan.
+
+Tanto la DG como la diabetes tipo 2 se relacionan con varias
+consecuencias negativas para el feto, como pueden ser muerte prematura,
+macrosomía, hipoglicemia y trauma neonatal. Los fetos macrosómicos y
+recién nacidos de madres obesas tienen mayor riesgo de presentar SM a
+largo plazo, sumado a cualquier predisposición hereditaria. Una alta
+concentración de triglicéridos en la madre también puede provocar
+macrosomía. Por otro lado el bajo peso al nacer va asociado a embarazos
+de mujeres con edades avanzadas. Y los hijos de mujeres con diabetes
+tipo 1 tienen predisposición al desarrollo de enfermedades
+cardiovasculares durante la infancia.
+
+------------------------------------------------------------------------
+
 Podría decirse que la DG es una manifestación temprana del SM en la
 mujer. La resistencia a la insulina, característica del embarazo, puede
 resultar en DG.
@@ -267,7 +303,7 @@ síntomas tempranos de SM, como pueden ser el síndrome de ovario
 poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
 o la diabetes gestacional.
 
-En Estados Unidos, la prevalencia del SM en mujeres[6](#6):\
+En Estados Unidos, la prevalencia del SM en mujeres:\
 - mayores de 20 años es de 24%\
 - en mayores de 50 años es de 30%\
 - 40 % después de los 60 años
