@@ -1,56 +1,5 @@
 [ver resulen](/docs/resumenes/Asociacion_entre_peso_al_nacer_y_factores_de_riesgo_cardiometabolicos_en_ninos.md)
 
-[![SciELO - Scientific Electronic Library Online](/img/es/fbpelogp.gif)](https://scielo.isciii.es/scielo.php?lng=es)  
-
-![](/img/es/grp1c.gif) ![](/img/es/artsrc.gif)  
-[![vol.34 número5](/img/es/toc.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Fissuetoc&pid=0212-161120170005&lng=es&nrm=iso)[![Obesidad sarcopénica en mujeres mayores: influencia del polimorfismo I/D de la enzima convertidora de angiotensina](/img/es/prev.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Farttext&pid=S0212-16112017000500012&lng=es&nrm=iso)[![La forma corporal como determinante de la imagen corporal en estudiantes universitarios](/img/es/next.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Farttext&pid=S0212-16112017000500014&lng=es&nrm=iso) [![índice de autores](/img/es/author.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&index=AU&format=iso.pft&lang=e&limit=0212-1611)[![índice de materia](/img/es/subject.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&index=KW&format=iso.pft&lang=e&limit=0212-1611)[![búsqueda de artículos](/img/es/search.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&format=iso.pft&lang=e&limit=0212-1611) 
-
-[![Home Page](/img/es/home.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=0212-1611&lng=es&nrm=iso)[![lista alfabética de revistas](/img/es/alpha.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Falphabetic&lng=es&nrm=iso) 
-
-  
-## Mi SciELO
-
-* [![](/img/es/iconLogin.gif)Servicios personalizados](https://www.scielo.org/apps/servicesplatform/client/controller/authentication/origin/aHR0cDovL3NjaWVsby5pc2NpaWkuZXMvc2NpZWxvLnBocD9zY3JpcHQ9c2NpX2FydHRleHQmcGlkPVMwMjEyLTE2MTEyMDE3MDAwNTAwMDEz)
-
-## Servicios Personalizados
-
-## Revista
-
-* ![](/img/es/iconStatistics.gif)[SciELO Analytics](https://analytics.scielo.org/?journal=0212-1611&collection=esp)
-* ![](/img/es/iconStatistics.gif)Google Scholar H5M5 ()
-
-## Articulo
-
-* [![](/img/en/iconPDFDocument.gif)Español (pdf)](/pdf/nh/v34n5/13%5Foriginal.pdf)
-* [![](/img/es/iconXMLDocument.gif)Articulo en XML](https://scielo.isciii.es/scieloOrg/php/articleXML.php?pid=S0212-16112017000500013&lang=es)
-* <a href="javascript:%20void(0);" onclick="window.open('https://scielo.isciii.es/scieloOrg/php/reference.php?pid=S0212-16112017000500013&caller=scielo.isciii.es&lang=es','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconReferences.gif)Referencias del artículo
-* [![](/img/es/fulltxt.gif)](javascript:void%280%29;) [Como citar este artículo](javascript:void%280%29;)
-* ![](/img/es/iconStatistics.gif)[SciELO Analytics](https://analytics.scielo.org/?document=S0212-16112017000500013&collection=esp)
-* <a href="javascript:%20void(0);" onclick="window.open('https://scielo.isciii.es/scieloOrg/php/translate.php?pid=S0212-16112017000500013&caller=scielo.isciii.es&lang=es&tlang=es&script=sci\_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconTranslation.gif)Traducción automática
-* [![](/img/es/iconEmail.gif)Enviar articulo por email](javascript:void%280%29;)
-
-## Indicadores
-
-* ![No hay articulos citados](/img/es/iconCitedOff.gif)Citado por SciELO
-* ![](/img/es/iconStatistics.gif)[Accesos](https://analytics.scielo.org/w/accesses?document=S0212-16112017000500013&collection=esp)
-
-## Links relacionados
-
-* ![En proceso de indezación](/img/es/iconCitedGoogleOff.gif)Citado por Google
-* ![No hay articulos similares](/img/es/iconRelatedOff.gif)Similares en SciELO
-* ![En proceso de indezación](/img/es/iconRelatedGoogleOff.gif)Similares en Google
-
-## Compartir
-
-* [![](https://www.mendeley.com/graphics/mendeley.png)](https://www.mendeley.com/import/?url=https://scielo.isciii.es/scielo.php?script=sci%5Farttext%26pid=S0212-16112017000500013%26lng=es%26nrm=iso%26tlng=es "Mendeley")[Otros](https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
-* [Otros](https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
-
----
-
-* [![](/img/common/iconPermalink.gif)Permalink](javascript:void%280%29;)
-
-![](/img/common/icon-close.png)
-
 ## [Nutrición Hospitalaria](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=0212-1611&lng=es&nrm=iso)
 
 ## _versión On-line_ ISSN 1699-5198_versión impresa_ ISSN 0212-1611
