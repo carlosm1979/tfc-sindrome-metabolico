@@ -9,13 +9,13 @@ Beatriz Carro Otero
 Indice general
 ==============
 
--   [Introduccion](#introducción)
--   [Objetivos](#objetivos)
--   [Parte teórica](#parte-teórica)
-    -   Que es\
+-   [I. Introduccion](#introducción)
+-   [II. Objetivos](#objetivos)
+-   [III. Parte teórica](#parte-teórica)
+    -   III.1 Que es\
         *Patologías relacionadas*
-    -   [Diagnóstico](#diagnóstico)
-        -   [Factores de riesgo](#Factores-de-riesgo)
+    -   [III.2 Diagnóstico](#diagnóstico)
+        -   [III.2.1 Factores de riesgo](#Factores-de-riesgo)
             -   [Circunferencia grande de
                 cintura](#Circunferencia-grande-de-cintura)
             -   [Colesterol bueno o de lipoproteínas de alta densidad
@@ -25,24 +25,23 @@ Indice general
             -   [Hipertensión arterial](#Hipertensión-arterial)
             -   [Niveles elevados de
                 triglicéridos](#Niveles-elevados-de-triglicéridos)
-        -   Por grupos de población
-            -   SM en el hombre
-            -   [SM en la mujer](#21-sm-en-la-mujer)\
-                *Menopausia*\
+        -   III.2.2 Por grupos de población
+            -   III.2.2.1 SM en el hombre
+            -   III.2.2.2 SM en la mujer *Menopausia*\
                 *Embarazo. Complicaciones materno-fetales*
-            -   SM en la infancia
-            -   [SM en la tercera edad](#sm-en-la-tercera-edad)
-    -   [Tratamiento y prevención](#Tratamiento-y-prevención)
+            -   III.2.2.3 SM en la infancia
+            -   III.2.2.4 SM en la tercera edad
+    -   [III.3 Tratamiento y prevención](#Tratamiento-y-prevención)
         -   Alimentación y estilo de vida como estrategia para la
             prevención del SM
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
--   [Material y métodos](#material-y-métodos)
--   [Resultados](#resultados)
--   [Discusión](#difusión)
--   [Conclusión](#discusión)
--   [Bibliografía](#bibliografía)
+-   [IV. Material y métodos](#material-y-métodos)
+-   [V. Resultados](#resultados)
+-   [VI. Discusión](#difusión)
+-   [VII. Conclusión](#discusión)
+-   [VIII. Bibliografía](#bibliografía)
 
 Indice tablas
 =============
@@ -59,8 +58,8 @@ especificidad étnica](#tabla-5)
 
 \pagebreak
 
-Introducción
-============
+I. Introducción
+===============
 
 Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
 vasculares que parten de la obesidad abdominal y la resistencia a la
@@ -214,16 +213,12 @@ enfermedades como:
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
 
-\pagebreak
-
-Por grupos de población
------------------------
+III.2.2 Por grupos de población
+-------------------------------
 
 ### SM en adultos
 
-\pagebreak
-
-### SM en la mujer
+### III.2.2.2 SM en la mujer
 
 #### Embarazo
 
@@ -309,9 +304,7 @@ experimentadas en el útero.
 Tanto la DG como la diabetes tipo 2 se relacionan con varias
 consecuencias negativas
 
-\pagebreak
-
-### SM en la infancia
+### III.2.2.3 SM en la infancia
 
 En los últimos 50 años la obesidad y el SM se han convertido en un
 problema global. Esto antes era considerado como enfermedades del
@@ -399,9 +392,7 @@ insulinorresistencia, recomendándose su lectura en la práctica clínica
 como herramienta simple para identificar a niños con riesgo de presentar
 en un futuro ECV y diabetes tipo II.
 
-\pagebreak
-
-### SM en la tercera edad
+### III.2.2.4 SM en la tercera edad
 
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
