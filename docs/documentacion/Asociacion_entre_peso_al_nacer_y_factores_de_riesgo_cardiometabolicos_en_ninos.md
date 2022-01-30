@@ -1,0 +1,349 @@
+[ver resulen](/docs/resumenes/Asociacion_entre_peso_al_nacer_y_factores_de_riesgo_cardiometabolicos_en_ninos.md)
+
+[![SciELO - Scientific Electronic Library Online](/img/es/fbpelogp.gif)](https://scielo.isciii.es/scielo.php?lng=es)  
+
+![](/img/es/grp1c.gif) ![](/img/es/artsrc.gif)  
+[![vol.34 número5](/img/es/toc.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Fissuetoc&pid=0212-161120170005&lng=es&nrm=iso)[![Obesidad sarcopénica en mujeres mayores: influencia del polimorfismo I/D de la enzima convertidora de angiotensina](/img/es/prev.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Farttext&pid=S0212-16112017000500012&lng=es&nrm=iso)[![La forma corporal como determinante de la imagen corporal en estudiantes universitarios](/img/es/next.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Farttext&pid=S0212-16112017000500014&lng=es&nrm=iso) [![índice de autores](/img/es/author.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&index=AU&format=iso.pft&lang=e&limit=0212-1611)[![índice de materia](/img/es/subject.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&index=KW&format=iso.pft&lang=e&limit=0212-1611)[![búsqueda de artículos](/img/es/search.gif)](https://scielo.isciii.es/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&base=article%5Ednh&format=iso.pft&lang=e&limit=0212-1611) 
+
+[![Home Page](/img/es/home.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=0212-1611&lng=es&nrm=iso)[![lista alfabética de revistas](/img/es/alpha.gif)](https://scielo.isciii.es/scielo.php?script=sci%5Falphabetic&lng=es&nrm=iso) 
+
+  
+## Mi SciELO
+
+* [![](/img/es/iconLogin.gif)Servicios personalizados](https://www.scielo.org/apps/servicesplatform/client/controller/authentication/origin/aHR0cDovL3NjaWVsby5pc2NpaWkuZXMvc2NpZWxvLnBocD9zY3JpcHQ9c2NpX2FydHRleHQmcGlkPVMwMjEyLTE2MTEyMDE3MDAwNTAwMDEz)
+
+## Servicios Personalizados
+
+## Revista
+
+* ![](/img/es/iconStatistics.gif)[SciELO Analytics](https://analytics.scielo.org/?journal=0212-1611&collection=esp)
+* ![](/img/es/iconStatistics.gif)Google Scholar H5M5 ()
+
+## Articulo
+
+* [![](/img/en/iconPDFDocument.gif)Español (pdf)](/pdf/nh/v34n5/13%5Foriginal.pdf)
+* [![](/img/es/iconXMLDocument.gif)Articulo en XML](https://scielo.isciii.es/scieloOrg/php/articleXML.php?pid=S0212-16112017000500013&lang=es)
+* <a href="javascript:%20void(0);" onclick="window.open('https://scielo.isciii.es/scieloOrg/php/reference.php?pid=S0212-16112017000500013&caller=scielo.isciii.es&lang=es','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconReferences.gif)Referencias del artículo
+* [![](/img/es/fulltxt.gif)](javascript:void%280%29;) [Como citar este artículo](javascript:void%280%29;)
+* ![](/img/es/iconStatistics.gif)[SciELO Analytics](https://analytics.scielo.org/?document=S0212-16112017000500013&collection=esp)
+* <a href="javascript:%20void(0);" onclick="window.open('https://scielo.isciii.es/scieloOrg/php/translate.php?pid=S0212-16112017000500013&caller=scielo.isciii.es&lang=es&tlang=es&script=sci\_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes'); callUpdateArticleLog('referencias\_do\_artigo');" rel="nofollow">![](/img/es/iconTranslation.gif)Traducción automática
+* [![](/img/es/iconEmail.gif)Enviar articulo por email](javascript:void%280%29;)
+
+## Indicadores
+
+* ![No hay articulos citados](/img/es/iconCitedOff.gif)Citado por SciELO
+* ![](/img/es/iconStatistics.gif)[Accesos](https://analytics.scielo.org/w/accesses?document=S0212-16112017000500013&collection=esp)
+
+## Links relacionados
+
+* ![En proceso de indezación](/img/es/iconCitedGoogleOff.gif)Citado por Google
+* ![No hay articulos similares](/img/es/iconRelatedOff.gif)Similares en SciELO
+* ![En proceso de indezación](/img/es/iconRelatedGoogleOff.gif)Similares en Google
+
+## Compartir
+
+* [![](https://www.mendeley.com/graphics/mendeley.png)](https://www.mendeley.com/import/?url=https://scielo.isciii.es/scielo.php?script=sci%5Farttext%26pid=S0212-16112017000500013%26lng=es%26nrm=iso%26tlng=es "Mendeley")[Otros](https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
+* [Otros](https://www.addthis.com/bookmark.php?v=250&username=xa-4c347ee4422c56df)
+
+---
+
+* [![](/img/common/iconPermalink.gif)Permalink](javascript:void%280%29;)
+
+![](/img/common/icon-close.png)
+
+## [Nutrición Hospitalaria](https://scielo.isciii.es/scielo.php?script=sci%5Fserial&pid=0212-1611&lng=es&nrm=iso)
+
+## _versión On-line_ ISSN 1699-5198_versión impresa_ ISSN 0212-1611
+
+### Nutr. Hosp. vol.34 no.5 Madrid sep./oct. 2017
+
+####  https://dx.doi.org/10.20960/nh.1024 
+
+**TRABAJO ORIGINAL / _Obesidad y síndrome metabólico_**
+
+**Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia**
+
+**Association between birth weight and cardiometabolic risk factors in children of Bucaramanga, Colombia**
+
+**Edna Magaly Gamboa Delgado1, Yully Andrea Rangel Díaz2 y Yareni Yunuen Gutiérrez Gómez3**
+
+1Escuela de Nutrición y Dietética. Universidad Industrial de Santander. Bucaramanga, Colombia.   
+2Departamento de Neurología Pediátrica. Hospital Militar Central. Universidad Militar Nueva Granada. Bogotá, Colombia.   
+3Departamento de Nutrición. Tecnológico de Monterrey. Campus Ciudad de México, México
+
+Soportado por Colciencias-Colombia (número de contrato: CT-492-2012).
+
+[Dirección para correspondencia](#bajo)
+
+---
+
+**RESUMEN**
+
+**Introducción:** el peso a nacer puede ser un factor de riesgo a mediano plazo en el desarrollo de sobrepeso y obesidad, y a largo plazo como determinante de enfermedades cardiovasculares.   
+**Objetivo:** evaluar la asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia.   
+**Métodos:** estudio de corte transversal analítico en niños de cinco a once años (n = 1.282). Variables dependientes: hipertensión arterial, prehipertensión arterial, sobrepeso/obesidad, glucosa alterada, resistencia a la insulina, dislipidemia. Principal variable independiente: peso al nacer (g). Se emplearon modelos de regresión logística y lineal múltiple. Los datos fueron analizados en el programa estadístico Stata 12.0\.   
+**Resultados:** la prevalencia de exceso de peso (sobrepeso u obesidad) fue del 22,93% (IC 95%: 20,64-25,33%), mientras que la de bajo peso al nacer fue del 3,70% (IC 95%: 2,65-5,00%). De los factores de riesgo, el más prevalente fue el exceso de peso seguido del colesterol LDL elevado (17,24%, IC 95%: 15,20-19,41%). El exceso de peso, el puntaje Z del índice de masa corporal (IMC) para la edad y la presión arterial sistólica se asociaron de manera significativa con el peso al nacer (OR: 1,44; IC 95%: 1,10-1,89, p = 0,006; β = 0,23, IC 95%: 0,10-0,36, p = 0,001, y β = 1,18, IC 95%: 0,24-2,12, p = 0,013, respectivamente), después de ajustar por edad, sexo, nivel socioeconómico, actividad física y antecedentes ginecoobstétricos maternos.   
+**Conclusiones:** los niños con mayor peso al nacer presentaron mayor probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de presión arterial sistólica durante la etapa de su niñez.
+
+**Palabras clave:** Peso al nacer. Sobrepeso. Obesidad. Enfermedad cardiovascular.
+
+---
+
+**ABSTRACT**
+
+**Background:** Birth weight could be a medium-term risk factor in the development of overweight and obesity and a long-term risk factor of cardio-metabolic diseases.   
+**Objective:** To evaluate the association between birth weight and cardio-metabolic risk factors in children from Bucaramanga, Colombia.   
+**Methods:** This cross-sectional study included 1,282 children between five and eleven years of age in Bucaramanga. Dependent variables: arterial hypertension, arterial prehypertension, overweight/obesity, glucose intolerance, insulin resistance, dyslipidemia. The main independent variable: birth weight (grams). The association between the independent and dependent variables was evaluated through logistic and multiple linear regression. Data analysis was performed using Stata v. 12.0 software.   
+**Results:** The overweight prevalence (overweight or obesity) was 22.93% (95% CI 20.64%-25.33%), while the low birth weight prevalence was 3.70% (95% CI 2.65%-5.00%). The most prevalent cardiovascular risk factor was overweight, followed by high LDL-cholesterol levels (17.24%, 95% CI 15.20-19.41%). Following an adjustment by age, sex, socioeconomic level and physical activity and obstetric maternal history, overweight, BMI Z-scores for age and systolic blood pressure had a statistically significant association with birth weight (OR: 1.44; 95% CI 1.10-1.89; p = 0.006, β = 0.23, 95% CI: 0.10-0.36, p = 0.001 and β = 1.18, CI 95%: 0.24-2.12, p = 0.013, respectively).   
+**Conclusions:** Children with higher birth weight showed more likely to develop overweight or obesity during childhood.
+
+**Key words:** Birth weight. Overweight. Obesity. Cardiovascular disease.
+
+---
+
+**Introducción**
+
+La enfermedad cardiovascular (ECV) es el principal padecimiento que contribuye a la carga global de la enfermedad. La Organización Mundial de la Salud (OMS) atribuye una tercera parte de las muertes globales (17,5 millones) a dicha afección.
+
+La evidencia muestra que el desarrollo y la progresión de la enfermedad cardiovascular se relacionan con el número e intensidad de factores de riesgo que iniciaron en la infancia (1). Evaluar los factores de riesgo que determinan el inicio del desarrollo de la enfermedad es clave para la prevención primaria de dicha enfermedad.
+
+En los últimos años se ha incrementado la evidencia que muestra un efecto del desarrollo intrauterino sobre factores de riesgo cardiometabólicos en etapas posteriores de la vida (2-4). El peso al nacer es un indicador importante del estado de nutrición y salud del feto y refleja la suficiencia nutricional y condiciones experimentadas en el útero (5,6).
+
+Barker y cols. mostraron que la restricción de crecimiento fetal causada por una pobre nutrición incrementaba la mortalidad cardiovascular en la etapa adulta (7). Con esta observación se planteó la "hipótesis del origen fetal de las enfermedades del adulto" (8). A partir de entonces, diversos estudios han mostrado una asociación inversa entre peso al nacer y el riesgo cardiometabólico, morbilidad y mortalidad cardiovascular (9-11). Sin embargo, otros estudios han mostrado que el alto peso al nacer se asocia con el desarrollo de factores de riesgo cardiometabólicos como sobrepeso e hipertensión (12,13).
+
+Por otra parte, mientras que algunas revisiones sistemáticas muestran una asociación lineal positiva o una _U-shape_ entre peso al nacer y factores de riesgo cardiometabólicos en la infancia, adolescencia y adultez, otros autores no han observado ninguna asociación (14,15).
+
+La evidencia no es consistente y pocos estudios evalúan la asociación entre el peso al nacimiento como una variable continua y la presencia de factores de riesgo cardiometabólicos. El objetivo del presente estudio es evaluar la asociación entre el peso al nacer y los factores de riesgo cardiometabólico en niños colombianos.
+
+**Material y métodos**
+
+**TIPO DE ESTUDIO**
+
+Se utilizó un diseño epidemiológico de tipo corte transversal analítico. Se realizó un análisis secundario de datos de un estudio poblacional de cohorte cuyo objetivo fue evaluar la aparición temprana de disfunción cardiovascular y metabólica (16).
+
+**POBLACIÓN Y MUESTRA**
+
+La población de estudio corresponde a niños de entre cinco y once años de Bucaramanga (n = 40.793 en el momento de mediciones de la línea basal del estudio original). La muestra calculada para el estudio original fue de 1.282 niños, con base en una prevalencia esperada de síndrome metabólico en niños del 8%, precisión del 1 al 5%, nivel de confianza del 95% y un efecto del diseño de 2.
+
+El muestreo se realizó en dos etapas, basando este proceso en mapas de la ciudad de Bucaramanga, Colombia, y estadísticas locales. En la primera etapa, se eligieron vecindarios aleatoriamente con la condición de que tuvieran al menos 50 niños _(clusters)._ En la segunda etapa se realizó una selección aleatoria de un máximo de 50 casas en cada vecindario.
+
+**CRITERIOS DE ELEGIBILIDAD**
+
+**Criterios de inclusión**
+
+Se incluyeron niños de entre cinco y once años, con residencia mayor a un año en Bucaramanga.
+
+**Criterios de exclusión**
+
+Se excluyó del estudio a aquellos niños con historia de menarquia y/o estado Tanner ≥ 2, o con diagnóstico previo de diabetes mellitus (DM) u otros desordenes endocrinos, o previo tratamiento con hormonas o esteroides (excepto para sodio levotiroxina) durante el último mes antes de la toma de laboratorios.
+
+**VARIABLES**
+
+**Variables dependientes**
+
+Las variables dependientes de este estudio fueron: puntaje Z del IMC, presión arterial sistólica (mmHg), presión arterial diastólica (mmHg), glucosa en ayunas (mg/dl), índice HOMA _(homeostasis model assessment)_ (uUI/ml), niveles séricos de triglicéridos (mg/dl), colesterol HDL (mg/dl) y colesterol LDL (mg/dl).
+
+Estas variables también fueron analizadas de manera dicotómica como la presencia de los siguientes eventos:
+
+> 1\. Hipertensión arterial: presión arterial sistólica (PAS) o diastólica (PAD) ≥ percentil 95 para la edad, género y talla en tres o más ocasiones. Prehipertensión arterial: PAS o PAD ≥ percentil 90 < p95 para la edad, género y talla (17).
+> 
+> 2\. Sobrepeso u obesidad: sobrepeso: ≥ 1,0 DE; obesidad: ≥ 2 DE del IMC para la edad (18).
+> 
+> 3\. Glucosa en ayuno alterada: ≥ 100 mg/dl. Diabetes: ≥ 126 mg/dl (19).
+> 
+> 4\. Resistencia a la insulina: HOMA ≥ 3,2 (20).
+> 
+> 5\. Dislipidemia: alteración en triglicéridos; 0-9 años: ≥ 100 mg/dl; 10-19 años: ≥ 130 mg/dl. Alteración en colesterol HDL: < 40 mg/dl. Alteración en colesterol LDL: ≥ 130 mg/dl (1).
+
+**Variables independientes**
+
+La principal variable independiente de este estudio fue el peso al nacer (gramos). Esta variable se evaluó de manera continua y también de manera categórica (categoría de referencia: 2.500 a 3.500 g, 3.501 a 4.000 g, 4.001 a 4.500 g, y mayor de 4.500 g).
+
+También se analizaron variables sociodemográficas, nutricionales, medidas antropométricas, actividad física y pasar tiempo en frente de pantallas (televisión, computadores o videojuegos), durante un día de la semana y del fin de semana.
+
+**PROCESO DE RECOLECCIÓN DE DATOS**
+
+Se diseñaron los manuales de procedimientos y los formatos de recolección de información, se entrenó al personal que participó en la captura de datos y se estandarizaron las técnicas de medición a utilizar.
+
+Una vez contactada la población de estudio, se solicitó a los padres y al niño acudir a una primera visita hospitalaria, en la cual se obtuvo el consentimiento informado del niño(a), así como el de sus padres o representantes legales, previa explicación de los objetivos, implicaciones y alcances del proyecto. Posteriormente, se diligenció el formato para registrar datos de identificación de los participantes, sus características sociodemográficas y la información clínica.
+
+Se llevaron a cabo la valoración física y la toma de exámenes de laboratorio generales. Las tasas respiratorias y cardiacas de los niños fueron medidas en condiciones cómodas después de un periodo de diez minutos de descanso.
+
+La presión arterial se tomó de acuerdo a las recomendaciones del cuarto reporte sobre el diagnóstico, evaluación y tratamiento de hipertensión en niños y adolescentes (National High Blood Pressure Education Program \[NHBPEP\]) (21). La presión arterial fue medida tres veces, con intervalos de cinco minutos entre cada medición, con el brazo del participante apoyado a nivel del corazón y sentado tranquilo, usando un monitor de presión arterial automatizado (Dinamap Pro 100; GE Medical Systems Information Technologies, Inc., Milwaukee, Wisconsin) y siguiendo las recomendaciones del programa de educación nacional de presión arterial (NHBPEP) para el grupo de trabajo de niños y adolescentes (21). Los percentiles de presión arterial fueron determinados de acuerdo a la edad, género y talla de los niños (22,23).
+
+Las variables antropométricas (peso, talla, pliegues cutáneos y circunferencias de cintura y cadera) se tomaron de acuerdo con las recomendaciones de la National Health and Nutrition Examination Survey (NHANES) y fueron medidas por duplicado por dos nutricionistas independientes, en la mañana, después de la eliminación urinaria, con los niños usando ropa ligera y sin zapatos (24). El estado nutricional de los niños fue clasificado de acuerdo con los estándares de crecimiento y desarrollo establecidos por la OMS (18).
+
+La medición de la variable actividad física se realizó mediante la aplicación del cuestionario elaborado para este estudio, el cual tomó como referencia el International Physical Activity Questionnaire (IPAQ).
+
+Las muestras sanguíneas fueron tomadas de la vena antecubital, en ayunas de al menos diez horas y en la mañana. Se obtuvo una muestra de sangre de 25 ml de la vena antecubital que se distribuyó dentro de tres tubos vacutainer, tres con EDTA y dos secos. El tubo seco se centrifugó después de dejarlo en posición vertical durante diez minutos.
+
+La glicemia y el perfil lipídico fueron cuantificados inmediatamente por el método de rutina colorimétrico (Biosystems BTS-303 Photometric, España).
+
+Parte de las muestras fueron almacenadas a -80 oC y las determinaciones de insulina fueron evaluadas mediante la técnica de inmunoensayo por electroluminiscencia, ECLIA, por sus siglas en inglés (Roche Elecsys 1010/2010 and MODULAR ANALYTICS E170 Elecsys Module).
+
+El índice HOMA fue obtenido del modelo matemático, usando la fórmula: (\[IA\*GA\])/22,5 (IA: niveles de insulina en ayunas, en IU/l; GA: niveles de glucosa en ayunas, en mmol/l) (25).
+
+**CALIDAD DE DATOS**
+
+La calidad de los datos fue revisada para asegurar que estos estaban completos antes de la entrada de datos. Los datos fueron digitalizados por duplicado en el programa Excel (Microsoft Corp., Redmond, Washington) y fueron comparados usando el programa Epi-Info 2000\. Todas las discrepancias en las dos bases de datos fueron corregidas usando los formatos originales de captura de datos.
+
+**ANÁLISIS ESTADÍSTICO**
+
+Se realizó un análisis descriptivo en el cual las variables categóricas fueron presentadas como proporciones y las continuas, como medias y desviación estándar o mediana y rango intercuartílico, según su distribución. Si las variables continuas tenían distribución normal, las diferencias fueron determinadas usando la prueba t de Student; en caso contrario, se usó la prueba U de Mann-Whitney.
+
+La asociación entre las variables dependientes de este estudio y las independientes fue evaluada mediante modelos de regresión logística y modelos de regresión lineal múltiple. En los modelos multivariados se mantuvieron las variables que obtuvieron una p < 0,20 en el análisis bivariado. Todos los valores de p fueron considerados a dos colas, estableciendo significancia estadística a p < 0,05.
+
+Todos los datos fueron analizados en el programa estadístico Stata, versión 12.0 (College Station, TX: Stata Corporation). Los indicadores del estado nutricional antropométrico (peso para la edad \[P/E\], peso para la talla \[P/T\], talla para la edad \[T/E\] e índice de masa corporal para la edad \[IMC/E\]) fueron determinados usando los WHO Antro PLUS (26).
+
+**CONSIDERACIONES ÉTICAS**
+
+El protocolo original del cual se deriva este estudio fue diseñado de acuerdo con la Declaración de Helsinki y fue aprobado por el Comité de Ética de la Fundación Cardiovascular de Colombia (FCV). Se obtuvo el consentimiento informado de todos los participantes/cuidadores o representantes legales. Adicionalmente, todos los niños participantes dieron su asentimiento verbal.
+
+**Resultados**
+
+Se analizó a un total de 1.282 niños, de los cuales el 51,09% era de sexo masculino ([Tabla I](#t1)). El promedio de peso al nacer fue de: 3.334 g, desviación estándar (DE) 54,53 g; la prevalencia de bajo peso fue del 3,7% (IC 95%: 2,65-5,00%) y la de alto peso al nacer fue del 13,61%. La prevalencia de exceso de peso (sobrepeso u obesidad) en los niños escolares participantes fue del 22,93% (IC 95%: 20,64-25,33%).
+
+![](/img/revistas/nh/v34n5/13_original_tabla1.jpg)
+
+De los factores de riesgo cardiovascular, el más prevalente fue el exceso de peso, seguido por niveles elevados de colesterol LDL (17,24%, IC 95%: 15,20-19,41%) y niveles bajos de colesterol HDL (11,31%, IC 95%: 9,62-13,17%). Se presentaron diferencias estadísticamente significativas para algunos factores cardiometabólicos según el sexo, de tal manera que las niñas presentaron mayores niveles de triglicéridos, LDL y resistencia a la insulina (p = 0,01, p = 0,028, p = 0,000, respectivamente), mientras que los niños presentaron mayores niveles de glucosa en ayunas, HDL y presión arterial sistólica ([Tabla II](/img/revistas/nh/v34n5/13%5Foriginal%5Ftabla2.jpg)).
+
+Al analizar cada factor cardiometabólico como variable dicotómica, el único factor que se asoció de manera significativa con el peso al nacer (g) fue el exceso de peso (sobrepeso u obesidad), después de ajustar por edad, sexo, nivel socioeconómico, actividad física y antecedentes gineco-obstétricos maternos (presencia de diabetes, preeclampsia u obesidad durante el embarazo) (OR: 1,44; IC 95%: 1,10-1,89; p = 0,006).
+
+Cuando los factores cardiometabólicos fueron analizados como variables continuas, el puntaje Z del IMC para la edad y la presión arterial sistólica resultaron asociadas significativamente con el peso al nacer (g) (p = 0,001 y p = 0,013, respectivamente), después de ajustar por los potenciales confusores mencionados anteriormente ([Tabla III](/img/revistas/nh/v34n5/13%5Foriginal%5Ftabla3.jpg)).
+
+Adicionalmente, también se analizó la asociación entre cada uno de los factores de riesgo cardiometabólicos como variables dicotómicas y el peso al nacer en categorías, siendo la de referencia 2.500-3.500 g en comparación con 3.501-4.000 g, 4.001-4.500 g y mayor de 4.500 g. Se encontró que los niños que tuvieron peso al nacer mayor a 4.000 g y menor a 4.500 g, tuvieron dos veces más probabilidad de presentar sobrepeso u obesidad en la edad escolar, en comparación con los niños que tuvieron peso al nacer entre 2.500 g y 3.500 g ([Tabla IV](/img/revistas/nh/v34n5/13%5Foriginal%5Ftabla4.jpg)).
+
+**Discusión**
+
+Los resultados del presente estudio muestran una alta prevalencia de factores de riesgo cardiometabólicos como sobrepeso u obesidad, altos niveles séricos de c-LDL y triglicéridos y bajos niveles de c-HDL en niños de Bucaramanga, Colombia. La prevalencia de sobrepeso encontrada en este estudio fue mayor a la encontrada en este mismo grupo etario por Suárez-Ortegón y cols. (18%), Tomaszewski y cols. (15%) y la Encuesta Nacional de la Situación Nutricional en Colombia 2010 (17,6%) (27-29). Por el contrario, este hallazgo fue menor a la prevalencia descrita por Reuter y cols. en un estudio conducido en niños y jóvenes de 7-17 años (29,1%) (30).
+
+La prevalencia de altos niveles de c-LDL en este estudio es mayor a la encontrada en niños del norte de México de 2-10 años (26), sin embargo, las alteraciones en TGL y c-HDL son menores que las encontradas en niños mexicanos y chilenos (31,32).
+
+En todos los casos, esas prevalencias de factores de riesgo cardiometabólico en niños de estas edades tempranas justifican la necesidad de realizar intervenciones para su prevención y control.
+
+La presente investigación mostró asociaciones entre: a) peso al nacer (gramos) y exceso de peso; b) peso al nacer (gramos) y dos factores de riesgo cardiometabólico: puntaje Z de IMC y presión arterial sistólica; y c) alto peso al nacer (> 4.000 a 4.500 g) y exceso de peso en la edad escolar. Estas asociaciones fueron independientes de potenciales confusores.
+
+Nuestros resultados son consistentes con otros estudios (33-35). Zhang y cols. demostraron que el riesgo de presentar exceso de peso durante la infancia se incrementaba significativamente con el peso al nacer (PN 3.000-3.499 g, OR 1,58, IC 95%: 1,33-1,88; PN 3.500-3.999, OR 2,09, IC 95%: 1,76-2,49; y más de 4.000 g, OR 3,14, IC 95%: 2,60-3,79) (33).
+
+Una tendencia similar se mostró en el International Study of Childhood Obesity, Lifestyle and the Environment (ISCOLE), que incluye 12 países de ingresos altos, medios y bajos (PN 3.500-3.999 g, OR 1,45; IC 95%: 1,10-1,92; > 4.000 g, OR 2,08, IC 95%: 1,47-2,93, comparado con el grupo de referencia: 2.500-2.999 g) (36). El estudio internacional también mostró una asociación positiva entre el peso al nacer y el puntaje Z de IMC (36). Nuestros resultados concuerdan con los resultados de los estudios descritos, aunque el incremento de riesgo de exceso de peso en nuestra muestra es más evidente en niños que tuvieron peso al nacer > 4.000 g a 4.500 g (OR 2,03, IC 95%: 1,14-3,60). Se realizaron análisis de riesgo de exceso de peso para niños que tuvieron peso al nacer 3.500-3.999 g y no se encontró ninguna asociación. Sin embargo, se halló una asociación positiva entre el peso al nacer y el puntaje Z de IMC.
+
+Un metaanálisis y una revisión sistemática mostraron que el alto peso al nacer se asociaba con mayor PAS y PAD en la infancia pero no con el riesgo de hipertensión (37,38). En nuestros resultados no se encontró una asociación entre alto peso al nacer e hipertensión, sin embargo, encontramos una asociación positiva entre el peso al nacer y la PAS, lo cual podría indicar una tendencia hacia las asociaciones encontradas en los metaanálisis.
+
+El alto peso al nacer incrementó el riesgo de sobrepeso y obesidad en niños escolares. Estos resultados son de suma importancia porque el exceso de peso es un mediador y factor de riesgo independiente de otros factores de riesgo cardiometabólico (39) y porque los niños con exceso de peso en etapas tempranas de la vida tienen mayor probabilidad de seguir teniendo exceso de peso en la adolescencia y adultez (40).
+
+La hipótesis de programación fetal surgió de las asociaciones inversas encontradas entre el bajo peso al nacer y el riesgo cardiovascular (4). Sin embargo, las tendencias en incrementos seculares en peso al nacer y la mayor prevalencia de macrosomía (peso al nacer mayor de 4.000 g) en países en transición y postransición epidemiológica obligan a estudiar no solo el efecto del bajo peso al nacer, sino también el del peso al nacer como variable continua y el alto peso al nacer sobre factores de riesgo cardiometabólicos.
+
+Una fortaleza de este estudio fue la selección aleatoria de la muestra analítica, lo cual permite representatividad de toda la ciudad. Además, el tamaño de muestra utilizado ofrece adecuado poder estadístico para encontrar las asociaciones estimadas. Así mismo, el ajuste por potenciales confusores proporciona validez interna a la asociación encontrada. Por otra parte, otra fortaleza consiste en haber evaluado el peso al nacer como variable continua y no solo con las categorías de peso al nacer tradicional. Ante el panorama epidemiológico actual es necesario estudiar el peso al nacer de manera más amplia.
+
+Sin embargo, una limitación del estudio consiste en el registro de la variable independiente principal, peso al nacer, que fue recolectada por autorreporte, lo cual podría inducir a sesgos de memoria de las madres de los niños del estudio. No obstante, en caso de existir este sesgo sería no diferencial.
+
+El estudio del peso al nacer brinda oportunidades para tomar acciones que conduzcan a la prevención de factores de riesgo cardiometabólicos en etapas posteriores de la vida para así evitar morbilidad y mortalidad por enfermedad cardiovascular.
+
+**Conclusiones**
+
+Los niños del estudio presentaron alta prevalencia de exceso de peso (sobrepeso u obesidad) (22,93%), altos niveles de c-LDL y triglicéridos y bajos niveles de c-HDL.
+
+Los factores de riesgo cardiovascular que resultaron asociados, de manera significativa, con el peso al nacer como indicador de programación fetal fueron el exceso de peso y la presión arterial sistólica. Después de ajustar por edad, sexo, nivel socioeconómico, actividad física y antecedentes gineco-obstétricos maternos (presencia de diabetes, preeclampsia u obesidad durante el embarazo), se encontró que a mayor peso al nacer, mayor probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de presión arterial sistólica durante su niñez.
+
+Finalmente, el presente estudio apoya la importancia de intervenciones creadas desde la etapa preconcepcional, gestacional y posnatal a nivel familiar e individual para prevenir el riesgo de obesidad y enfermedades cardiovasculares en la población infantil.
+
+Es importante identificar, de manera temprana, gestaciones en riesgo de exceso de peso al nacer y el manejo de los factores que contribuyen al mismo, con el fin de prevenir el posterior desarrollo de obesidad y riesgo cardiovascular en estos niños. Así mismo, es esencial implementar medidas de intervención oportunas dirigidas a la madre y a su hijo durante la etapa neonatal y de la infancia, en los procesos de atención primaria y secundaria, a través de la identificación de necesidades nutricionales ideales durante el proceso de crecimiento, estilos de vida y entorno social.
+
+**Bibliografía**
+
+1\. National Heart, Lung and Blood Institute (NHLBI). Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents. National Institutes of Health, USA; 2012\. \[ [Links](javascript:void%280%29;) \]
+
+2\. Hanson MA, Gluckman PD. Developmental origins of health and disease - Global public health implications. Best Pract Res Clin Obstet Gynaecol 2015;29:24-31\. \[ [Links](javascript:void%280%29;) \]
+
+3\. Szostak-Wegierek D. Intrauterine nutrition: Long-term consequences for vascular health. Int J Womens Health 2014;11:647-56\. \[ [Links](javascript:void%280%29;) \]
+
+4\. Barker DJ. The developmental origins of chronic adult disease. Acta Paediatr 2004;(Suppl 93):26-33\. \[ [Links](javascript:void%280%29;) \]
+
+5\. Fallucca S, Vasta M, Sciullo E, et al. Birth weight: Genetic and intrauterine environment in normal pregnancy. Diabetes Care 2009;32:e149\. \[ [Links](javascript:void%280%29;) \]
+
+6\. Ijzerman RG, Boomsma DI, Stehouwer CD. Intrauterine environmental and genetic influences on the association between birthweight and cardiovascular risk factors: Studies in twins as a means of testing the fetal origins hypothesis. Paediatr Perinat Epidemiol 2005;19(Suppl 1):10-4\. \[ [Links](javascript:void%280%29;) \]
+
+7\. Barker DJ, Osmond C. Infant mortality, childhood nutrition and ischaemic heart disease in England and Wales. Lancet 1986;1(8489):1077-81\. \[ [Links](javascript:void%280%29;) \]
+
+8\. Barker DJ. Fetal origins of cardiovascular disease. Ann Med 1999;31(Suppl 1):3-6\. \[ [Links](javascript:void%280%29;) \]
+
+9\. Smith CJ, Rychkman KK, Barnabei VM, et al. The impact of birth weight on cardiovascular disease risk in the Women's Health Initiative. Nutr Metab Cardiovasc Dis 2016;26(3):239-45\. \[ [Links](javascript:void%280%29;) \]
+
+10\. Ekamper P, Van Poppel F, Stein AD, et al. Prenatal famine exposure and adult mortality from cancer, cardiovascular disease and other causes through age 63 years. Am J Epidemiol 2015;181(4):217-9\. \[ [Links](javascript:void%280%29;) \]
+
+11\. Syddall HE, Aihie Sayer A, Simmonds SJ, et al. Birth weight, infant weight gain, and cause-specific mortality: The Hertfordshire Cohort study. Am J Epidemiol 2005;161(11):1074-80\. \[ [Links](javascript:void%280%29;) \]
+
+12\. Ren J, Wu J, Ji M, et al. The effect of high birth weight on overweight and obesity inchildhood and adolescence. Saudi Md J 2013;34(6):623-31\. \[ [Links](javascript:void%280%29;) \]
+
+13\. Zhang Y, Li H, Liu SJ, et al. The associations of high birth weight with blood pressure and hypertension in later life: a systematic review and meta-analysis. Hypertens Res 2013;36(8):725-35\. \[ [Links](javascript:void%280%29;) \]
+
+14\. Stansfield BK, Fain ME, Bhatia J, et al. Nonlinear relationship between birth weight and visceral fat in adolescents. J Pediatr 2016;174:185-92\. \[ [Links](javascript:void%280%29;) \]
+
+15\. McCarthy A, Hughes R, Tilling K, et al. Birth weight; postnatal, infant, and childhood growth; and obesity in young adulthood: Evidence from the Barry Caerphylly Growth Study. Am J Clin Nutr 2007;86:907-13\. \[ [Links](javascript:void%280%29;) \]
+
+16\. Villa-Roel C, Buitrago A, Rodríguez DC, et al. Prevalence of metabolic syndrome in scholars from Bucaramanga, Colombia: A population-based study. BMC Pediatr 2009;9:28\. \[ [Links](javascript:void%280%29;) \]
+
+17\. NIH. The fourth report on the diagnosis, evaluation and treatment of high blood pressure in children and adolescents. 2005\. \[ [Links](javascript:void%280%29;) \]
+
+18\. WHO Multicentre Growth Reference Study Group. WHO Child Growth Standards: Growth velocity based on weight, length and head circumference. Methods and development. Ginebra: World Health Organization; 2009\. \[ [Links](javascript:void%280%29;) \]
+
+19\. ADA. Standards of Medical Care in Diabetes. 2016\. \[ [Links](javascript:void%280%29;) \]
+
+20\. Keskin M, Kurtoglu S, Kendirci M, et al. Homeostasis model assessment is more reliable than the fasting glucose/insulin ratio and quantitative insulin sensitivity check index for assessing insulin resistance among obese children and adolescents. Pediatrics 2005;115(4):e500-3\. \[ [Links](javascript:void%280%29;) \]
+
+21\. National High Blood Pressure Education Program Working Group on High Blood Pressure in Children and Adolescents. The fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents. Pediatrics 2004;114:555-76\. \[ [Links](javascript:void%280%29;) \]
+
+22\. Blood pressure tables for children and adolescents from the fourth report on the diagnosis, evaluation, and treatment of high blood pressure in children and adolescents 2004\. \[ [Links](javascript:void%280%29;) \]
+
+23\. Park MK. Blood pressure tables. Pediatrics 2005;115:826-7\. \[ [Links](javascript:void%280%29;) \]
+
+24\. NHANES. Anthropometry procedures manual. 2002\. Disponible en: <http://www.cdc.gov/nchs/data/nhanes/bm.pdf>. \[ [Links](javascript:void%280%29;) \]
+
+25\. De Fronzo RA, Tobin JD. Glucose clamp technique: A method for quantifying insulin secretion and resistance. Am J Physiol 1979;237(3):E214-23\. \[ [Links](javascript:void%280%29;) \]
+
+26\. WHO Anthro for personal computers, version 3.2.2, 2011: Software for assessing growth and development of the world's children. Ginebra: World Health Organization; 2010\. Disponible en: <http://www.who.int/childgrowth/software/en/>. \[ [Links](javascript:void%280%29;) \]
+
+27\. Suarez-Ortegón MF, Aguilar-de Plata C. Prevalence of metabolic syndrome in children aged 5-9 years from southwest Colombia: A cross-sectional study. World J Pediatr 2016;12(4):477-83\. \[ [Links](javascript:void%280%29;) \]
+
+28\. Tomaszewski P, Zmijewski P, Milde K, et al. Weight-height relationships and central obesity in 7-year-old to 10-year-old Polish urban children: A comparison of different BMI and WHtR standards. J Physiol Anthropol 2015;34:34\. DOI: 10.1186/s40101-015-0073-3\. \[ [Links](javascript:void%280%29;) \]
+
+29\. Ministerio de Protección Social, Instituto Colombiano de Bienestar Familiar, Instituto Nacional de Salud. Encuesta Nacional de la Situación Nutricional en Colombia 2010 ENSIN. Bogotá: Oficina Asesora de Comunicaciones y Atención al Ciudadano ICBF; 2011\. pp. 1-509\. \[ [Links](javascript:void%280%29;) \]
+
+30\. Reuter CP, Silva PT, Renner JD, et al. Dyslipidemia is associated with unfit and overweight-obese children and adolescents. Arq Bras Cardiol 2016;106(3):188-93\. \[ [Links](javascript:void%280%29;) \]
+
+31\. Bibiloni MM, Salas R, Novelo HI, et al. Serum lipid levels and dyslipidaemia prevalence among 2-10 year-old Northern Mexican Children. PLoS One 2015;10(3):1-14\. \[ [Links](javascript:void%280%29;) \]
+
+32\. González L, Corvalán C, Pereira A, et al. Early adiposity rebound is associated with metabolic risk in 7-year-old children. Int J Obes 2014;38: 1299-304\. \[ [Links](javascript:void%280%29;) \]
+
+33\. Zhang X, Liu E, Tian Z, et al. High birth weight and overweight or obesity among Chinese children 3-6 years old. Prev Med 2009:172-8\. \[ [Links](javascript:void%280%29;) \]
+
+34\. Wang Y, Gao E, Wu J, et al. Fetal macrosomia and adolescence obesity: Results from a longitudinal cohort study. Int J Obes 2009;33:923-8\. \[ [Links](javascript:void%280%29;) \]
+
+35\. Ren J, Wu J, Ji M, et al. The effect of high birth weight on overweight and obesity in childhood and adolescence. Saudi Md J 2013;34(6):623-31\. \[ [Links](javascript:void%280%29;) \]
+
+36\. Quiao Y, Ma J, Wang Y, et al. Birth weight and childhood obesity: A 12-country study. Int J Obes Suppl 2015;5(l2):S74-9\. \[ [Links](javascript:void%280%29;) \]
+
+37\. Zhang Y, Li H, Liu SJ, et al. The association of high birth weight with blood pressure and hypertension in later life: A systematic review and meta-analysis. Hypertens Res 2013;36(8):725-35\. \[ [Links](javascript:void%280%29;) \]
+
+38\. Law CM, Shiell AW. Is blood pressure inversely related to birth weight? The strength of evidence form a systematic review of the literature. J Hypertens 1996;14:935-41\. \[ [Links](javascript:void%280%29;) \]
+
+39\. Mantovani RM, Rocha NP, Magalhães DM, et al. Early changes in adipokines from overweight to obesity in children and adolescents. J Pediatr (Rio J) 2016;92(6):624-30\. \[ [Links](javascript:void%280%29;) \]
+
+40\. Freedman DS, Mei Z, Srinivasan SR, et al. Cardiovascular risk factors and excess adiposity among overweight children and adolescents: The Bogalusa Heart Study. J Pediatr 2007;150(1):12-7\. \[ [Links](javascript:void%280%29;) \]
+
+[![](/img/revistas/nh/v34n5/seta.gif)](#top)**Dirección para correspondencia:**   
+Edna Magaly Gamboa Delgado.   
+Escuela de Nutrición y Dietética.   
+Universidad Industrial de Santander.   
+Carrera 32, 29-31\.   
+Bucaramanga, Colombia.   
+e-mail: [emgamboa@uis.edu.co](mailto:emgamboa@uis.edu.co)
+
+Recibido: 08/02/2017   
+Aceptado: 25/06/2017
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.es) Todo el contenido de esta revista, excepto dónde está identificado, está bajo una [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
+
+C/Castelló, 128, 1º, Madrid, Madrid, ES, 28006, 91 782 00 30  
+![](/img/es/e-mailt.gif)  
+[nutricion@grupoaran.com](mailto:nutricion@grupoaran.com)![](https://analytics.isciii.es/matomo.php?idsite=2&rec=1) 
