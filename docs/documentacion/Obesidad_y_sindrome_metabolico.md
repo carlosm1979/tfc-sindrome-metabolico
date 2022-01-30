@@ -1,3 +1,5 @@
+[ver resumen](/docs/resumenes/Obesidad_y_sindrome_metabolico.md)
+
 Obesidad y síndrome metabólico
 Marta Murillo Vallés, Joan Bel Comós
 Unidad de Endocrinología Pediátrica. Servicio de Pediatría. Hospital Universitari Germans Trias i Pujol.
@@ -6,88 +8,25 @@ Murillo Valles M, Bel Comós M. Obesidad y síndrome metabólico. Protoc diagn t
 
 RESUMEN
 
-El aumento de la obesidad en la infancia y adolescencia ha supuesto la aparición de alteraciones más propias de la vida adulta, y relacionadas con mayor riesgo de enfermedad cardiovascular, como son la dislipemia, la hipertensión arterial o la diabetes tipo 2, englobadas
-clásicamente en el llamado síndrome metabólico. La resistencia a la insulina parece ser un
-factor clave en su patogénesis.
-No existe una definición clara de síndrome metabólico en Pediatría debido a la variabilidad de
-valores de normalidad de los diversos factores que lo confluyen y a los cambios en los diferentes
-periodos de la vida, y por ello hay dudas de su utilidad.
-En un intento de consenso, en el año 2007 la International Diabetes Federation propuso una
-definición de síndrome metabólico para la infancia y adolescencia de fácil aplicación en la
-práctica clínica. Esta nueva definición, basada en grupos de edad y que no permite hacer el
-diagnóstico antes de los 10 años, requiere el diagnóstico de obesidad central y la presencia de
-otros dos factores de riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la
-glucosa). De todas maneras, son necesarios estudios longitudinales para valorar su utilidad.
+El aumento de la obesidad en la infancia y adolescencia ha supuesto la aparición de alteraciones más propias de la vida adulta, y relacionadas con mayor riesgo de enfermedad cardiovascular, como son la dislipemia, la hipertensión arterial o la diabetes tipo 2, englobadas clásicamente en el llamado síndrome metabólico. La resistencia a la insulina parece ser un factor clave en su patogénesis.
+No existe una definición clara de síndrome metabólico en Pediatría debido a la variabilidad de valores de normalidad de los diversos factores que lo confluyen y a los cambios en los diferentes periodos de la vida, y por ello hay dudas de su utilidad.
+En un intento de consenso, en el año 2007 la International Diabetes Federation propuso una definición de síndrome metabólico para la infancia y adolescencia de fácil aplicación en la práctica clínica. Esta nueva definición, basada en grupos de edad y que no permite hacer el diagnóstico antes de los 10 años, requiere el diagnóstico de obesidad central y la presencia de otros dos factores de riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la glucosa). De todas maneras, son necesarios estudios longitudinales para valorar su utilidad.
 Existen otras alteraciones también implicadas en esta entidad, como el hígado graso no alcohólico o una inflamación crónica de bajo grado con alteración de citocinas.
 Independientemente de catalogarse o no de síndrome metabólico, queda claro que lo importante es identificar y tratar la obesidad infantil y los diferentes factores de riesgo.
 
 1. INTRODUCCIÓN
 
-La epidemia mundial de obesidad en la infancia
-y adolescencia observada en las últimas décadas1
- ha supuesto la aparición en Pediatría de alteraciones hasta ahora más propias de la edad
-adulta, como el síndrome metabólico (SM). El
-SM en el adulto se define como la agrupación
-de factores que se asocian a un aumento del
-riesgo de sufrir enfermedad arterioesclerótica
-cardiovascular, como son la hipertensión arterial, dislipemia, resistencia a la insulina (RI) o
-intolerancia a la glucosa, entre otros.
-El objetivo de este protocolo es no tanto la
-definición de SM en la infancia y adolescencia
-como el planteamiento de una serie de cuestiones acerca del significado e importancia clínicos del SM en estas edades. La gran variabilidad
-observada en el concepto y en la definición de
-SM pediátrico plantea interrogantes acerca de
-su existencia y su utilidad real en el contexto
-clínico y es por ello por lo que algunos autores,
-más que referirse a SM, prefieren expresar el
-riesgo en términos de factores de riesgo cardiometabólico. Por otro lado, la escasa información de que se dispone no permite conocer 
+La epidemia mundial de obesidad en la infancia y adolescencia observada en las últimas décadas1  ha supuesto la aparición en Pediatría de alteraciones hasta ahora más propias de la edad adulta, como el síndrome metabólico (SM). El SM en el adulto se define como la agrupación de factores que se asocian a un aumento del riesgo de sufrir enfermedad arterioesclerótica cardiovascular, como son la hipertensión arterial, dislipemia, resistencia a la insulina (RI) o intolerancia a la glucosa, entre otros.
+El objetivo de este protocolo es no tanto la definición de SM en la infancia y adolescencia como el planteamiento de una serie de cuestiones acerca del significado e importancia clínicos del SM en estas edades. La gran variabilidad observada en el concepto y en la definición de SM pediátrico plantea interrogantes acerca de su existencia y su utilidad real en el contexto clínico y es por ello por lo que algunos autores, más que referirse a SM, prefieren expresar el riesgo en términos de factores de riesgo cardiometabólico. Por otro lado, la escasa información de que se dispone no permite conocer bien hasta qué punto el SM pediátrico predice la enfermedad adulta.
+Un factor clave en la patogénesis del SM es la RI, fenómeno observado principalmente en sujetos obesos, que consiste en la presencia de resistencia a la acción de la insulina en el metabolismo de hidratos de carbono y lípidos.
+La RI parece ser una variable necesaria pero no suficiente para el desarrollo de SM.
+En la literatura pediátrica se han realizado diversos intentos de caracterización del SM pediátrico con un significado similar al SM del adulto2.
+Las dificultades para concretar una definición ampliamente aceptada de SM en la infancia y adolescencia son debidas en parte a la falta de valores normativos que puedan aplicarse en todo el mundo, a diferencias étnicas, valores normativos para las diferentes edades pediátricas, la ausencia de un rango de normalidad para la insulina en la infancia y la RI fisiológica de la pubertad. Estudios realizados en niños y adolescentes obesos han mostrado claramente cómo los cambios en las definiciones de SM determinan de forma importante la prevalencia de la entidad, que oscilaría entre el 15 y el 50% en función de los criterios utilizados3-5. Además, dado que el SM está directamente relacionado con la obesidad, la prevalencia de este aumenta a medida que aumentan la prevalencia y la intensidad de la obesidad6,7.
+En el año 2007, con la idea de intentar superar los conflictos generados por las diferentes definiciones, el grupo de consenso de la International Diabetes Federation (IDF) propuso una definición de SM en la infancia y adolescencia de fácil aplicación en la práctica clínica (Tabla 1)8.
+De acuerdo con estos criterios, no se puede diagnosticar síndrome metabólico en los menores de 10 años, pero se sugiere seguimiento estricto e intentar bajar peso especialmente si existen antecedentes familiares de enfermedad cardiovascular. 
+El análisis de la utilidad de esta definición, basada en percentiles y en grupos de edad, requiere estudios longitudinales. Más allá de la definición, la identificación precoz de los componentes específicos del SM tiene una importancia fundamental para controlar correctamente la evolución y el tratamiento de los niños que desarrollarán alteraciones metabólicas y cardiovasculares en la vida adulta.
 
-bien hasta qué punto el SM pediátrico predice
-la enfermedad adulta.
-Un factor clave en la patogénesis del SM es la
-RI, fenómeno observado principalmente en
-sujetos obesos, que consiste en la presencia
-de resistencia a la acción de la insulina en el
-metabolismo de hidratos de carbono y lípidos.
-La RI parece ser una variable necesaria pero no
-suficiente para el desarrollo de SM.
-En la literatura pediátrica se han realizado diversos intentos de caracterización del SM pediátrico con un significado similar al SM del adulto2
-.
-Las dificultades para concretar una definición
-ampliamente aceptada de SM en la infancia y
-adolescencia son debidas en parte a la falta de
-valores normativos que puedan aplicarse en
-todo el mundo, a diferencias étnicas, valores
-normativos para las diferentes edades pediátricas, la ausencia de un rango de normalidad
-para la insulina en la infancia y la RI fisiológica
-de la pubertad. Estudios realizados en niños y
-adolescentes obesos han mostrado claramente cómo los cambios en las definiciones de SM
-determinan de forma importante la prevalencia
-de la entidad, que oscilaría entre el 15 y el 50%
-en función de los criterios utilizados3-5. Además,
-dado que el SM está directamente relacionado
-con la obesidad, la prevalencia de este aumenta a medida que aumentan la prevalencia y la
-intensidad de la obesidad6,7.
-En el año 2007, con la idea de intentar superar
-los conflictos generados por las diferentes definiciones, el grupo de consenso de la International Diabetes Federation (IDF) propuso una definición de SM en la infancia y adolescencia de
-fácil aplicación en la práctica clínica (Tabla 1)
-8
-.
-De acuerdo con estos criterios, no se puede
-diagnosticar síndrome metabólico en los menores de 10 años, pero se sugiere seguimiento
-estricto e intentar bajar peso especialmente si
-existen antecedentes familiares de enfermedad cardiovascular.
-El análisis de la utilidad de esta definición,
-basada en percentiles y en grupos de edad,
-requiere estudios longitudinales. Más allá de
-la definición, la identificación precoz de los
-componentes específicos del SM tiene una 
-
-importancia fundamental para controlar correctamente la evolución y el tratamiento de
-los niños que desarrollarán alteraciones metabólicas y cardiovasculares en la vida adulta.
-
-2. IDENTIFICACIÓN DE NIÑOS Y ADOLESCENTES
-CON SÍNDROME METABÓLICO
+2. IDENTIFICACIÓN DE NIÑOS Y ADOLESCENTES CON SÍNDROME METABÓLICO
 
 El índice de masa corporal (IMC) es la medida
 más utilizada en la práctica clínica para determinar el grado de obesidad en la infancia. Datos de diferentes estudios realizados en niños
@@ -313,7 +252,7 @@ los diversos componentes del SM pueden mejorar el perfil de riesgo cardiovascula
 pacientes.
 
 7. CONSIDERACIONES FINALES
-8. 
+
 Los conocimientos actuales no permiten determinar claramente la relación entre los factores
 de riesgo individuales del SM, su agrupación y
 la enfermedad arterioesclerótica. Los factores
@@ -385,7 +324,7 @@ mass index among overweight children:
 the Bogalusa Heart Study. Pediatrics.
 2009;123(3):750-7. 
 
-11.Cook S, Auinger P, Huang TTK. Growth
+11. Cook S, Auinger P, Huang TTK. Growth
 curves for cardio-metabolic risk factors in
 children and adolescents. J Pediatr. 2009
 Sep;155(3):S6.e15-S6.e26.
@@ -398,17 +337,17 @@ PLoS One. 2012 Dec 14;7(12):e51801.
 13. Lee JM, Davis MM, Woolford SJ, Gurney JG.
 Waist circumference percentile thresholds
 for identifying adolescents with insulin resistance in clinical practice. Pediatr Diabetes. 2009 Aug;10(5):336-42.
-14.American Diabetes Association. 2. Classification and diagnosis of diabetes: standards
+14. American Diabetes Association. 2. Classification and diagnosis of diabetes: standards
 of medical care in diabetes-2018. Diabetes
 Care. 2018 Jan 8;41(Suppl 1):S13-27.
-15.Mayer-Davis EJ, Lawrence JM, Dabelea
+15. Mayer-Davis EJ, Lawrence JM, Dabelea
 D, Divers J, Isom S, Dolan L, et al. Incidence trends of type 1 and type 2 diabetes
 among youths, 2002-2012. N Engl J Med.
 2017;376(15):1419-29.
-16.Dabelea D, Mayer-Davis EJ, Saydah S, Imperatore G, Linder B, Divers J, et al. Prevalence
+16. Dabelea D, Mayer-Davis EJ, Saydah S, Imperatore G, Linder B, Divers J, et al. Prevalence
 of type 1 and type 2 diabetes among children and adolescents from 2001 to 2009.
 JAMA. 2014 May 7;311(17):1778-86.
-17.Marcovecchio ML, Patricelli L, Zito M, Capanna R, Ciampani M, Chiarelli F, et al. Ambulatory blood pressure monitoring in obese
+17. Marcovecchio ML, Patricelli L, Zito M, Capanna R, Ciampani M, Chiarelli F, et al. Ambulatory blood pressure monitoring in obese
 children: role of insulin resistance. J Hypertens. 2006 Dec;24(12):2431-6.
 18. Steinberger J, Daniels SR, Eckel RH, Hayman
 L, Lustig RH, McCrindle B, et al. Progress and
@@ -416,15 +355,15 @@ challenges in metabolic syndrome in children and adolescents: a scientific state
 from the American Heart Association Atherosclerosis, Hypertension, and Obesity in the
 Young Committee of the Council on Cardiovascular Disease in the Young; Circulation.
 2009 Feb 3;119(4):628-47.
-19.Cali AMG, De Oliveira AM, Kim H, Chen S,
+19. Cali AMG, De Oliveira AM, Kim H, Chen S,
 Reyes-Mugica M, Escalera S, et al. Glucose
 dysregulation and hepatic steatosis in obese adolescents: Is there a link? Hepatology.
 2009 Jun;49(6):1896-903.
-20.Juonala M, Magnussen CG, Berenson GS,
+20. Juonala M, Magnussen CG, Berenson GS,
 Venn A, Burns TL, Sabin MA, et al. Childhood
 adiposity, adult adiposity, and cardiovascular risk factors. N Engl J Med. 2011 Nov
 17;365(20):1876-85.
-21.Daniels SR, Jacobson MS, McCrindle BW, Eckel RH, Sanner BM. American Heart Association Childhood Obesity Research Summit:
+21. Daniels SR, Jacobson MS, McCrindle BW, Eckel RH, Sanner BM. American Heart Association Childhood Obesity Research Summit:
 Executive Summary. Circulation. 2009 Apr
 21;119(15):2114-23.
 22. Expert Panel on Integrated Guidelines for
