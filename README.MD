@@ -484,6 +484,14 @@ Bibliografía
     &lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso&gt;.
     ISSN
     0048-7732.](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso)
+-   [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
+    GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de
+    riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr.
+    Hosp. \[online\]. 2017, vol.34, n.5 \[citado 2022-01-30\],
+    pp.1105-1111. Disponible en:
+    &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
+    ISSN 1699-5198.
+    https://dx.doi.org/10.20960/nh.1024](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso)
 
 ------------------------------------------------------------------------
 
