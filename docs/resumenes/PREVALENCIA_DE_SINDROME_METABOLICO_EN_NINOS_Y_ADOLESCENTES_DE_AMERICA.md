@@ -58,4 +58,24 @@ Las adolescentes tienen mayores niveles de insulina que los varones. Ésto podr�
 Si bien las mujeres jóvenes suelen ser más sedentarias que los hombres, estos últimos fuman e ingieren más alcohol lo que favorece la presencia de alteraciones metabólicas.
 
 
+Dieta.
 
+La ingesta calórica alta y el mayor consumo de carbohidratos en los adolescentes son asociados con el aumento de triglicéridos y HDL-bajo47.
+
+La ingesta calórica alta, el bajo contenido vitamínico y mineral de los alimentos consumidos favorecen la aparición de alteraciones metabólicas a edad temprana.
+
+La deficiencia de vitaminas A y D, zinc (Zn), y magnesio (Mg) han sido un factor de riesgo asociado al SM y alteraciones metabólicas en niños y adolescentes38, 48.
+
+Cambios en la dieta son particularmente importantes para muchos países de América latina, se ha incrementado drásticamente el consumo de grasas.
+
+El aumento en el consumo de bebidas azucaradas también es uno de los problemas en la transición alimentaria.
+
+En EUA y México, la mayor parte del azúcar de la dieta proviene de las bebidas azucaradas
+
+Respecto a la obesidad abdominal, alrededor del 17% de los adolescentes del continente americano presentan esta alteración.
+
+En los países en desarrollo, las poblaciones con ingreso elevado tienden a presentar prevalencias de obesidad y sobrepeso más altas. Esto es debido a que han adoptado estilos de vida comparables a las poblaciones de los países desarrollados, consumiendo más calorías en la dieta y realizando menos actividad física.
+
+Por su parte, en los países con bajos ingresos, la falta de acceso a las infraestructuras deportivas, educación, alimentación adecuada y recursos que les permitan reducir el riesgo de ganar peso y sus consecuencias metabólicas agrava la situación.
+
+Aunado a la dieta, las actitudes y estilos de alimentación son importantes. Por ejemplo, los franceses, en comparación con los estadounidenses, consumen frecuentemente productos frescos, planean la comida y su preparación, comen juntos, comen menos y más lentamente55, reflejándose en menor peso corporal y dislipidemias.
