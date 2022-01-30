@@ -85,8 +85,10 @@ componentes específicos del SM tiene una
 
 importancia fundamental para controlar correctamente la evolución y el tratamiento de
 los niños que desarrollarán alteraciones metabólicas y cardiovasculares en la vida adulta.
+
 2. IDENTIFICACIÓN DE NIÑOS Y ADOLESCENTES
 CON SÍNDROME METABÓLICO
+
 El índice de masa corporal (IMC) es la medida
 más utilizada en la práctica clínica para determinar el grado de obesidad en la infancia. Datos de diferentes estudios realizados en niños
 obesos, definidos como IMC superior al percentil 95 o por encima de 2 desviaciones estándar
@@ -132,8 +134,10 @@ bien investigada, dada la influencia demostrada de factores hereditarios en el d
 los diversos componentes del SM. Además, estudios recientes demuestran que los niños que
 no desarrollan SM de forma precoz son menos
 propensos a desarrollarlo más tardíamente.
+
 3. SÍNDROME METABÓLICO Y RESISTENCIA
 A INSULINA
+
 Los precursores de la enfermedad arterioesclerótica cardiovascular del adulto están ya
 presentes en la adolescencia. Estudios en autopsias han demostrado que la presencia de
 arterioesclerosis precoz en aorta y arterias
@@ -174,8 +178,10 @@ adipocitocinas, estrés oxidativo, factores vasculares y factores hereditarios y
 hecho, el rango de influencia genética se estima importante en relación con la obesidad, la
 presión arterial y los niveles de lípidos. La interacción multifactorial inducirá al desarrollo de
 SM y al consiguiente riesgo cardiometabólico.
+
 4. INTOLERANCIA A GLUCOSA Y DIABETES
 MELLITUS TIPO 2
+
 La RI presente en niños y adolescentes obesos
 induce hiperinsulinemia compensadora secundaria, con el objetivo de mantener la glucosa en
 niveles normales; en una fase más avanzada, la
@@ -210,9 +216,11 @@ de la célula beta pancreática. La DM2 en el niño
 y el adolescente es un fenómeno reciente y por
 ello se requieren estudios longitudinales para
 valorar su evolución.
+
 5. FENOTIPO METABÓLICO DE NIÑOS
 Y ADOLESCENTES CON SÍNDROME
 METABÓLICO
+
 Varios estudios sugieren que existe un fenotipo específico de obesidad que se asocia a
 alteraciones en la sensibilidad a la insulina y
 a complicaciones cardiometabólicas. Este fenotipo se caracteriza por una alta proporción
@@ -290,7 +298,9 @@ y enfermedad cardiovascular. La disfunción
 del endotelio y el aumento del tamaño de
 la íntima y la media de la pared arterial se
 consideran los cambios más precoces de arteriosclerosis.
+
 6. TRATAMIENTO
+
 La combinación de dieta y actividad física es la
 que aporta mayores beneficios en los niños y
 adolescentes obesos con SM. El objetivo principal es reducir la obesidad, aumentar la actividad física e iniciar tratamiento específico para
@@ -303,6 +313,7 @@ los diversos componentes del SM pueden mejorar el perfil de riesgo cardiovascula
 pacientes.
 
 7. CONSIDERACIONES FINALES
+8. 
 Los conocimientos actuales no permiten determinar claramente la relación entre los factores
 de riesgo individuales del SM, su agrupación y
 la enfermedad arterioesclerótica. Los factores
@@ -328,7 +339,9 @@ relacionados con el SM. Estudios metabólicos,
 genéticos y evolutivos de la infancia al adulto
 nos van a permitir conocer mejor los factores
 de riesgo cardiometabólico y el SM pediátrico.
+
 BIBLIOGRAFÍA
+
 1. NCD Risk Factor Collaboration (NCD-RisC). Worldwide trends in body-mass index, underweight,
 overweight, and obesity from 1975 to 2016:
 a pooled analysis of 2416 population-based
