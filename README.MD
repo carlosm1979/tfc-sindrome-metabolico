@@ -9,13 +9,13 @@ Beatriz Carro Otero
 Indice general
 ==============
 
--   [I. Introduccion](#introducción)
--   [II. Objetivos](#objetivos)
--   [III. Parte teórica](#parte-teórica)
-    -   III.1 Que es\
+-   [1. Introduccion](#introducción)
+-   [2. Objetivos](#objetivos)
+-   [3. Parte teórica](#parte-teórica)
+    -   3.1 Que es\
         *Patologías relacionadas*
-    -   [III.2 Diagnóstico](#diagnóstico)
-        -   [III.2.1 Factores de riesgo](#Factores-de-riesgo)
+    -   [3.2 Diagnóstico](#diagnóstico)
+        -   [3.2.1 Factores de riesgo](#Factores-de-riesgo)
             -   [Circunferencia grande de
                 cintura](#Circunferencia-grande-de-cintura)
             -   [Colesterol bueno o de lipoproteínas de alta densidad
@@ -25,23 +25,23 @@ Indice general
             -   [Hipertensión arterial](#Hipertensión-arterial)
             -   [Niveles elevados de
                 triglicéridos](#Niveles-elevados-de-triglicéridos)
-        -   III.2.2 Por grupos de población
-            -   III.2.2.1 SM en el hombre
-            -   III.2.2.2 SM en la mujer *Menopausia*\
+        -   3.2.2 Por grupos de población
+            -   3.2.2.1 SM en el hombre
+            -   3.2.2.2 SM en la mujer *Menopausia*\
                 *Embarazo. Complicaciones materno-fetales*
-            -   III.2.2.3 SM en la infancia
-            -   III.2.2.4 SM en la tercera edad
-    -   [III.3 Tratamiento y prevención](#Tratamiento-y-prevención)
+            -   3.2.2.3 SM en la infancia
+            -   3.2.2.4 SM en la tercera edad
+    -   [3.3 Tratamiento y prevención](#Tratamiento-y-prevención)
         -   Alimentación y estilo de vida como estrategia para la
             prevención del SM
         -   [Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
--   [IV. Material y métodos](#material-y-métodos)
--   [V. Resultados](#resultados)
--   [VI. Discusión](#difusión)
--   [VII. Conclusión](#discusión)
--   [VIII. Bibliografía](#bibliografía)
+-   [4. Material y métodos](#material-y-métodos)
+-   [5. Resultados](#resultados)
+-   [6. Discusión](#difusión)
+-   [7. Conclusión](#discusión)
+-   [8. Bibliografía](#bibliografía)
 
 Indice tablas
 =============
@@ -216,9 +216,9 @@ enfermedades como:
 III.2.2 Por grupos de población
 -------------------------------
 
-### III.2.2.1 SM en el hombre
+### 3.2.2.1 SM en el hombre
 
-### III.2.2.2 SM en la mujer
+### 3.2.2.2 SM en la mujer
 
 #### Embarazo
 
@@ -304,7 +304,7 @@ experimentadas en el útero.
 Tanto la DG como la diabetes tipo 2 se relacionan con varias
 consecuencias negativas
 
-### III.2.2.3 SM en la infancia
+### 3.2.2.3 SM en la infancia
 
 En los últimos 50 años la obesidad y el SM se han convertido en un
 problema global. Esto antes era considerado como enfermedades del
@@ -392,7 +392,7 @@ insulinorresistencia, recomendándose su lectura en la práctica clínica
 como herramienta simple para identificar a niños con riesgo de presentar
 en un futuro ECV y diabetes tipo II.
 
-### III.2.2.4 SM en la tercera edad
+### 3.2.2.4 SM en la tercera edad
 
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
