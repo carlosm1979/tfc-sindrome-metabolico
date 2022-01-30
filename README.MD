@@ -219,16 +219,19 @@ enfermedades como:
 Por grupos de población
 -----------------------
 
-### SM en la infancia
-
-En niños la circunferencia de cintura es predictora del síndrome de
-insulinorresistencia, recomendándose su lectura en la práctica clínica
-como herramienta simple para identificar a niños con riesgo de presentar
-en un futuro ECV y diabetes tipo II. \#\#\# SM en adultos
+### SM en adultos
 
 ### 2.1 SM en la mujer
 
 #### Embarazo
+
+El embarazo es un síndrome metabólico transitorio que predispone a
+disfunción epitelial. En el embarazo normal, hay un gasto cardíaco
+aumentado, tendencia a la hipercoagulabilidad, aumento de marcadores de
+inflamación y, después de la semana 20, resistencia a la insulina y
+dislipemia.
+
+Es una causa frecuente de ganancia de peso en la mujer.
 
 > El reconocimiento de este síndrome durante el embarazo podría ayudar a
 > identificar a un subgrupo de mujeres quienes no solamente pueden
@@ -280,19 +283,29 @@ o la diabetes gestacional.
 
 #### Complicaciones materno-fetales
 
+para el feto, como pueden ser muerte prematura, macrosomía, hipoglicemia
+y trauma neonatal. Los fetos macrosómicos y recién nacidos de madres
+obesas tienen mayor riesgo de presentar SM a largo plazo, sumado a
+cualquier predisposición hereditaria. Una alta concentración de
+triglicéridos en la madre también puede provocar macrosomía. Por otro
+lado el bajo peso al nacer va asociado a embarazos de mujeres con edades
+avanzadas.
+
+El desarrollo y la progresión de la enfermedad cardiovascular se
+relacionan con el número e intensidad de factores de riesgo que
+iniciaron en la infancia, y también durante el desarrollo intrauterino.
+
 Las complicaciones neonatales en las gestantes con SM son mayores de las
-que no lo presentan.
+que no lo presentan. Y los hijos de mujeres con diabetes tipo 1 tienen
+predisposición al desarrollo de enfermedades cardiovasculares durante la
+infancia.
+
+El peso al nacer es un indicador importante del estado de nutrición y
+salud del feto, y refleja la suficiencia nutricional y condiciones
+experimentadas en el útero.
 
 Tanto la DG como la diabetes tipo 2 se relacionan con varias
-consecuencias negativas para el feto, como pueden ser muerte prematura,
-macrosomía, hipoglicemia y trauma neonatal. Los fetos macrosómicos y
-recién nacidos de madres obesas tienen mayor riesgo de presentar SM a
-largo plazo, sumado a cualquier predisposición hereditaria. Una alta
-concentración de triglicéridos en la madre también puede provocar
-macrosomía. Por otro lado el bajo peso al nacer va asociado a embarazos
-de mujeres con edades avanzadas. Y los hijos de mujeres con diabetes
-tipo 1 tienen predisposición al desarrollo de enfermedades
-cardiovasculares durante la infancia.
+consecuencias negativas
 
 ------------------------------------------------------------------------
 
@@ -367,7 +380,30 @@ trombocitopenia y el alto peso al nacer.
       - si la glicemia se encuentra entre 140 mg/dL y 199 mg/dL, existe una intolerancia de la glucosa en la gestación (IGG)
       - si la glucosa excede los 200 mg/dL la prueba es diagnóstica de DG
 
-### SM en la tercera edad
+### SM en la infancia
+
+El peso al nacer es un indicador importante del estado de nutrición y
+salud del feto y refleja la suficiencia nutricional y condiciones
+experimentadas en el útero.
+
+Por ejemplo, se ha encontrado que a mayor peso al nacer, mayor
+probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de
+presión arterial sistólica durante su niñez.
+
+Se ha encontrado también relación entre el bajo peso al nacer y el
+riesgo cardiometabólico, morbilidad y mortalidad cardiovascular. Y que
+el alto peso al nacer está relacionado con el desarrollo de otros
+factores de riesgo cardiometabólicos como sobrepeso e hipertensión.
+
+Es importante identificar, de manera temprana, gestaciones en riesgo de
+exceso de peso al nacer y el manejo de los factores que contribuyen al
+mismo, con el fin de prevenir el posterior desarrollo de obesidad y
+riesgo cardiovascular en estos niños.
+
+En niños la circunferencia de cintura es predictora del síndrome de
+insulinorresistencia, recomendándose su lectura en la práctica clínica
+como herramienta simple para identificar a niños con riesgo de presentar
+en un futuro ECV y diabetes tipo II. \#\#\# SM en la tercera edad
 
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
