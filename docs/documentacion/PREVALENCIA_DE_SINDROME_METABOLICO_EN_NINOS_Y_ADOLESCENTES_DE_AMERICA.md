@@ -1,6 +1,7 @@
 [ver resumen](/docs/resumenes/PREVALENCIA_DE_SINDROME_METABOLICO_EN_NINOS_Y_ADOLESCENTES_DE_AMERICA.md)
 
 # PREVALENCIA DE SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICAPrevalence of Metabolic Syndrome in American children and adolescents
+
 Author links open overlay panelRomainPierlotaEstelaCuevas-RomerobJorgeRodríguez-AntolínbPabloMéndez-HernándezcMargaritaMartínez-Gómezbd
 https://doi.org/10.1016/j.recqb.2016.11.004Get rights and content
 Under a Creative Commons licenseopen access
@@ -9,25 +10,33 @@ Objetivo
 Analizar la prevalencia del Síndrome Metabólico (SM) y sus componentes en niños y adolescentes del continente Americano.
 
 Método
+
 La recopilación de la información se tomó de artículos científicos de los años 2008 al 2016 que aparecen en las bases de datos PubMed, Europe PMC y SciELO. Se incluyeron estudios que muestran datos cuantitativos de los componentes del SM en niños y/o adolescentes entre 4 y 19 años de edad.
 
 Resultados
+
 Se analizaron 23 estudios realizados en 12 países del continente americano, de los cuales sólo 3 consideraron el factor edad. Los componentes del SM más prevalentes fueron la obesidad y las dislipidemias. Mientras que los menos prevalentes fueron hiperglicemia e hipertensión. La hipoalipoproteinemia, la hipertensión y el SM fueron más frecuentes en hombres que en mujeres. Pocos estudios analizaron factores de riesgo para el SM.
 
 Conclusión
+
 La presencia del SM y sus componentes en niños y adolescentes americanos es variable. La variabilidad es también observada en países de otros continentes. Esta revisión evidencia la necesidad de definir los criterios de diagnóstico del SM en niños y jóvenes, y la urgencia de diseñar estrategias de prevención de las alteraciones metabólicas en edades tempranas, involucrando la participación de la familia, la sociedad y las instituciones públicas.
 
 ABSTRACT
+
 Objective
+
 To analyze the prevalence of Metabolic Syndrome (MS) and its components in children and adolescents in American continent.
 
 Methods
+
 Information was collected from scientific papers published from 2008 to 2016 in PubMed, Europe PMC, and SciELO databases. Only those studies showing quantitative data from MS components in 4-19 years old children and adolescents were included.
 
 Results
+
 Twenty-three studies in 12 countries in American continent were analyzed, only three studies considered age factor. Obesity and dyslipidemias were highly prevalent; while hyperglycemia and hypertension had a low prevalence. Hypoalipoproteinemia, hypertension and MS were more frequent in males than in females. Few studies analyzed risk factors for MS.
 
 Conclusion
+
 Similarly, to other continents, the presence of MS and its components in American children and adolescents is variable. This review shows the necessity to have clear diagnostic criteria for MS in children and adolescents, as well as the urgency to get preventive strategies for metabolic alterations at young age, involving family, society, and public institutions.
 
 Previous article in issueNext article in issue
@@ -35,7 +44,9 @@ Palabras clave
 diabetesdislipidemiashipertensión arterialobesidadsíndrome metabólico
 Keywords
 diabetesdyslipidemiashypertensionobesitymetabolic syndrome
+
 INTRODUCCIÓN
+
 El Síndrome Metabólico (SM) es una combinación de presión arterial alta, obesidad abdominal, dislipidemias, intolerancia a la glucosa y/o resistencia a la insulina, así como un aumento de moléculas pro-inflamatorias1, 2. Su diagnóstico en niños y adultos suele hacerse con el mismo criterio, reunir al menos 3 de los componentes ya descritos, aunque con ciertas variaciones en los puntos de corte2, 3. Así como en los adultos, el SM en niños es un factor de riesgo para el desarrollo de diabetes mellitus 2 (DM2), hipertensión, enfermedades cardiovasculares y daño renal1, 2. Además, la presencia del SM en la pubertad puede condicionar la fertilidad durante la edad adulta y está asociado a la presencia de ciclos menstruales irregulares y ovario poliquístico4, 5. El impacto del SM en la salud reproductiva de los niños ha sido poco estudiada, sin embargo, en hombres adultos la obesidad se asocia con infertilidad, hipogonadismo, niveles bajos de testosterona, bajo conteo espermático e incluso un deterioro en el desarrollo embrionario que aumenta la tasa de aborto6.
 
 La raza, es un factor que influye fuertemente en el desarrollo del SM a edades tempranas. Así, niños y jóvenes hispanos, africanos y asiáticos tienen una mayor prevalencia del SM que los no hispanos2. Otro factor importante, es el estado de la salud materna durante el desarrollo intrauterino del feto que puede influir en los cambios epigenéticos y en el desarrollo de alteraciones metabólicas en los hijos7. En niños y adolescentes con predisposición genética o epigenética, una buena nutrición y actividad física podrían retardar el desarrollo o evolución de las alteraciones metabólicas1. Dado que los niños, y en menor medida los jóvenes, dependen aún de la familia, las alteraciones metabólicas a esta edad se relacionan con los cambios en la alimentación y por actividades de los padres que favorecen el consumo de alimentos procesados con alto contenido en carbohidratos, grasa y sal1. Por ello, la obesidad parental se considera un predictor de la obesidad de los hijos8.
@@ -45,6 +56,7 @@ Los adolescentes son un grupo de gran interés en las políticas de salud públi
 Por todo lo anteriormente descrito, consideramos que existe la necesidad de conocer cuál es la tendencia general de las alteraciones metabólicas en los niños y adolescentes de los distintos países del continente Americano, con el objetivo de denotar su magnitud, describir las prevalencias del SM, las causas, factores de riesgo y sus componentes.
 
 MÉTODO
+
 La recopilación de la información se tomó de artículos científicos de los años 2008 al 2016 contenidos en las bases de datos PubMed, Europe PMC y SciELO. Los criterios de integración de los artículos fueron: que éstos se enfocaran en niños y/o adolescentes entre 4 a 19 años de edad, y mostraran datos cuantitativos sobre los componentes del SM, como niveles de obesidad y sobrepeso, hipertensión arterial, hiperglucemia y dislipidemias, e información sobre la prevalencia del SM.
 
 En la presente revisión se incluyeron 23 estudios que consideraron los criterios propuestos por la National Cholesterol Education Program Adult Treatment Panel III (NCEP ATP III)13 y por la Federación Internacional de la Diabetes (IDF, por sus iniciales en inglés)14 presentados en la Tabla I.
@@ -120,7 +132,9 @@ Sáez y Vernui36	2009	Perú
 Lozada y cols.37	2008	Venezuela	
 
 12-17 años	Criterio usado NCEP ATPIII modificado. TA percentil ≥97, TG ≥110 mg/dL; glucosa ≥110 mg/dL; IMC percentil > 97.	Antecedentes familiares: obesidad, HTA y DM2. Sedentarismo, consumo de café, alcohol y cigarrillo.
+
 DISCUSIÓN
+
 Comparando las prevalencias del SM en niños y adolescentes de América, encontramos que existe una importante variabilidad entre los países, siendo las prevalencias menores del 6.0% para países como Argentina, Colombia, Guatemala, México y Paraguay. Mientras que las mayores prevalencias fueron para Brasil, Canadá y Venezuela (>12.0%). Esta variabilidad es encontrada también en países de otros continentes como es el caso de China con prevalencia del SM baja en niños de primaria con 3.5%38. Otro país es Turquía, donde se ha reportado una prevalencia del SM de 2.3% en adolescentes de 10-19 años39 o de 2.5-4.4% en niños de primaria y secundaria dependiendo del método de diagnóstico utilizado40. De igual manera, Irán tiene una prevalencia del SM de 5.3% en niños de 6 a 11 años41, de 6.5% en adolescentes entre 15 a 18 años42, y de 4.4% en adolescentes de 10-18 años43. Mientras que las prevalencias del SM altas han sido reportadas en países como Italia (niños y adolescentes de 6 a 14 años con 13.0%)44.
 
 Las altas prevalencias del SM y sus componentes encontradas en niños y jóvenes del continente americano como ya se mencionó están relacionadas con cambios en la alimentación, estilo de vida, actividad física y nivel socioeconómico. A continuación haremos referencia a la importancia de cada factor.
@@ -136,12 +150,15 @@ Antecedentes familiares, peso al nacimiento y hábitos familiares. La hipergluce
 Esta revisión, tuvo algunas limitaciones como lo es la carencia de datos específicos por grupos de edad, las diferencias en los criterios metodológicos para medir el SM y sus componentes, y la disparidad en la representatividad de las muestras poblacionales estudiadas, lo que dificultó poder profundizar en el análisis comparativo entre las prevalencias de las enfermedades metabólicas en jóvenes de las distintas regiones y países de América. Desafortunadamente, los estudios incluidos en esta revisión no coincidieron con las edades analizadas ni con los criterios para considerar infancia y adolescencia. Muchos de ellos incluso analizaron niños y adolescentes como un solo grupo, lo que dificulta dilucidar el impacto de las hormonas sexuales en la aparición de los componentes del SM. En cierta medida, parte de esta confusión se debe a los criterios utilizados en el diagnóstico del SM, los cuales están basados en lo que ocurre en adultos y no en estudios pediátricos2, sin embargo, a pesar de las limitaciones, el análisis realizado nos permitió evaluar la prevalencia del SM y sus componentes en los países del continente americano y compararlos con países de otros continentes. Esto podría ayudar a resaltar la importancia de implementar políticas públicas diferenciadas a la cultura y origen que permitan promover la salud y el bienestar de las poblaciones de jóvenes americanos. Para ello, se requiere facilitar el acceso a alimentos saludables y a un costo accesible, así como a la infraestructura deportiva que incentive la adopción de un estilo de vida saludable. Al mismo tiempo, esta revisión apoya la necesidad de realizar estudios epidemiológicos en niños y adolescentes específicos para cada edad, y criterios de diagnóstico del SM y sus componentes más claros.
 
 CONCLUSIONES
+
 El presente artículo muestra que la prevalencia del SM y sus componentes en diversos países del continente americano es variable, dependiendo de cada país. Hay países con prevalencias pequeñas, pero hay otros con prevalencias altas. Esta variabilidad también es observada en países de otros continentes, por lo que posiblemente se deba a la diferencia en los hábitos alimenticios y cuidados de la salud que cada país tiene, pero también podría depender de la diversidad de criterios utilizados en el diagnóstico y puntos de corte para los componentes del SM. Por lo que la presente revisión permite observar la falta de consenso entre los investigadores y las instituciones responsables de establecer los criterios de detección.
 
 AGRADECIMIENTOS
+
 Este estudio forma parte del Programa de Salud promovido por la Estación Científica La Maliche, Universidad Nacional Autónoma de México-Universidad Autónoma de Tlaxcala. Los autores agradecen la excelente asistencia de Laura García.
 
 REFERENCIAS
+
 1
 D.R. Ewald, L.A. Haldeman
 Risk factors in adolescent hypertension

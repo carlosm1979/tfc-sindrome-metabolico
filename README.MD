@@ -492,6 +492,11 @@ Bibliografía
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
     ISSN 1699-5198.
     https://dx.doi.org/10.20960/nh.1024](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso)
+-   [Romain Pierlot, Estela Cuevas-Romero, Jorge Rodríguez-Antolín,
+    Pablo Méndez-Hernández, Margarita Martínez-Gómez, PREVALENCIA DE
+    SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICA, TIP, Volume
+    20, Issue 1,2017,Pages 40-49,ISSN
+    1405-888X,https://doi.org/10.1016/j.recqb.2016.11.004.](https://www.sciencedirect.com/science/article/pii/S1405888X16300158)
 
 ------------------------------------------------------------------------
 
