@@ -16,7 +16,7 @@ Independientemente de catalogarse o no de síndrome metabólico, queda claro que
 
 1. INTRODUCCIÓN
 
-La epidemia mundial de obesidad en la infancia y adolescencia observada en las últimas décadas1  ha supuesto la aparición en Pediatría de alteraciones hasta ahora más propias de la edad adulta, como el síndrome metabólico (SM). El SM en el adulto se define como la agrupación de factores que se asocian a un aumento del riesgo de sufrir enfermedad arterioesclerótica cardiovascular, como son la hipertensión arterial, dislipemia, resistencia a la insulina (RI) o intolerancia a la glucosa, entre otros.
+La epidemia mundial de obesidad en la infancia y adolescencia observada en las últimas décadas ha supuesto la aparición en Pediatría de alteraciones hasta ahora más propias de la edad adulta, como el síndrome metabólico (SM). El SM en el adulto se define como la agrupación de factores que se asocian a un aumento del riesgo de sufrir enfermedad arterioesclerótica cardiovascular, como son la hipertensión arterial, dislipemia, resistencia a la insulina (RI) o intolerancia a la glucosa, entre otros.
 El objetivo de este protocolo es no tanto la definición de SM en la infancia y adolescencia como el planteamiento de una serie de cuestiones acerca del significado e importancia clínicos del SM en estas edades. La gran variabilidad observada en el concepto y en la definición de SM pediátrico plantea interrogantes acerca de su existencia y su utilidad real en el contexto clínico y es por ello por lo que algunos autores, más que referirse a SM, prefieren expresar el riesgo en términos de factores de riesgo cardiometabólico. Por otro lado, la escasa información de que se dispone no permite conocer bien hasta qué punto el SM pediátrico predice la enfermedad adulta.
 Un factor clave en la patogénesis del SM es la RI, fenómeno observado principalmente en sujetos obesos, que consiste en la presencia de resistencia a la acción de la insulina en el metabolismo de hidratos de carbono y lípidos.
 La RI parece ser una variable necesaria pero no suficiente para el desarrollo de SM.
@@ -36,212 +36,51 @@ Estudios realizados en niños con el mismo grado de obesidad muestran que los su
 De hecho, el aumento de CC se asocia a presión arterial elevada, aumento de los niveles plasmáticos de colesterol LDL, triglicéridos e insulina y disminución de colesterol HDL12,13.
 La asociación entre CC y este grupo de factores de riesgo cardiovascular no es solo el reflejo de un cierto grado de obesidad, sino que parece tener connotaciones fisiopatológicas, aunque los mecanismos implicados no sean claramente conocidos.
 A pesar de las recomendaciones, el uso de la  medida de CC en niños y adolescentes para diagnosticar obesidad abdominal es dificultoso por la falta de guías específicas normativas de uso clínico.
-Aunque el examen físico con las medidas de IMC y CC es básico, la historia familiar debe ser bien investigada, dada la influencia demostrada de factores hereditarios en el desarrollo de los diversos componentes del SM. Además, estudios recientes demuestran que los niños que no desarrollan SM de forma precoz son menos
-propensos a desarrollarlo más tardíamente.
+Aunque el examen físico con las medidas de IMC y CC es básico, la historia familiar debe ser bien investigada, dada la influencia demostrada de factores hereditarios en el desarrollo de los diversos componentes del SM. Además, estudios recientes demuestran que los niños que no desarrollan SM de forma precoz son menos propensos a desarrollarlo más tardíamente.
 
 3. SÍNDROME METABÓLICO Y RESISTENCIA A INSULINA
 
-Los precursores de la enfermedad arterioesclerótica cardiovascular del adulto están ya
-presentes en la adolescencia. Estudios en autopsias han demostrado que la presencia de
-arterioesclerosis precoz en aorta y arterias
-coronarias está directamente asociada a los
-niveles de lípidos, presión arterial y obesidad
-en los adolescentes y adultos jóvenes.
+Los precursores de la enfermedad arterioesclerótica cardiovascular del adulto están ya presentes en la adolescencia. Estudios en autopsias han demostrado que la presencia de arterioesclerosis precoz en aorta y arterias coronarias está directamente asociada a los niveles de lípidos, presión arterial y obesidad en los adolescentes y adultos jóvenes.
 
-Como se ha comentado, la obesidad abdominal
-y la RI están relacionadas con el desarrollo de
-SM y riesgo cardiovascular. La RI es un factor
-clave en la patogenia del SM, aunque la relación entre la RI y los componentes de SM es
-compleja. Weiss et al. demostraron que el aumento de RI es paralelo al aumento de SM en
-niños y adolescentes obesos6
-.
-Aunque la obesidad es la causa principal de RI
-en los obesos, conviene no olvidar que, en la
-pubertad, los niños presentan aumento fisiológico y transitorio de RI debido al aumento de
-somatomedinas (IGF1).
-En los pacientes obesos, el acúmulo de ácidos
-grasos libres en el hígado, las células adiposas,
-el páncreas y sobre todo el músculo esquelético,
-interfiere en el normal funcionamiento de la insulina y parece ser el determinante primario del
-aumento de RI. Además, el acúmulo de ácidos
-grasos en el hígado induce a RI, disminuyendo
-la capacidad de la insulina de supresión de la
-producción de glucosa. En estas condiciones, la
-hiperinsulinemia promueve que el hígado aumente la producción de grasa y genere hipertrigliceridemia. Por otro lado, la RI en las células
-adiposas da lugar a incremento de lipolisis con
-la consiguiente hiperlipidemia. Como consecuencia de la RI, el páncreas necesita incrementar la producción de insulina para mantener los
-niveles normales de glucemia, promoviendo
-con ello el acúmulo de ácidos grasos y generando un círculo vicioso que empeora la RI.
-Estudios en adultos sugieren que uno de los
-mecanismos fisiopatológicos básicos en el desarrollo de SM es la RI, pero no el único, dado
-que no todos los pacientes con RI desarrollan
-SM. En este proceso están implicados, además
-de la obesidad y la RI, factores inflamatorios,
-adipocitocinas, estrés oxidativo, factores vasculares y factores hereditarios y étnicos. De
-hecho, el rango de influencia genética se estima importante en relación con la obesidad, la
-presión arterial y los niveles de lípidos. La interacción multifactorial inducirá al desarrollo de
-SM y al consiguiente riesgo cardiometabólico.
+Como se ha comentado, la obesidad abdominal y la RI están relacionadas con el desarrollo de SM y riesgo cardiovascular. La RI es un factor
+clave en la patogenia del SM, aunque la relación entre la RI y los componentes de SM es compleja. Weiss et al. demostraron que el aumento de RI es paralelo al aumento de SM en niños y adolescentes obesos6.
+Aunque la obesidad es la causa principal de RI en los obesos, conviene no olvidar que, en la pubertad, los niños presentan aumento fisiológico y transitorio de RI debido al aumento de somatomedinas (IGF1).
+En los pacientes obesos, el acúmulo de ácidos grasos libres en el hígado, las células adiposas, el páncreas y sobre todo el músculo esquelético, interfiere en el normal funcionamiento de la insulina y parece ser el determinante primario del aumento de RI. Además, el acúmulo de ácidos grasos en el hígado induce a RI, disminuyendo la capacidad de la insulina de supresión de la producción de glucosa. En estas condiciones, la hiperinsulinemia promueve que el hígado aumente la producción de grasa y genere hipertrigliceridemia. Por otro lado, la RI en las células adiposas da lugar a incremento de lipolisis con la consiguiente hiperlipidemia. Como consecuencia de la RI, el páncreas necesita incrementar la producción de insulina para mantener los niveles normales de glucemia, promoviendo con ello el acúmulo de ácidos grasos y generando un círculo vicioso que empeora la RI.
+Estudios en adultos sugieren que uno de los mecanismos fisiopatológicos básicos en el desarrollo de SM es la RI, pero no el único, dado que no todos los pacientes con RI desarrollan SM. En este proceso están implicados, además de la obesidad y la RI, factores inflamatorios, adipocitocinas, estrés oxidativo, factores vasculares y factores hereditarios y étnicos. De hecho, el rango de influencia genética se estima importante en relación con la obesidad, la presión arterial y los niveles de lípidos. La interacción multifactorial inducirá al desarrollo de SM y al consiguiente riesgo cardiometabólico.
 
-4. INTOLERANCIA A GLUCOSA Y DIABETES
-MELLITUS TIPO 2
+4. INTOLERANCIA A GLUCOSA Y DIABETES MELLITUS TIPO 2
 
-La RI presente en niños y adolescentes obesos
-induce hiperinsulinemia compensadora secundaria, con el objetivo de mantener la glucosa en
-niveles normales; en una fase más avanzada, la
-secreción de la célula beta pancreática puede
-deteriorarse y ser insuficiente para mantener la
-glucosa dentro del rango de normalidad.
-La American Diabetes Association (ADA) (Tabla 2)
-establece los criterios para diagnosticar los diversos estadios de intolerancia a glucosa y diabetes
-mellitus tipo 2 (DM2)14. La glucosa basal alterada,
-la intolerancia a glucosa y la DM2 son componen
+La RI presente en niños y adolescentes obesos induce hiperinsulinemia compensadora secundaria, con el objetivo de mantener la glucosa en
+niveles normales; en una fase más avanzada, la secreción de la célula beta pancreática puede deteriorarse y ser insuficiente para mantener la glucosa dentro del rango de normalidad.
+La American Diabetes Association (ADA) (Tabla 2) establece los criterios para diagnosticar los diversos estadios de intolerancia a glucosa y diabetes mellitus tipo 2 (DM2)14. La glucosa basal alterada, la intolerancia a glucosa y la DM2 son componentes del SM. Estudios epidemiológicos demuestran que la glucosa en ayunas alterada y la intolerancia a la glucosa son dos categorías de individuos distintas y solo unos pocos presentan ambas. La incidencia de DM2 es mayor en niños y adolescentes pertenecientes a minorías étnicas, como afroamericanos o hispanos. La prevalencia de intolerancia a la glucosa en niños obesos en EE. UU. se estima en un 15%, y la prevalencia de DM2 en un 4,6%15,16; en Europa, la prevalencia es menor.
+La progresión de RI y metabolismo de glucosa alterado a DM2 ha sido bien documentada. La identificación de niños con glucosa basal alterada es importante, dado que un tratamiento adecuado puede disminuir su progresión a DM2. Los pacientes obesos desarrollan diferentes grados de RI, pero no todos presentan el metabolismo de la glucosa alterado ni evolucionan a DM2. Los factores que determinan que unos individuos sean más propensos a evolucionar a DM2 no son bien conocidos. Se observa una importante tendencia familiar, indicativa de una significativa predisposición genética. Los adolescentes obesos con tolerancia normal a la glucosa que posteriormente desarrollan intolerancia a glucosa presentarían un defecto primario en la función de la célula beta pancreática. La DM2 en el niño y el adolescente es un fenómeno reciente y por ello se requieren estudios longitudinales para valorar su evolución.
 
-tes del SM. Estudios epidemiológicos demuestran
-que la glucosa en ayunas alterada y la intolerancia a la glucosa son dos categorías de individuos
-distintas y solo unos pocos presentan ambas.
-La incidencia de DM2 es mayor en niños y
-adolescentes pertenecientes a minorías étnicas, como afroamericanos o hispanos. La prevalencia de intolerancia a la glucosa en niños
-obesos en EE. UU. se estima en un 15%, y la
-prevalencia de DM2 en un 4,6%15,16; en Europa,
-la prevalencia es menor.
-La progresión de RI y metabolismo de glucosa
-alterado a DM2 ha sido bien documentada. La
-identificación de niños con glucosa basal alterada es importante, dado que un tratamiento adecuado puede disminuir su progresión a DM2. Los
-pacientes obesos desarrollan diferentes grados
-de RI, pero no todos presentan el metabolismo
-de la glucosa alterado ni evolucionan a DM2. Los
-factores que determinan que unos individuos
-sean más propensos a evolucionar a DM2 no son
-bien conocidos. Se observa una importante tendencia familiar, indicativa de una significativa
-predisposición genética. Los adolescentes obesos con tolerancia normal a la glucosa que posteriormente desarrollan intolerancia a glucosa
-presentarían un defecto primario en la función
-de la célula beta pancreática. La DM2 en el niño
-y el adolescente es un fenómeno reciente y por
-ello se requieren estudios longitudinales para
-valorar su evolución.
+5. FENOTIPO METABÓLICO DE NIÑOS Y ADOLESCENTES CON SÍNDROME METABÓLICO
 
-5. FENOTIPO METABÓLICO DE NIÑOS
-Y ADOLESCENTES CON SÍNDROME
-METABÓLICO
-
-Varios estudios sugieren que existe un fenotipo específico de obesidad que se asocia a
-alteraciones en la sensibilidad a la insulina y
-a complicaciones cardiometabólicas. Este fenotipo se caracteriza por una alta proporción
-de grasa visceral y relativamente poca grasa
-subcutánea, además de aumento de grasa intrahepática e intramiocelular. Este fenotipo no
-coincide necesariamente con los adolescentes
-más obesos.
-Tal como se ha explicado, la RI constituye uno
-de los mecanismos fisiopatológicos básicos en
-el desarrollo de SM y por ello se recomienda su
-investigación en todos los pacientes de riesgo.
-La hipertensión arterial es uno de los componentes básicos del SM. Diversos estudios
-muestran una relación significativa entre los
-niveles de insulina y la presión arterial de los
-niños y además se correlaciona bien con la
-presión arterial futura que presentarán en la
-adolescencia17. El perfil más característico es
-hipertensión arterial sistólica en una primera
-fase acompañada en una fase posterior de hipertensión arterial diastólica.
-El perfil lipídico alterado más frecuente que
-presentan los pacientes con RI y SM se caracteriza básicamente por aumento de triglicéridos, colesterol asociado a lipoproteínas de baja
-densidad (LDL) y disminución de colesterol de
-alta densidad (HDL)18.
-El acúmulo intrahepático de grasa es el responsable del desarrollo del hígado graso no
-alcohólico, entidad de importancia emergente en la obesidad infantil. El hígado graso no
-alcohólico es una entidad clínico-patológica
-que engloba un espectro amplio de alteraciones hepáticas, que incluyen desde la esteatosis
-hepática simple a esteatohepatitis, fibrosis y
-cirrosis hepática. La prevalencia en Pediatría es 
-
-difícil de determinar dado que la confirmación
-diagnóstica requiere biopsia hepática. La mayoría de los niños con hígado graso no alcohólico son asintomáticos. El aumento de alanino
-aminotransferasa (ALT), aunque no siempre
-presente, y la ecografía hepática pueden ser
-útiles para su diagnóstico. La historia natural
-del hígado graso no es bien conocida. Su patogenia es multifactorial y parece que la RI y
-el estrés oxidativo estarían implicados en su
-desarrollo. El acúmulo de grasa abdominal se
-asocia a acúmulo de grasa visceral, esteatosis
-muscular y hepática, RI, triglicéridos elevados,
-colesterol HDL disminuido y adiponectina disminuida. En niños y adolescentes obesos, el
-acúmulo de grasa intrahepática se relaciona
-con la presencia de componentes de SM como
-dislipemia y alteración del metabolismo de
-glucosa. Aunque tradicionalmente el hígado
-graso en el joven obeso no se ha incluido en la
-definición de SM, parece obvio que no solo se
-trata de un marcador de enfermedad hepática,
-sino que puede ser considerado la manifestación hepática del SM y como tal, se asocia a
-factores de riesgo cardiovascular. La relación
-entre la esteatosis hepática y las alteraciones
-asociadas a RI es compleja19 y no queda clara
-si es causa o consecuencia de la misma, pero
-parece evidente que representa una alteración
-metabólica destacable en los obesos y por ello
-debe identificarse precozmente.
-La obesidad se asocia a inflamación sistémica
-crónica de bajo grado, caracterizada básicamente por la presencia de niveles plasmáticos
-elevados de proteína C reactiva (PCR). El aumento de la PCR se asocia a RI y presencia de
-componentes del SM en niños y adolescentes
-obesos. No se conoce bien si el estado proinflamatorio sería causa o consecuencia de SM y
-RI. Otras adipocitocinas proinflamatorias como
-la interleucina 6 (IL-6) están aumentadas, y los
-resultados con relación al factor de necrosis tumoral (TNF) alfa son menos claros, aunque sí
-se ha demostrado claramente su relación con
-RI. Por el contrario, los niveles de adiponectina,
-una citocina antiaterogénica, antidiabetogénica y antiinflamatoria, están disminuidos en los
-niños obesos18.
-En conclusión, la obesidad en la infancia se
-asocia a mortalidad aumentada en el adulto
-debida a enfermedad cardiovascular20. Diversos estudios demuestran que la arteriosclerosis y la enfermedad cardiovascular del adulto
-comienzan y progresan lentamente en la infancia y adolescencia. La PCR es un indicador
-sensible y precoz de proceso arteriosclerótico
-y enfermedad cardiovascular. La disfunción
-del endotelio y el aumento del tamaño de
-la íntima y la media de la pared arterial se
-consideran los cambios más precoces de arteriosclerosis.
+Varios estudios sugieren que existe un fenotipo específico de obesidad que se asocia a alteraciones en la sensibilidad a la insulina y a complicaciones cardiometabólicas. Este fenotipo se caracteriza por una alta proporción de grasa visceral y relativamente poca grasa subcutánea, además de aumento de grasa intrahepática e intramiocelular. Este fenotipo no coincide necesariamente con los adolescentes más obesos.
+Tal como se ha explicado, la RI constituye uno de los mecanismos fisiopatológicos básicos en el desarrollo de SM y por ello se recomienda su investigación en todos los pacientes de riesgo.
+La hipertensión arterial es uno de los componentes básicos del SM. Diversos estudios muestran una relación significativa entre los niveles de insulina y la presión arterial de los niños y además se correlaciona bien con la presión arterial futura que presentarán en la adolescencia17. El perfil más característico es hipertensión arterial sistólica en una primera fase acompañada en una fase posterior de hipertensión arterial diastólica.
+El perfil lipídico alterado más frecuente que presentan los pacientes con RI y SM se caracteriza básicamente por aumento de triglicéridos, colesterol asociado a lipoproteínas de baja densidad (LDL) y disminución de colesterol de alta densidad (HDL)18.
+El acúmulo intrahepático de grasa es el responsable del desarrollo del hígado graso no alcohólico, entidad de importancia emergente en la obesidad infantil. El hígado graso no alcohólico es una entidad clínico-patológica que engloba un espectro amplio de alteraciones hepáticas, que incluyen desde la esteatosis hepática simple a esteatohepatitis, fibrosis y cirrosis hepática. La prevalencia en Pediatría es difícil de determinar dado que la confirmación diagnóstica requiere biopsia hepática. La mayoría de los niños con hígado graso no alcohólico son asintomáticos. El aumento de alanino aminotransferasa (ALT), aunque no siempre presente, y la ecografía hepática pueden ser útiles para su diagnóstico. La historia natural del hígado graso no es bien conocida. Su patogenia es multifactorial y parece que la RI y el estrés oxidativo estarían implicados en su desarrollo. El acúmulo de grasa abdominal se asocia a acúmulo de grasa visceral, esteatosis muscular y hepática, RI, triglicéridos elevados, colesterol HDL disminuido y adiponectina disminuida. En niños y adolescentes obesos, el acúmulo de grasa intrahepática se relaciona con la presencia de componentes de SM como dislipemia y alteración del metabolismo de glucosa. Aunque tradicionalmente el hígado graso en el joven obeso no se ha incluido en la definición de SM, parece obvio que no solo se trata de un marcador de enfermedad hepática, sino que puede ser considerado la manifestación hepática del SM y como tal, se asocia a factores de riesgo cardiovascular. La relación entre la esteatosis hepática y las alteraciones asociadas a RI es compleja19 y no queda clara si es causa o consecuencia de la misma, pero parece evidente que representa una alteración metabólica destacable en los obesos y por ello debe identificarse precozmente.
+La obesidad se asocia a inflamación sistémica crónica de bajo grado, caracterizada básicamente por la presencia de niveles plasmáticos
+elevados de proteína C reactiva (PCR). El aumento de la PCR se asocia a RI y presencia de componentes del SM en niños y adolescentes obesos. No se conoce bien si el estado proinflamatorio sería causa o consecuencia de SM y RI. Otras adipocitocinas proinflamatorias como la interleucina 6 (IL-6) están aumentadas, y los resultados con relación al factor de necrosis tumoral (TNF) alfa son menos claros, aunque sí se ha demostrado claramente su relación con RI. Por el contrario, los niveles de adiponectina, una citocina antiaterogénica, antidiabetogénica y antiinflamatoria, están disminuidos en los niños obesos18.
+En conclusión, la obesidad en la infancia se asocia a mortalidad aumentada en el adulto debida a enfermedad cardiovascular20. Diversos estudios demuestran que la arteriosclerosis y la enfermedad cardiovascular del adulto comienzan y progresan lentamente en la infancia y adolescencia. La PCR es un indicador sensible y precoz de proceso arteriosclerótico y enfermedad cardiovascular. La disfunción del endotelio y el aumento del tamaño de la íntima y la media de la pared arterial se consideran los cambios más precoces de arteriosclerosis.
 
 6. TRATAMIENTO
 
-La combinación de dieta y actividad física es la
-que aporta mayores beneficios en los niños y
-adolescentes obesos con SM. El objetivo principal es reducir la obesidad, aumentar la actividad física e iniciar tratamiento específico para
-los diversos componentes de SM cuando esté
-indicado (Tabla 3). La modificación de hábitos
-debe permitir perder peso, mejorar la composición corporal y modificar positivamente muchos de los componentes del SM. Incluso sin
-pérdida de peso significativa, los cambios en el
-estilo de vida y los tratamientos orientados a
-los diversos componentes del SM pueden mejorar el perfil de riesgo cardiovascular de estos
-pacientes.
+La combinación de dieta y actividad física es la que aporta mayores beneficios en los niños y adolescentes obesos con SM. El objetivo principal es reducir la obesidad, aumentar la actividad física e iniciar tratamiento específico para los diversos componentes de SM cuando esté indicado (Tabla 3). La modificación de hábitos debe permitir perder peso, mejorar la composición corporal y modificar positivamente muchos de los componentes del SM. Incluso sin pérdida de peso significativa, los cambios en el estilo de vida y los tratamientos orientados a los diversos componentes del SM pueden mejorar el perfil de riesgo cardiovascular de estos pacientes.
 
 7. CONSIDERACIONES FINALES
 
-Los conocimientos actuales no permiten determinar claramente la relación entre los factores
-de riesgo individuales del SM, su agrupación y
-la enfermedad arterioesclerótica. Los factores
-de riesgo implicados, en realidad, suponen un
-continuum en cuanto a riesgo y no hay duda de
-que el proceso arterioesclerótico se acelera de
-forma exponencial con el incremento de estos. 
+Los conocimientos actuales no permiten determinar claramente la relación entre los factores de riesgo individuales del SM, su agrupación y
+la enfermedad arterioesclerótica. Los factores de riesgo implicados, en realidad, suponen un continuum en cuanto a riesgo y no hay duda de
+que el proceso arterioesclerótico se acelera de forma exponencial con el incremento de estos. 
 
-La definición dicotómica de SM en la infancia,
-a pesar de diversos intentos, sigue sin generar
-amplio consenso. Dado que no disponemos de
+La definición dicotómica de SM en la infancia, a pesar de diversos intentos, sigue sin generar amplio consenso. Dado que no disponemos de
 tratamiento específico basado en la fisiopatología del SM, sigue siendo aconsejable la reducción de peso y el aumento de actividad física,
-además de la terapia específica de cada factor
-de riesgo cuando se requiera. Esta estrategia de
-tratamiento no debería cambiar por el hecho
-de catalogar o no al paciente como portador de
-SM, y no existe evidencia suficiente para indicar
-un tratamiento más agresivo en caso de SM.
-Por ello, lo más importante es la identificación y
-el tratamiento de los diversos factores de riesgo
-cardiometabólico en edad infantil, estén o no
-relacionados con el SM. Estudios metabólicos,
-genéticos y evolutivos de la infancia al adulto
-nos van a permitir conocer mejor los factores
-de riesgo cardiometabólico y el SM pediátrico.
+además de la terapia específica de cada factor de riesgo cuando se requiera. Esta estrategia de tratamiento no debería cambiar por el hecho
+de catalogar o no al paciente como portador de SM, y no existe evidencia suficiente para indicar un tratamiento más agresivo en caso de SM.
+Por ello, lo más importante es la identificación y el tratamiento de los diversos factores de riesgo cardiometabólico en edad infantil, estén o no relacionados con el SM. Estudios metabólicos, genéticos y evolutivos de la infancia al adulto nos van a permitir conocer mejor los factores de riesgo cardiometabólico y el SM pediátrico.
 
 BIBLIOGRAFÍA
 
