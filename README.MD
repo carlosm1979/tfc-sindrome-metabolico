@@ -216,7 +216,7 @@ enfermedades como:
 III.2.2 Por grupos de población
 -------------------------------
 
-### SM en adultos
+### III.2.2.1 SM en el hombre
 
 ### III.2.2.2 SM en la mujer
 
