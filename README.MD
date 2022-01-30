@@ -313,6 +313,33 @@ consecuencias negativas
 
 ### SM en la infancia
 
+En los últimos 50 años la obesidad y el SM se ha convertido en una
+pandemia.Y si esto se consideraba antes como enfermedades de la edad
+media de la vida, ahora ha ido aumentando de forma progresiva su
+incidencia en niños y adolescentes. Que no solo se están volviendo más
+obesos sino que lo están haciendo a edades más tempranas. Los mecanismos
+fisiopatológicos descritos para la población adulta también pueden
+explicar la aparición del SM en niños y adolescentes. Aunque nos
+encontramos con la dificultad para medirlo de que no existe una
+unanimidad de criterios. Trasladar el concepto de riesgo utilizado en la
+población adulta de riesgo a niños y adolescentes resulta difícil,
+puesto que la tensión arterial, el nivel de lípidos, la sensibilidad a
+la insulina y las medidas antropométicas cambian con la edad y el
+desarrollo en la adolescencia. Además, el que no haya un sistema y
+criterio unificado para medir esos valores, dificulta el poder realizar
+un diagnóstico.
+
+Además de los mecanismos fisiopatológicos existen también factores
+ambientales.
+
+Si bien son numerosas las causas responsables del incremento en la
+prevalencia del sobrepeso, el cambio en el estilo de vida ocupa un lugar
+primordial.
+
+(lo de la predisposición genética)
+
+------------------------------------------------------------------------
+
 El peso al nacer es un indicador importante del estado de nutrición y
 salud del feto y refleja la suficiencia nutricional y condiciones
 experimentadas en el útero.
