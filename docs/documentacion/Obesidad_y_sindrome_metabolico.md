@@ -28,54 +28,18 @@ El análisis de la utilidad de esta definición, basada en percentiles y en grup
 
 2. IDENTIFICACIÓN DE NIÑOS Y ADOLESCENTES CON SÍNDROME METABÓLICO
 
-El índice de masa corporal (IMC) es la medida
-más utilizada en la práctica clínica para determinar el grado de obesidad en la infancia. Datos de diferentes estudios realizados en niños
-obesos, definidos como IMC superior al percentil 95 o por encima de 2 desviaciones estándar
-(DE) para edad y sexo, muestran la presencia
-de una clara asociación entre intensidad de la
-obesidad y SM. Sin embargo, la obesidad per
-se, el IMC, no es un marcador suficiente para
-identificar a los niños con riesgo de SM y como
-consecuencia, riesgo cardiometabólico.
-La distribución de la grasa influye de forma
-significativa en el desarrollo de las complicaciones metabólicas de la obesidad y, de hecho,
-el acúmulo de grasa visceral se asocia al desarrollo de SM en la infancia y de enfermedad
-cardiovascular en el adulto.
-La circunferencia de la cintura abdominal (CC)
-ha sido reconocida como el mejor indicador
-clínico de acúmulo de grasa visceral9,10 y por
-ello la CC puede ser una medida más adecuada
-en términos de SM y riesgo cardiometabólico.
-Existen valores de referencia de CC en niños
-procedentes de diversos estudios, pero a pesar de ello, todavía no es habitual su uso en la
-práctica clínica11.
-Estudios realizados en niños con el mismo
-grado de obesidad muestran que los sujetos
-con mayor CC es más probable que presenten
-factores de riesgo cardiometabólico alterados
-cuando se comparan con los de menor CC9
-.
-De hecho, el aumento de CC se asocia a presión arterial elevada, aumento de los niveles
-plasmáticos de colesterol LDL, triglicéridos e
-insulina y disminución de colesterol HDL12,13.
-La asociación entre CC y este grupo de factores
-de riesgo cardiovascular no es solo el reflejo de
-un cierto grado de obesidad, sino que parece
-tener connotaciones fisiopatológicas, aunque
-los mecanismos implicados no sean claramente conocidos.
-A pesar de las recomendaciones, el uso de la
-medida de CC en niños y adolescentes para
-diagnosticar obesidad abdominal es dificultoso por la falta de guías específicas normativas
-de uso clínico.
-Aunque el examen físico con las medidas de
-IMC y CC es básico, la historia familiar debe ser
-bien investigada, dada la influencia demostrada de factores hereditarios en el desarrollo de
-los diversos componentes del SM. Además, estudios recientes demuestran que los niños que
-no desarrollan SM de forma precoz son menos
+El índice de masa corporal (IMC) es la medida más utilizada en la práctica clínica para determinar el grado de obesidad en la infancia. Datos de diferentes estudios realizados en niños obesos, definidos como IMC superior al percentil 95 o por encima de 2 desviaciones estándar (DE) para edad y sexo, muestran la presencia de una clara asociación entre intensidad de la obesidad y SM. Sin embargo, la obesidad per se, el IMC, no es un marcador suficiente para identificar a los niños con riesgo de SM y como consecuencia, riesgo cardiometabólico.
+La distribución de la grasa influye de forma significativa en el desarrollo de las complicaciones metabólicas de la obesidad y, de hecho, el acúmulo de grasa visceral se asocia al desarrollo de SM en la infancia y de enfermedad cardiovascular en el adulto.
+La circunferencia de la cintura abdominal (CC) ha sido reconocida como el mejor indicador clínico de acúmulo de grasa visceral9,10 y por ello la CC puede ser una medida más adecuada en términos de SM y riesgo cardiometabólico.
+Existen valores de referencia de CC en niños procedentes de diversos estudios, pero a pesar de ello, todavía no es habitual su uso en la práctica clínica11.
+Estudios realizados en niños con el mismo grado de obesidad muestran que los sujetos con mayor CC es más probable que presenten factores de riesgo cardiometabólico alterados cuando se comparan con los de menor CC9.
+De hecho, el aumento de CC se asocia a presión arterial elevada, aumento de los niveles plasmáticos de colesterol LDL, triglicéridos e insulina y disminución de colesterol HDL12,13.
+La asociación entre CC y este grupo de factores de riesgo cardiovascular no es solo el reflejo de un cierto grado de obesidad, sino que parece tener connotaciones fisiopatológicas, aunque los mecanismos implicados no sean claramente conocidos.
+A pesar de las recomendaciones, el uso de la  medida de CC en niños y adolescentes para diagnosticar obesidad abdominal es dificultoso por la falta de guías específicas normativas de uso clínico.
+Aunque el examen físico con las medidas de IMC y CC es básico, la historia familiar debe ser bien investigada, dada la influencia demostrada de factores hereditarios en el desarrollo de los diversos componentes del SM. Además, estudios recientes demuestran que los niños que no desarrollan SM de forma precoz son menos
 propensos a desarrollarlo más tardíamente.
 
-3. SÍNDROME METABÓLICO Y RESISTENCIA
-A INSULINA
+3. SÍNDROME METABÓLICO Y RESISTENCIA A INSULINA
 
 Los precursores de la enfermedad arterioesclerótica cardiovascular del adulto están ya
 presentes en la adolescencia. Estudios en autopsias han demostrado que la presencia de
