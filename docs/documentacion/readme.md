@@ -16,11 +16,12 @@
               1.  [Síndrome Metabólico en Adultos: Revisión Narrativa de la Literatura](/docs/documentacion/021.pdf)
             - 3.2.2.2 SM en la mujer
                 1.  [Síndrome metabólico y sus repercusiones en la ginecología.Metab](/docs/documentacion/024.pdf)
+                3.  [Mujer cuida tu corazón](/docs/documentacion/022.pdf)
                 *Menopausia*    
                 *Embarazo. Complicaciones materno-fetales*
                 1. [Fetal nutrition and adult disease](/docs/documentacion/009.md)
                 2.  [Síndrome metabólico durante el embarazo. Complicaciones materno-fetales](/docs/documentacion/014.md)
-                3.  [Mujer cuida tu corazón](/docs/documentacion/022.pdf)
+                4.  [Relación entre diabetes gestacional y síndrome metabólico](/docs/documentacion/020.md)
             - 3.2.2.3 SM en la infancia
               1. [Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia](/docs/documentacion/001.md)
               2.  [PREVALENCIA DE SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICA](/docs/documentacion/013.md)
@@ -31,6 +32,7 @@
           1. [Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas](/docs/documentacion/004.md)
           2. [Ensayo no aleatorizado: impacto de cambios en la dieta y ejercicios físicos en pacientes adultos con síndrome metabólico](/docs/documentacion/008.md)
         - [Relación con la alimentación](#relación-con-la-alimentación)
+          1.  [Nutrición y síndrome metabólico](/docs/documentacion/018.pdf)
         - [Hábitos de vida](#hábitos-de-vida)
 
 
@@ -42,10 +44,8 @@
 6.  [Nutrición y síndrome metabólico](/docs/documentacion/011.pdf)
 7.  [Aplicaciones de la genisteína en el tratamiento del síndrome metabólico](/docs/documentacion/016.pdf)
 8.  [Frederick G. Banting Nobel Lecture](/docs/documentacion/017.md)
-9.  [Nutrición y síndrome metabólico](/docs/documentacion/018.pdf)
-10. [Relación entre diabetes gestacional y síndrome metabólico](/docs/documentacion/020.md)
-11. [Síndrome metabólico _vs_ síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no?](/docs/documentacion/023.md)
-12. [Síndrome metabólico](/docs/documentacion/025.md)
-13. [SM Diagnóstico](/docs/documentacion/026.md)
-14. [SM Descripción general](/docs/documentacion/027.md)
-15. [Sindrome metabólico](/docs/documentacion/028.pdf)
+9.  [Síndrome metabólico _vs_ síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no?](/docs/documentacion/023.md)
+10. [Síndrome metabólico](/docs/documentacion/025.md)
+11. [SM Diagnóstico](/docs/documentacion/026.md)
+12. [SM Descripción general](/docs/documentacion/027.md)
+13. [Sindrome metabólico](/docs/documentacion/028.pdf)
