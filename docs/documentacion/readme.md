@@ -10,18 +10,22 @@
             - [Colesterol bueno o de lipoproteínas de alta densidad reducido](#Colesterol-bueno-o-de-lipoproteínas-de-alta-densidad-reducido)
             - [Glucosa sanguínea en ayunas elevada](#Glucosa-sanguínea-en-ayunas-elevada)
             - [Hipertensión arterial](#Hipertensión-arterial)
+              1. [Prevalencia de hipertensión arterial en adolescentes del preuniversitario "Salvador Allende"](/docs/documentacion/029.md)
+              2. [Morbilidad oculta de hipertensión arterial en adolescentes](/docs/documentacion/030.md)
+              3. [Factores de riesgo ateroescleróticos en adolescentes de 12-13 años](/docs/documentacion/031.md)
+              4. [Comportamiento de la tensión arterial en adolescentes de 12 a 13 años en el área de salud de Velasco](/docs/documentacion/032.md)
             - [Niveles elevados de triglicéridos](#Niveles-elevados-de-triglicéridos)
         - 3.2.2 Por grupos de población
             - 3.2.2.1 SM en el hombre
               1.  [Síndrome Metabólico en Adultos: Revisión Narrativa de la Literatura](/docs/documentacion/021.pdf)
             - 3.2.2.2 SM en la mujer
                 1.  [Síndrome metabólico y sus repercusiones en la ginecología.Metab](/docs/documentacion/024.pdf)
-                3.  [Mujer cuida tu corazón](/docs/documentacion/022.pdf)
+                2.  [Mujer cuida tu corazón](/docs/documentacion/022.pdf)
                 *Menopausia*    
                 *Embarazo. Complicaciones materno-fetales*
                 1. [Fetal nutrition and adult disease](/docs/documentacion/009.md)
                 2.  [Síndrome metabólico durante el embarazo. Complicaciones materno-fetales](/docs/documentacion/014.md)
-                4.  [Relación entre diabetes gestacional y síndrome metabólico](/docs/documentacion/020.md)
+                3.  [Relación entre diabetes gestacional y síndrome metabólico](/docs/documentacion/020.md)
             - 3.2.2.3 SM en la infancia
               1. [Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia](/docs/documentacion/001.md)
               2.  [PREVALENCIA DE SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICA](/docs/documentacion/013.md)
