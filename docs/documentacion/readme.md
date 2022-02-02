@@ -14,6 +14,7 @@
               2. [Morbilidad oculta de hipertensión arterial en adolescentes](/docs/documentacion/030.md)
               3. [Factores de riesgo ateroescleróticos en adolescentes de 12-13 años](/docs/documentacion/031.md)
               4. [Comportamiento de la tensión arterial en adolescentes de 12 a 13 años en el área de salud de Velasco](/docs/documentacion/032.md)
+              5. [Hipertensión arterial. Guia para la prevención, diagnóstico y tratamiento](/docs/documentacion/033.pdf)
             - [Niveles elevados de triglicéridos](#Niveles-elevados-de-triglicéridos)
         - 3.2.2 Por grupos de población
             - 3.2.2.1 SM en el hombre
