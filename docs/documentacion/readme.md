@@ -16,7 +16,7 @@
               4. [Comportamiento de la tensión arterial en adolescentes de 12 a 13 años en el área de salud de Velasco](/docs/documentacion/032.md)
               5. [Hipertensión arterial. Guia para la prevención, diagnóstico y tratamiento](/docs/documentacion/033.pdf)
             - [Niveles elevados de triglicéridos](#Niveles-elevados-de-triglicéridos)
-              1.  [Diabetes tipo 2 y síndrome metabólico, utilidad del índice triglicéridos/HDL colesterol en Pediatría](/docs/documentacion/034.pdf)
+              1.  [Diabetes tipo 2 y síndrome metabólico, utilidad del índice triglicéridos/HDL colesterol en Pediatría](/docs/documentacion/034.md)
               2.  [Resistencia insulínica y los componentes del síndrome metabólico en niños y adolescentes obesos](/docs/documentacion/035.md)
               3.  [Relación triglicéridos/colesterol-HDL elevada y resistencia a la insulina](/docs/documentacion/036.pdf)
         - 3.2.2 Por grupos de población
