@@ -13,6 +13,7 @@
             - [Colesterol bueno o de lipoproteínas de alta densidad reducido](#Colesterol-bueno-o-de-lipoproteínas-de-alta-densidad-reducido)
             - [Glucosa sanguínea en ayunas elevada](#Glucosa-sanguínea-en-ayunas-elevada)
             - [Hipertensión arterial](#Hipertensión-arterial)
+              1. [Prevalencia de hipertensión arterial en adolescentes del preuniversitario "Salvador Allende"](/docs/resumenes/029.md)
             - [Niveles elevados de triglicéridos](#Niveles-elevados-de-triglicéridos)
         - 3.2.2 Por grupos de población
             - 3.2.2.1 SM en el hombre
