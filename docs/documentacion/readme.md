@@ -57,4 +57,5 @@
 11. [SM Diagnóstico](/docs/documentacion/026.md)
 12. [SM Descripción general](/docs/documentacion/027.md)
 13. [Sindrome metabólico](/docs/documentacion/028.pdf)
+14. [Síndrome metabólico: definición, historia, criterios](/docs/documentacion/037.md)
 

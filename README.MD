@@ -61,43 +61,84 @@ especificidad étnica](#tabla-5)
 I. Introducción
 ===============
 
-El Síndrome Metabólico (SM) no es una enfermedad nueva, su descripción
-tuvo lugar hace al menos 80 años por parte de Kylin, un médico sueco que
-definió la asociación entre hipertensión, hiperglucemia y gota.
+A lo largo del último siglo, los hábitos de vida han cambiado
+enormemente. Nuestros modos de vida son progresivamente más sedentarios,
+por lo que la cantidad de energía que consumimos para nuestra actividad
+diaria ha disminuido. En paralelo, en nuestra alimentación ha aumentado
+la proporción de productos de elaboración industrial, que conllevan una
+elevada cantidad de aporte calórico a partir de alimentos, en muchas
+ocasiones, de mala calidad.
 
-La agrupación de estos factores de riesgo cardiovascular es conocida
-desde la antigüedad y a lo largo de la historia ha recibido diferentes
-nombres, “síndrome plurimetabolico”, “obesidad diabetogénica”,
-etc.Oficialmente el primer intento de definición lo realizó Gerarld
-Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de resistencia
-a la insulina (RI), dislipidemia e hipertensión.
+Esta rápida evolución cultural no va acompasada con lo que ha sido
+nuestra evolución biológica a través de los siglos. Nuestros antepasados
+se alimentaba de la caza, la pesca y la recolección, lo que les suponía
+una gran actividad física con gasto enorme de energía. Esta dificultad
+para conseguir alimento les llevaba a comer en abundancia cuando tenían
+comida, y a largos periodos de escasez de alimento. Es por esto que la
+selección natural ha premiado a aquellos individuos con una mayor
+capacidad para acumular grasas, ya que con ello aumentaran su capacidad
+de supervivencia en épocas de escasez.
+
+La obesidad es tan antigua como la humanidad, ya que se consideraba como
+una garantía de supervivencia ante las enfermedades y la incertidumbre
+por la cantidad de alimento disponible. Por ello era considerada como
+buena, deseable e incluso como símbolo de estatus y belleza.
+
+Esto se trasladó también al criterio médico ya que desde finales del s.
+XIX y hasta principios del s. XX la opinión médica era que tener de 10 a
+20 kilos de exceso de peso era saludable, mientras que ser delgado no
+era sano y se atribuía a enfermedades nerviosas.
+
+Curiosamente las primeras voces de alarma acerca de la relación del
+sobrepeso con un aumento de la mortalidad, fueron las compañias de
+seguros.
+
+Es a partir de los años 20 cuando el conocimiento acerca de las
+consecuencias negativas de la obesidad para la salud ha ido aumentando.
+En los años 30 la comunidad médica ya lo aceptaba como un problema. Y es
+a partir de los años 60 que comienzan los estudios a sobre la obesidad
+como una patología. También aumenta el conocimiento acerca de la grasa,
+que se entiende como un órgano con sus propias hormonas, genética y
+biología celular.
+
+Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
+vasculares que parten de la obesidad abdominal y la resistencia a la
+insulina(RI), fenómenos que a través de procesos inflamatorios,
+oxidativos y de disfunción endotelial, predisponen a un mayor riesgo de
+diabetes y eventos cardiovasculares.
+
+El SM no es una enfermedad nueva; como señala Braguinsky, su descripción
+tuvo lugar hace al menos 80 años por parte de Kylin, un médico sueco que
+definió la asociación entre hipertensión, hiperglicemia y gota.
+
+El primer intento de definición lo realizó Gerarld Reaven en 1988,
+cuando llamó 'síndrome X' a la agrupación de RI, dislipidemia e
+hipertensión.
 
 En 1999 la OMS cambió la denominación a 'Síndrome metabólico', y
 estableció una definición en la que considera que hay evidencia de que
 la RI como el factor causal común de los componentes individuales del
 síndrome metabólico, aunque afectando de forma diferente a cada uno de
-ellos. También que cada uno es un factor de riesgo cardiovascular por sí
-mismo, pero en combinación son mucho más potentes, y que el tratamiento
-no debe enfocarse únicamente al control de la glucosa, si no incluir
-también estrategias para reducir los factores de riesgo cardiovascular.
+ellos. También que cada uno es un factor de riesgo cardiovascular pero
+en combinación son mucho más potentes, y que el tratamiento no debe
+enfocarse únicamente al control de la glucosa, si no incluir también
+estrategias para reducir los factores de riesgo cardiovascular.
 
-A lo largo de los años diversos investigadores e instituciones
-internacionales han buscado establecer criterios para nombrarlo,
-buscando definir la lista de factores que lo componen, siendo los
-aceptados de forma común: obesidad abdominal (*perímetro de contorno de
-cintura elevado), dislipidemia aterogénico (* alteración lipídica
-proteica, asociada a un riesgo cardiovascular elevado caracterizada por
-la asociación de colesterol HDL bajo, triglicéridos elevados y alta
-proporción de partículas LDL), hipertensión, resistencia insulina
-(Diabetes mellitus 2), estado proinflamatorio y estado protrombótico.
+Diversos investigadores e instituciones han establecido posteriormente
+criterios buscando definir la lista de factores que lo componen, siendo
+los aceptados de forma común: obesidad abdominal (perímetro de contorno
+de cintura), dislipidemia aterogénica, aumento de la presión arterial,
+resistencia insulina, estado proinflamatorio y estado protrombótico.
+Aunque no se ha llegado a un acuerdo sobre todos los factores y varemos
+que pudieran determinar el diagnóstico del SM com tal.
 
-A pesar de todos los intentos no se ha llegado a un acuerdo sobre los
-varemos a utilizar y la importancia que cada uno de los los factores que
-lo conforman y pudieran determinar el diagnóstico del SM como tal.
+(historia y controversias)
+
+(variación por etnias)
 
 Actualmente lo que se está considerando como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
-de criterios, es entender el SM como una guía que ayude a detectar los
+de criterios, sea entender el SM como una guía que ayude a detectar los
 factores de riesgo que pueden desembocar en diabetes Mellitus 2 y
 enfermedades cardiovasculares. De esta manera resulta una mejor
 herramienta clínica para la prevención y detección del riesgo de esas
@@ -108,14 +149,12 @@ factores que conforman el SM, se consideran factores genéticos
 (endógenos) y ambientales como la alimentación y hábitos de vida.
 
 Una alimentación con elevado consumo de grasas saturadas y de alto nivel
-calórico, junto con una vida sedentaria son factores determinantes para
-su desarrollo.
-
-Se considera que solo un 10% de los casos de SM tiene causas genéticas.
-
-Por este motivo hay que resaltar la importancia de la alimentación y los
-hábitos de vida como causa y a la vez como instrumento de prevención y
-tratamiento del SM. \pagebreak
+calórico, junto con una vida sendentaria son factores determinantes para
+su desarrollo. Solo un 10% de los casos de SM tiene causas
+genéticas.\[Salto de ajuste de texto\]Hay estudios relacionan la
+obesidad con causas epigenéticas (como el estado nutricional durante el
+embarazo), lo que podría acabar derivando de adulto en obesidad.\
+\pagebreak
 
 Objetivos
 =========
@@ -142,30 +181,45 @@ la aparición de la alteraciones de salud que lo componen.
 Parte teórica
 =============
 
+UN POCO DE HISTORIA
+
+(historia y controversias)
+
+(variación por etnias)
+
 Que es
 ------
+
+Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
+vasculares que parten de la obesidad abdominal y la resistencia a la
+insulina (RI), fenómenos que, a través de procesos inflamatorios y
+oxidativos predisponen a un mayor riesgo de diabetes y eventos
+cardiovasculares.
+
+El término SM se refiere a la asociación de factores de riesgo
+cardiovasculares cuya fisiopatología se considera relacionada con la
+insulinorresistencia. A diferencia de la obesidad y la diabetes melitus
+que tienen un criterio claro, con el SM no sucede lo mismo. La
+dificultad para que haya unos criterios de corte claros estriba en la
+cantidad de diferentes elementos que lo conforman. Se introdujo como una
+herramienta de diagnóstico para identificar a las personas con factores
+de riesgo cardiovascular y de desarrollar DM2.
 
 El síndrome metabólico (SM) se define como un conjunto de rasgos
 clínicos que traducen la resistencia a la insulina. Puede incluir:
 trastornos de los lípidos, trastornos del manejo de la glucosa, obesidad
 e hipertensión arterial en diferentes combinaciones, según el criterio
-de definición empleado. El término SM se refiere a la asociación de
-factores de riesgo cardiovasculares cuya fisiopatología se considera
-relacionada con la insulinorresistencia La obesidad y la diabetes
-mellitus tipo 2 (DM2) son enfermedades multifactoriales de considerable
-heterogeneidad. Si bien los criterios diagnósticos para obesidad y DM
-son de corte claro, no sucede lo mismo con el SM1. Esta dificultad se
-centra en que esta patología, que también es una entidad heterogénea y
-multifactorial, presenta la sumatoria de los diferentes componentes que
-la determinan, de forma tal que las diferentes clasificaciones intentan
-rescatar una forma sencilla de detectar la enfermedad.
+de definición empleado.
 
-Es un conjunto de trastornos y factores de riesgo reconocidos que se
-presentan al mismo tiempo cuya presencia aumentan el riesgo de
-enfermedad cardíaca, accidente cerebrovascular y diabetes tipo 2.
+La obesidad y la diabetes mellitus tipo 2 (DM2) son enfermedades
+multifactoriales de considerable heterogeneidad.
 
-Diagnóstico
------------
+Si bien los criterios diagnósticos para obesidad y DM son de corte
+claro, no sucede lo mismo con el SM. Esta dificultad se centra en que
+esta patología, que también es una entidad heterogénea y multifactorial,
+presenta la sumatoria de los diferentes componentes que la determinan,
+de forma tal que las diferentes clasificaciones intentan rescatar una
+forma sencilla de detectar la enfermedad. \#\# Diagnóstico
 
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que cuando está presente en un paciente es indicador de un elevado
