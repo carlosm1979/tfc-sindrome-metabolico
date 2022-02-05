@@ -94,8 +94,8 @@ enfermedades, mientras que ser delgado no era sano y se atribuía a
 enfermedades nerviosas.
 
 Las consecuencias de lo anteriormente descrito se ven en las
-enfermedades que mayor carga de morbi-mortalidad que se producen en el
-mundo entero.
+enfermedades que mayor carga de morbi-mortalidad producen en el mundo
+entero.
 
 Es a partir de los años 20 cuando el conocimiento acerca de las
 consecuencias negativas de la obesidad para la salud ha ido aumentando.
@@ -113,7 +113,10 @@ con la obesidad y sus consecuencias negativas para la salud lo realizó
 Gerarld Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de RI,
 dislipidemia e hipertensión.
 
-\pagebreak
+Con posterioridad serán varias las asociaciones internacionales las que
+establecerán criterios de diagnóstico para este síndrome al que se
+referirán cada una de ellas de diferentes maneras quedando finalmente
+reconocido su nombre como Síndrome Metabólico (SM). \pagebreak
 
 Objetivos
 =========
