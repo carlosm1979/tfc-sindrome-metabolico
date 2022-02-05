@@ -61,48 +61,43 @@ especificidad étnica](#tabla-5)
 I. Introducción
 ===============
 
-Síndrome metabólico (SM) es el conjunto de alteraciones metabólicas y
-vasculares que parten de la obesidad abdominal y la resistencia a la
-insulina(RI), fenómenos que a través de procesos inflamatorios,
-oxidativos y de disfunción endotelial, predisponen a un mayor riesgo de
-diabetes y eventos cardiovasculares.
-
-El SM no es una enfermedad nueva; como señala Braguinsky, su descripción
+El Síndrome Metabólico (SM) no es una enfermedad nueva, su descripción
 tuvo lugar hace al menos 80 años por parte de Kylin, un médico sueco que
-definió la asociación entre hipertensión, hiperglicemia y gota.
+definió la asociación entre hipertensión, hiperglucemia y gota.
 
-El primer intento de definición lo realizó Gerarld Reaven en 1988,
-cuando llamó 'síndrome X' a la agrupación de RI, dislipidemia e
-hipertensión.
+La agrupación de estos factores de riesgo cardiovascular es conocida
+desde la antigüedad y a lo largo de la historia ha recibido diferentes
+nombres, “síndrome plurimetabolico”, “obesidad diabetogénica”,
+etc.Oficialmente el primer intento de definición lo realizó Gerarld
+Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de resistencia
+a la insulina (RI), dislipidemia e hipertensión.
 
 En 1999 la OMS cambió la denominación a 'Síndrome metabólico', y
 estableció una definición en la que considera que hay evidencia de que
 la RI como el factor causal común de los componentes individuales del
 síndrome metabólico, aunque afectando de forma diferente a cada uno de
-ellos. También que cada uno es un factor de riesgo cardiovascular pero
-en combinación son mucho más potentes, y que el tratamiento no debe
-enfocarse únicamente al control de la glucosa, si no incluir también
-estrategias para reducir los factores de riesgo cardiovascular.
+ellos. También que cada uno es un factor de riesgo cardiovascular por sí
+mismo, pero en combinación son mucho más potentes, y que el tratamiento
+no debe enfocarse únicamente al control de la glucosa, si no incluir
+también estrategias para reducir los factores de riesgo cardiovascular.
 
-Diversos investigadores e instituciones han establecido posteriormente
-criterios buscando definir la lista de factores que lo componen, siendo
-los aceptados de forma común: obesidad abdominal (perímetro de contorno
-de cintura), dislipidemia aterogénica, aumento de la presión arterial,
-resistencia insulina, estado proinflamatorio y estado protrombótico.
-Aunque no se ha llegado a un acuerdo sobre todos los factores y varemos
-que pudieran determinar el diagnóstico del SM com tal.
+A lo largo de los años diversos investigadores e instituciones
+internacionales han buscado establecer criterios para nombrarlo,
+buscando definir la lista de factores que lo componen, siendo los
+aceptados de forma común: obesidad abdominal (*perímetro de contorno de
+cintura elevado), dislipidemia aterogénico (* alteración lipídica
+proteica, asociada a un riesgo cardiovascular elevado caracterizada por
+la asociación de colesterol HDL bajo, triglicéridos elevados y alta
+proporción de partículas LDL), hipertensión, resistencia insulina
+(Diabetes mellitus 2), estado proinflamatorio y estado protrombótico.
 
-(historia y controversias)
-
-(variación por etnias)
-
-(nivel de vida e incidencia de sindrome metabólico)
-
-(influcencia de la industria alimentaria)
+A pesar de todos los intentos no se ha llegado a un acuerdo sobre los
+varemos a utilizar y la importancia que cada uno de los los factores que
+lo conforman y pudieran determinar el diagnóstico del SM como tal.
 
 Actualmente lo que se está considerando como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
-de criterios, sea entender el SM como una guía que ayude a detectar los
+de criterios, es entender el SM como una guía que ayude a detectar los
 factores de riesgo que pueden desembocar en diabetes Mellitus 2 y
 enfermedades cardiovasculares. De esta manera resulta una mejor
 herramienta clínica para la prevención y detección del riesgo de esas
@@ -113,11 +108,14 @@ factores que conforman el SM, se consideran factores genéticos
 (endógenos) y ambientales como la alimentación y hábitos de vida.
 
 Una alimentación con elevado consumo de grasas saturadas y de alto nivel
-calórico, junto con una vida sendentaria son factores determinantes para
-su desarrollo. Solo un 10% de los casos de SM tiene causas genéticas.\
-Hay estudios relacionan la obesidad con causas epigenéticas (como el
-estado nutricional durante el embarazo), lo que podría acabar derivando
-de adulto en obesidad. \pagebreak
+calórico, junto con una vida sedentaria son factores determinantes para
+su desarrollo.
+
+Se considera que solo un 10% de los casos de SM tiene causas genéticas.
+
+Por este motivo hay que resaltar la importancia de la alimentación y los
+hábitos de vida como causa y a la vez como instrumento de prevención y
+tratamiento del SM. \pagebreak
 
 Objetivos
 =========
