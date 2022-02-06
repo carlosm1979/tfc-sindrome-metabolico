@@ -181,14 +181,22 @@ incluye características no metabólicas, consideraron que era más
 apropiado llamarlo “síndrome de resistencia a la insulina”. Sugiere una
 definición para individuos no diabéticos, en los que el síndrome se
 distinga por resistencia a la insulina o hiperinsulinemia en ayuno y dos
-de los siguientes parámetros: hiperglucemia (glucosa en ayuno `>`= 6.1
-mmol/L), hipertensión arterial (`>`= 140/90 mmHg o en tratamiento);
-dislipidemia (triglicéridos &gt; 2.0 mmol/L o colesterol HDL &lt; 1.0
-mmol/L o en tratamiento) y obesidad central (circunferencia de la
-cintura `>`= 94 cm en hombres y `>`= 80 cm en mujeres). Los autores
-establecieron que la obesidad medida por el índice de masa corporal no
-se considera parte del síndrome y que se ha demostrado que la
-microalbuminuria se relaciona con concentraciones de insulina, por lo
+de los siguientes parámetros:
+
+  --------------------------- -----------------------------------
+  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
+  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
+  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
+                              o colesterol HDL &lt; 1.0 mmol/L
+                              o en tratamiento
+  **obesidad central**        circunferencia de la cintura:
+  hombres                     `>`= 94 cm
+  mujeres                     `>`= 80 cm
+  --------------------------- -----------------------------------
+
+Los autores establecieron que la obesidad medida por el índice de masa
+corporal no se considera parte del síndrome y que se ha demostrado que
+la microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
 
 2002 ATP III
@@ -853,16 +861,16 @@ Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiov
 Grupo Europeo para el Estudio de la Resistencia a la Insulina - EGIR
 --------------------------------------------------------------------
 
-  ----------------------- -----------------------------------
-  hiperglucemia           glucosa en ayuno `>`= 6.1 mmol/L
-  hipertensión arterial   `>`= 140/90 mmHg o en tratamiento
-  dislipidemia            triglicéridos &gt; 2.0 mmol/L
-                          o colesterol HDL &lt; 1.0 mmol/L
-                          o en tratamiento
-  obesidad central        circunferencia de la cintura:
-                          `>`= 94 cm en hombres
-                          `>`= 80 cm en mujeres
-  ----------------------- -----------------------------------
+  --------------------------- -----------------------------------
+  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
+  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
+  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
+                              o colesterol HDL &lt; 1.0 mmol/L
+                              o en tratamiento
+  **obesidad central**        circunferencia de la cintura:
+  hombres                     `>`= 94 cm
+  mujeres                     `>`= 80 cm
+  --------------------------- -----------------------------------
 
 Criterios ATP III para el diagnóstico del síndrome metabólico
 -------------------------------------------------------------
@@ -922,55 +930,46 @@ Asociación americana de endocrinología ACE
 AEC FACTORES RIESGO
 -------------------
 
-  --------------------- ---------------------
-  **Exceso de peso**    
+  ----------------------------------- ---------------------
+  **Exceso de peso**                  
 
-                        IMC `>` 25
+                                      IMC `>` 25
 
-  **Circunferencia de   
-  la cintura**          
+  **Circunferencia de la cintura**    
 
-  hombres               `>` 40 pulgadas
+  hombres                             `>` 40 pulgadas
 
-  mujeres               `>` 35 pulgadas
+  mujeres                             `>` 35 pulgadas
 
-                        (10-15% menos en no
-                        caucásicos)
+                                      (10-15% menos en no
+                                      caucásicos)
 
-  **Estilo de vida      
-  sedentario**          
+  **Estilo de vida sedentario**       
 
-  **Edad**              `>` 40 años
+  **Edad**                            `>` 40 años
 
-  **Etnicidad no        (latino,
-  caucásica**           hispanoamericano,
-                        afroamericano, nativo
-                        americano,
-                        asiático-americano,
-                        de las Islas del
-                        Pacífico)
+  **Etnicidad no caucásica**          (latino,
+                                      hispanoamericano,
+                                      afroamericano, nativo
+                                      americano,
+                                      asiático-americano,
+                                      de las Islas del
+                                      Pacífico)
 
-  **Antecedentes        
-  familiares de         
-  diabetes mellitus 2,  
-  hipertensión arterial 
-  o enfermedad          
-  cardiovascular**      
+  **Antecedentes familiares de        
+  diabetes mellitus 2, hipertensión   
+  arterial o enfermedad               
+  cardiovascular**                    
 
-  **Antecedentes de     
-  intolerancia a la     
-  glucosa o diabetes    
-  gestacional**         
+  **Antecedentes de intolerancia a la 
+  glucosa o diabetes gestacional**    
 
-  **Acantosis           
-  nigricans**           
+  **Acantosis nigricans**             
 
-  **Síndrome de ovario  
-  poliquístico**        
+  **Síndrome de ovario poliquístico** 
 
-  **Hígado graso no     
-  alcohólico**          
-  --------------------- ---------------------
+  **Hígado graso no alcohólico**      
+  ----------------------------------- ---------------------
 
 Criterios diagnósticos NCEP-ATP III
 -----------------------------------
