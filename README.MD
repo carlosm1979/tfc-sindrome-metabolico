@@ -166,22 +166,17 @@ para reducir los factores de riesgo cardiovascular.
 
 A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
-definir la lista de factores que lo componen, siendo los aceptados de
-forma común: obesidad abdominal (*perímetro de contorno de cintura
-elevado), dislipidemia aterogénica (* alteración lipídica proteica,
-asociada a un riesgo cardiovascular elevado caracterizada por la
-asociación de colesterol HDL bajo, triglicéridos elevados y alta
-proporción de partículas LDL), hipertensión, resistencia insulina
-(Diabetes mellitus 2), estado proinflamatorio y estado protrombótico.
+definir la lista de factores que lo componen.
 
-\*\*\*\*\*\* nombrar asociaciones y baremos\*\*\*\*??? 1999 EGIR En mayo
-de 1999, Balkau y Charles,100 por parte del Grupo Europeo para el
-Estudio de la Resistencia a la Insulina (EGIR) debido a que el síndrome
-incluye características no metabólicas, consideraron que era más
-apropiado llamarlo “síndrome de resistencia a la insulina”. Sugiere una
-definición para individuos no diabéticos, en los que el síndrome se
-distinga por resistencia a la insulina o hiperinsulinemia en ayuno y dos
-de los siguientes parámetros:
+\*\*\*\*\*\* nombrar asociaciones y baremos\*\*\*\*???
+
+1999 EGIR En mayo de 1999, Balkau y Charles,100 por parte del Grupo
+Europeo para el Estudio de la Resistencia a la Insulina (EGIR) debido a
+que el síndrome incluye características no metabólicas, consideraron que
+era más apropiado llamarlo “síndrome de resistencia a la insulina”.
+Sugiere una definición para individuos no diabéticos, en los que el
+síndrome se distinga por resistencia a la insulina o hiperinsulinemia en
+ayuno y dos de los siguientes parámetros:
 
   --------------------------- -----------------------------------
   **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
@@ -251,9 +246,17 @@ anormal de grasa corporal, resistencia a la insulina, dislipidemia
 aterogénica, Aumento de la presión arterial, estado proinflamatorio e
 estado protrombótico.
 
-La existencia de tanta variedad de definiciones propuestas dificulta
-poder tener una referencia clara para la práctica clínica y el poder
-aprovechar de forma unificada los diferentes estudios realizados.
+Las diversas definiciones compoarten algunos de los criterios como la
+obesidad abdominal (*perímetro de contorno de cintura elevado),
+dislipidemia aterogénica (* alteración lipídica proteica, asociada a un
+riesgo cardiovascular elevado caracterizada por la asociación de
+colesterol HDL bajo, triglicéridos elevados y alta proporción de
+partículas LDL), hipertensión, resistencia insulina (Diabetes mellitus
+2), estado proinflamatorio y estado protrombótico.
+
+Sin embargo, la existencia de tanta variedad de definiciones propuestas
+dificulta poder tener una referencia clara para la práctica clínica y el
+poder aprovechar de forma unificada los diferentes estudios realizados.
 Distintas asociaciones han intentado unificar los varemos que manejan
 las diferentes asociaciones, pero no se ha llegado a un criterio común
 para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y
