@@ -1,6 +1,6 @@
 - [3. Parte teórica](#parte-teórica)
     - 3.1 Que es  
-      1. [Breve crónica de la definición del síndrome metabólico](/docs/documentacion/003.pdf)
+      1. [Breve crónica de la definición del síndrome metabólico](003.pdf)
         *Patologías relacionadas*
     - [3.2 Diagnóstico](#diagnóstico)
         - [3.2.1 Factores de riesgo](#Factores-de-riesgo)

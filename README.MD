@@ -69,8 +69,8 @@ proporción de productos de elaboración industrial, que conllevan una
 elevada cantidad de aporte calórico a partir de alimentos, en muchas
 ocasiones, de mala calidad.
 
-A todo esto, nos enfrentamos con la misma maquinaria metabólica de
-nuestros antepasados.
+A esto nos enfrentamos con la misma maquinaria metabólica de nuestros
+antepasados.
 
 Esta rápida evolución cultural no va acompasada con lo que ha sido
 nuestra evolución biológica a través de los siglos. Nuestros antepasados
@@ -110,13 +110,14 @@ genética y biología celular.
 
 El primer intento de definición del conjunto de patologías relacionadas
 con la obesidad y sus consecuencias negativas para la salud lo realizó
-Gerarld Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de RI,
-dislipidemia e hipertensión.
+Gerarld Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de
+Resistencia a la insulina (RI), dislipidemia e hipertensión.
 
-Con posterioridad serán varias las asociaciones internacionales las que
-establecerán criterios de diagnóstico para este síndrome al que se
-referirán cada una de ellas de diferentes maneras quedando finalmente
-reconocido su nombre como Síndrome Metabólico (SM). \pagebreak
+Con posterioridad serán varias las asociaciones internacionales que
+procurarán establecer criterios de diagnóstico para este síndrome al que
+se referirán cada una de ellas de diferente manera y con variedad de
+criterios, siendo finalmente reconocido su nombre como Síndrome
+Metabólico (SM) \pagebreak
 
 Objetivos
 =========
@@ -149,8 +150,8 @@ UN POCO DE HISTORIA
 
 (variación por etnias)
 
-Que es el Síndrome Metabólico
------------------------------
+Que es
+------
 
 Después de la definición dada por Reaven, en 1999 la OMS cambió la
 denominación a 'Síndrome metabólico', y estableció una definición en la
@@ -172,7 +173,77 @@ asociación de colesterol HDL bajo, triglicéridos elevados y alta
 proporción de partículas LDL), hipertensión, resistencia insulina
 (Diabetes mellitus 2), estado proinflamatorio y estado protrombótico.
 
-A pesar de todos los intentos no se ha llegado a un criterio unificado
+\*\*\*\*\*\* nombrar asociaciones y baremos\*\*\*\*??? 1999 EGIR En mayo
+de 1999, Balkau y Charles,100 por parte del Grupo Europeo para el
+Estudio de la Resistencia a la Insulina (EGIR) debido a que el síndrome
+incluye características no metabólicas, consideraron que era más
+apropiado llamarlo “síndrome de resistencia a la insulina”. Sugiere una
+definición para individuos no diabéticos, en los que el síndrome se
+distinga por resistencia a la insulina o hiperinsulinemia en ayuno y dos
+de los siguientes parámetros:
+`hiperglucemia (glucosa en ayuno >= 6.1 mmol/L), hipertensión arterial (>= 140/90 mmHg o en tratamiento); dislipidemia (triglicéridos > 2.0 mmol/L o colesterol HDL < 1.0 mmol/L o en tratamiento) y obesidad central (circunferencia de la cintura >= 94 cm en hombres y >= 80 cm en mujeres)`.
+Los autores establecieron que la obesidad medida por el índice de masa
+corporal no se considera parte del síndrome y que se ha demostrado que
+la microalbuminuria se relaciona con concentraciones de insulina, por lo
+que debe ser suprimida.
+
+2002 ATP III
+
+Panel de Expertos en la Detección, Evaluación y Tratamiento de
+Colesterol Elevado en Sangre, propuesto por el Tercer Reporte del
+Programa Nacional de Educación del Colesterol (ATP III). Este el panel
+comentó la alta prevalencia del síndrome, la ausencia de criterios bien
+aceptados para su diagnóstico y que los factores generalmente aceptados
+para constituirlo eran obesidad abdominal, dislipidemia aterogénica,
+aumento de la presión arterial, resistencia a la insulina, intolerancia
+a la glucosa o ambas, estado protrombótico y estado proinflamatorio.
+
+ATP III no consideró necesario recomendar una medición rutinaria de
+resistencia a la insulina, pues asumen que la mayor parte de los sujetos
+que cumplan tres o más criterios la padecerán y rechazan la
+microalbuminuria de la Organización Mundial de la Salud. Tanto esta como
+la definición de la OMS incluyen las cuatro características mayores del
+síndrome metabólico y su uso clínico no debe ocasionar sismos graves
+para identificar individuos.
+
+2003
+
+Asociación Americana de Endocrinólogos Clínicos y el Colegio Americano
+de Endocrinología reconocieron que los criterios ATP III eran
+apropiados, por lo que adoptaron los puntos concernientes a presión
+arterial y lípidos, pero sugirieron reconocer las limitaciones de la
+determinación de glucosa en ayuno, añadiendo la determinación de glucosa
+2 horas poscarga y agregar al índice de masa corporal como medida de
+obesidad, considerando a ésta factor de riesgo, en lugar de criterio.
+
+Modificaron la definición para volver a enfocarla en la resistencia a la
+insulina como causa primaria de síndrome metabólico y, una vez más,
+excluyeron a los diabéticos de la definición y propusieron el nombre
+síndrome de resistencia a la insulina.
+
+Esta propuesta difiere de las anteriores en que el concepto de síndrome
+de resistencia a la insulina excluye a pacientes cuyo grado de
+hiperglucemia cumple el criterio diagnóstico de diabetes mellitus 2; una
+limitante mayor es que no especifica un número definido de factores para
+el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
+criterios no son útiles como definición para estudios epidemiológicos.
+
+2005
+
+la Federación Internacional de Diabetes realizó un taller a fin de
+establecer un consenso global o una herramienta de diagnóstico unificada
+que pudiera usarse universalmente y destacar áreas donde se necesita
+mayor conocimiento. Los participantes estuvieron de acuerdo en que las
+características generales del síndrome metabólico incluyen: distribución
+anormal de grasa corporal, resistencia a la insulina, dislipidemia
+aterogénica, Aumento de la presión arterial, estado proinflamatorio e
+estado protrombótico.
+
+La existencia de tanta variedad de definiciones propuestas dificulta
+poder tener una referencia clara para la práctica clínica y el poder
+aprovechar de forma unificada los diferentes estudios realizados.
+Distintas asociaciones han intentado unificar los varemos que manejan
+las diferentes asociaciones, pero no se ha llegado a un criterio común
 para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y
 también sobre la importancia que tiene cada uno de los factores que lo
 conforman.
@@ -691,7 +762,9 @@ IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
 OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
 Índice de masa corporal DM2: Diabetes Mellitus tipo 2 PAS: Presión
-arterial sistólica \#\# Glosario
+arterial sistólica
+
+EGIR: European Group for the Study of Insulin Resistance \#\# Glosario
 
 **Sarcopenia**: Afección que se caracteriza por la pérdida de masa,
 fuerza y funcionamiento de los músculos en los adultos mayores.\
@@ -710,9 +783,8 @@ cuatro kilos tras nueve meses de gestación.
 Tablas
 ======
 
-##### tabla 1
-
-**Evolución histórica de los criterios del síndrome metabólico**
+Evolución histórica de los criterios del síndrome metabólico
+------------------------------------------------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Denomina                                                                                                                                                                                                           Autor                                                                                                                                                                                                                                   Año                                        Criterios y factores de riesgo asociado
@@ -752,10 +824,8 @@ Tablas
                                                                                                                                                                                                                      Association for the Study of Obesity                                                                                                                                                                                                                                               
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### tabla 2
-
-**Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de
-Enfermedad Cardiovascular**
+Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular
+---------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------
   Categoria        IMC              Hombres&lt; 102 cm Mujeres Hombres&lt; 102 cm Mujeres
@@ -776,21 +846,20 @@ Enfermedad Cardiovascular**
   Clase III        &gt;40           Extremadamente alto        Extremadamente alto
   ---------------------------------------------------------------------------------------
 
-##### tabla 3
+Criterios diagnósticos NCEP-ATP III
+-----------------------------------
 
-  **Criterios diagnósticos del Síndrome Metabólico (NCEP ATP III)**
-  -------------------------------------------------------------------
+  -------------------------------------------
   Obesidad Abdominal
   Hombres &gt;102 cm Mujeres &gt; 88 cm\*\*
   Presión Arterial ( = 130 / 85)
   Triglicéridos = 150 mg/dl
   HDL-Col Hombres &lt; 40 Mujeres &lt; 50
   Glucosa Sanguínea en ayunas = 110 mg/dL
+  -------------------------------------------
 
-##### tabla 4
-
-**Diagnóstico de Síndrome Metabólico. Criterios de la IDF (International
-Diabetes Federation (2006).**
+Criterios de la IDF (International Diabetes Federation (2006).
+--------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------
   **Para diagnosticar SM la persona debe tener:**                      
@@ -811,13 +880,27 @@ Diabetes Federation (2006).**
                                                                        100 mg/dL se sugiere hacer CTG. Diagnóstico previo de DM tipo 2\*
   -----------------------------------------------------------------------------------------------------------------------------------------
 
-##### tabla 5
+Criterios ATP III para el diagnóstico del síndrome metabólico
+-------------------------------------------------------------
 
-  --------------------------------------------------------------------------
-  **Valores de                                      
-  circunferencia abdominal                          
-  indicándose la                                    
-  especificidad étnica**                            
+  ------------------------ ----------------------------------------------------
+  **Obesidad abdominal**   
+                           Hombres: WC `>`40 pulgadas (102cm)
+                           Mujeres: WC `>`35 pulgadas (89cm)
+  **Grucosa en ayunas**    `>`=110 a &lt;126mg/dL (`>`=6,1 a &lt;=7,0 mmol/L)
+  **Presión arterial**     `>`=130/80 mm Hg
+  **TG**                   `>`=150 mg/dL (1,7 mmol/L)
+  **C-DHL**                
+                           Hombres: &lt;40 mg/dL (1,04 mmol/L)
+                           Mujeres: &lt;50 mg/dL (1,3 mmol/L)
+  ------------------------ ----------------------------------------------------
+
+El síndrome metabólico está presente cuando se cumblen tres o más de los
+cinco criterios.
+
+Valores de circunferencia abdominal indicándose la especificidad étnica
+-----------------------------------------------------------------------
+
   ------------------------ ------------------------ ------------------------
   Europeos\*                   Hombres = 94 cm          Mujeres = 80 cm
 
@@ -844,4 +927,4 @@ Diabetes Federation (2006).**
   Poblaciones Árabes y del Usar los datos europeos  
   Mediterráneo.               hasta tener nueva     
                                  información        
-  --------------------------------------------------------------------------
+  ------------------------ ------------------------ ------------------------
