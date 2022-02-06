@@ -56,8 +56,6 @@ III)](#tabla-3)\
 [Tabla 5: Valores de circunferencia abdominal indicándose la
 especificidad étnica](#tabla-5)
 
-\pagebreak
-
 I. Introducción
 ===============
 
@@ -82,10 +80,11 @@ alimento. Es por ello que la selección natural ha premiado a aquellos
 individuos con una mayor capacidad para acumular grasas, ya que así
 aumentaban su capacidad de supervivencia en épocas de escasez.
 
-La obesidad es tan antigua como la humanidad, y se consideraba como una
-garantía de supervivencia ante las enfermedades y la incertidumbre por
-la cantidad de alimento disponible. Por ello era considerada como buena,
-deseable e incluso como símbolo de estatus y belleza.
+Se puede decir entonces que la obesidad es tan antigua como la
+humanidad, y se que se consideraba como una garantía de supervivencia
+ante las enfermedades y la incertidumbre por la cantidad de alimento
+disponible. Por ello era considerada como buena, deseable e incluso como
+símbolo de estatus y belleza.
 
 Esto se trasladó también al criterio médico ya que desde finales del s.
 XIX y hasta principios del s. XX la opinión médica era que tener de 10 a
@@ -95,18 +94,18 @@ enfermedades nerviosas.
 
 Las consecuencias de lo anteriormente descrito se ven en las
 enfermedades que mayor carga de morbi-mortalidad producen en el mundo
-entero.
+entero (enfermedades cardiovasculares).
 
 Es a partir de los años 20 cuando el conocimiento acerca de las
 consecuencias negativas de la obesidad para la salud ha ido aumentando.
 Ya en 1923 Eskil Kylin, un médico sueco, definió la asociación entre
 hipertensión, hiperglicemia y gota. En los años 30 la comunidad médica
-ya lo aceptaba como un problema.
+lo aceptaba como un problema.
 
-Es a partir de los años 60 que comienzan los estudios a sobre la
-obesidad como una patología. También aumenta el conocimiento acerca de
-la grasa, que se entiende como un órgano con sus propias hormonas,
-genética y biología celular.
+A partir de los años 60 comienzan los estudios a sobre la obesidad como
+una patología. También aumenta el conocimiento acerca de la grasa, que
+se entiende como un órgano con sus propias hormonas, genética y biología
+celular.
 
 El primer intento de definición del conjunto de patologías relacionadas
 con la obesidad y sus consecuencias negativas para la salud lo realizó
@@ -117,7 +116,9 @@ Con posterioridad serán varias las asociaciones internacionales que
 procurarán establecer criterios de diagnóstico para este síndrome al que
 se referirán cada una de ellas de diferente manera y con variedad de
 criterios, siendo finalmente reconocido su nombre como Síndrome
-Metabólico (SM) \pagebreak
+Metabólico (SM) por la OMS en 1999.
+
+\pagebreak
 
 Objetivos
 =========
@@ -918,7 +919,61 @@ Asociación americana de endocrinología ACE
         Presión arterial `>` 130/85 mmHg
   ---------------------- -----------------
 
-AEC FACTORES RIESGO \#\# Criterios diagnósticos NCEP-ATP III
+AEC FACTORES RIESGO
+-------------------
+
+  --------------------- ---------------------
+  **Exceso de peso**    
+
+                        IMC `>` 25
+
+  **Circunferencia de   
+  la cintura**          
+
+  hombres               `>` 40 pulgadas
+
+  mujeres               `>` 35 pulgadas
+
+                        (10-15% menos en no
+                        caucásicos)
+
+  **Estilo de vida      
+  sedentario**          
+
+  **Edad**              `>` 40 años
+
+  **Etnicidad no        (latino,
+  caucásica**           hispanoamericano,
+                        afroamericano, nativo
+                        americano,
+                        asiático-americano,
+                        de las Islas del
+                        Pacífico)
+
+  **Antecedentes        
+  familiares de         
+  diabetes mellitus 2,  
+  hipertensión arterial 
+  o enfermedad          
+  cardiovascular**      
+
+  **Antecedentes de     
+  intolerancia a la     
+  glucosa o diabetes    
+  gestacional**         
+
+  **Acantosis           
+  nigricans**           
+
+  **Síndrome de ovario  
+  poliquístico**        
+
+  **Hígado graso no     
+  alcohólico**          
+  --------------------- ---------------------
+
+Criterios diagnósticos NCEP-ATP III
+-----------------------------------
 
   -------------------------------------------
   Obesidad Abdominal
