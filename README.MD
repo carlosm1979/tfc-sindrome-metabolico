@@ -180,11 +180,14 @@ incluye características no metabólicas, consideraron que era más
 apropiado llamarlo “síndrome de resistencia a la insulina”. Sugiere una
 definición para individuos no diabéticos, en los que el síndrome se
 distinga por resistencia a la insulina o hiperinsulinemia en ayuno y dos
-de los siguientes parámetros:
-`hiperglucemia (glucosa en ayuno >= 6.1 mmol/L), hipertensión arterial (>= 140/90 mmHg o en tratamiento); dislipidemia (triglicéridos > 2.0 mmol/L o colesterol HDL < 1.0 mmol/L o en tratamiento) y obesidad central (circunferencia de la cintura >= 94 cm en hombres y >= 80 cm en mujeres)`.
-Los autores establecieron que la obesidad medida por el índice de masa
-corporal no se considera parte del síndrome y que se ha demostrado que
-la microalbuminuria se relaciona con concentraciones de insulina, por lo
+de los siguientes parámetros: hiperglucemia (glucosa en ayuno `>`= 6.1
+mmol/L), hipertensión arterial (`>`= 140/90 mmHg o en tratamiento);
+dislipidemia (triglicéridos &gt; 2.0 mmol/L o colesterol HDL &lt; 1.0
+mmol/L o en tratamiento) y obesidad central (circunferencia de la
+cintura `>`= 94 cm en hombres y `>`= 80 cm en mujeres). Los autores
+establecieron que la obesidad medida por el índice de masa corporal no
+se considera parte del síndrome y que se ha demostrado que la
+microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
 
 2002 ATP III
@@ -846,17 +849,37 @@ Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiov
   Clase III        &gt;40           Extremadamente alto        Extremadamente alto
   ---------------------------------------------------------------------------------------
 
-Criterios diagnósticos NCEP-ATP III
------------------------------------
+Grupo Europeo para el Estudio de la Resistencia a la Insulina - EGIR
+--------------------------------------------------------------------
 
-  -------------------------------------------
-  Obesidad Abdominal
-  Hombres &gt;102 cm Mujeres &gt; 88 cm\*\*
-  Presión Arterial ( = 130 / 85)
-  Triglicéridos = 150 mg/dl
-  HDL-Col Hombres &lt; 40 Mujeres &lt; 50
-  Glucosa Sanguínea en ayunas = 110 mg/dL
-  -------------------------------------------
+  ----------------------- -----------------------------------
+  hiperglucemia           glucosa en ayuno `>`= 6.1 mmol/L
+  hipertensión arterial   `>`= 140/90 mmHg o en tratamiento
+  dislipidemia            triglicéridos &gt; 2.0 mmol/L
+                          o colesterol HDL &lt; 1.0 mmol/L
+                          o en tratamiento
+  obesidad central        circunferencia de la cintura:
+                          `>`= 94 cm en hombres
+                          `>`= 80 cm en mujeres
+  ----------------------- -----------------------------------
+
+Criterios ATP III para el diagnóstico del síndrome metabólico
+-------------------------------------------------------------
+
+    **Factor de riesgo** **Nivel definido**
+  ---------------------- ---------------------------
+     Obesidad abdominal: Circunferencia de cintura
+                 Hombres `>` 102cm
+                 Mujeres `>` 88cm
+          Triglicéridos: `>`=150 mg/dL
+         Colesterol-DHL: 
+                 Hombres &lt;40 mg/dL
+                 Mujeres &lt;50 mg/dL
+       Presión arterial: `>`=130/80 mm Hg
+      Grucosa en ayunas: `>`=110 mg/dL
+
+El síndrome metabólico está presente cuando se cumblen tres o más de los
+cinco criterios.
 
 Criterios de la IDF (International Diabetes Federation (2006).
 --------------------------------------------------------------
@@ -880,23 +903,31 @@ Criterios de la IDF (International Diabetes Federation (2006).
                                                                        100 mg/dL se sugiere hacer CTG. Diagnóstico previo de DM tipo 2\*
   -----------------------------------------------------------------------------------------------------------------------------------------
 
-Criterios ATP III para el diagnóstico del síndrome metabólico
--------------------------------------------------------------
+Asociación americana de endocrinología ACE
+------------------------------------------
 
-  ------------------------ ----------------------------------------------------
-  **Obesidad abdominal**   
-                           Hombres: WC `>`40 pulgadas (102cm)
-                           Mujeres: WC `>`35 pulgadas (89cm)
-  **Grucosa en ayunas**    `>`=110 a &lt;126mg/dL (`>`=6,1 a &lt;=7,0 mmol/L)
-  **Presión arterial**     `>`=130/80 mm Hg
-  **TG**                   `>`=150 mg/dL (1,7 mmol/L)
-  **C-DHL**                
-                           Hombres: &lt;40 mg/dL (1,04 mmol/L)
-                           Mujeres: &lt;50 mg/dL (1,3 mmol/L)
-  ------------------------ ----------------------------------------------------
+  ---------------------- -----------------
+     Glucosa plasmática: 
+                   Ayuno 110-125 mg/dL
+    120 minutos poscarga 140-200 mg/dL
+      de 75 g de glucosa 
+           triglicéridos `>` 150 mg/dL
+          Colesterol HDL 
+                Hombres: &lt; 40 mg/dL
+                Mujeres: &lt; 50 mg/dL
+        Presión arterial `>` 130/85 mmHg
+  ---------------------- -----------------
 
-El síndrome metabólico está presente cuando se cumblen tres o más de los
-cinco criterios.
+AEC FACTORES RIESGO \#\# Criterios diagnósticos NCEP-ATP III
+
+  -------------------------------------------
+  Obesidad Abdominal
+  Hombres &gt;102 cm Mujeres &gt; 88 cm\*\*
+  Presión Arterial ( = 130 / 85)
+  Triglicéridos = 150 mg/dl
+  HDL-Col Hombres &lt; 40 Mujeres &lt; 50
+  Glucosa Sanguínea en ayunas = 110 mg/dL
+  -------------------------------------------
 
 Valores de circunferencia abdominal indicándose la especificidad étnica
 -----------------------------------------------------------------------
