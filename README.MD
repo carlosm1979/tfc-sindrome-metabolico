@@ -145,12 +145,6 @@ la aparición de la alteraciones de salud que lo componen.
 Parte teórica
 =============
 
-UN POCO DE HISTORIA
-
-(historia y controversias)
-
-(variación por etnias)
-
 Que es
 ------
 
@@ -168,42 +162,44 @@ A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
 definir la lista de factores que lo componen.
 
-\*\*\*\*\*\* nombrar asociaciones y baremos\*\*\*\*???
+### Evolución de la definición de criterios de diagnóstico
 
-1999 EGIR En mayo de 1999, Balkau y Charles,100 por parte del Grupo
-Europeo para el Estudio de la Resistencia a la Insulina (EGIR) debido a
-que el síndrome incluye características no metabólicas, consideraron que
-era más apropiado llamarlo “síndrome de resistencia a la insulina”.
-Sugiere una definición para individuos no diabéticos, en los que el
-síndrome se distinga por resistencia a la insulina o hiperinsulinemia en
-ayuno y dos de los siguientes parámetros:
+#### Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
 
-  --------------------------- -----------------------------------
-  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
-  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
-  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
-                              o colesterol HDL &lt; 1.0 mmol/L
-                              o en tratamiento
-  **obesidad central**        circunferencia de la cintura:
-  hombres                     `>`= 94 cm
-  mujeres                     `>`= 80 cm
-  --------------------------- -----------------------------------
+En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina
+(EGIR) debido a que el síndrome incluye características no metabólicas,
+consideraron que era más apropiado llamarlo “síndrome de resistencia a
+la insulina”. Sugiere una definición para individuos no diabéticos, en
+los que el síndrome se distinga por resistencia a la insulina o
+hiperinsulinemia en ayuno y dos de los siguientes parámetros:
+
+  **Criterios de diagnóstico EGIR**   
+  ----------------------------------- -----------------------------------
+  **hiperglucemia**                   glucosa en ayuno `>`= 6.1 mmol/L
+  **hipertensión arterial**           `>`= 140/90 mmHg o en tratamiento
+  **dislipidemia**                    triglicéridos &gt; 2.0 mmol/L
+                                      o colesterol HDL &lt; 1.0 mmol/L
+                                      o en tratamiento
+  **obesidad central**                circunferencia de la cintura:
+  hombres                             `>`= 94 cm
+  mujeres                             `>`= 80 cm
 
 Los autores establecieron que la obesidad medida por el índice de masa
 corporal no se considera parte del síndrome y que se ha demostrado que
 la microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
 
-2002 ATP III
+#### ATP-III
 
-Panel de Expertos en la Detección, Evaluación y Tratamiento de
-Colesterol Elevado en Sangre, propuesto por el Tercer Reporte del
-Programa Nacional de Educación del Colesterol (ATP III). Este el panel
-comentó la alta prevalencia del síndrome, la ausencia de criterios bien
-aceptados para su diagnóstico y que los factores generalmente aceptados
-para constituirlo eran obesidad abdominal, dislipidemia aterogénica,
-aumento de la presión arterial, resistencia a la insulina, intolerancia
-a la glucosa o ambas, estado protrombótico y estado proinflamatorio.
+En 2002 el Panel de Expertos en la Detección, Evaluación y Tratamiento
+de Colesterol Elevado en Sangre, propuesto por el Tercer Reporte del
+Programa Nacional de Educación del Colesterol de Estados Unidos publicó
+su lista de criterios, conocida como ATP-III. Comentaron la alta
+prevalencia del síndrome, la ausencia de criterios bien aceptados para
+su diagnóstico y que los factores generalmente aceptados para
+constituirlo eran obesidad abdominal, dislipidemia aterogénica, aumento
+de la presión arterial, resistencia a la insulina, intolerancia a la
+glucosa o ambas, estado protrombótico y estado proinflamatorio.
 
 ATP III no consideró necesario recomendar una medición rutinaria de
 resistencia a la insulina, pues asumen que la mayor parte de los sujetos
@@ -213,20 +209,51 @@ la definición de la OMS incluyen las cuatro características mayores del
 síndrome metabólico y su uso clínico no debe ocasionar sismos graves
 para identificar individuos.
 
-2003
+    **Criterios de diagnóstico ATP III** 
+  -------------------------------------- ---------------------------
+                    **Factor de riesgo** **Nivel definido**
+                     Obesidad abdominal: Circunferencia de cintura
+                                 Hombres `>` 102cm
+                                 Mujeres `>` 88cm
+                          Triglicéridos: `>`=150 mg/dL
+                         Colesterol-DHL: 
+                                 Hombres &lt;40 mg/dL
+                                 Mujeres &lt;50 mg/dL
+                       Presión arterial: `>`=130/80 mm Hg
+                      Grucosa en ayunas: `>`=110 mg/dL
 
-Asociación Americana de Endocrinólogos Clínicos y el Colegio Americano
-de Endocrinología reconocieron que los criterios ATP III eran
-apropiados, por lo que adoptaron los puntos concernientes a presión
-arterial y lípidos, pero sugirieron reconocer las limitaciones de la
-determinación de glucosa en ayuno, añadiendo la determinación de glucosa
-2 horas poscarga y agregar al índice de masa corporal como medida de
-obesidad, considerando a ésta factor de riesgo, en lugar de criterio.
+*El síndrome metabólico está presente cuando se cumblen tres o más de
+los cinco criterios.*
 
-Modificaron la definición para volver a enfocarla en la resistencia a la
-insulina como causa primaria de síndrome metabólico y, una vez más,
-excluyeron a los diabéticos de la definición y propusieron el nombre
-síndrome de resistencia a la insulina.
+#### Asociación Americana de Endocrinólogos Clínicos
+
+En 2003 Asociación Americana de Endocrinólogos Clínicos y el Colegio
+Americano de Endocrinología adoptaron los criterios ATP-III en los
+puntos concernientes a presión arterial y lípidos, pero sugirieron
+reconocer las limitaciones de la determinación de glucosa en ayuno,
+añadiendo la determinación de glucosa 2 horas poscarga y agregar al
+índice de masa corporal como medida de obesidad, considerando a ésta
+factor de riesgo, en lugar de criterio. Y modificaron la definición para
+volver a enfocarla en la resistencia a la insulina como causa primaria
+de síndrome metabólico y, una vez más, excluyeron a los diabéticos de la
+definición y propusieron el nombre síndrome de resistencia a la
+insulina.
+
+\pagebreak
+
+#### Asociación americana de endocrinología
+
+    **Criterios de diagnóstico de la Asociación americana de endocrinología** 
+  --------------------------------------------------------------------------- -----------------
+                                                          Glucosa plasmática: 
+                                                                        Ayuno 110-125 mg/dL
+                                                         120 minutos poscarga 140-200 mg/dL
+                                                           de 75 g de glucosa 
+                                                                triglicéridos `>` 150 mg/dL
+                                                               Colesterol HDL 
+                                                                     Hombres: &lt; 40 mg/dL
+                                                                     Mujeres: &lt; 50 mg/dL
+                                                             Presión arterial `>` 130/85 mmHg
 
 Esta propuesta difiere de las anteriores en que el concepto de síndrome
 de resistencia a la insulina excluye a pacientes cuyo grado de
@@ -235,19 +262,57 @@ limitante mayor es que no especifica un número definido de factores para
 el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
 criterios no son útiles como definición para estudios epidemiológicos.
 
-2005
+#### Federación Internacional de Diabetes
 
-la Federación Internacional de Diabetes realizó un taller a fin de
-establecer un consenso global o una herramienta de diagnóstico unificada
-que pudiera usarse universalmente y destacar áreas donde se necesita
-mayor conocimiento. Los participantes estuvieron de acuerdo en que las
-características generales del síndrome metabólico incluyen: distribución
-anormal de grasa corporal, resistencia a la insulina, dislipidemia
-aterogénica, Aumento de la presión arterial, estado proinflamatorio e
-estado protrombótico.
+En 2005 la Federación Internacional de Diabetes realizó un taller a fin
+de establecer un consenso global o una herramienta de diagnóstico
+unificada que pudiera usarse universalmente y destacar áreas donde se
+necesita mayor conocimiento. Los participantes estuvieron de acuerdo en
+que las características generales del síndrome metabólico incluyen:
+distribución anormal de grasa corporal, resistencia a la insulina,
+dislipidemia aterogénica, Aumento de la presión arterial, estado
+proinflamatorio e estado protrombótico.
 
-Las diversas definiciones compoarten algunos de los criterios como la
-obesidad abdominal (*perímetro de contorno de cintura elevado),
+  -----------------------------------------------------------------------------
+            **Criterios 
+            diagnostico 
+             Federación 
+       Internacional de 
+             Diabetes** 
+  --------------------- -------------------------------------------------------
+         **Distribución La obesidad central es la que más se asocia con
+       anormal de grasa síndrome metabólico y es la que, independientemente, se
+             corporal** relaciona con todos los demás criterios;108 en términos
+                        clínicos se manifiesta con aumento de la circunferencia
+                        de cintura
+
+     **Resistencia a la Existente en la mayor parte de los casos; se asocia
+             insulina** fuertemente con otros factores de riesgo metabólico y
+                        correlaciona de manera univariante con el riesgo
+                        cardiovascular. Sin embargo, no se ha podido establecer
+                        una relación firme con la hipertensión arterial; los
+                        mecanismos que unen la resistencia a la insulina y la
+                        enfermedad cardiovascular deben seguir siendo
+                        investigados
+
+         **Dislipidemia Aumento de triglicéridos y disminución del colesterol
+          aterogénica** HDL
+
+        **Aumento de la Se asocia estrechamente con obesidad e intolerancia a
+     presión arterial** la glucosa y con frecuencia afecta a personas con
+                        resistencia a la insulina.
+
+               **Estado Aumento de la proteína C reactiva
+      proinflamatorio** 
+
+               **Estado Aumento del inhibidor del plasminógeno 1 y fibrinógeno
+        protrombótico** 
+  -----------------------------------------------------------------------------
+
+### Herramienta de diagnóstico
+
+Todas estas diversas definiciones compoarten algunos de los criterios
+como la obesidad abdominal (*perímetro de contorno de cintura elevado),
 dislipidemia aterogénica (* alteración lipídica proteica, asociada a un
 riesgo cardiovascular elevado caracterizada por la asociación de
 colesterol HDL bajo, triglicéridos elevados y alta proporción de
@@ -263,6 +328,45 @@ para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y
 también sobre la importancia que tiene cada uno de los factores que lo
 conforman.
 
+Una dificultad añadida es que se ha visto que un mismo varemos no es
+válido para toda la población mundial, habiendose encontrado que para
+las distintas etnias, deben considerarse valores de corte diferentes a
+la hora de realizar un diagnóstico.
+
+  ------------------------------------------------------------------------
+  **Valores de                                     
+  circunferencia abdominal                         
+  indicándose la                                   
+  especificidad étnica**                           
+  ------------------------ ----------------------- -----------------------
+  Europeos\*               Hombres = 94 cm         Mujeres = 80 cm
+
+  USA: es probable seguir  Hombres = 102 cm        Mujeres = 88 cm
+  con ATP III                                      
+
+  Asia del Sur resultados  Hombres = 90 cm         Mujeres = 80 cm
+  basados en las                                   
+  poblaciones Chinas,                              
+  Malaya y Asiático-Indú                           
+
+  China                    Hombres = 90 cm         Mujeres = 80 cm
+
+  Japón \*\*               Hombres = 90 cm         Mujeres = 80 cm
+
+  Sur América y Centro     Usar las                
+  América                  recomendaciones para    
+                           Asiahasta tener nueva   
+                           información.            
+
+  Africa sub-Sahariana     Usar los datos europeos 
+                           hasta tener nueva       
+                           información             
+
+  Poblaciones Árabes y del Usar los datos europeos 
+  Mediterráneo.            hasta tener nueva       
+                           información             
+  ------------------------------------------------------------------------
+
 Actualmente lo que se está considerando como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
 de criterios, es entender el SM como una guía que ayude a detectar los
@@ -272,18 +376,16 @@ herramienta clínica para la prevención y detección del riesgo de esas
 enfermedades.
 
 Con respecto a los posibles desencadenantes para desarrollar los
-factores que conforman el SM, se consideran factores genéticos
-(endógenos) y ambientales como la alimentación y hábitos de vida.
+factores que conforman el SM, se consideran tanto factores genéticos
+como ambientales, que incluirían la alimentación y hábitos de vida. Una
+alimentación con elevado consumo de grasas saturadas y de alto nivel
+calórico, junto con una vida sedentaria pueden ser factores
+determinantes para su desarrollo. Se considera que solo un 10% de los
+casos de SM tiene causas genéticas, por lo que hay que resaltar la
+importancia de la alimentación y los hábitos de vida como causa y a la
+vez como instrumento de prevención y tratamiento del SM.
 
-Una alimentación con elevado consumo de grasas saturadas y de alto nivel
-calórico, junto con una vida sedentaria son factores determinantes para
-su desarrollo.
-
-Se considera que solo un 10% de los casos de SM tiene causas genéticas.
-
-Por este motivo hay que resaltar la importancia de la alimentación y los
-hábitos de vida como causa y a la vez como instrumento de prevención y
-tratamiento del SM.
+\pagebreak
 
 Diagnóstico
 -----------
