@@ -160,6 +160,8 @@ son mucho más potentes, y que el tratamiento no debe enfocarse
 únicamente al control de la glucosa, si no incluir también estrategias
 para reducir los factores de riesgo cardiovascular.
 
+ 
+
 **Criterios de diagnóstico OMS**
 
   ---------------------- ------------------------------------------------------------------
@@ -192,11 +194,11 @@ para reducir los factores de riesgo cardiovascular.
                          albúmina-creatinina `>` 30 mg/g
   ---------------------- ------------------------------------------------------------------
 
+\pagebreak
+
 A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
 definir la lista de factores que lo componen.
-
-\pagebreak
 
 #### Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
 
@@ -206,6 +208,8 @@ consideraron que era más apropiado llamarlo “síndrome de resistencia a
 la insulina”. Sugiere una definición para individuos no diabéticos, en
 los que el síndrome se distinga por resistencia a la insulina o
 hiperinsulinemia en ayuno y dos de los siguientes parámetros:
+
+ 
 
   **Criterios de diagnóstico EGIR**   
   ----------------------------------- -----------------------------------
@@ -217,6 +221,8 @@ hiperinsulinemia en ayuno y dos de los siguientes parámetros:
   **obesidad central**                circunferencia de la cintura:
   hombres                             `>`= 94 cm
   mujeres                             `>`= 80 cm
+
+ 
 
 Los autores establecieron que la obesidad medida por el índice de masa
 corporal no se considera parte del síndrome y que se ha demostrado que
@@ -245,6 +251,8 @@ OMS incluyen las cuatro características mayores del síndrome metabólico
 y su uso clínico no debe ocasionar sismos graves para identificar
 individuos.
 
+ 
+
     **Criterios de diagnóstico ATP III** 
   -------------------------------------- ---------------------------
                       *Factor de riesgo* *Nivel definido*
@@ -261,6 +269,8 @@ individuos.
 *El síndrome metabólico está presente cuando se cumblen tres o más de
 los cinco criterios.*
 
+ 
+
 \pagebreak
 
 #### Asociación Americana de Endocrinólogos Clínicos
@@ -276,20 +286,24 @@ resistencia a la insulina como causa primaria de síndrome metabólico y,
 una vez más, excluyeron a los diabéticos de la definición y propusieron
 el nombre síndrome de resistencia a la insulina.
 
+ 
+
 **Criterios de diagnóstico de la Asociación americana de
 endocrinología**
 
   ------------------------ -----------------
-    **Glucosa plasmática** 
-                     Ayuno 110-125 mg/dL
-      120 minutos poscarga 140-200 mg/dL
-        de 75 g de glucosa 
-         **Triglicéridos** `>` 150 mg/dL
-        **Colesterol HDL** 
-                  Hombres: &lt; 40 mg/dL
-                  Mujeres: &lt; 50 mg/dL
-      **Presión arterial** `>` 130/85 mmHg
+  **Glucosa plasmática**   
+  Ayuno                    110-125 mg/dL
+  120 minutos poscarga     140-200 mg/dL
+  de 75 g de glucosa       
+  **Triglicéridos**        `>` 150 mg/dL
+  **Colesterol HDL**       
+  Hombres                  &lt; 40 mg/dL
+  Mujeres                  &lt; 50 mg/dL
+  **Presión arterial**     `>` 130/85 mmHg
   ------------------------ -----------------
+
+ 
 
 Esta propuesta difiere de las anteriores en que el concepto de síndrome
 de resistencia a la insulina excluye a pacientes cuyo grado de
@@ -310,6 +324,8 @@ que las características generales del síndrome metabólico incluyen:
 distribución anormal de grasa corporal, resistencia a la insulina,
 dislipidemia aterogénica, Aumento de la presión arterial, estado
 proinflamatorio e estado protrombótico.
+
+ 
 
 **Criterios diagnostico Federación Internacional de Diabetes**
 
@@ -343,17 +359,24 @@ proinflamatorio e estado protrombótico.
         protrombótico** 
   --------------------- -------------------------------------------------------
 
+ 
+
 \pagebreak
 
-### Herramienta de diagnóstico
-
 Todas estas diversas definiciones compoarten algunos de los criterios
-como la obesidad abdominal (*perímetro de contorno de cintura elevado),
-dislipidemia aterogénica (* alteración lipídica proteica, asociada a un
-riesgo cardiovascular elevado caracterizada por la asociación de
-colesterol HDL bajo, triglicéridos elevados y alta proporción de
-partículas LDL), hipertensión, resistencia insulina (Diabetes mellitus
-2), estado proinflamatorio y estado protrombótico.
+como son:
+
+-   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
+-   **Resistencia a la insulina** (Dificultad para digerir un tipo de
+    azúcar denominado «glucosa» (intolerancia a la glucosa). Los
+    pacientes con síndrome metabólico generalmente tienen
+    hiperinsulinemia o diabetes tipo 2.
+-   **Dislipidemia aterogénica** (\* alteración lipídica proteica,
+    asociada a un riesgo cardiovascular elevado caracterizada por la
+    asociación de colesterol HDL bajo, triglicéridos elevados y alta
+    proporción de partículas LDL)
+-   **Hipertensión**
+-   Estado **proinflamatorio** y estado **protrombótico**.
 
 Sin embargo, la existencia de tanta variedad de definiciones propuestas
 dificulta poder tener una referencia clara para la práctica clínica y el
@@ -426,47 +449,290 @@ vez como instrumento de prevención y tratamiento del SM.
 Diagnóstico
 -----------
 
-La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+a importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que cuando está presente en un paciente es indicador de un elevado
 riesgo cardiovascular.
 
+La mayoría de los trastornos asociados con el síndrome metabólico no
+tiene signos ni síntomas evidentes.
+
+Un signo que es visible es la circunferencia grande de la cintura.
+
+Si el azúcar en sangre es alto, podrían notarse los signos y los
+síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
+visión borrosa.
+
+Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
+sangrado nasal, pero en general se trata de signos inespecíficos.
+
+Se dan varios factores de riesgo para desarrollar síndrome metabólico, a
+menudo las personas tienen varios de ellos al mismo tiempo. Si tiene al
+menos tres de ellos, se llama síndrome metabólico. Estos factores de
+riesgo incluyen:
+
+-   Cuerpo con "forma de manzana", también llamada obesidad abdominal.
+    Tener demasiada grasa alrededor de la cintura es un factor de riesgo
+    mayor para enfermedades del corazón que acumular demasiada grasa en
+    otras partes del cuerpo.
+-   Tener un nivel alto de triglicéridos, un tipo de grasa que se
+    encuentra en la sangre.
+-   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
+    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
+    de las arterias.
+-   Tener presión arterial alta: Si su presión arterial se mantiene alta
+    en el tiempo, puede dañar su corazón y provocar otros problemas de
+    salud.
+-   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
+    azúcar en la sangre levemente alto puede ser un signo temprano de
+    diabetes.
+
+Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
+diabetes y accidente cerebrovascular.
+
+El síndrome metabólico tiene varias causas que actúan juntas:
+
+-   Sobrepeso y obesidad
+-   Un estilo de vida inactivo
+-   Resistencia a la insulina: Afección en la cual el cuerpo no puede
+    usar bien la insulina, una hormona que ayuda a mover el azúcar en la
+    sangre a las células para darles energía. La resistencia a la
+    insulina puede conducir a niveles altos de azúcar en la sangre
+-   Edad: Su riesgo aumenta a medida que envejece
+-   Genética: Origen étnico y su historia familiar
+
 Como se ha indicado ha habido varios intentos para establecer unos
-criterios que ayuden a diagnosticar SM [Tabla 3: Criterios diagnósticos
-del Síndrome Metabólico (NCEP ATP III)](#tabla-3) [Tabla 4: Diagnóstico
-de Síndrome Metabólico. Criterios de la IDF (International Diabetes
-Federation](#tabla-4). No existen unos varemos aceptados universalmente
-y se ha detectado que los valores de corte difieren según la étnica de
-los grupos de población.[Tabla 5: Valores de circunferencia abdominal
-indicándose la especificidad étnica](#tabla-5)
+criterios que ayuden a diagnosticar SM
 
-### Factores de riesgo
+Criterios según la OMS.
 
-#### Circunferencia grande de cintura
+La OMS dice que la insulinorresistencia puede ser el factor común para
+los componentes individuales del SM. En el año.
 
-La obesidad es el aumento en la acumulación de tejido adiposo (TA) que
-cursa con aumento del peso corporal, siendo el incremento del diámetro
-de la circunferencia abdominal un indicador de obesidad.
+No existen unos varemos aceptados universalmente y se ha detectado que
+los valores de corte difieren según la étnica de los grupos de población
+\#\#\# Factores de riesgo
 
-Se conoce que la obesidad aumenta el riesgo de aparición de ciertas
-enfermedades. A mayor IMC más riesgo. [Tabla 2: Indice de Masa Corporal,
-Circunferencia Abdominal y Riesgo de Enfermedad
-Cardiovascular](#tabla-2)
+Las causas del SM no se conocen con exactitud, pero es fundamental saber
+los factores de riesgo asociados que lo desencadenan y lo definen como
+SM. Así tenemos: \#\#\#\# Obesidad abdominal.Perímetro de cintura
+elevado.
 
-Uno de los efectos secundarios del sobrepeso y la obesidad es la
-aparición de un aumento en los niveles plasmáticos de insulina
+El perímetro de cintura es uno de los cinco criterios que conforman el
+diagnóstico del SM
+
+La masa de grasa es el componente más variable en la composición
+corporal, tanto si se comparan varios individuos como si se consideran
+los cambios de una persona a lo largo de la vida.
+
+La obesidad es el aumento en la acumulación de tejido adiposo (TA). Sus
+indicadores son el el aumento del peso corporal con un IMC mayor o igual
+a 30 y el incremento del diámetro de la circunferencia de cintura, que
+será diferente para hombres y mujeres.
+
+En su clasificación se han empleado múltiples variantes, pero la más
+utilizada es aquella que se sustenta en la distribución corporal del
+exceso de grasa. Se denomina fenotipo androide, cuando el sobrepeso
+predomina en el segmento superior y fenotipo ginoide, si la acumulación
+del tejido adiposo es mayor en el segmento inferior.
+
+A su vez podemos hablar de dos tipos de tejido adiposo en el abdomen
+según su localización, el subcutáneo y el interno que se divide a su vez
+en visceral (depósito de grasa en órganos como hígado y páncreas) y
+muscular.
+
+Los riesgos asociados al exceso de grasa se deben, en parte, a la
+localización de la grasa, más que a la cantidad total, siendo la grasa
+acumulada en la región abdominal la que afecta de forma más negativa a
+la buena salud.
+
+Las personas obesas con un patrón de distribución de tipo central,
+independientemente de su grado de obesidad tendrán mayor riesgo de
+enfermedades cardiovasculares, diabetes e hipertensión
+
+Esta grasa visceral que rodea a los órganos es la que va a producir que
+aumenten un mayor número de ácidos grasos libres (AGL) en la circulación
+que producen un bloqueo en la señalización intracelular del receptor de
+la insulina favoreciendo la insulinoresistencia y la falta de regulación
+pancreática (uno de los efectos secundarios de la obesidad y el
+sobrepeso es el aumento de niveles plasmáticos de insulina) además de
+aumentar el estrés oxidativo y el ambiente proinflamatorio.
+
+La grasa visceral es un factor de riesgo independientemente de
+resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e
+hipertensión, todos criterios el SM
+
+Este mayor factor de riesgo metabólico se define en individuos adultos
+por la medida de circunferencia de cintura y que es diferente entre
+hombres y mujeres siendo para
+
+Hombres `>` de 102 cm.
+
+Mujeres `>` de 88 cm.
+
+\*Estas medidas en adultos están sujetas a variaciones según etnias.
+
+Estas medidas de contorno de cintura tienen mayor correlación con los
+factores de riesgo metabólicos que el IMC (Índice de masa corporal) el
+IMC resulta menos fiable porque puede ser alto en individuos que no sean
+obesos como podría ser el caso de deportistas o personas con unas
+determinadas características morfológicas como puede ser personas de
+hueso ancho que tienen un IMC más elevado que el que le correspondería
+por estatura y peso, pero carecen de niveles de grasa de riesgo a nivel
+abdominal.
+
+Actualmente se considera la obesidad como una epidemia a nivel mundial y
+es sabido que es relevante su presencia para el desarrollo de múltiples
+enfermedades destacando sobre todo las enfermedades cardiovasculares y
+las relacionadas con la resistencia a la insulina, hipertensión
+arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
+otras.
+
+#### Colesterol bueno o de lipoproteínas de alta densidad reducido (dislipemia)
+
+#### Resistencia a la insulina. Diabetes mellitus tipo II
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un
 término usado para describir un proceso fisiopatológico que se
-caracteriza por una disminución de la sensibilidad tisular a la acción
-de la hormona. Esta falta de sensibilidad provoca como respuesta un
-aumento excesivo de su producción; que puede desenvocar en una
-disfunsión metabólica y a la aparición de, entre otras patologías: DM2,
-ECV, dislipidemias, síndrome de ovario poliquístico e hipertensión
-arterial.
+caracteriza por una disminución de la sensibilidad a la acción de la
+hormona insulina.
 
-#### Colesterol bueno o de lipoproteínas de alta densidad reducido
+Normalmente, el páncreas libera insulina cuando se ingieren ciertos
+alimentos. La insulina es una hormona que ayuda a las células del
+organismo a aceptar el azúcar (glucosa) que les da energía.
 
-#### Glucosa sanguínea en ayunas elevada
+Si las células diana se vuelven resistentes a la insulina, se necesita
+más insulina para que la glucosa penetre en las células. Por
+consiguiente, el páncreas produce más insulina, la cual es bombeada a la
+corriente sanguínea. Cuando hay mucha insulina en la corriente sanguínea
+se produce una hiperinsulinemia lo que aumenta el riesgo de sufrir un
+infarto de miocardio, porque la insulina:
+
+-   Eleva los niveles de triglicéridos.
+-   Reduce los niveles de lipoproteínas de alta densidad (HDL o
+    «colesterol bueno»).
+-   Eleva los niveles de lipoproteínas de baja densidad (LDL o
+    «colesterol malo»).
+-   Hace más difícil que el organismo elimine las grasas de la sangre
+    después de comer.
+-   Eleva la presión arterial.
+-   Aumenta la capacidad de coagulación de la sangre.
+
+Esta falta de sensibilidad a la insulina y esta respuesta de un aumento
+excesivo de su producción puede desembocar en una disfunción metabólica
+y a la aparición de, entre otras patologías:
+
+-   Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no
+    poder ingresar la glucosa en las células se produce un nivel levado
+    de glucosa en la sangre)
+-   Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el
+    corazón y los vasos sanguíneos. Se asocia con la acumulación de
+    depósitos de grasa en las arterias. A menudo implica hipertensión,
+    que puede ser causa y resultado de ECV.
+-   Dislipidemias
+-   Hipertensión arterial.
+-   Síndrome de ovario poliquístico
+
+La RI, el SM y la aterosclerosis parecen tener una base inflamatoria
+común; se admite que la RI es el proceso fisiopatológico que subyace
+bajo el conjunto de factores de RCV (ateroesclerosis) y del SM.
+
+Además de la genética heredada son tantas y tan variadas las causas que
+intervienen en su formación que no se puede medir el rango de influencia
+de cada uno de los factores, pero lo que sí se puede es modificar son
+los factores ambientales, es decir los hábitos de vida que influyan
+sobre su prevención y mejora.
+
+La resistencia a la insulina parece ser el vínculo común y el factor
+promotor de la cascada de disturbios metabólicos, modulados por factores
+genéticos y ambientales.
+
+Hoy en día se habla de la Epigenética, que estudia los cambios
+hereditarios causados por la activación o desactivación los genes sin
+cambiar la secuencia del ADN, Estos cambios como son la alimentación,
+ejercicio, sustancias químicas o medicamentos (factores ambientales)
+modifican el riesgo de enfermedades y a veces pasan de padres a hijos
+
+Por otro lado, si hablamos de la RI como uno de los factores que
+conforman el SM tenemos que dedicar un apartado para hablar de la
+Diabetes Mellitus II que es una enfermedad que surge a partir de esa
+resistencia a la insulina y que da como resultado un elevado índice de
+glucemia en sangre, siendo la glucemia en sangre uno de los criterios
+que conforman el Síndrome Metabólico.
+
+La diabetes Mellitus tipo II representa el 90/95 % de todas las
+diabetes. Su origen no es la autoinmunidad, es la RI.
+
+La OMS lo define como el grupo de trastornos metabólicos de diferentes
+causas y cuya característica fundamental es la hiperglucemia (niveles de
+glucosa elevados). Es una hiperglucemia que aparece de forma crónica. Se
+mantiene la glucosa en sangre durante tiempos elevados y hay alteración
+en el metabolismo de los HdC, las grasas y las proteínas y todo ello
+debido o bien a la síntesis de la insulina o a su acción.
+
+A largo plazo esta hiperglucemia tiene consecuencias, da lugar a
+complicaciones específicas como afectación ocular, renal, aumento del
+riesgo de ateroesclerosis y problemas cardiovasculares. La Asociación
+Americana del Corazón habla de ella como una enfermedad cardiovascular y
+no sólo de carácter metabólico.
+
+Actualmente se trata de una pandemia a nivel mundial.
+
+Hasta hace unos años era algo típico del primer mundo, puesto que se
+relacionaba fundamentalmente con los hábitos de vida y el sedentarismo
+propios del mundo occidental, pero en los últimos años ha ido aumentando
+su incidencia y prevalencia en todo el mundo, también en los países
+menos desarrollados que va adoptando estilos de vida occidentales.
+
+Se cree que afecta al 8/12% de la población, aunque hay países en que
+este porcentaje es mayor como es el caso de España.
+
+En el año 2017 se realizó un estudio en el que se vió que afectaba a 425
+millones de personas de todo el mundo especialmente adultos, pero
+también a niños cosa que era impensable hace unos años que cuando se
+hablaba de diabetes infantil se asociaba directamente a la diabetes
+autoinmune de tipo I.
+
+Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
+de personas en todo el mundo con riesgo de desarrollar diabetes.
+
+Su rigen se relaciona con factores no modificables y modificables sobre
+los que hay que insistir.
+
+Factores no modificables:
+
+-   Genética (aunque se puede influir en esa expresión de los genes a
+    través de la Epigenética)
+-   Prematuridad: haber nacido prematuro o con peso inadecuado tanto con
+    bajo peso como con sobrepeso para la edad gestacional.
+-   Madre con diabetes gestacional: favorece la aparición de diabetes en
+    la edad adulta.
+-   Etnia (factores genéticos y hormonales)
+
+Factores modificables:
+
+-   Factores ambientales: estilo de vida (actividad física,
+    alimentación, tabaquismo, alcohol, estrés emocional, falta de sueño)
+    todos ellos capaces de mejorar o empeorar la enfermedad.
+-   Disrruptores endocrinos: químicos capaces de mimetizar nuestras
+    hormonas y, por tanto, de alterar el correcto funcionamiento
+    corporal y afectar negativamente a nuestra salud.
+-   Déficit de micronutrientes como selenio, hierro vitamina D
+
+Son factores de riesgo que actúan sobre el sistema inmunológico, la
+vascularización, el tejido adiposo, músculo, hígado, intestino,
+microbiota.
+
+Sobre todo esto hay una relación estrecha siendo muy difícil separar los
+metabolismos endocrinos y autoinmunes que posee los distintos factores
+de diabetes. Lo que si se puede hacer es intentar actuar sobre los que
+sí son modificables para intentar mejorar esta situación.
+
+El tener elevada glucemia de forma constante puede producir daños a
+nivel ocular, coronario, renal y nervioso entre otros.
+
+Se considera que los valores normales de glucemia en ayunas son
+60-110md/dl., mientras que valores &gt; o iguales a 160ml/dl en ayunas
+estaríamos hablando de diabetes.
 
 #### Hipertensión arterial
 
@@ -506,35 +772,35 @@ dislipemia.
 
 Es una causa frecuente de ganancia de peso en la mujer.
 
-> El reconocimiento de este síndrome durante el embarazo podría ayudar a
-> identificar a un subgrupo de mujeres quienes no solamente pueden
-> desarrollar complicaciones durante el embarazo, sino que
-> potencialmente tienen un riesgo incrementado de condiciones
-> metabólicas y cardiovasculares a lo largo de su vida.
+El reconocimiento de este síndrome durante el embarazo podría ayudar a
+identificar a un subgrupo de mujeres quienes no solamente pueden
+desarrollar complicaciones durante el embarazo, sino que potencialmente
+tienen un riesgo incrementado de condiciones metabólicas y
+cardiovasculares a lo largo de su vida.
 
-> Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
-> enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
-> síndrome es detectado precozmente, pueden realizarse cambios
-> significativos en la conducta médica durante el embarazo desde su
-> inicio, para prevenir las complicaciones maternas y fetales asociadas,
-> de esta manera contribuiría como una herramienta diagnóstica útil para
-> su aplicación en todas aquellas gestantes que acudan a su control
-> prenatal e incluso en la consulta preconcepcional, para hacer
-> diagnóstico de rutina y así recomendarles que deben tratarse.
+Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
+enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
+síndrome es detectado precozmente, pueden realizarse cambios
+significativos en la conducta médica durante el embarazo desde su
+inicio, para prevenir las complicaciones maternas y fetales asociadas,
+de esta manera contribuiría como una herramienta diagnóstica útil para
+su aplicación en todas aquellas gestantes que acudan a su control
+prenatal e incluso en la consulta preconcepcional, para hacer
+diagnóstico de rutina y así recomendarles que deben tratarse.
 
-> La presencia de SM antes del inicio del embarazo es un factor de
-> riesgo importante para trastornos hipertensivos del embarazo. Se ha
-> correlacionado con la hipertensión de la gestación en un 11 % y con la
-> preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
-> hipertensivos en el primer embarazo incrementa el riesgo de
-> desarrollar posteriormente SM de 3 a 5 veces
+La presencia de SM antes del inicio del embarazo es un factor de riesgo
+importante para trastornos hipertensivos del embarazo. Se ha
+correlacionado con la hipertensión de la gestación en un 11 % y con la
+preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
+hipertensivos en el primer embarazo incrementa el riesgo de desarrollar
+posteriormente SM de 3 a 5 veces
 
-> Es difícil demostrar que se produzcan lesiones a largo plazo en madres
-> gestantes debido al SM, al contrario de lo que ocurre con los efectos
-> de una predisposición a las enfermedades cardiovasculares y la
-> diabetes tipo 2. Sin embargo tanto la diabetes de la DG como los
-> trastornos hipertensivos del embarazo (THE) pueden verse como
-> expresiones del síndrome durante la gestación (4).
+Es difícil demostrar que se produzcan lesiones a largo plazo en madres
+gestantes debido al SM, al contrario de lo que ocurre con los efectos de
+una predisposición a las enfermedades cardiovasculares y la diabetes
+tipo 2. Sin embargo tanto la diabetes de la DG como los trastornos
+hipertensivos del embarazo (THE) pueden verse como expresiones del
+síndrome durante la gestación (4).
 
 Si la diabetes gestacional está asociada con obesidad, se incrementa el
 riesgo de síndrome metabólico de 4 a 10 veces.
@@ -542,12 +808,12 @@ riesgo de síndrome metabólico de 4 a 10 veces.
 En cuanto a la prevalencia del SM se ha observado un incremente con la
 edad y la obesidad.
 
-> Existen diversos factores de riesgo predisponentes relacionados con el
-> SM, entre los cuales están: obesidad, sedentarismo, dieta rica en
-> grasa. Los de mayor riesgo son los siguientes: hipertensión, hábito
-> tabáquico, concentraciones elevadas de lipoproteínas de baja densidad
-> (LDL) y bajas de lipoproteínas de alta densidad (HDL), antecedentes
-> familiares de enfermedad cardiovascular temprana y la edad.
+Existen diversos factores de riesgo predisponentes relacionados con el
+SM, entre los cuales están: obesidad, sedentarismo, dieta rica en grasa.
+Los de mayor riesgo son los siguientes: hipertensión, hábito tabáquico,
+concentraciones elevadas de lipoproteínas de baja densidad (LDL) y bajas
+de lipoproteínas de alta densidad (HDL), antecedentes familiares de
+enfermedad cardiovascular temprana y la edad.
 
 Existen una serie diagnósticos que pueden ser identificados como
 síntomas tempranos de SM, como pueden ser el síndrome de ovario
@@ -653,6 +919,9 @@ Por ejemplo, se ha encontrado que a mayor peso al nacer, mayor
 probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de
 presión arterial sistólica durante su niñez.
 
+También se sabe que un bajo o elevado al nacer es un factor para
+desarrollar diabetes mellitus II en la edad adulta
+
 Se ha encontrado también relación entre el bajo peso al nacer y el
 riesgo cardiometabólico, morbilidad y mortalidad cardiovascular. Y que
 el alto peso al nacer está relacionado con el desarrollo de otros
@@ -667,6 +936,22 @@ En niños la circunferencia de cintura es predictora del síndrome de
 insulinorresistencia, recomendándose su lectura en la práctica clínica
 como herramienta simple para identificar a niños con riesgo de presentar
 en un futuro ECV y diabetes tipo II.
+
+\*\*\*\* La obesidad infantil es el principal factor de riesgo de
+obesidad en el adulto, así como de síndrome metabólico, diabetes
+mellitus tipo 2 y del desarrollo de enfermedades cardiovasculares, que
+reducen la calidad y duración de la vida. El síndrome metabólico es un
+diagnóstico clínico que identifica una población con elevado riesgo
+cardiovascular. La resistencia a la insulina parece ser el vínculo común
+y el factor promotor de la cascada de disturbios metabólicos, modulados
+por factores genéticos y ambientales. El síndrome metabólico puede
+demostrarse en la edad pediátrica, pero actualmente no existen criterios
+claramente definidos. Los criterios de la International Diabetes
+Federation (IDF) para niños y adolescentes son los más utilizados, por
+su fácil manejo; la medida de la cintura es el principal componente. Se
+necesita una definición internacional para poder comparar los resultados
+de los diferentes estudios, y, hasta que no ocurra, no se debe
+diagnosticar por debajo de los 10 años. \*\*\*\*
 
 ### 3.2.2.4 SM en la tercera edad
 
