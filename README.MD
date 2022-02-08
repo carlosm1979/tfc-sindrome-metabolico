@@ -148,6 +148,8 @@ Parte teórica
 Que es
 ------
 
+#### OMS
+
 Después de la definición dada por Reaven, en 1999 la OMS cambió la
 denominación a 'Síndrome metabólico', y estableció una definición en la
 que considera que hay evidencia de que la RI como el factor causal común
@@ -158,11 +160,43 @@ son mucho más potentes, y que el tratamiento no debe enfocarse
 únicamente al control de la glucosa, si no incluir también estrategias
 para reducir los factores de riesgo cardiovascular.
 
+**Criterios de diagnóstico OMS**
+
+  ---------------------- ------------------------------------------------------------------
+  *Definitivo*           Intolerancia a la glucosa o tolerancia anormal a la glucosa o
+                         diabetes mellitus, resistencia a la insulina, o ambos
+
+  *Dos o más de los      
+  siguientes             
+  componentes*           
+
+  **Alteración en la     
+  regulación de glucosa  
+  o diabetes**           
+
+  **Resistencia a la     (en condiciones hiperinsulinémicas y euglicémicas, con una captura
+  insulina**             de glucosa por debajo del menor cuartil para la población de base
+                         de la investigación)
+
+  **Presión arterial     (`>`= 140/90 mmHg)
+  elevada**              
+
+  **Elevación de         (`>`= 1.7 mmol/L; 150 mg/dL),99 disminución de colesterol HDL &lt;
+  triglicéridos          0.9 mmol/L, 35 mg/dL en hombres; &lt; 1.0 mmol/L, 39 mg/dL en
+  plasmáticos**          mujeres, o ambos
+
+  **Obesidad central**   índice de cintura-cadera: hombres `>` 0.90; mujeres `>` 0.85, IMC
+                         `>` 30 kg/m2 o ambos
+
+  **Microalbuminuria**   99 índice de excreción urinaria de albúmina de 20 mg/min o índice
+                         albúmina-creatinina `>` 30 mg/g
+  ---------------------- ------------------------------------------------------------------
+
 A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
 definir la lista de factores que lo componen.
 
-### Evolución de la definición de criterios de diagnóstico
+\pagebreak
 
 #### Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
 
@@ -189,6 +223,8 @@ corporal no se considera parte del síndrome y que se ha demostrado que
 la microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
 
+\pagebreak
+
 #### ATP-III
 
 En 2002 el Panel de Expertos en la Detección, Evaluación y Tratamiento
@@ -201,29 +237,31 @@ constituirlo eran obesidad abdominal, dislipidemia aterogénica, aumento
 de la presión arterial, resistencia a la insulina, intolerancia a la
 glucosa o ambas, estado protrombótico y estado proinflamatorio.
 
-ATP III no consideró necesario recomendar una medición rutinaria de
-resistencia a la insulina, pues asumen que la mayor parte de los sujetos
-que cumplan tres o más criterios la padecerán y rechazan la
-microalbuminuria de la Organización Mundial de la Salud. Tanto esta como
-la definición de la OMS incluyen las cuatro características mayores del
-síndrome metabólico y su uso clínico no debe ocasionar sismos graves
-para identificar individuos.
+No consideró necesario recomendar una medición rutinaria de resistencia
+a la insulina, pues asumen que la mayor parte de los sujetos que cumplan
+tres o más criterios la padecerán y rechazan la microalbuminuria de la
+Organización Mundial de la Salud. Tanto esta como la definición de la
+OMS incluyen las cuatro características mayores del síndrome metabólico
+y su uso clínico no debe ocasionar sismos graves para identificar
+individuos.
 
     **Criterios de diagnóstico ATP III** 
   -------------------------------------- ---------------------------
-                    **Factor de riesgo** **Nivel definido**
-                     Obesidad abdominal: Circunferencia de cintura
+                      *Factor de riesgo* *Nivel definido*
+                  **Obesidad abdominal** Circunferencia de cintura
                                  Hombres `>` 102cm
                                  Mujeres `>` 88cm
-                          Triglicéridos: `>`=150 mg/dL
-                         Colesterol-DHL: 
+                       **Triglicéridos** `>`=150 mg/dL
+                      **Colesterol-DHL** 
                                  Hombres &lt;40 mg/dL
                                  Mujeres &lt;50 mg/dL
-                       Presión arterial: `>`=130/80 mm Hg
-                      Grucosa en ayunas: `>`=110 mg/dL
+                    **Presión arterial** `>`=130/80 mm Hg
+                   **Grucosa en ayunas** `>`=110 mg/dL
 
 *El síndrome metabólico está presente cuando se cumblen tres o más de
 los cinco criterios.*
+
+\pagebreak
 
 #### Asociación Americana de Endocrinólogos Clínicos
 
@@ -231,29 +269,27 @@ En 2003 Asociación Americana de Endocrinólogos Clínicos y el Colegio
 Americano de Endocrinología adoptaron los criterios ATP-III en los
 puntos concernientes a presión arterial y lípidos, pero sugirieron
 reconocer las limitaciones de la determinación de glucosa en ayuno,
-añadiendo la determinación de glucosa 2 horas poscarga y agregar al
-índice de masa corporal como medida de obesidad, considerando a ésta
-factor de riesgo, en lugar de criterio. Y modificaron la definición para
-volver a enfocarla en la resistencia a la insulina como causa primaria
-de síndrome metabólico y, una vez más, excluyeron a los diabéticos de la
-definición y propusieron el nombre síndrome de resistencia a la
-insulina.
+añadiendo la determinación de glucosa 2 horas poscarga y agregar el IMC
+como medida de obesidad, considerando a ésta factor de riesgo, en lugar
+de criterio. Y modificaron la definición para volver a enfocarla en la
+resistencia a la insulina como causa primaria de síndrome metabólico y,
+una vez más, excluyeron a los diabéticos de la definición y propusieron
+el nombre síndrome de resistencia a la insulina.
 
-\pagebreak
+**Criterios de diagnóstico de la Asociación americana de
+endocrinología**
 
-#### Asociación americana de endocrinología
-
-    **Criterios de diagnóstico de la Asociación americana de endocrinología** 
-  --------------------------------------------------------------------------- -----------------
-                                                          Glucosa plasmática: 
-                                                                        Ayuno 110-125 mg/dL
-                                                         120 minutos poscarga 140-200 mg/dL
-                                                           de 75 g de glucosa 
-                                                                triglicéridos `>` 150 mg/dL
-                                                               Colesterol HDL 
-                                                                     Hombres: &lt; 40 mg/dL
-                                                                     Mujeres: &lt; 50 mg/dL
-                                                             Presión arterial `>` 130/85 mmHg
+  ------------------------ -----------------
+    **Glucosa plasmática** 
+                     Ayuno 110-125 mg/dL
+      120 minutos poscarga 140-200 mg/dL
+        de 75 g de glucosa 
+         **Triglicéridos** `>` 150 mg/dL
+        **Colesterol HDL** 
+                  Hombres: &lt; 40 mg/dL
+                  Mujeres: &lt; 50 mg/dL
+      **Presión arterial** `>` 130/85 mmHg
+  ------------------------ -----------------
 
 Esta propuesta difiere de las anteriores en que el concepto de síndrome
 de resistencia a la insulina excluye a pacientes cuyo grado de
@@ -261,6 +297,8 @@ hiperglucemia cumple el criterio diagnóstico de diabetes mellitus 2; una
 limitante mayor es que no especifica un número definido de factores para
 el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
 criterios no son útiles como definición para estudios epidemiológicos.
+
+\pagebreak
 
 #### Federación Internacional de Diabetes
 
@@ -273,12 +311,8 @@ distribución anormal de grasa corporal, resistencia a la insulina,
 dislipidemia aterogénica, Aumento de la presión arterial, estado
 proinflamatorio e estado protrombótico.
 
-  -----------------------------------------------------------------------------
-            **Criterios 
-            diagnostico 
-             Federación 
-       Internacional de 
-             Diabetes** 
+**Criterios diagnostico Federación Internacional de Diabetes**
+
   --------------------- -------------------------------------------------------
          **Distribución La obesidad central es la que más se asocia con
        anormal de grasa síndrome metabólico y es la que, independientemente, se
@@ -307,7 +341,9 @@ proinflamatorio e estado protrombótico.
 
                **Estado Aumento del inhibidor del plasminógeno 1 y fibrinógeno
         protrombótico** 
-  -----------------------------------------------------------------------------
+  --------------------- -------------------------------------------------------
+
+\pagebreak
 
 ### Herramienta de diagnóstico
 
