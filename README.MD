@@ -15,8 +15,8 @@ Indice general
     -   [3.1 Que es](#que-es)\
         *Patologías relacionadas*
     -   [3.2 Diagnóstico](#diagnóstico)
-        -   [3.2.1 Factores de
-            riesgo](#Factores-de-riesgo-caracteristicas)
+        -   [3.2.1 Factores de riesgo.
+            Características.](#Factores-de-riesgo-caracteristicas)
             -   [Circunferencia grande de
                 cintura](#Circunferencia-grande-de-cintura)
             -   [Colesterol bueno o de lipoproteínas de alta densidad
@@ -315,6 +315,48 @@ hiperglucemia cumple el criterio diagnóstico de diabetes mellitus 2; una
 limitante mayor es que no especifica un número definido de factores para
 el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
 criterios no son útiles como definición para estudios epidemiológicos.
+
+**Factores de riesgo de SM de la Asociación americana de
+endocrinología**
+
+  ----------------------------------- ---------------------
+  **Exceso de peso**                  IMC `>` 25
+
+  **Circunferencia de la cintura**    
+
+  hombres                             `>` 40 pulgadas
+
+  mujeres                             `>` 35 pulgadas
+
+                                      (10-15% menos en no
+                                      caucásicos)
+
+  **Estilo de vida sedentario**       
+
+  **Edad**                            `>` 40 años
+
+  **Etnicidad no caucásica**          (latino,
+                                      hispanoamericano,
+                                      afroamericano, nativo
+                                      americano,
+                                      asiático-americano,
+                                      de las Islas del
+                                      Pacífico)
+
+  **Antecedentes familiares de        
+  diabetes mellitus 2, hipertensión   
+  arterial o enfermedad               
+  cardiovascular**                    
+
+  **Antecedentes de intolerancia a la 
+  glucosa o diabetes gestacional**    
+
+  **Acantosis nigricans**             
+
+  **Síndrome de ovario poliquístico** 
+
+  **Hígado graso no alcohólico**      
+  ----------------------------------- ---------------------
 
 \pagebreak
 
@@ -1509,38 +1551,6 @@ Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiov
   Clase III        &gt;40           Extremadamente alto        Extremadamente alto
   ---------------------------------------------------------------------------------------
 
-Grupo Europeo para el Estudio de la Resistencia a la Insulina - EGIR
---------------------------------------------------------------------
-
-  --------------------------- -----------------------------------
-  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
-  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
-  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
-                              o colesterol HDL &lt; 1.0 mmol/L
-                              o en tratamiento
-  **obesidad central**        circunferencia de la cintura:
-  hombres                     `>`= 94 cm
-  mujeres                     `>`= 80 cm
-  --------------------------- -----------------------------------
-
-Criterios ATP III para el diagnóstico del síndrome metabólico
--------------------------------------------------------------
-
-    **Factor de riesgo** **Nivel definido**
-  ---------------------- ---------------------------
-     Obesidad abdominal: Circunferencia de cintura
-                 Hombres `>` 102cm
-                 Mujeres `>` 88cm
-          Triglicéridos: `>`=150 mg/dL
-         Colesterol-DHL: 
-                 Hombres &lt;40 mg/dL
-                 Mujeres &lt;50 mg/dL
-       Presión arterial: `>`=130/80 mm Hg
-      Grucosa en ayunas: `>`=110 mg/dL
-
-El síndrome metabólico está presente cuando se cumblen tres o más de los
-cinco criterios.
-
 Criterios de la IDF (International Diabetes Federation (2006).
 --------------------------------------------------------------
 
@@ -1633,34 +1643,3 @@ Criterios diagnósticos NCEP-ATP III
   HDL-Col Hombres &lt; 40 Mujeres &lt; 50
   Glucosa Sanguínea en ayunas = 110 mg/dL
   -------------------------------------------
-
-Valores de circunferencia abdominal indicándose la especificidad étnica
------------------------------------------------------------------------
-
-  ------------------------ ------------------------ ------------------------
-  Europeos\*                   Hombres = 94 cm          Mujeres = 80 cm
-
-  USA: es probable seguir      Hombres = 102 cm         Mujeres = 88 cm
-  con ATP III                                       
-
-  Asia del Sur resultados      Hombres = 90 cm          Mujeres = 80 cm
-  basados en las                                    
-  poblaciones Chinas,                               
-  Malaya y Asiático-Indú                            
-
-  China                        Hombres = 90 cm          Mujeres = 80 cm
-
-  Japón \*\*                   Hombres = 90 cm          Mujeres = 80 cm
-
-  Sur América y Centro     Usar las recomendaciones 
-  América                    para Asiahasta tener   
-                              nueva información.    
-
-  Africa sub-Sahariana     Usar los datos europeos  
-                              hasta tener nueva     
-                                 información        
-
-  Poblaciones Árabes y del Usar los datos europeos  
-  Mediterráneo.               hasta tener nueva     
-                                 información        
-  ------------------------ ------------------------ ------------------------
