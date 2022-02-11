@@ -14,6 +14,9 @@
             - [Glucosa sanguínea en ayunas elevada](#Glucosa-sanguínea-en-ayunas-elevada)
             - [Hipertensión arterial](#Hipertensión-arterial)
               1. [Prevalencia de hipertensión arterial en adolescentes del preuniversitario "Salvador Allende"](/docs/resumenes/029.md)
+              2. [Morbilidad oculta de hipertensión arterial en adolescentes](./030.md)
+              3. [Tratamiento de la hipertensión arterial en el pacinete con síndrome metabólico](./038.md)
+
             - [Niveles elevados de triglicéridos](#Niveles-elevados-de-triglicéridos)
         - 3.2.2 Por grupos de población
             - 3.2.2.1 SM en el hombre
