@@ -449,7 +449,7 @@ vez como instrumento de prevención y tratamiento del SM.
 Diagnóstico
 -----------
 
-a importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que cuando está presente en un paciente es indicador de un elevado
 riesgo cardiovascular.
 
