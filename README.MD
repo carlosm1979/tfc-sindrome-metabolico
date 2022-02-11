@@ -12,10 +12,11 @@ Indice general
 -   [1. Introduccion](#introducción)
 -   [2. Objetivos](#objetivos)
 -   [3. Parte teórica](#parte-teórica)
-    -   [3.1 Que es](#31quees)\
+    -   [3.1 Que es](#que-es)\
         *Patologías relacionadas*
     -   [3.2 Diagnóstico](#diagnóstico)
-        -   [3.2.1 Factores de riesgo](#Factores-de-riesgo)
+        -   [3.2.1 Factores de
+            riesgo](#Factores-de-riesgo-caracteristicas)
             -   [Circunferencia grande de
                 cintura](#Circunferencia-grande-de-cintura)
             -   [Colesterol bueno o de lipoproteínas de alta densidad
@@ -449,8 +450,8 @@ vez como instrumento de prevención y tratamiento del SM.
 
 \pagebreak
 
-Diagnóstico
------------
+3.2 Diagnóstico
+---------------
 
 la importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que cuando está presente en un paciente es indicador de un elevado
@@ -504,7 +505,7 @@ criterios de evaluación son:
 
 -Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
 
-### Factores de riesgo. Características.
+### 3.2.1 Factores de riesgo. Características.
 
 Las causas del SM no se conocen con exactitud, pero es fundamental saber
 los factores de riesgo asociados que lo desencadenan y lo definen como
