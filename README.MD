@@ -316,6 +316,8 @@ limitante mayor es que no especifica un número definido de factores para
 el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
 criterios no son útiles como definición para estudios epidemiológicos.
 
+ 
+
 **Factores de riesgo de SM de la Asociación americana de
 endocrinología**
 
@@ -1572,65 +1574,6 @@ Criterios de la IDF (International Diabetes Federation (2006).
   Hiperglucemia en ayunas                                              Glicemia en ayunas = 100 mg/dL (5.6 mmol/L), Si el valor es mayor de
                                                                        100 mg/dL se sugiere hacer CTG. Diagnóstico previo de DM tipo 2\*
   -----------------------------------------------------------------------------------------------------------------------------------------
-
-Asociación americana de endocrinología ACE
-------------------------------------------
-
-  ---------------------- -----------------
-     Glucosa plasmática: 
-                   Ayuno 110-125 mg/dL
-    120 minutos poscarga 140-200 mg/dL
-      de 75 g de glucosa 
-           triglicéridos `>` 150 mg/dL
-          Colesterol HDL 
-                Hombres: &lt; 40 mg/dL
-                Mujeres: &lt; 50 mg/dL
-        Presión arterial `>` 130/85 mmHg
-  ---------------------- -----------------
-
-AEC FACTORES RIESGO
--------------------
-
-  ----------------------------------- ---------------------
-  **Exceso de peso**                  
-
-                                      IMC `>` 25
-
-  **Circunferencia de la cintura**    
-
-  hombres                             `>` 40 pulgadas
-
-  mujeres                             `>` 35 pulgadas
-
-                                      (10-15% menos en no
-                                      caucásicos)
-
-  **Estilo de vida sedentario**       
-
-  **Edad**                            `>` 40 años
-
-  **Etnicidad no caucásica**          (latino,
-                                      hispanoamericano,
-                                      afroamericano, nativo
-                                      americano,
-                                      asiático-americano,
-                                      de las Islas del
-                                      Pacífico)
-
-  **Antecedentes familiares de        
-  diabetes mellitus 2, hipertensión   
-  arterial o enfermedad               
-  cardiovascular**                    
-
-  **Antecedentes de intolerancia a la 
-  glucosa o diabetes gestacional**    
-
-  **Acantosis nigricans**             
-
-  **Síndrome de ovario poliquístico** 
-
-  **Hígado graso no alcohólico**      
-  ----------------------------------- ---------------------
 
 Criterios diagnósticos NCEP-ATP III
 -----------------------------------
