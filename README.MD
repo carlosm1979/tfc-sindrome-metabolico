@@ -56,7 +56,7 @@ III)](#tabla-3)\
 [Tabla 5: Valores de circunferencia abdominal indicándose la
 especificidad étnica](#tabla-5)
 
-I. Introducción
+1. Introducción
 ===============
 
 A lo largo del último siglo nuestros hábitos de vida han cambiado
@@ -147,6 +147,9 @@ Parte teórica
 
 Que es
 ------
+
+El SM no es una enfermedad, es un grupo de factores de riesgo para
+desarrollo de enfermedad cardiovascular y diabetes mellitus II.
 
 #### OMS
 
@@ -449,7 +452,7 @@ vez como instrumento de prevención y tratamiento del SM.
 Diagnóstico
 -----------
 
-La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+la importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que cuando está presente en un paciente es indicador de un elevado
 riesgo cardiovascular.
 
@@ -465,23 +468,26 @@ visión borrosa.
 Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
 sangrado nasal, pero en general se trata de signos inespecíficos.
 
-Se dan varios factores de riesgo para desarrollar síndrome metabólico, a
-menudo las personas tienen varios de ellos al mismo tiempo. Si tiene al
-menos tres de ellos, se llama síndrome metabólico. Estos factores de
-riesgo incluyen:
+Son varios los factores de riesgo para desarrollar síndrome metabólico,
+a menudo las personas tienen varios a la vez. Es necesario tener al
+menos tres de ellos para poder poder dar un diagnóstico de síndrome
+metabólico.
 
--   Cuerpo con "forma de manzana", también llamada obesidad abdominal.
-    Tener demasiada grasa alrededor de la cintura es un factor de riesgo
-    mayor para enfermedades del corazón que acumular demasiada grasa en
-    otras partes del cuerpo.
+-   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
+    un factor de riesgo mayor para enfermedades del corazón que acumular
+    demasiada grasa en otras partes del cuerpo.
+
 -   Tener un nivel alto de triglicéridos, un tipo de grasa que se
     encuentra en la sangre.
+
 -   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
     conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
     de las arterias.
+
 -   Tener presión arterial alta: Si su presión arterial se mantiene alta
     en el tiempo, puede dañar su corazón y provocar otros problemas de
     salud.
+
 -   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
     azúcar en la sangre levemente alto puede ser un signo temprano de
     diabetes.
@@ -489,36 +495,27 @@ riesgo incluyen:
 Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
 diabetes y accidente cerebrovascular.
 
-El síndrome metabólico tiene varias causas que actúan juntas:
+\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
+criterios de evaluación son:
 
--   Sobrepeso y obesidad
--   Un estilo de vida inactivo
--   Resistencia a la insulina: Afección en la cual el cuerpo no puede
-    usar bien la insulina, una hormona que ayuda a mover el azúcar en la
-    sangre a las células para darles energía. La resistencia a la
-    insulina puede conducir a niveles altos de azúcar en la sangre
--   Edad: Su riesgo aumenta a medida que envejece
--   Genética: Origen étnico y su historia familiar
+-Un estilo de vida inactivo
 
-Como se ha indicado ha habido varios intentos para establecer unos
-criterios que ayuden a diagnosticar SM
+-Edad: Su riesgo aumenta a medida que envejece
 
-Criterios según la OMS.
+-Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
 
-La OMS dice que la insulinorresistencia puede ser el factor común para
-los componentes individuales del SM. En el año.
-
-No existen unos varemos aceptados universalmente y se ha detectado que
-los valores de corte difieren según la étnica de los grupos de población
-\#\#\# Factores de riesgo
+### Factores de riesgo. Características.
 
 Las causas del SM no se conocen con exactitud, pero es fundamental saber
 los factores de riesgo asociados que lo desencadenan y lo definen como
-SM. Así tenemos: \#\#\#\# Obesidad abdominal.Perímetro de cintura
-elevado.
+SM.
+
+Así tenemos:
+
+#### Obesidad abdominal.Perímetro de cintura elevado.
 
 El perímetro de cintura es uno de los cinco criterios que conforman el
-diagnóstico del SM
+diagnóstico del SM.
 
 La masa de grasa es el componente más variable en la composición
 corporal, tanto si se comparan varios individuos como si se consideran
@@ -587,8 +584,6 @@ las relacionadas con la resistencia a la insulina, hipertensión
 arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
 otras.
 
-#### Colesterol bueno o de lipoproteínas de alta densidad reducido (dislipemia)
-
 #### Resistencia a la insulina. Diabetes mellitus tipo II
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un
@@ -605,16 +600,16 @@ más insulina para que la glucosa penetre en las células. Por
 consiguiente, el páncreas produce más insulina, la cual es bombeada a la
 corriente sanguínea. Cuando hay mucha insulina en la corriente sanguínea
 se produce una hiperinsulinemia lo que aumenta el riesgo de sufrir un
-infarto de miocardio, porque la insulina:
+infarto de miocardio debido a que la insulina:
 
--   Eleva los niveles de triglicéridos.
+-   Eleva los niveles de triglicéridos.\
 -   Reduce los niveles de lipoproteínas de alta densidad (HDL o
-    «colesterol bueno»).
+    «colesterol bueno»).\
 -   Eleva los niveles de lipoproteínas de baja densidad (LDL o
-    «colesterol malo»).
+    «colesterol malo»).\
 -   Hace más difícil que el organismo elimine las grasas de la sangre
-    después de comer.
--   Eleva la presión arterial.
+    después de comer.\
+-   Eleva la presión arterial.\
 -   Aumenta la capacidad de coagulación de la sangre.
 
 Esta falta de sensibilidad a la insulina y esta respuesta de un aumento
@@ -623,14 +618,14 @@ y a la aparición de, entre otras patologías:
 
 -   Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no
     poder ingresar la glucosa en las células se produce un nivel levado
-    de glucosa en la sangre)
+    de glucosa en la sangre)\
 -   Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el
     corazón y los vasos sanguíneos. Se asocia con la acumulación de
     depósitos de grasa en las arterias. A menudo implica hipertensión,
-    que puede ser causa y resultado de ECV.
--   Dislipidemias
--   Hipertensión arterial.
--   Síndrome de ovario poliquístico
+    que puede ser causa y resultado de ECV.\
+-   Dislipidemias.\
+-   Hipertensión arterial.\
+-   Síndrome de ovario poliquístico.
 
 La RI, el SM y la aterosclerosis parecen tener una base inflamatoria
 común; se admite que la RI es el proceso fisiopatológico que subyace
@@ -710,33 +705,103 @@ Factores no modificables:
 
 Factores modificables:
 
--   Factores ambientales: estilo de vida (actividad física,
+-   **Factores ambientales**: estilo de vida (actividad física,
     alimentación, tabaquismo, alcohol, estrés emocional, falta de sueño)
     todos ellos capaces de mejorar o empeorar la enfermedad.
--   Disrruptores endocrinos: químicos capaces de mimetizar nuestras
+-   **Disrruptores endocrinos**: químicos capaces de mimetizar nuestras
     hormonas y, por tanto, de alterar el correcto funcionamiento
     corporal y afectar negativamente a nuestra salud.
--   Déficit de micronutrientes como selenio, hierro vitamina D
+-   **Déficit de micronutrientes** como selenio, hierro vitamina D
 
 Son factores de riesgo que actúan sobre el sistema inmunológico, la
 vascularización, el tejido adiposo, músculo, hígado, intestino,
 microbiota.
 
-Sobre todo esto hay una relación estrecha siendo muy difícil separar los
-metabolismos endocrinos y autoinmunes que posee los distintos factores
-de diabetes. Lo que si se puede hacer es intentar actuar sobre los que
-sí son modificables para intentar mejorar esta situación.
+Sobre todo, esto hay una relación estrecha siendo muy difícil separar
+los metabolismos endocrinos y autoinmunes que posee los distintos
+factores de diabetes. Lo que si se puede hacer es intentar actuar sobre
+los que sí son modificables para intentar mejorar esta situación.
 
 El tener elevada glucemia de forma constante puede producir daños a
 nivel ocular, coronario, renal y nervioso entre otros.
 
 Se considera que los valores normales de glucemia en ayunas son
-60-110md/dl., mientras que valores &gt; o iguales a 160ml/dl en ayunas
+60-110md/dl., mientras que valores `>` o iguales a 160ml/dl en ayunas
 estaríamos hablando de diabetes.
+
+#### Colesterol bueno o de lipoproteínas de alta densidad reducido (dislipemia)
 
 #### Hipertensión arterial
 
 #### Niveles elevados de triglicéridos
+
+La dislipemia característica del SM, la hipertrigliceridemia con cifras
+bajas de colesterol unido a lipoproteínas de alta densidad, es
+consecuencia de la hiperinsulinemia en el metabolismo de las
+lipoproteínas.
+
+### Desarrollo fisiopatológico del SM
+
+Para el desarrollo del SM tienen que darse dos factores causales. Uno es
+una susceptibilidad genética y otro son una serie de factores
+ambientales y que son los que dan un riesgo determinado para que una
+persona sufra SM.
+
+Los factores ambientales (hábitos de vida) tienen mucho peso y están
+asociados fundamentalmente a la obesidad, que será el elemento núcleo,
+en concreto la obesidad que cursa con aumento de grasa visceral que se
+acumula dentro de los órganos y desencadena una serie de cambios que
+hace que no funcionen bien todo el metabolismo y poco a poco se vaya
+deteriorando.
+
+Hay una serie de elementos que empiezan a aparecer sucesivamente una vez
+que ya se ha dado la obesidad visceral. Uno de ellos es la acumulación
+de grasa en el hígado.
+
+Este normalmente no tiene muchos acúmulos de grasa, pero en una persona
+obesa van apareciendo acúmulos que producen lo que se denomina hígado
+graso o esteatosis hepática
+
+Un hígado lleno de grasa no es un hígado sano, no funciona bien y
+produce otros problemas a largo plazo como el aumento de la inflamación
+y la dislipemia. El hígado es una gran fábrica en el organismo y el
+metabolismo de los lípidos se lleva a cabo en el y cuando está lleno de
+gras aparece alteración de grasa en sangre, una dislipemia.
+
+Además, la obesidad conlleva una mayor resistencia a la insulina. Al
+principio es un mecanismo compensador del cuerpo que lo que pretende es
+que nuestras cifras de glucemia no aumenten demasiado, pero con el paso
+del tiempo este mecanismo compensador no puede mantenerse apareciendo la
+hiperglucemia y aparece la Diabetes Mellitus II que siempre va asociada
+a cierto grado de resistencia a la insulina.
+
+Tanto la RI como la DM2 tienen una retroalimentación positiva sobre la
+obesidad, es decir hace más fácil que el obeso siga siendo obeso.
+Empeora la obesidad y además los vasos sanguíneos que tienen un
+recubrimiento interno que se daña a causa de las hiperglucemias,
+hiperinsulinemias y a la inflamación crónica. Aparece así la disfunción
+endotelial.
+
+Tanto el hígado graso, como la RI, como DM2, la dislipemia y la
+disfunción endotelial van a estar favorecidas y a la vez van a favorecer
+la inflamación.
+
+La inflamación es como el fuego que aviva cada uno de esos factores y a
+la vez cada uno de esos factores aviva el fuego en una continua
+retroalimentación.
+
+El peligro que esto produce es la aparición de enfermedad
+cardiovascular.
+
+Todos estos elementos patológicos van a en ateroesclerosis, es decir los
+vasos sanguíneos poco a poco van a ir taponándose y cerrándose y van a
+aparecer mayores alteraciones ateroescleróticas. que pueden hacer que
+aparezca la enfermedad cardiovascular que es la causante de muerte por
+encima del cáncer.
+
+La duración de la exposición a los factores de riesgo es clave puesto
+que los daños se van sumando a lo largo de los años y al final se tiene
+más riesgo de padecer enfermedad grave.
 
 ### Patologías relacionadas
 
@@ -755,12 +820,119 @@ enfermedades como:
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
 
-III.2.2 Por grupos de población
--------------------------------
+3.2.2 Por grupos de población
+-----------------------------
 
 ### 3.2.2.1 SM en el hombre
 
+La población masculina es más propensa al síndrome metabólico que las
+mujeres en la edad adulta. Esto se debe a que las mujeres producen
+estrógenos que las protegen de la elevación de grasas, ya que su
+organismo utiliza el colesterol para producir más hormonas.
+
+Por el contrario, los hombres tienen menor cantidad de estrógenos y son
+más propensos a acumular grasa en el contorno de cintura (obesidad tipo
+androide) la misma que obstruye la circulación, causa hipertensión y
+tapa arterias vitales del corazón, cerebro y pulmones.
+
+En hombres la edad está asociada en la década de los 40 y 60 años, en
+tanto que, en las mujeres, la edad no está asociada específicamente a
+cada una de las décadas, la frecuencia de SM es similar en todas las
+décadas estudiadas y tiene más que ver con la menopausia.
+
+También se ha relacionado una mayor obesidad central en hombres con la
+disminución de la hormona testosterona. A niveles más bajos de
+testosterona mayor perímetro de cintura.
+
+Además de estos componentes clásicos, en los últimos años se han
+considerado otros elementos de posible impacto en la fisiopatología de
+este síndrome, como son los esteroides sexuales y los glucocorticoides.
+Algunos autores proponen considerar el hipogonadismo masculino como una
+condición asociada al síndrome metabólico.
+
+También se ha relacionado SM con el descenso del nivel de fertilidad.
+
 ### 3.2.2.2 SM en la mujer
+
+La enfermedad cardiovascular es la principal causa de muerte en las
+mujeres y existen factores de riesgo específicos de la mujer para
+desarrollarla, entre los cuales están: edad temprana de menarquia,
+menopausia, síndrome premenstrual, síndrome de ovárico poliquístico
+entre otros además de los factores riesgo compartidos con los hombres.
+
+Las hormonas ejercen un rol importante en la vida de una mujer; hay tres
+etapas cuando el cuerpo de esta pasa por las principales transiciones
+hormonales: la pubertad, el embarazo y la menopausia.
+
+En estas fases de transición, las mujeres pueden verse expuestas a
+diferentes riesgos de enfermedades relacionadas con la obesidad y el
+síndrome metabólico.
+
+La pubertad es un período crítico del desarrollo caracterizado por
+cambios biológicos dinámicos. El aumento de la grasa corporal y la
+resistencia a la insulina durante la pubertad, pueden incrementar el
+riesgo de desarrollar síndrome metabólico.
+
+Los estrógenos tienen un efecto protector, tienen funciones
+antioxidantes y antiinflamatorias, favorecen el perfil lipídico,
+aumentan la sensibilidad a la insulina y favorecen una menor grasa
+abdominal. Su pérdida tiene como consecuencia que en la mujer que se
+aumente el riesgo de SM, enfermedad cardiovascular y diabetes.
+
+La transición que experimenta la mujer durante la pre y postmenopausia,
+se asocia con la presentación o el desarrollo de características propias
+del síndrome metabólico, entre las que se encuentran:
+
+-   Aumento de la grasa central abdominal\
+-   Alteración del perfil lipídico (elevación de lipoproteínas de baja
+    densidad y triglicéridos, disminución de lipoproteínas de alta
+    densidad)\
+-   Resistencia a la insulina.
+
+Se reportó que el incremento de la LDL fue menor en mujeres
+premenopáusicas que en postmenopáusicas, al igual que el aumento en los
+triglicéridos, la disminución del HDL y obesidad central.
+
+Por esta razón, la prevalencia de síndrome metabólico se incrementa con
+la menopausia hasta en un 60%, al mezclarse variables como la edad, el
+índice de masa corporal y la inactividad física, entre otras.
+
+Este fenómeno puede explicar parcialmente el incremento en la incidencia
+de enfermedad cardiovascular observado después de la menopausia.
+
+Con la menopausia se produce un cambio en la distribución de la grasa
+pasando de un tipo ginoide (acumulación en las caderas) al tipo androide
+como resultado directo del fallo ovárico que da como resultado la
+disminución de la producción de estrógenos.
+
+Muchos estudios han destacado que en la postmenopausia se produce un
+aumento de los niveles de insulina y glucosa más elevados que en la
+premenopausia, lo que empeoraría aún más la resistencia a la insulina.
+
+\*\*\*\*Relación entre síndrome metabólico y síndrome de ovario
+poliquístico\*\*\*???
+
+El síndrome de ovario poliquístico es una entidad que afecta entre el 5
+y el 7% de las mujeres en edad reproductiva.
+
+El vínculo entre el síndrome metabólico y el síndrome de ovario
+poliquístico viene dado por cuanto alrededor del 60% de las mujeres
+portadoras, presentan insulinorresistencia con hiperinsulinismo
+compensatorio, lo cual constituye la base patogénica del síndrome
+metabólico.
+
+Las mujeres portadoras de síndrome de ovario poliquístico tienden a
+poseer mayor índice de masa corporal (IMC), circunferencia de cintura,
+presión arterial, glucemia en ayuno y concentración de insulina en
+comparación con aquellas que no lo presentan; por tanto, el síndrome de
+ovario poliquístico no sólo afecta la salud reproductiva, sino que
+plantea riesgos significativos potenciales a largo plazo, especialmente
+cardiovasculares.
+
+Las mujeres portadoras de síndrome de ovario poliquístico tienen riesgo
+mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
+vascular de gran vaso o afectación renal, síndrome de apnea obstructiva
+del sueño, alteración hepática y cáncer de endometrio.
 
 #### Embarazo
 
@@ -848,20 +1020,21 @@ consecuencias negativas
 
 ### 3.2.2.3 SM en la infancia
 
-En los últimos 50 años la obesidad y el SM se han convertido en un
-problema global. Esto antes era considerado como enfermedades del
-adulto, ahora ha ido aumentando de forma progresiva su incidencia en
-niños y adolescentes. Que no solo se están volviendo más obesos sino que
-lo están haciendo a edades más tempranas. Los mecanismos
-fisiopatológicos descritos para la población adulta también pueden
-explicar la aparición del SM en niños y adolescentes. Aunque nos
-encontramos con la dificultad para medirlo de que no existe una
-unanimidad de criterios.
+Como se ha ido relatando en los últimos 50 años la obesidad y el SM se
+han convertido en un problema global. Esto antes era considerado como
+enfermedades del adulto, ahora ha ido aumentando de forma progresiva su
+incidencia en niños y adolescentes. No solo se están volviendo más
+obesos, sino que lo están haciendo a edades más tempranas.
+
+Los mecanismos fisiopatológicos descritos para la población adulta
+también pueden explicar la aparición del SM en niños y adolescentes.
+Aunque nos encontramos con la dificultad para medirlo de que no existe
+una unanimidad de criterios.
 
 Trasladar el concepto de riesgo utilizado en la población adulta de
 riesgo a niños y adolescentes resulta difícil, puesto que la tensión
 arterial, el nivel de lípidos, la sensibilidad a la insulina y las
-medidas antropométicas cambian con la edad y el desarrollo en la
+medidas antropométricas cambian con la edad y el desarrollo en la
 adolescencia. Además, no existe un criterio unificado para poder evaluar
 el SM en niños, lo cual dificulta su diagnóstico.
 
@@ -872,12 +1045,56 @@ valores normativos que puedan aplicarse en todo el mundo, a diferencias
 ausencia de un rango de normalidad para la insulina en la infancia y la
 RI fisiológica de la pubertad.
 
-En el año 2007 la International Diabetes Federation propuso una
+En el año 2007 la International Diabetes Federation (IDF) propuso una
 definición de síndrome metabólico para la infancia y adolescencia.
-Basada en grupos de edad y que no permite hacer el diagnóstico antes de
-los 10 años, requiere el diagnóstico de obesidad central y la presencia
-de otros dos factores de riesgo para su diagnóstico (dislipemia,
-hipertensión o alteración de la glucosa).
+
+Es el más utilizado por su fácil manejo. Basada en grupos de edad y que
+no permite hacer el diagnóstico antes de los 10 años, requiere el
+diagnóstico de obesidad central y la presencia de otros dos factores de
+riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la
+glucosa).
+
+**Criterios de síndrome metabólico en la infancia y adolescencia de la
+International Diabetes Federation**
+
+  -----------------------------------------------------------------------------------------------
+  Edad (años)     Obesidad        Triglicéridos   HDL colesterol  Presión         Glucosa (mg/dl)
+                  (cintura        (mg/dl)         (mg/dl)         arterial (mmHg) 
+                  abdominal)                                                      
+  --------------- --------------- --------------- --------------- --------------- ---------------
+  6-10            `>`=P90         -               -               -               -
+
+  10-16           `>`=P90 o       `>`=150         &lt;40          Sistólica: &gt; Glucosa en
+                  criterio                                        130 Diastólica: ayunas `>`100 o
+                  adulto, si este                                 `>` 85          DM2
+                  es menor                                                        
+
+  `>`16           Varones: `>`=   `>`=150         Varones: &lt;40 Sistólica:      Glucosa en
+  (criterios del  94 cm Mujeres:                  Mujeres: &lt;50 `>`130          ayunas `>`100
+  adulto)         `>`= 80 cm                                      Diastólica:     oDM2
+                                                                  `>`85           
+  -----------------------------------------------------------------------------------------------
+
+**El diagnóstico requiere la presencia de obesidad central mediante
+determinación de cintura abdominal y como mínimo dos de los criterios
+restantes**
+
+Para la detección del SM en la infancia es necesario una herramienta de
+diagnóstico con criterios unificados y que permita una detección precoz.
+
+Independientemente de catalogarse o no de síndrome metabólico, queda
+claro que lo importante es identificar y tratar la obesidad infantil y
+los diferentes factores de riesgo.
+
+En niños la circunferencia de cintura es predictora del síndrome de
+insulinorresistencia, recomendándose su lectura en la práctica clínica
+como herramienta simple para identificar a niños con riesgo de presentar
+en un futuro ECV y diabetes tipo II.
+
+La obesidad infantil es el principal factor de riesgo de obesidad en el
+adulto, así como de síndrome metabólico, diabetes mellitus tipo 2 y del
+desarrollo de enfermedades cardiovasculares, que reducen la calidad y
+duración de la vida.
 
 Si bien son numerosas las causas responsables del incremento en la
 prevalencia del sobrepeso, además de los mecanismos fisiopatológicos
@@ -889,71 +1106,8 @@ sedentarismo, menos actividades físicas al aire libre, el mayor tiempo
 frente a las pantallas, unido a un alto consumo de alimentos
 ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
-obesidad, con toda la problemática que ello supone.
-
-Para la detección del SM en la infancia es necesario una herramienta de
-diagnóstico con criterios unificados y que permita una detección precoz.
-
-En el año 2007 la International Diabetes Federation propuso una
-definición de síndrome metabólico para la infancia y adolescencia.
-Basada en grupos de edad y que no permite hacer el diagnóstico antes de
-los 10 años, requiere el diagnóstico de obesidad central y la presencia
-de otros dos factores de riesgo para su diagnóstico (dislipemia,
-hipertensión o alteración de la glucosa).
-
-Independientemente de catalogarse o no de síndrome metabólico, queda
-claro que lo importante es identificar y tratar la obesidad infantil y
-los diferentes factores de riesgo.
-
-**Insertar Tabla: Criterios de síndrome metabólico en la infancia y
-adolescencia de la International Diabetes Federation** [tabla
-en](/docs/documentacion/Obesidad_y_sindrome_metabolico.pdf)
-
-------------------------------------------------------------------------
-
-El peso al nacer es un indicador importante del estado de nutrición y
-salud del feto y refleja la suficiencia nutricional y condiciones
-experimentadas en el útero.
-
-Por ejemplo, se ha encontrado que a mayor peso al nacer, mayor
-probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de
-presión arterial sistólica durante su niñez.
-
-También se sabe que un bajo o elevado al nacer es un factor para
-desarrollar diabetes mellitus II en la edad adulta
-
-Se ha encontrado también relación entre el bajo peso al nacer y el
-riesgo cardiometabólico, morbilidad y mortalidad cardiovascular. Y que
-el alto peso al nacer está relacionado con el desarrollo de otros
-factores de riesgo cardiometabólicos como sobrepeso e hipertensión.
-
-Es importante identificar, de manera temprana, gestaciones en riesgo de
-exceso de peso al nacer y el manejo de los factores que contribuyen al
-mismo, con el fin de prevenir el posterior desarrollo de obesidad y
-riesgo cardiovascular en estos niños.
-
-En niños la circunferencia de cintura es predictora del síndrome de
-insulinorresistencia, recomendándose su lectura en la práctica clínica
-como herramienta simple para identificar a niños con riesgo de presentar
-en un futuro ECV y diabetes tipo II.
-
-\*\*\*\* La obesidad infantil es el principal factor de riesgo de
-obesidad en el adulto, así como de síndrome metabólico, diabetes
-mellitus tipo 2 y del desarrollo de enfermedades cardiovasculares, que
-reducen la calidad y duración de la vida. El síndrome metabólico es un
-diagnóstico clínico que identifica una población con elevado riesgo
-cardiovascular. La resistencia a la insulina parece ser el vínculo común
-y el factor promotor de la cascada de disturbios metabólicos, modulados
-por factores genéticos y ambientales. El síndrome metabólico puede
-demostrarse en la edad pediátrica, pero actualmente no existen criterios
-claramente definidos. Los criterios de la International Diabetes
-Federation (IDF) para niños y adolescentes son los más utilizados, por
-su fácil manejo; la medida de la cintura es el principal componente. Se
-necesita una definición internacional para poder comparar los resultados
-de los diferentes estudios, y, hasta que no ocurra, no se debe
-diagnosticar por debajo de los 10 años. \*\*\*\*
-
-### 3.2.2.4 SM en la tercera edad
+obesidad, con toda la problemática que ello supone. \#\#\# 3.2.2.4 SM en
+la tercera edad
 
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
