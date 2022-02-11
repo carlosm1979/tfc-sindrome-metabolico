@@ -1163,6 +1163,17 @@ simples y sal, ha supuesto que se de este problema de aumento de
 obesidad, con toda la problemática que ello supone. \#\#\# 3.2.2.4 SM en
 la tercera edad
 
+Con el envejecimiento ocurren una serie de modificaciones fisiológicas,
+morfológicas y funcionales:
+
+-   Reducción de la masa muscular, esto comienza a partir de los 50
+    años. En parte por el proceso normal de envejecimiento y en parte
+    porque la actividad física suele reducirse.\
+-   Aumento del tejido adiposo.\
+-   Una nueva distribución de la grasa corporal tanto en hombres como en
+    mujeres por el proceso normal de envejecimiento. Aumento de contorno
+    de cintura.
+
 El proceso de envejecimiento se asocia principalmente con cifras
 alteradas en la glucemia, motivado por la disminución de la acción de la
 insulina.
@@ -1171,23 +1182,28 @@ La relación entre la resistencia a la insulina y la edad ha sido
 explicada por cuatro principales vías:
 
 -   Cambios antropométricos (aumento de masa grasa con disminución de
-    masa muscular).
+    masa muscular).\
 -   Cambios ambientales (hábitos dietéticos y disminución de actividad
-    física).
+    física).\
 -   Variaciones neurohormonales que pueden tener efecto opuesto a la
-    insulina.
+    insulina.\
 -   Aumento del estrés oxidativo.
 
+El aumento de peso se va a producir una reducción de la actividad física
+lo que provocará una pérdida de masa muscular con la consiguiente
+disminución de tejido diana para la insulina lo que da origen a una
+situación de SM en la tercera edad
+
 A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer
-sarcopenia; por lo que estas características pueden contribuir a la
-discapacidad física y a los trastornos metabólicos en adultos mayores
-con diabetes.
+sarcopenia (pérdida de masa muscular en la tercera edad); estas
+características pueden contribuir a la discapacidad física y a los
+trastornos metabólicos en adultos mayores con diabetes.
 
 Tratamiento y prevención
 ------------------------
 
 Como síndrome, no hay establecido un tratamiento específico para el
-conjunto de los factores que lo componen sino que deben tratarse cada
+conjunto de los factores que lo componen, sino que deben tratarse cada
 una de las enfermedades por separado.
 
 La prevención es uno de los elementos clave para el control de esta
@@ -1214,7 +1230,7 @@ nuestra sociedad. A su vez, esto conlleva un aumento de las patologías
 asociadas a ella, como pueden ser el síndrome metabólico y la diabetes
 tipo 2.
 
-Como regla general, los hábitos alimentarios deben basarse en[3](#3):
+Como regla general, los hábitos alimentarios deben basarse en:
 
 -   **una alimentación con un bajo contenido en grasa saturada, grasa
     trans y colesterol**
