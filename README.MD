@@ -1112,8 +1112,8 @@ riesgo cardiovascular en estos niños.
 
 A destacar la importancia de promover la lactancia materna como método
 de prevención de obesidad en el niño y un ingreso adecuad de nutrientes
-con una buena ablación ( \*destete, introducción de alimentos sólidos
-del bebé)
+con una buena ablación (\*destete, introducción de alimentos sólidos del
+bebé)
 
 El correcto tratamiento debe de estar encaminado a la prevención de los
 factores de riesgo del síndrome.
