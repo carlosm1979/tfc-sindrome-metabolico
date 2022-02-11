@@ -1057,23 +1057,22 @@ glucosa).
 **Criterios de síndrome metabólico en la infancia y adolescencia de la
 International Diabetes Federation**
 
-  -----------------------------------------------------------------------------------------------
-  Edad (años)     Obesidad        Triglicéridos   HDL colesterol  Presión         Glucosa (mg/dl)
-                  (cintura        (mg/dl)         (mg/dl)         arterial (mmHg) 
-                  abdominal)                                                      
-  --------------- --------------- --------------- --------------- --------------- ---------------
-  6-10            `>`=P90         -               -               -               -
+  --------------------------------------------------------------------------------------------------------------------
+  Edad (años)     Obesidad        Triglicéridos   HDL colesterol (mg/dl) Presión arterial       Glucosa (mg/dl)
+                  (cintura        (mg/dl)                                (mmHg)                 
+                  abdominal)                                                                    
+  --------------- --------------- --------------- ---------------------- ---------------------- ----------------------
+  6-10            `>`=P90         -               -                      -                      -
 
-  10-16           `>`=P90 o       `>`=150         &lt;40          Sistólica: &gt; Glucosa en
-                  criterio                                        130 Diastólica: ayunas `>`100 o
-                  adulto, si este                                 `>` 85          DM2
-                  es menor                                                        
+  10-16           `>`=P90 o       `>`=150         &lt;40                 Sistólica: `>` 130     Glucosa en ayunas
+                  criterio                                               Diastólica: `>` 85     `>`100 o DM2
+                  adulto, si este                                                               
+                  es menor                                                                      
 
-  `>`16           Varones: `>`=   `>`=150         Varones: &lt;40 Sistólica:      Glucosa en
-  (criterios del  94 cm Mujeres:                  Mujeres: &lt;50 `>`130          ayunas `>`100
-  adulto)         `>`= 80 cm                                      Diastólica:     oDM2
-                                                                  `>`85           
-  -----------------------------------------------------------------------------------------------
+  `>`16 (adultos) Varones: `>`=   `>`=150         Varones: &lt;40        Sistólica: `>`130      Glucosa en ayunas
+                  94 cm Mujeres:                  Mujeres: &lt;50        Diastólica: `>`85      `>`100 oDM2
+                  `>`= 80 cm                                                                    
+  --------------------------------------------------------------------------------------------------------------------
 
 **El diagnóstico requiere la presencia de obesidad central mediante
 determinación de cintura abdominal y como mínimo dos de los criterios
