@@ -12,7 +12,7 @@ Indice general
 -   [1. Introduccion](#introducción)
 -   [2. Objetivos](#objetivos)
 -   [3. Parte teórica](#parte-teórica)
-    -   3.1 Que es\
+    -   [3.1 Que es](#31quees)\
         *Patologías relacionadas*
     -   [3.2 Diagnóstico](#diagnóstico)
         -   [3.2.1 Factores de riesgo](#Factores-de-riesgo)
@@ -145,8 +145,8 @@ la aparición de la alteraciones de salud que lo componen.
 Parte teórica
 =============
 
-Que es
-------
+3.1 Que es
+----------
 
 El SM no es una enfermedad, es un grupo de factores de riesgo para
 desarrollo de enfermedad cardiovascular y diabetes mellitus II.
