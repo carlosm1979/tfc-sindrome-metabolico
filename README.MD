@@ -909,6 +909,11 @@ Muchos estudios han destacado que en la postmenopausia se produce un
 aumento de los niveles de insulina y glucosa más elevados que en la
 premenopausia, lo que empeoraría aún más la resistencia a la insulina.
 
+Existen una serie diagnósticos que pueden ser identificados como
+síntomas tempranos de SM, como pueden ser el síndrome de ovario
+poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
+o la diabetes gestacional.
+
 \*\*\*\*Relación entre síndrome metabólico y síndrome de ovario
 poliquístico\*\*\*???
 
@@ -929,12 +934,17 @@ ovario poliquístico no sólo afecta la salud reproductiva, sino que
 plantea riesgos significativos potenciales a largo plazo, especialmente
 cardiovasculares.
 
+Existen una serie diagnósticos que pueden ser identificados como
+síntomas tempranos de SM, como pueden ser el síndrome de ovario
+poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
+o la diabetes gestacional.
+
 Las mujeres portadoras de síndrome de ovario poliquístico tienen riesgo
 mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
 vascular de gran vaso o afectación renal, síndrome de apnea obstructiva
 del sueño, alteración hepática y cáncer de endometrio.
 
-#### Embarazo
+#### SM en el embarazo
 
 El embarazo es un síndrome metabólico transitorio que predispone a
 disfunción epitelial. En el embarazo normal, hay un gasto cardíaco
@@ -944,6 +954,22 @@ dislipemia.
 
 Es una causa frecuente de ganancia de peso en la mujer.
 
+\*\*\*\*En el embarazo se producen una serie de cambios y adaptaciones
+metabólicas cuyo objetivo es por un lado mantener el correcto desarrollo
+del feto y por otro asegurar la correcta nutrición materna durante la
+gestación y para que esté preparada para la lactancia. Así que
+inicialmente en la primera mitad de la gestación va haber una fase en la
+que por la acción de las hormonas estrógeno y progesterona la madre va a
+tener un hiperinsulinismo, exceso de insulina o un exceso de
+sensibilidad a la insulina que conlleva y busca favorecer el depósito
+materno de micronutrientes para poder nutrir al feto y a la madre.
+
+A partir de la semana 20 (5 meses) se va a producir otra fase en la que
+habrá una resistencia a la insulina real. Disminuye la utilización
+materna de la glucosa y de los aminoacidos para pasarselos al feto
+mientras la madre utilizará acidos grasos provenientes de los depositos
+que tenía previamente de la primera mitad de la gestación. \*\*\*\*
+
 El reconocimiento de este síndrome durante el embarazo podría ayudar a
 identificar a un subgrupo de mujeres quienes no solamente pueden
 desarrollar complicaciones durante el embarazo, sino que potencialmente
@@ -951,8 +977,12 @@ tienen un riesgo incrementado de condiciones metabólicas y
 cardiovasculares a lo largo de su vida.
 
 Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por
-enfermedades cardiovasculares y diabetes mellitus tipo 2. Si este
-síndrome es detectado precozmente, pueden realizarse cambios
+enfermedades cardiovasculares y diabetes mellitus tipo 2.
+
+En cuanto a la prevalencia del SM se ha observado un incremente con la
+edad y la obesidad.
+
+Si este síndrome es detectado precozmente, pueden realizarse cambios
 significativos en la conducta médica durante el embarazo desde su
 inicio, para prevenir las complicaciones maternas y fetales asociadas,
 de esta manera contribuiría como una herramienta diagnóstica útil para
@@ -962,45 +992,50 @@ diagnóstico de rutina y así recomendarles que deben tratarse.
 
 La presencia de SM antes del inicio del embarazo es un factor de riesgo
 importante para trastornos hipertensivos del embarazo. Se ha
-correlacionado con la hipertensión de la gestación en un 11 % y con la
-preeclampsia en un 5 % (1). Igualmente el antecedente de trastornos
-hipertensivos en el primer embarazo incrementa el riesgo de desarrollar
-posteriormente SM de 3 a 5 veces
+correlacionado con:
+
+-   Hipertensión de la gestación en un 11 %.
+-   Preeclampsia en un 5% (\*La preeclampsia es una complicación del
+    embarazo caracterizada por presión arterial alta y signos de daños
+    en otro sistema de órganos, más frecuentemente el hígado y los
+    riñones. Generalmente, la preeclampsia comienza después de las 20
+    semanas de embarazo en mujeres cuya presión arterial había sido
+    normal)
+-   Igualmente el antecedente de trastornos hipertensivos en el primer
+    embarazo incrementa el riesgo de desarrollar posteriormente SM de 3
+    a 5 veces
 
 Es difícil demostrar que se produzcan lesiones a largo plazo en madres
 gestantes debido al SM, al contrario de lo que ocurre con los efectos de
 una predisposición a las enfermedades cardiovasculares y la diabetes
-tipo 2. Sin embargo tanto la diabetes de la DG como los trastornos
+tipo 2. Sin embargo, tanto la diabetes de la DG como los trastornos
 hipertensivos del embarazo (THE) pueden verse como expresiones del
-síndrome durante la gestación (4).
+síndrome durante la gestación.
 
-Si la diabetes gestacional está asociada con obesidad, se incrementa el
-riesgo de síndrome metabólico de 4 a 10 veces.
+**Lactancia**: Esta función fisiológica posterior al embarazo disminuye
+el riesgo de SM. La lactancia prolongada se relaciona con menor riesgo
+de DM2.Se determina que en mujeres que tuvieron hijos hace 15 años, por
+cada año de lactancia el riesgo de SM disminuyó en 14%.
 
-En cuanto a la prevalencia del SM se ha observado un incremente con la
-edad y la obesidad.
-
-Existen diversos factores de riesgo predisponentes relacionados con el
-SM, entre los cuales están: obesidad, sedentarismo, dieta rica en grasa.
-Los de mayor riesgo son los siguientes: hipertensión, hábito tabáquico,
-concentraciones elevadas de lipoproteínas de baja densidad (LDL) y bajas
-de lipoproteínas de alta densidad (HDL), antecedentes familiares de
-enfermedad cardiovascular temprana y la edad.
-
-Existen una serie diagnósticos que pueden ser identificados como
-síntomas tempranos de SM, como pueden ser el síndrome de ovario
-poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
-o la diabetes gestacional.
+\*\*\*\*\*Existen diversos factores de riesgo predisponentes
+relacionados con el SM, entre los cuales están: obesidad, sedentarismo,
+dieta rica en grasa. Los de mayor riesgo son los siguientes:
+hipertensión, hábito tabáquico, concentraciones elevadas de
+lipoproteínas de baja densidad (LDL) y bajas de lipoproteínas de alta
+densidad (HDL), antecedentes familiares de enfermedad cardiovascular
+temprana y la edad. \*\*\*\*\* FACTORES COMUNES A TODOS.
+¿¿¿¿¿¿¿SUPRIMIR???????
 
 #### Complicaciones materno-fetales
 
-para el feto, como pueden ser muerte prematura, macrosomía, hipoglicemia
-y trauma neonatal. Los fetos macrosómicos y recién nacidos de madres
+Para el feto pueden ser muerte prematura, macrosomía, hipoglicemia y
+trauma neonatal. Los fetos macrosómicos y recién nacidos de madres
 obesas tienen mayor riesgo de presentar SM a largo plazo, sumado a
-cualquier predisposición hereditaria. Una alta concentración de
-triglicéridos en la madre también puede provocar macrosomía. Por otro
-lado el bajo peso al nacer va asociado a embarazos de mujeres con edades
-avanzadas.
+cualquier predisposición hereditaria.
+
+Una alta concentración de triglicéridos en la madre también puede
+provocar macrosomía. Por otro lado, el bajo peso al nacer va asociado a
+embarazos de mujeres con edades avanzadas.
 
 El desarrollo y la progresión de la enfermedad cardiovascular se
 relacionan con el número e intensidad de factores de riesgo que
@@ -1015,8 +1050,28 @@ El peso al nacer es un indicador importante del estado de nutrición y
 salud del feto, y refleja la suficiencia nutricional y condiciones
 experimentadas en el útero.
 
-Tanto la DG como la diabetes tipo 2 se relacionan con varias
-consecuencias negativas
+Por ejemplo, se ha encontrado que, a mayor peso al nacer, mayor
+probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de
+presión arterial durante su niñez.
+
+También se sabe que un bajo o elevado peso al nacer es un factor para
+desarrollar diabetes mellitus II en la edad adulta
+
+Se ha encontrado también relación entre el bajo peso al nacer y el
+riesgo cardio metabólico, morbilidad y mortalidad cardiovascular
+
+Es importante identificar, de manera temprana, gestaciones en riesgo de
+exceso de peso al nacer y el manejo de los factores que contribuyen al
+mismo, con el fin de prevenir el posterior desarrollo de obesidad y
+riesgo cardiovascular en estos niños.
+
+A destacar la importancia de promover la lactancia materna como método
+de prevención de obesidad en el niño y un ingreso adecuad de nutrientes
+con una buena ablación ( \*destete, introducción de alimentos sólidos
+del bebé)
+
+El correcto tratamiento debe de estar encaminado a la prevención de los
+factores de riesgo del síndrome.
 
 ### 3.2.2.3 SM en la infancia
 

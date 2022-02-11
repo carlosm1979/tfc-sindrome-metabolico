@@ -10,8 +10,8 @@
     "build": "pandoc -s secciones/*.md -o README.MD",
     "to-docx": "pandoc -s README.MD -o tfc-sindrome-metabolico.docx",
     "to-pdf": "pandoc -V mainfont=urwa030 -V fontsize=12pt -V geometry:top=0.8in -V geometry:right=0.8in -V geometry:bottom=0.8in -V geometry:left=0.8in README.MD -o tfc-sindrome-metabolico.pdf",
-    "persist": "git commit -m $(date \"+%Y-%m-%d@%H:%M\")",
-    "publish": "npm run build && npm run to-pdf && npm run to-docx && git add . && npm run persist && git pull && git push"
+    "persist": "git add . && git commit -m $(date \"+%Y-%m-%d@%H:%M\")",
+    "publish": "npm run build && npm run to-pdf && npm run to-docx && npm run persist && git pull && git push"
   },
   "repository": {
     "type": "git",
