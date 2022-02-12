@@ -492,63 +492,6 @@ casos de SM tiene causas genéticas, por lo que hay que resaltar la
 importancia de la alimentación y los hábitos de vida como causa y a la
 vez como instrumento de prevención y tratamiento del SM.
 
-\pagebreak
-
-3.2 Diagnóstico
----------------
-
-la importancia de hacer el diagnóstico de Síndrome Metabólico radica en
-que cuando está presente en un paciente es indicador de un elevado
-riesgo cardiovascular.
-
-La mayoría de los trastornos asociados con el síndrome metabólico no
-tiene signos ni síntomas evidentes.
-
-Un signo que es visible es la circunferencia grande de la cintura.
-
-Si el azúcar en sangre es alto, podrían notarse los signos y los
-síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
-visión borrosa.
-
-Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
-sangrado nasal, pero en general se trata de signos inespecíficos.
-
-Son varios los factores de riesgo para desarrollar síndrome metabólico,
-a menudo las personas tienen varios a la vez. Es necesario tener al
-menos tres de ellos para poder poder dar un diagnóstico de síndrome
-metabólico.
-
--   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
-    un factor de riesgo mayor para enfermedades del corazón que acumular
-    demasiada grasa en otras partes del cuerpo.
-
--   Tener un nivel alto de triglicéridos, un tipo de grasa que se
-    encuentra en la sangre.
-
--   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
-    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
-    de las arterias.
-
--   Tener presión arterial alta: Si su presión arterial se mantiene alta
-    en el tiempo, puede dañar su corazón y provocar otros problemas de
-    salud.
-
--   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
-    azúcar en la sangre levemente alto puede ser un signo temprano de
-    diabetes.
-
-Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
-diabetes y accidente cerebrovascular.
-
-\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
-criterios de evaluación son:
-
--Un estilo de vida inactivo
-
--Edad: Su riesgo aumenta a medida que envejece
-
--Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
-
 ### 3.2.1 Factores de riesgo. Características.
 
 Las causas del SM no se conocen con exactitud, pero es fundamental saber
@@ -778,6 +721,24 @@ estaríamos hablando de diabetes.
 
 #### Hipertensión arterial
 
+**Tratamiento de la hipertensión arterial en el paciente con síndrome
+metabólico**
+
+El principal tratamiento es la reducción del peso corporal a través de
+la implementación de una dieta baja en calorías y aumento del ejercicio
+físico. Reducción modesta de la ingestión calórica, la cual usualmente
+es más efectiva que una dieta restrictiva más extrema. Baja ingestión de
+grasas saturadas, ácidos grasos trans, colesteról y carbohidratos
+simples procesados. Aumento en el consumo de frutas, vegetales y granos
+enteros. Ejercicio regular.
+
+Perdida de peso y el ejercicio tienen un efecto preventivo para el
+desarrollo de diabetes.
+
+Requieren la administración adicional de medicamentes antihipertensivos,
+antidiabéticos orales o fármacos hipolipemiantes cuando existe franca
+hipertensión, diabetes o dislipidemia.
+
 #### Niveles elevados de triglicéridos
 
 La dislipemia característica del SM, la hipertrigliceridemia con cifras
@@ -864,6 +825,63 @@ enfermedades como:
 -   la enfermedad renal crónica,
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
+
+\pagebreak
+
+3.2 Diagnóstico
+---------------
+
+la importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+que cuando está presente en un paciente es indicador de un elevado
+riesgo cardiovascular.
+
+La mayoría de los trastornos asociados con el síndrome metabólico no
+tiene signos ni síntomas evidentes.
+
+Un signo que es visible es la circunferencia grande de la cintura.
+
+Si el azúcar en sangre es alto, podrían notarse los signos y los
+síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
+visión borrosa.
+
+Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
+sangrado nasal, pero en general se trata de signos inespecíficos.
+
+Son varios los factores de riesgo para desarrollar síndrome metabólico,
+a menudo las personas tienen varios a la vez. Es necesario tener al
+menos tres de ellos para poder poder dar un diagnóstico de síndrome
+metabólico.
+
+-   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
+    un factor de riesgo mayor para enfermedades del corazón que acumular
+    demasiada grasa en otras partes del cuerpo.
+
+-   Tener un nivel alto de triglicéridos, un tipo de grasa que se
+    encuentra en la sangre.
+
+-   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
+    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
+    de las arterias.
+
+-   Tener presión arterial alta: Si su presión arterial se mantiene alta
+    en el tiempo, puede dañar su corazón y provocar otros problemas de
+    salud.
+
+-   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
+    azúcar en la sangre levemente alto puede ser un signo temprano de
+    diabetes.
+
+Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
+diabetes y accidente cerebrovascular.
+
+\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
+criterios de evaluación son:
+
+-Un estilo de vida inactivo
+
+-Edad: Su riesgo aumenta a medida que envejece
+
+-Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
 
 3.2.2 Por grupos de población
 -----------------------------
@@ -1244,23 +1262,6 @@ sarcopenia (pérdida de masa muscular en la tercera edad); estas
 características pueden contribuir a la discapacidad física y a los
 trastornos metabólicos en adultos mayores con diabetes.
 
-Tratamiento y prevención
-------------------------
-
-Como síndrome, no hay establecido un tratamiento específico para el
-conjunto de los factores que lo componen, sino que deben tratarse cada
-una de las enfermedades por separado.
-
-La prevención es uno de los elementos clave para el control de esta
-enfermedad, ya que se ha estimado que unos correctos hábitos
-alimentarios y de estilo de vida son suficientes para prevenir su
-aparición en 90 de cada 100 casos, puesto que la investigación muestra
-que sólo un 10% se debe a herencia genética.
-
-Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
-demostrado ser efectivas para mejorar el control metabólico, el riesgo
-cardiovascular y aumentar la esperanza de vida.
-
 ### Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
@@ -1305,6 +1306,23 @@ población.
     calórico como pasear, andar en bici, nadar o hacer excursionismo**
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
+
+Tratamiento y prevención
+------------------------
+
+Como síndrome, no hay establecido un tratamiento específico para el
+conjunto de los factores que lo componen, sino que deben tratarse cada
+una de las enfermedades por separado.
+
+La prevención es uno de los elementos clave para el control de esta
+enfermedad, ya que se ha estimado que unos correctos hábitos
+alimentarios y de estilo de vida son suficientes para prevenir su
+aparición en 90 de cada 100 casos, puesto que la investigación muestra
+que sólo un 10% se debe a herencia genética.
+
+Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
+demostrado ser efectivas para mejorar el control metabólico, el riesgo
+cardiovascular y aumentar la esperanza de vida.
 
 \pagebreak
 
