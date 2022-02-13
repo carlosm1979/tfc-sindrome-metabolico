@@ -30,9 +30,9 @@ Indice general
             -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
             -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
     -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
-        -   [Relación con la
+        -   [3.3.1 Relación con la
             alimentación](#relación-con-la-alimentación)
-        -   [Hábitos de vida](#hábitos-de-vida)
+        -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
 -   [5. Resultados](#resultados)
 -   [6. Discusión](#difusión)
@@ -495,7 +495,7 @@ SM.
 
 Así tenemos:
 
-#### 3.2.1.1 Obesidad abdominal.Perímetro de cintura elevado.
+#### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
 
 El perímetro de cintura es uno de los cinco criterios que conforman el
 diagnóstico del SM.
@@ -579,7 +579,7 @@ las relacionadas con la resistencia a la insulina, hipertensión
 arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
 otras.
 
-#### Resistencia a la insulina. Diabetes mellitus tipo II
+#### 3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo II
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un
 término usado para describir un proceso fisiopatológico que se
@@ -727,7 +727,7 @@ estaríamos hablando de diabetes.
 También será considerado factor d criterio positivo el tratamiento
 hipoglucemiante.
 
-#### 3.2.1.2 Dislipemias
+#### 3.2.1.3 Dislipemias
 
 La dislipemia es una alteración de los lípidos en sangre y está asociada
 a riesgo cardiovascular levado.
@@ -905,7 +905,7 @@ bajas de colesterol unido a lipoproteínas de alta densidad, es
 consecuencia de la hiperinsulinemia en el metabolismo de las
 lipoproteínas.
 
-### Desarrollo fisiopatológico del SM
+### 3.2.2 Desarrollo fisiopatológico del SM
 
 Para el desarrollo del SM tienen que darse dos factores causales. Uno es
 una susceptibilidad genética y otro son una serie de factores
@@ -1047,11 +1047,11 @@ criterios de evaluación son:
 -   Edad: Su riesgo aumenta a medida que envejece
 -   Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
 
-3.2.2 Por grupos de población
+3.2.3 Por grupos de población
 -----------------------------
 
-SM en el adulto
----------------
+3.2.3.1 SM en el adulto
+-----------------------
 
 ### SM en el hombre
 
@@ -1323,7 +1323,7 @@ del bebé)
 El correcto tratamiento debe de estar encaminado a la prevención de los
 factores de riesgo del síndrome.
 
-### 3.2.2.3 SM en la infancia
+### 3.2.3.2 SM en la infancia
 
 Como se ha ido relatando en los últimos 50 años la obesidad y el SM se
 han convertido en un problema global. Esto antes era considerado como
@@ -1414,7 +1414,7 @@ ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
 obesidad, con toda la problemática que ello supone.
 
-### 3.2.2.4 SM en la tercera edad
+### 3.2.3.3 SM en la tercera edad
 
 Con el proceso de envejecimiento se producen serie de cambios de tipo
 fisiológicos, morfológicos y funcionales entre los que se encuentran:
@@ -1471,7 +1471,7 @@ Por lo tanto, aunque la pérdida de peso siempre es beneficiosa, en
 personas mayores obesas hay que tener cuidado en recomendarla sólo sobre
 la base del peso corporal si no está asociada a otras patologías.
 
-### Relación con la alimentación
+### 3.3.1 Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
 adaptado a las necesidades de cada individuo. Debe considerar la edad,
@@ -1494,7 +1494,7 @@ Como regla general, los hábitos alimentarios deben basarse en:
 -   **aumentar el consumo de pescado, especialmente el de pescado azul**
 -   **incrementar la ingesta de frutas, verduras y cereales integrales**
 
-### Hábitos de vida
+### 3.3.2 Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
@@ -1516,8 +1516,8 @@ población.
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
 
-Tratamiento y prevención
-------------------------
+3.3 Tratamiento y prevención
+----------------------------
 
 Como síndrome, no hay establecido un tratamiento específico para el
 conjunto de los factores que lo componen, sino que deben tratarse cada
