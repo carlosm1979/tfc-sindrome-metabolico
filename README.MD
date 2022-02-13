@@ -12,23 +12,26 @@ Indice general
 -   [1. Introduccion](#introducción)
 -   [2. Objetivos](#objetivos)
 -   [3. Parte teórica](#parte-teórica)
-    -   [3.1 Que es](#que-es)\
+    -   [3.1 Que es](#que-es)
     -   [3.2 Diagnóstico](#diagnóstico)
         -   [3.2.1 Factores de riesgo.
-            Características.](#Factores-de-riesgo-caracteristicas)
+            Características.](#factores-de-riesgo.-características.)
             -   [3.2.1.1 Obesidad abdominal. Perímetro de cintura
-                elevado](#Circunferencia-grande-de-cintura)
+                elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
             -   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus
-                tipo II]()
-            -   [3.2.1.3 Dislipemias]()
-            -   [3.2.1.4 Hipertensión arterial]()
-        -   [3.2.2 Desarrollo fisiopatológico del SM]()
-        -   3.2.3 Por grupos de población
-            -   3.2.3.1 SM en el adulto
-            -   3.2.3.2 SM en la infancia
-            -   3.2.3.3 SM en la tercera edad
-    -   [3.3 Tratamiento y prevención](#Tratamiento-y-prevención)
-        -   Relación con la alimentación
+                tipo
+                II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
+            -   [3.2.1.3 Dislipemias](#dislipemias)
+            -   [3.2.1.4 Hipertensión arterial](#hipertensión-arterial)
+        -   [3.2.2 Desarrollo fisiopatológico del
+            SM](#desarrollo-fisiopatológico-del-sm)
+        -   [3.2.3 Por grupos de población](#por-grupos-de-población)
+            -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)
+            -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
+            -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
+    -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
+        -   [Relación con la
+            alimentación](#relación-con-la-alimentación)
         -   [Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
 -   [5. Resultados](#resultados)
@@ -724,22 +727,25 @@ estaríamos hablando de diabetes.
 También será considerado factor d criterio positivo el tratamiento
 hipoglucemiante.
 
-#### 3.2.1.2 Colesterol bueno o de lipoproteínas de alta densidad reducido (dislipemia)
+#### 3.2.1.2 Dislipemias
 
 La dislipemia es una alteración de los lípidos en sangre y está asociada
 a riesgo cardiovascular levado.
 
-Los pacientes con SM presentan niveles de triglicéridos elevados,
-valores disminuidos de colesterol HDL y un aumento de las partículas LDL
-pequeñas y densas lo que está asociado con mayor riesgo aterogénico.
+Los pacientes con dislipemias presentan niveles de triglicéridos
+elevados, valores disminuidos de colesterol HDL y un aumento de las
+partículas LDL.
 
-El colesterol es una molécula presente en el organismo de la mayoría de
-los seres vivos, similar a la grasa e indispensable para la vida.
+La hipertrigliceridemia es la presencia de concentraciones elevadas de
+triglicéridos en sangre.
+
+***El colesterol es una molécula presente en el organismo de la mayoría
+de los seres vivos, similar a la grasa e indispensable para la vida.
 Nuestro cuerpo necesita colesterol para fabricar infinidad de sustancias
 tales como hormonas, ácidos biliares o vitamina D, entre otras. Una
 parte importante del colesterol presente en nuestro organismo es
 producido por el hígado; el resto es aportado a través de la dieta. El
-problema viene dado cuando se presenta en exceso.
+problema viene dado cuando se presenta en exceso.***\*\*??????
 
 El hipercolesterolemia es el aumento del colesterol en sangre por encima
 de unos valores considerados como normales para la población general. El
@@ -747,9 +753,42 @@ valor a partir del cual se considera patológico, y que además es un
 importante factor de riesgo para las enfermedades cardiovasculares es de
 200 mg de colesterol/dl de sangre
 
-la principal causa del aumento de colesterol circulante no es el
+La principal causa del aumento de colesterol circulante no es el
 colesterol que proviene de los alimentos, sino las grasas (o ácidos
 grasos) que ingerimos a través de la dieta.
+
+Existen varios tipos de grasas en función de su estructura, y cada una
+de ellas posee un efecto determinado sobre los niveles de colesterol en
+el organismo:
+
+-   **Ácidos grasos saturados**: son la grasa presente en lácteos,
+    carnes y derivados, y aceites de coco y palma, entre otros
+    alimentos. Ejercen un efecto perjudicial, ya que aumentan el
+    colesterol total y el colesterol LDL (“colesterol malo”).
+-   **Ácidos grasos monoinsaturados**: poseen un efecto beneficioso para
+    nuestro organismo ya que un consumo prolongado de estos produce un
+    aumento del colesterol HDL (“colesterol bueno”) y una disminución
+    del colesterol LDL (“colesterol malo”), lo cual se asocia a un menor
+    riesgo de desarrollar enfermedades cardiovasculares. Están presentes
+    en alimentos como el aceite de oliva, el aguacate o los frutos
+    secos.
+-   **Ácidos grasos poliinsaturados**: dentro de este grupo distinguimos
+    dos tipos:\
+-   Los ácidos grasos omega 3 y omega 6. Ambos resultan beneficiosos ya
+    que una dieta rica en estos produce una disminución del colesterol
+    total y del colesterol LDL. Están presentes en el pescado azul
+    (omega 3) y en aceites de semillas y frutos secos (omega 6.)
+-   **Ácidos grasos trans**: son los más nocivos para la salud
+    cardiovascular. Ya que dietas ricas en este tipo de grasas producen
+    un aumento del colesterol total y colesterol LDL, al mismo tiempo
+    que disminuyen el colesterol HDL. Este tipo de grasas están
+    presentes en bollería industrial, patatas de bolsa, snacks y en
+    algunas grasas para fritura y pastelería (por ejemplo, aceites
+    vegetales hidrogenados).
+
+La grasa es el componente de la dieta que más influyente sobre los
+niveles de colesterol y triglicéridos en sangre teniendo más importancia
+el tipo de grasa que la cantidad total consumida.
 
 En la formación de las dislipemias se va a producir el siguiente proceso
 fisiológico:
@@ -786,14 +825,12 @@ comprobación analítica de la alteración lipídica
 
 Están considerados rangos adecuados:
 
-Triglicéridos `>` 150 mg/dl
-
-HDL
-
-  --------- ---------------
-  Varones   &lt; 40 mg/dl
-  Mujeres   &lt; 50 mg/dl
-  --------- ---------------
+  --------------- -----------------------
+  Triglicéridos   `>` 150 mg/dl
+  HDL             
+                  Varones &lt; 40 mg/dl
+                  Mujeres &lt; 50 mg/dl
+  --------------- -----------------------
 
 También será considerado factor de criterio el tratamiento
 antilipemiante
@@ -806,10 +843,6 @@ Principales funciones antiaterogénicas de las HDL
 -   Antioxidante: inhiben la oxidación de LDL
 -   Reparación endotelial
 -   Antitrombótica
-
-La grasa es el componente de la dieta que más influyente sobre los
-niveles de colesterol y triglicéridos en sangre teniendo más importancia
-el tipo de grasa que la cantidad total consumida.
 
 Las enfermedades cardíacas y los accidentes cerebrovasculares son en la
 actualidad las principales causas de fallecimiento a nivel mundial. En
@@ -1017,7 +1050,10 @@ criterios de evaluación son:
 3.2.2 Por grupos de población
 -----------------------------
 
-### 3.2.2.1 SM en el hombre
+SM en el adulto
+---------------
+
+### SM en el hombre
 
 La población masculina es más propensa al síndrome metabólico que las
 mujeres en la edad adulta
