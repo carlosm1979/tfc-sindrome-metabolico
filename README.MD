@@ -42,6 +42,18 @@ Indice general
 Indice tablas
 =============
 
+[Criterios de diagnóstico OMS](#criterios-de-diagnóstico-oms)\
+[Criterios de diagnóstico EGIR](#criterios-de-diagnóstico-egir)\
+[Criterios de diagnóstico ATP III](#criterios-de-diagnóstico-atp-iii)\
+[Criterios de diagnóstico de la Asociación americana de
+endocrinología](#criterios-de-diagnóstico-de-la-asociación-americana-de-endocrinología)\
+[Factores de riesgo de SM de la Asociación americana de
+endocrinología](#factores-de-riesgo-de-sm-de-la-asociación-americana-de-endocrinología)\
+[Criterios diagnostico Federación Internacional de
+Diabetes](#criterios-diagnostico-federación-internacional-de-diabetes)\
+[Valores de circunferencia abdominal indicándose la especificidad
+étnica](#valores-de-circunferencia-abdominal-indicándose-la-especificidad-étnica)
+
 [Tabla 1: Historia](#tabla-1)\
 [Tabla 2: Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de
 Enfermedad Cardiovascular](#tabla-2)\
@@ -51,6 +63,8 @@ III)](#tabla-3)\
 (International Diabetes Federation](#tabla-4)\
 [Tabla 5: Valores de circunferencia abdominal indicándose la
 especificidad étnica](#tabla-5)
+
+\pagebreak
 
 1. Introducción
 ===============
@@ -82,14 +96,14 @@ ante las enfermedades y la incertidumbre por la cantidad de alimento
 disponible. Por ello era considerada como buena, deseable e incluso como
 símbolo de estatus y belleza.
 
-Esto se trasladó también al criterio médico ya que desde finales del s.
-XIX y hasta principios del s. XX la opinión médica era que tener de 10 a
-20 kilos de exceso de peso era saludable y de protección contra
+Esto se trasladó también al criterio médico, ya que desde finales del s.
+XIX y hasta principios del s. XX se pensaba que tener de 10 a 20 kilos
+de exceso de peso era saludable y servía de protección contra
 enfermedades, mientras que ser delgado no era sano y se atribuía a
 enfermedades nerviosas.
 
 Las consecuencias de lo anteriormente descrito se ven en las
-enfermedades que mayor carga de morbi-mortalidad producen en el mundo
+enfermedades que mayor carga de morbimortalidad producen en el mundo
 entero (enfermedades cardiovasculares).
 
 Es a partir de los años 20 cuando el conocimiento acerca de las
@@ -149,10 +163,10 @@ desarrollo de enfermedad cardiovascular y diabetes mellitus II.
 
 #### OMS
 
-Después de la definición dada por Reaven, en 1999 la OMS cambió la
-denominación a 'Síndrome metabólico', y estableció una definición en la
-que considera que hay evidencia de que la RI como el factor causal común
-de los componentes individuales del síndrome metabólico, aunque
+Después de la definición dada por Gerarld Reaven, en 1999 la OMS cambió
+la denominación a 'Síndrome metabólico', y estableció una definición en
+la que considera que hay evidencia de que la RI como el factor causal
+común de los componentes individuales del síndrome metabólico, aunque
 afectando de forma diferente a cada uno de ellos. También que cada uno
 es un factor de riesgo cardiovascular por si mismo, pero en combinación
 son mucho más potentes, y que el tratamiento no debe enfocarse
@@ -161,7 +175,7 @@ para reducir los factores de riesgo cardiovascular.
 
  
 
-**Criterios de diagnóstico OMS**
+##### Criterios de diagnóstico OMS
 
   ---------------------- ------------------------------------------------------------------
   *Definitivo*           Intolerancia a la glucosa o tolerancia anormal a la glucosa o
@@ -204,28 +218,30 @@ definir la lista de factores que lo componen.
 En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina
 (EGIR) debido a que el síndrome incluye características no metabólicas,
 consideraron que era más apropiado llamarlo “síndrome de resistencia a
-la insulina”. Sugiere una definición para individuos no diabéticos, en
-los que el síndrome se distinga por resistencia a la insulina o
-hiperinsulinemia en ayuno y dos de los siguientes parámetros:
+la insulina”. Además sugiere una definición para individuos no
+diabéticos, en los que el síndrome se distinga por resistencia a la
+insulina o hiperinsulinemia en ayuno y dos de los siguientes parámetros:
 
  
 
-  **Criterios de diagnóstico EGIR**   
-  ----------------------------------- -----------------------------------
-  **hiperglucemia**                   glucosa en ayuno `>`= 6.1 mmol/L
-  **hipertensión arterial**           `>`= 140/90 mmHg o en tratamiento
-  **dislipidemia**                    triglicéridos &gt; 2.0 mmol/L
-                                      o colesterol HDL &lt; 1.0 mmol/L
-                                      o en tratamiento
-  **obesidad central**                circunferencia de la cintura:
-  hombres                             `>`= 94 cm
-  mujeres                             `>`= 80 cm
+##### Criterios de diagnóstico EGIR
+
+  --------------------------- -----------------------------------
+  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
+  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
+  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
+                              o colesterol HDL &lt; 1.0 mmol/L
+                              o en tratamiento
+  **obesidad central**        circunferencia de la cintura:
+  hombres                     `>`= 94 cm
+  mujeres                     `>`= 80 cm
+  --------------------------- -----------------------------------
 
  
 
-Los autores establecieron que la obesidad medida por el índice de masa
-corporal no se considera parte del síndrome y que se ha demostrado que
-la microalbuminuria se relaciona con concentraciones de insulina, por lo
+Los autores establecieron que la obesidad medida por el IMC no se
+considera parte del síndrome y que se ha demostrado que la
+microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
 
 \pagebreak
@@ -245,25 +261,26 @@ glucosa o ambas, estado protrombótico y estado proinflamatorio.
 No consideró necesario recomendar una medición rutinaria de resistencia
 a la insulina, pues asumen que la mayor parte de los sujetos que cumplan
 tres o más criterios la padecerán y rechazan la microalbuminuria de la
-Organización Mundial de la Salud. Tanto esta como la definición de la
-OMS incluyen las cuatro características mayores del síndrome metabólico
-y su uso clínico no debe ocasionar sismos graves para identificar
-individuos.
+OMS. Tanto esta como la definición de la OMS incluyen las cuatro
+características mayores del síndrome metabólico y su uso clínico no debe
+ocasionar sismos graves para identificar individuos.
 
  
 
-    **Criterios de diagnóstico ATP III** 
-  -------------------------------------- ---------------------------
-                      *Factor de riesgo* *Nivel definido*
-                  **Obesidad abdominal** Circunferencia de cintura
-                                 Hombres `>` 102cm
-                                 Mujeres `>` 88cm
-                       **Triglicéridos** `>`=150 mg/dL
-                      **Colesterol-DHL** 
-                                 Hombres &lt;40 mg/dL
-                                 Mujeres &lt;50 mg/dL
-                    **Presión arterial** `>`=130/80 mm Hg
-                   **Grucosa en ayunas** `>`=110 mg/dL
+##### Criterios de diagnóstico ATP III
+
+  ------------------------ ---------------------------
+        *Factor de riesgo* *Nivel definido*
+    **Obesidad abdominal** Circunferencia de cintura
+                   Hombres `>` 102cm
+                   Mujeres `>` 88cm
+         **Triglicéridos** `>`=150 mg/dL
+        **Colesterol-DHL** 
+                   Hombres &lt;40 mg/dL
+                   Mujeres &lt;50 mg/dL
+      **Presión arterial** `>`=130/80 mm Hg
+     **Grucosa en ayunas** `>`=110 mg/dL
+  ------------------------ ---------------------------
 
 *El síndrome metabólico está presente cuando se cumblen tres o más de
 los cinco criterios.*
@@ -287,8 +304,7 @@ el nombre síndrome de resistencia a la insulina.
 
  
 
-**Criterios de diagnóstico de la Asociación americana de
-endocrinología**
+### Criterios de diagnóstico de la Asociación americana de endocrinología
 
   ------------------------ -----------------
   **Glucosa plasmática**   
@@ -308,13 +324,12 @@ Esta propuesta difiere de las anteriores en que el concepto de síndrome
 de resistencia a la insulina excluye a pacientes cuyo grado de
 hiperglucemia cumple el criterio diagnóstico de diabetes mellitus 2; una
 limitante mayor es que no especifica un número definido de factores para
-el diagnóstico, mismo que se deja a juicio clínico. Por tanto, estos
+el diagnóstico, sino que se deja a juicio clínico. Por tanto, estos
 criterios no son útiles como definición para estudios epidemiológicos.
 
  
 
-**Factores de riesgo de SM de la Asociación americana de
-endocrinología**
+##### Factores de riesgo de SM de la Asociación americana de endocrinología
 
   ----------------------------------- ---------------------
   **Exceso de peso**                  IMC `>` 25
@@ -364,18 +379,18 @@ de establecer un consenso global o una herramienta de diagnóstico
 unificada que pudiera usarse universalmente y destacar áreas donde se
 necesita mayor conocimiento. Los participantes estuvieron de acuerdo en
 que las características generales del síndrome metabólico incluyen:
-anormal de grasa corporal, resistencia a la insulina, dislipidemia
-aterogénica, Aumento de la presión arterial, estado proinflamatorio y
-estado protrombótico.
+distribución anormal de grasa corporal, resistencia a la insulina,
+dislipidemia aterogénica, aumento de la presión arterial, estado
+proinflamatorio y estado protrombótico.
 
  
 
-**Criterios diagnostico Federación Internacional de Diabetes**
+##### Criterios diagnostico Federación Internacional de Diabetes
 
   --------------------- -------------------------------------------------------
          **Distribución La obesidad central es la que más se asocia con
        anormal de grasa síndrome metabólico y es la que, independientemente, se
-             corporal** relaciona con todos los demás criterios;108 en términos
+             corporal** relaciona con todos los demás criterios; en términos
                         clínicos se manifiesta con aumento de la circunferencia
                         de cintura
 
@@ -406,7 +421,7 @@ estado protrombótico.
 
 \pagebreak
 
-Todas estas diversas definiciones compoarten algunos de los criterios
+Todas estas diversas definiciones comparten algunos de los criterios
 como son:
 
 -   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
@@ -435,11 +450,8 @@ válido para toda la población mundial, habiéndose encontrado que, para
 las distintas etnias, deben considerarse valores de corte diferentes a
 la hora de realizar un diagnóstico.
 
-  ------------------------------------------------------------------------
-  **Valores de                                     
-  circunferencia abdominal                         
-  indicándose la                                   
-  especificidad étnica**                           
+##### Valores de circunferencia abdominal indicándose la especificidad étnica
+
   ------------------------ ----------------------- -----------------------
   Europeos\*               Hombres = 94 cm         Mujeres = 80 cm
 
@@ -467,7 +479,9 @@ la hora de realizar un diagnóstico.
   Poblaciones Árabes y del Usar los datos europeos 
   Mediterráneo.            hasta tener nueva       
                            información             
-  ------------------------------------------------------------------------
+  ------------------------ ----------------------- -----------------------
+
+ 
 
 Actualmente lo que se está considerando como un enfoque adecuado, en vez
 de pretender realizar un diagnóstico de SM que cumpla una lista cerrada
@@ -486,14 +500,6 @@ determinantes para su desarrollo. Se considera que solo un 10% de los
 casos de SM tiene causas genéticas, por lo que hay que resaltar la
 importancia de la alimentación y los hábitos de vida como causa y a la
 vez como instrumento de prevención y tratamiento del SM.
-
-### 3.2.1 Factores de riesgo. Características.
-
-Las causas del SM no se conocen con exactitud, pero es fundamental saber
-los factores de riesgo asociados que lo desencadenan y lo definen como
-SM.
-
-Así tenemos:
 
 #### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
 
@@ -905,6 +911,14 @@ bajas de colesterol unido a lipoproteínas de alta densidad, es
 consecuencia de la hiperinsulinemia en el metabolismo de las
 lipoproteínas.
 
+### 3.2.1 Factores de riesgo. Características.
+
+Las causas del SM no se conocen con exactitud, pero es fundamental saber
+los factores de riesgo asociados que lo desencadenan y lo definen como
+SM.
+
+Así tenemos:
+
 ### 3.2.2 Desarrollo fisiopatológico del SM
 
 Para el desarrollo del SM tienen que darse dos factores causales. Uno es
@@ -984,74 +998,6 @@ enfermedades como:
 -   la enfermedad renal crónica,
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
-
-\pagebreak
-
-3.2 Diagnóstico
----------------
-
-La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
-que cuando está presente en un paciente es indicador de un elevado
-riesgo cardiovascular y diabetes.
-
-Las personas con SM tienen el doble de riesgo de padecer enfermedad
-cardiovascular y unas cinco veces mayor de sufrir diabetes.
-
-Cuanto más tiempo estén expuestos a los factores de riesgo de SM mayores
-serán los daños que se irán acumulando.
-
-La mayoría de los trastornos asociados con el síndrome metabólico no
-tiene signos ni síntomas evidentes.
-
-El signo que es visible es la circunferencia grande de la cintura.
-
-La obesidad abdominal o visceral evaluada por la circunferencia de
-cintura o por la relación cintura/cadera está relacionada con un aumento
-de riesgo de todas las causas de mortalidad en todo el rango de IMC
-
-\*\*\*\*Si el azúcar en sangre es alto, podrían notarse los signos y los
-síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
-visión borrosa.
-
-Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
-sangrado nasal, pero en general se trata de signos inespecíficos.
-\*\*\*\*\*
-
-Son varios los factores de riesgo para desarrollar síndrome metabólico,
-a menudo las personas tienen varios a la vez. Es necesario tener al
-menos tres de ellos para poder poder dar un diagnóstico de síndrome
-metabólico.
-
--   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
-    un factor de riesgo mayor para enfermedades del corazón que acumular
-    demasiada grasa en otras partes del cuerpo.
--   Tener un nivel alto de triglicéridos, un tipo de grasa que se
-    encuentra en la sangre.
--   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
-    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
-    de las arterias.
--   Tener presión arterial alta: Si su presión arterial se mantiene alta
-    en el tiempo, puede dañar su corazón y provocar otros problemas de
-    salud.
--   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
-    azúcar en la sangre levemente alto puede ser un signo temprano de
-    diabetes.
-
-Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
-diabetes y accidente cerebrovascular.
-
-\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
-criterios de evaluación son:
-
--   Un estilo de vida inactivo
--   Edad: Su riesgo aumenta a medida que envejece
--   Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
-
-3.2.3 Por grupos de población
------------------------------
-
-3.2.3.1 SM en el adulto
------------------------
 
 ### SM en el hombre
 
@@ -1471,6 +1417,91 @@ Por lo tanto, aunque la pérdida de peso siempre es beneficiosa, en
 personas mayores obesas hay que tener cuidado en recomendarla sólo sobre
 la base del peso corporal si no está asociada a otras patologías.
 
+3.2.3 Por grupos de población
+-----------------------------
+
+3.2.3.1 SM en el adulto
+-----------------------
+
+\pagebreak
+
+3.2 Diagnóstico
+---------------
+
+La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+que cuando está presente en un paciente es indicador de un elevado
+riesgo cardiovascular y diabetes.
+
+Las personas con SM tienen el doble de riesgo de padecer enfermedad
+cardiovascular y unas cinco veces mayor de sufrir diabetes.
+
+Cuanto más tiempo estén expuestos a los factores de riesgo de SM mayores
+serán los daños que se irán acumulando.
+
+La mayoría de los trastornos asociados con el síndrome metabólico no
+tiene signos ni síntomas evidentes.
+
+El signo que es visible es la circunferencia grande de la cintura.
+
+La obesidad abdominal o visceral evaluada por la circunferencia de
+cintura o por la relación cintura/cadera está relacionada con un aumento
+de riesgo de todas las causas de mortalidad en todo el rango de IMC
+
+\*\*\*\*Si el azúcar en sangre es alto, podrían notarse los signos y los
+síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
+visión borrosa.
+
+Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
+sangrado nasal, pero en general se trata de signos inespecíficos.
+\*\*\*\*\*
+
+Son varios los factores de riesgo para desarrollar síndrome metabólico,
+a menudo las personas tienen varios a la vez. Es necesario tener al
+menos tres de ellos para poder poder dar un diagnóstico de síndrome
+metabólico.
+
+-   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
+    un factor de riesgo mayor para enfermedades del corazón que acumular
+    demasiada grasa en otras partes del cuerpo.
+-   Tener un nivel alto de triglicéridos, un tipo de grasa que se
+    encuentra en la sangre.
+-   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
+    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
+    de las arterias.
+-   Tener presión arterial alta: Si su presión arterial se mantiene alta
+    en el tiempo, puede dañar su corazón y provocar otros problemas de
+    salud.
+-   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
+    azúcar en la sangre levemente alto puede ser un signo temprano de
+    diabetes.
+
+Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
+diabetes y accidente cerebrovascular.
+
+\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
+criterios de evaluación son:
+
+-   Un estilo de vida inactivo
+-   Edad: Su riesgo aumenta a medida que envejece
+-   Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
+
+3.3 Tratamiento y prevención
+----------------------------
+
+Como síndrome, no hay establecido un tratamiento específico para el
+conjunto de los factores que lo componen, sino que deben tratarse cada
+una de las enfermedades por separado.
+
+La prevención es uno de los elementos clave para el control de esta
+enfermedad, ya que se ha estimado que unos correctos hábitos
+alimentarios y de estilo de vida son suficientes para prevenir su
+aparición en 90 de cada 100 casos, puesto que la investigación muestra
+que sólo un 10% se debe a herencia genética.
+
+Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
+demostrado ser efectivas para mejorar el control metabólico, el riesgo
+cardiovascular y aumentar la esperanza de vida.
+
 ### 3.3.1 Relación con la alimentación
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
@@ -1516,23 +1547,6 @@ población.
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos**
 
-3.3 Tratamiento y prevención
-----------------------------
-
-Como síndrome, no hay establecido un tratamiento específico para el
-conjunto de los factores que lo componen, sino que deben tratarse cada
-una de las enfermedades por separado.
-
-La prevención es uno de los elementos clave para el control de esta
-enfermedad, ya que se ha estimado que unos correctos hábitos
-alimentarios y de estilo de vida son suficientes para prevenir su
-aparición en 90 de cada 100 casos, puesto que la investigación muestra
-que sólo un 10% se debe a herencia genética.
-
-Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
-demostrado ser efectivas para mejorar el control metabólico, el riesgo
-cardiovascular y aumentar la esperanza de vida.
-
 \pagebreak
 
 Material y métodos
@@ -1551,10 +1565,10 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 Discusión
 =========
 
-\pagebreak
-
 Conclusión
 ==========
+
+\pagebreak
 
 \pagebreak
 
