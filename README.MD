@@ -823,8 +823,8 @@ problema viene dado cuando se presenta en exceso.***\*\*??????
 El hipercolesterolemia es el aumento del colesterol en sangre por encima
 de unos valores considerados como normales para la población general. El
 valor a partir del cual se considera patológico, y que además es un
-importante factor de riesgo para las enfermedades cardiovasculares es de
-200 mg de colesterol/dl de sangre
+importante factor de riesgo para las enfermedades cardiovasculares, es
+de 200 mg de colesterol/dl de sangre
 
 La principal causa del aumento de colesterol circulante no es el
 colesterol que proviene de los alimentos, sino las grasas (o ácidos
@@ -836,7 +836,7 @@ el organismo:
 
 -   **Ácidos grasos saturados**: son la grasa presente en lácteos,
     carnes y derivados, y aceites de coco y palma, entre otros
-    alimentos. Ejercen un efecto perjudicial, ya que aumentan el
+    alimentos. Tienen un efecto perjudicial, ya que aumentan el
     colesterol total y el colesterol LDL (“colesterol malo”).
 -   **Ácidos grasos monoinsaturados**: poseen un efecto beneficioso para
     nuestro organismo ya que un consumo prolongado de estos produce un
@@ -845,44 +845,41 @@ el organismo:
     riesgo de desarrollar enfermedades cardiovasculares. Están presentes
     en alimentos como el aceite de oliva, el aguacate o los frutos
     secos.
--   **Ácidos grasos poliinsaturados**: dentro de este grupo distinguimos
-    dos tipos:\
--   Los ácidos grasos omega 3 y omega 6. Ambos resultan beneficiosos ya
-    que una dieta rica en estos produce una disminución del colesterol
-    total y del colesterol LDL. Están presentes en el pescado azul
-    (omega 3) y en aceites de semillas y frutos secos (omega 6.)
+-   **Ácidos grasos poliinsaturados**: de tipo **omega 3** y **omega
+    6**.Ambos resultan beneficiosos ya que una dieta rica en estos
+    produce una disminución del colesterol total y del colesterol LDL.
+    Están presentes en el pescado azul (omega 3) y en aceites de
+    semillas y frutos secos (omega 6).
 -   **Ácidos grasos trans**: son los más nocivos para la salud
     cardiovascular. Ya que dietas ricas en este tipo de grasas producen
     un aumento del colesterol total y colesterol LDL, al mismo tiempo
-    que disminuyen el colesterol HDL. Este tipo de grasas están
-    presentes en bollería industrial, patatas de bolsa, snacks y en
-    algunas grasas para fritura y pastelería (por ejemplo, aceites
-    vegetales hidrogenados).
+    que disminuyen el colesterol HDL. Están presentes en bollería
+    industrial, patatas de bolsa, snacks y en algunas grasas para
+    fritura y pastelería (por ejemplo, aceites vegetales hidrogenados).
 
 La grasa es el componente de la dieta que más influyente sobre los
-niveles de colesterol y triglicéridos en sangre teniendo más importancia
-el tipo de grasa que la cantidad total consumida.
+niveles de colesterol y triglicéridos en sangre, teniendo más
+importancia el tipo de grasa que la cantidad total consumida.
 
 En la formación de las dislipemias se va a producir el siguiente proceso
 fisiológico:
 
-Colesterol y triglicéridos no son solubles en agua y van a necesitar un
-transportador para circular por el torrente sanguíneo.
-
-Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
-triglicéridos al hígado para ser sintetizados.
-
-Una vez utilizadas tiene que ser desechadas para no acumularse en el
-hígado y que no dé lugar el llamado hígado graso, así son enviadas al
-músculo y demás órganos y tejidos para ser utilizados y los que no son
-necesarios se envían de vuelta al hígado en forma de lipoproteínas que
-serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
-densidad). De vuelta en el hígado este ingresa el colesterol que puede
-guardar y devuelve al torrente sanguíneo el que no puede metabolizar
-para que no forme grasa, y lo hace en formas de lipoproteínas LDL, estas
-lipoproteínas tienen la característica de que el colesterol que
-transportarse queda adherido a las paredes de los vasos sanguíneos
-siendo recogidos para su eliminación por las lipoproteínas de HDL.
+1.  Colesterol y triglicéridos no son solubles en agua y van a necesitar
+    un transportador para circular por el torrente sanguíneo.
+2.  Las lipoproteínas LDL van a ser las encargadas de llevar colesterol
+    y triglicéridos al hígado para ser sintetizados.
+3.  Una vez utilizadas tiene que ser desechadas para no acumularse en el
+    hígado y que no dé lugar el llamado hígado graso, así son enviadas
+    al músculo y demás órganos y tejidos para ser utilizados y los que
+    no son necesarios se envían de vuelta al hígado en forma de
+    lipoproteínas que serán colesterol y en mayor cantidad triglicéridos
+    (VLDL de muy baja densidad). De vuelta en el hígado este ingresa el
+    colesterol que puede guardar y devuelve al torrente sanguíneo el que
+    no puede metabolizar para que no forme grasa.Lo hace en formas de
+    lipoproteínas LDL, éstas tienen la característica de que el
+    colesterol que transportarse queda adherido a las paredes de los
+    vasos sanguíneos siendo recogidos para su eliminación por las
+    lipoproteínas de HDL.
 
 Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
 HDL puede recoger es cuando se producen las dislipemias.
@@ -894,7 +891,7 @@ circulación es cuando se produce el trombo con su consiguiente riesgo
 cardiovascular.
 
 El diagnóstico de las dislipemias en general se basa siempre en la
-comprobación analítica de la alteración lipídica
+comprobación analítica de la alteración lipídica.
 
 Están considerados rangos adecuados:
 
@@ -914,8 +911,8 @@ Principales funciones antiaterogénicas de las HDL
 -   Regulación del metabolismo de la glucosa.
 -   Antiinflamatoria.
 -   Antioxidante: inhiben la oxidación de LDL
--   Reparación endotelial
--   Antitrombótica
+-   Reparación endotelial.
+-   Antitrombótica.
 
 Las enfermedades cardíacas y los accidentes cerebrovasculares son en la
 actualidad las principales causas de fallecimiento a nivel mundial. En
