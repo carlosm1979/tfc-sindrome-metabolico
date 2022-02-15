@@ -130,8 +130,8 @@ Metabólico (SM) por la OMS en 1999.
 
 \pagebreak
 
-Objetivos
-=========
+2. Objetivos
+============
 
     - Obtener información sobre que es el S. Metabólico  
     - Estudiar la importancia de la alimentación en su aparición  
@@ -500,6 +500,70 @@ determinantes para su desarrollo. Se considera que solo un 10% de los
 casos de SM tiene causas genéticas, por lo que hay que resaltar la
 importancia de la alimentación y los hábitos de vida como causa y a la
 vez como instrumento de prevención y tratamiento del SM.
+
+\pagebreak
+
+3.2 Diagnóstico
+---------------
+
+La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
+que es indicador de un elevado riesgo cardiovascular y diabetes. Se
+conoce que las personas con SM tienen el doble de riesgo de padecer
+enfermedad cardiovascular y unas cinco veces mayor de sufrir diabetes.
+Del mismo modo, cuanto más tiempo estén expuestos a los factores de
+riesgo mayores serán los daños acumulados.
+
+La mayoría de los trastornos asociados con el síndrome metabólico no
+tiene signos ni síntomas evidentes.
+
+El signo que es visible es la circunferencia grande de la cintura. La
+obesidad abdominal o visceral evaluada por la circunferencia de cintura
+o por la relación cintura/cadera está relacionada con un aumento de
+riesgo de todas las causas de mortalidad en todo el rango de IMC.
+
+\*\*\*\*Si el azúcar en sangre es alto, podrían notarse los signos y los
+síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
+visión borrosa.
+
+Si hay hipertensión podría notarse fuerte dolor de cabeza, o sangrado
+nasal, pero en general se trata de signos inespecíficos. \*\*\*\*\*
+
+Son varios los factores de riesgo para desarrollar síndrome metabólico,
+siendo habitual que en una persona confluyan varios de ellos. Para
+confirmar un diagnóstico de SM, de la manera más habitual, es necesario
+tener tres o más de estos factores:
+
+-   **Obesidad abdominal**: Tener demasiada grasa alrededor de la
+    cintura es un factor de riesgo mayor para enfermedades del corazón
+    que acumular demasiada grasa en otras partes del cuerpo.
+-   **Alto de triglicéridos**: un tipo de grasa que se encuentra en la
+    sangre.
+-   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
+    como colesterol "bueno" porque ayuda a eliminar el colesterol de las
+    arterias.
+-   **Presión arterial alta**: Si la presión arterial se mantiene alta
+    en el tiempo, puede dañar su corazón y provocar otros problemas de
+    salud.
+-   **Nivel alto de azúcar en la sangre en ayunas**: El nivel de azúcar
+    en la sangre levemente alto puede ser un signo temprano de diabetes.
+
+Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
+diabetes y accidente cerebrovascular.
+
+Existen además otros factores a tener en cuenta a la hora de detectar
+indicadores de que un pacientes puede desarrollar SM:
+
+-   Un estilo de vida inactivo
+-   Edad: Su riesgo aumenta a medida que envejece
+-   Genética: Origen étnico y su historia familiar
+
+### 3.2.1 Factores de riesgo. Características.
+
+Las causas del SM no se conocen con exactitud, pero es fundamental saber
+los factores de riesgo asociados que lo desencadenan y lo definen como
+SM.
+
+Así tenemos:
 
 #### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
 
@@ -911,14 +975,6 @@ bajas de colesterol unido a lipoproteínas de alta densidad, es
 consecuencia de la hiperinsulinemia en el metabolismo de las
 lipoproteínas.
 
-### 3.2.1 Factores de riesgo. Características.
-
-Las causas del SM no se conocen con exactitud, pero es fundamental saber
-los factores de riesgo asociados que lo desencadenan y lo definen como
-SM.
-
-Así tenemos:
-
 ### 3.2.2 Desarrollo fisiopatológico del SM
 
 Para el desarrollo del SM tienen que darse dos factores causales. Uno es
@@ -999,7 +1055,13 @@ enfermedades como:
 -   el síndrome del ovario poliquístico
 -   la infertilidad masculina
 
-### SM en el hombre
+\pagebreak
+
+### 3.2.3 Por grupos de población
+
+#### 3.2.3.1 SM en el adulto
+
+##### SM en el hombre
 
 La población masculina es más propensa al síndrome metabólico que las
 mujeres en la edad adulta
@@ -1048,7 +1110,7 @@ condición asociada al síndrome metabólico.
 
 También se ha relacionado SM con el descenso del nivel de fertilidad.
 
-### 3.2.2.2 SM en la mujer
+##### SM en la mujer
 
 La enfermedad cardiovascular es la principal causa de muerte en las
 mujeres y existen factores de riesgo específicos de la mujer para
@@ -1140,7 +1202,7 @@ mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
 vascular de gran vaso o afectación renal, síndrome de apnea obstructiva
 del sueño, alteración hepática y cáncer de endometrio.
 
-#### SM en el embarazo
+###### SM en el embarazo
 
 El embarazo es un síndrome metabólico transitorio que predispone a
 disfunción epitelial. En el embarazo normal, hay un gasto cardíaco
@@ -1222,7 +1284,7 @@ densidad (HDL), antecedentes familiares de enfermedad cardiovascular
 temprana y la edad. \*\*\*\*\* FACTORES COMUNES A TODOS.
 ¿¿¿¿¿¿¿SUPRIMIR???????
 
-#### Complicaciones materno-fetales
+###### Complicaciones materno-fetales
 
 Para el feto pueden ser muerte prematura, macrosomía, hipoglicemia y
 trauma neonatal. Los fetos macrosómicos y recién nacidos de madres
@@ -1269,7 +1331,7 @@ del bebé)
 El correcto tratamiento debe de estar encaminado a la prevención de los
 factores de riesgo del síndrome.
 
-### 3.2.3.2 SM en la infancia
+#### 3.2.3.2 SM en la infancia
 
 Como se ha ido relatando en los últimos 50 años la obesidad y el SM se
 han convertido en un problema global. Esto antes era considerado como
@@ -1360,7 +1422,7 @@ ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
 obesidad, con toda la problemática que ello supone.
 
-### 3.2.3.3 SM en la tercera edad
+#### 3.2.3.3 SM en la tercera edad
 
 Con el proceso de envejecimiento se producen serie de cambios de tipo
 fisiológicos, morfológicos y funcionales entre los que se encuentran:
@@ -1417,73 +1479,7 @@ Por lo tanto, aunque la pérdida de peso siempre es beneficiosa, en
 personas mayores obesas hay que tener cuidado en recomendarla sólo sobre
 la base del peso corporal si no está asociada a otras patologías.
 
-3.2.3 Por grupos de población
------------------------------
-
-3.2.3.1 SM en el adulto
------------------------
-
 \pagebreak
-
-3.2 Diagnóstico
----------------
-
-La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
-que cuando está presente en un paciente es indicador de un elevado
-riesgo cardiovascular y diabetes.
-
-Las personas con SM tienen el doble de riesgo de padecer enfermedad
-cardiovascular y unas cinco veces mayor de sufrir diabetes.
-
-Cuanto más tiempo estén expuestos a los factores de riesgo de SM mayores
-serán los daños que se irán acumulando.
-
-La mayoría de los trastornos asociados con el síndrome metabólico no
-tiene signos ni síntomas evidentes.
-
-El signo que es visible es la circunferencia grande de la cintura.
-
-La obesidad abdominal o visceral evaluada por la circunferencia de
-cintura o por la relación cintura/cadera está relacionada con un aumento
-de riesgo de todas las causas de mortalidad en todo el rango de IMC
-
-\*\*\*\*Si el azúcar en sangre es alto, podrían notarse los signos y los
-síntomas de la diabetes, como aumento de la sed y la orina, cansancio y
-visión borrosa.
-
-Si hay una hipertensión podría notarse fuerte dolor de cabeza, o
-sangrado nasal, pero en general se trata de signos inespecíficos.
-\*\*\*\*\*
-
-Son varios los factores de riesgo para desarrollar síndrome metabólico,
-a menudo las personas tienen varios a la vez. Es necesario tener al
-menos tres de ellos para poder poder dar un diagnóstico de síndrome
-metabólico.
-
--   Obesidad abdominal. Tener demasiada grasa alrededor de la cintura es
-    un factor de riesgo mayor para enfermedades del corazón que acumular
-    demasiada grasa en otras partes del cuerpo.
--   Tener un nivel alto de triglicéridos, un tipo de grasa que se
-    encuentra en la sangre.
--   Tener un nivel bajo de colesterol HDL: En ocasiones, el HDL se
-    conoce como colesterol "bueno" porque ayuda a eliminar el colesterol
-    de las arterias.
--   Tener presión arterial alta: Si su presión arterial se mantiene alta
-    en el tiempo, puede dañar su corazón y provocar otros problemas de
-    salud.
--   Tener un nivel alto de azúcar en la sangre en ayunas: El nivel de
-    azúcar en la sangre levemente alto puede ser un signo temprano de
-    diabetes.
-
-Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
-diabetes y accidente cerebrovascular.
-
-\*\*\*\*\*\*(Además otras causas que actúan conjuntamente, aunque no son
-criterios de evaluación son:
-
--   Un estilo de vida inactivo
--   Edad: Su riesgo aumenta a medida que envejece
--   Genética: Origen étnico y su historia familiar) \*\*\*\*\*\*?????
 
 3.3 Tratamiento y prevención
 ----------------------------
