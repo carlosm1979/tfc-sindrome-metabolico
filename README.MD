@@ -933,13 +933,14 @@ forma preventiva.
 
 La hipertensión también incrementa el riesgo de mobimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
-(neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva). la
-HTA en adultos se define como cifras de presión arterial sistólica y
+(neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
+
+La HTA en adultos se define como cifras de presión arterial sistólica y
 diastólica `>` 140/90 mm Hg.
 
 **Factores de riesgo**
 
-Existen una serie de factores de riesgo a tener en cuenta: la edad, ya
+Existen una serie de factores de riesgo a tener en cuenta. La edad, ya
 que a medida que aumenta las posibilidades de tener hipertensión. Con
 respecto al género, se conoce que hasta los 50 años los hombres tienen
 más probabilidades de tener hipertensión. Del mismo modo los individuos
@@ -975,6 +976,8 @@ bajas de colesterol unido a lipoproteínas de alta densidad, es
 consecuencia de la hiperinsulinemia en el metabolismo de las
 lipoproteínas.
 
+\pagebreak
+
 ### 3.2.2 Desarrollo fisiopatológico del SM
 
 Para el desarrollo del SM tienen que darse dos factores causales. Uno es
@@ -983,10 +986,10 @@ ambientales y que son los que dan un riesgo determinado para que una
 persona sufra SM.
 
 Los factores ambientales (hábitos de vida) tienen mucho peso y están
-asociados fundamentalmente a la obesidad, que será el elemento núcleo,
-en concreto la obesidad que cursa con aumento de grasa visceral que se
+asociados fundamentalmente a la obesidad, que será el elemento núcleo.
+En concreto la obesidad que cursa con aumento de grasa visceral que se
 acumula dentro de los órganos y desencadena una serie de cambios que
-hace que no funcionen bien todo el metabolismo y poco a poco se vaya
+hace que poco a poco el funcionamiento del metabolismo vaya
 deteriorando.
 
 Hay una serie de elementos que empiezan a aparecer sucesivamente una vez
@@ -995,23 +998,23 @@ de grasa en el hígado.
 
 Este normalmente no tiene muchos acúmulos de grasa, pero en una persona
 obesa van apareciendo acúmulos que producen lo que se denomina hígado
-graso o esteatosis hepática
+graso o esteatosis hepática.
 
 Un hígado lleno de grasa no es un hígado sano, no funciona bien y
-produce otros problemas a largo plazo como el aumento de la inflamación
+produce otros problemas a largo plazo, como el aumento de la inflamación
 y la dislipemia. El hígado es una gran fábrica en el organismo y el
-metabolismo de los lípidos se lleva a cabo en el y cuando está lleno de
-gras aparece alteración de grasa en sangre, una dislipemia.
+metabolismo de los lípidos se lleva a cabo en él, cuando está lleno de
+grasa aparece alteración de grasa en sangre, una dislipemia.
 
 Además, la obesidad conlleva una mayor resistencia a la insulina. Al
-principio es un mecanismo compensador del cuerpo que lo que pretende es
-que nuestras cifras de glucemia no aumenten demasiado, pero con el paso
-del tiempo este mecanismo compensador no puede mantenerse apareciendo la
-hiperglucemia y aparece la Diabetes Mellitus II que siempre va asociada
-a cierto grado de resistencia a la insulina.
+principio es un mecanismo compensador del cuerpo, que pretende es que
+nuestras cifras de glucemia no aumenten demasiado. Pero con el paso del
+tiempo este mecanismo compensador no puede mantenerse apareciendo la
+hiperglucemia y la Diabetes Mellitus II, que siempre va asociada a
+cierto grado de resistencia a la insulina.
 
 Tanto la RI como la DM2 tienen una retroalimentación positiva sobre la
-obesidad, es decir hace más fácil que el obeso siga siendo obeso.
+obesidad, es decir hacen más fácil que el obeso siga siendo obeso.
 Empeora la obesidad y además los vasos sanguíneos que tienen un
 recubrimiento interno que se daña a causa de las hiperglucemias,
 hiperinsulinemias y a la inflamación crónica. Aparece así la disfunción
@@ -1021,22 +1024,20 @@ Tanto el hígado graso, como la RI, como DM2, la dislipemia y la
 disfunción endotelial van a estar favorecidas y a la vez van a favorecer
 la inflamación.
 
-La inflamación es como el fuego que aviva cada uno de esos factores y a
-la vez cada uno de esos factores aviva el fuego en una continua
-retroalimentación.
-
 El peligro que esto produce es la aparición de enfermedad
 cardiovascular.
 
-Todos estos elementos patológicos van a en ateroesclerosis, es decir los
-vasos sanguíneos poco a poco van a ir taponándose y cerrándose y van a
-aparecer mayores alteraciones ateroescleróticas. que pueden hacer que
-aparezca la enfermedad cardiovascular que es la causante de muerte por
-encima del cáncer.
+Todos estos elementos patológicos van a derivar en la aparición de
+ateroesclerosis, es decir, los vasos sanguíneos poco a poco van a ir
+taponándose y cerrándose, lo que va a propiciar la aparición mayores
+alteraciones ateroescleróticas.
+
+que pueden hacer que aparezca la enfermedad cardiovascular que es la
+causante de muerte por encima del cáncer.
 
 La duración de la exposición a los factores de riesgo es clave puesto
-que los daños se van sumando a lo largo de los años y al final se tiene
-más riesgo de padecer enfermedad grave.
+que los daños se van sumando a lo largo de los años aumentando el riesgo
+de padecer enfermedad grave.
 
 ### Patologías relacionadas
 
