@@ -275,7 +275,7 @@ ocasionar sismos graves para identificar individuos.
                    Hombres `>` 102cm
                    Mujeres `>` 88cm
          **Triglicéridos** `>`=150 mg/dL
-        **Colesterol-DHL** 
+        **Colesterol-HDL** 
                    Hombres &lt;40 mg/dL
                    Mujeres &lt;50 mg/dL
       **Presión arterial** `>`=130/80 mm Hg
@@ -968,13 +968,6 @@ subyacente, como podrían ser:
     antigripales, los descongestionantes, los analgésicos de venta libre
     y algunos medicamentos con receta médica
 -   Drogas ilícitas, como la cocaína y las anfetaminas
-
-#### 3.2.1.5 Niveles elevados de triglicéridos
-
-La dislipemia característica del SM, la hipertrigliceridemia con cifras
-bajas de colesterol unido a lipoproteínas de alta densidad, es
-consecuencia de la hiperinsulinemia en el metabolismo de las
-lipoproteínas.
 
 \pagebreak
 

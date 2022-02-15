@@ -8,7 +8,7 @@
 | **Grucosa en ayunas** | `>`=110 a <126mg/dL (`>`=6,1 a <=7,0 mmol/L) |
 | **Presión arterial** | `>`=130/80 mm Hg |
 | **TG** | `>`=150 mg/dL (1,7 mmol/L) |
-| **C-DHL** | |
+| **C-HDL** | |
 | | Hombres: <40 mg/dL (1,04 mmol/L) |
 | | Mujeres: <50 mg/dL (1,3 mmol/L) |
 
