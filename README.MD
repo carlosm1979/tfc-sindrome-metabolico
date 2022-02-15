@@ -52,17 +52,12 @@ endocrinología](#factores-de-riesgo-de-sm-de-la-asociación-americana-de-endocr
 [Criterios diagnostico Federación Internacional de
 Diabetes](#criterios-diagnostico-federación-internacional-de-diabetes)\
 [Valores de circunferencia abdominal indicándose la especificidad
-étnica](#valores-de-circunferencia-abdominal-indicándose-la-especificidad-étnica)
-
-[Tabla 1: Historia](#tabla-1)\
-[Tabla 2: Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de
-Enfermedad Cardiovascular](#tabla-2)\
-[Tabla 3: Criterios diagnósticos del Síndrome Metabólico (NCEP ATP
-III)](#tabla-3)\
-[Tabla 4: Diagnóstico de Síndrome Metabólico. Criterios de la IDF
-(International Diabetes Federation](#tabla-4)\
-[Tabla 5: Valores de circunferencia abdominal indicándose la
-especificidad étnica](#tabla-5)
+étnica](#valores-de-circunferencia-abdominal-indicándose-la-especificidad-étnica)\
+[Criterios de síndrome metabólico en la infancia y adolescencia de la
+International Diabetes
+Federation](#criterios-de-síndrome-metabólico-en-la-infancia-y-adolescencia-de-la-international-diabetes-federation)\
+[Evolución histórica de los criterios del síndrome
+metabólico](#evolución-histórica-de-los-criterios-del-síndrome-metabólico)
 
 \pagebreak
 
@@ -152,8 +147,8 @@ la aparición de la alteraciones de salud que lo componen.
 
 \pagebreak
 
-Parte teórica
-=============
+3. Parte teórica
+================
 
 3.1 Que es
 ----------
@@ -1058,14 +1053,14 @@ enfermedades como:
 ##### SM en el hombre
 
 La población masculina es más propensa al síndrome metabólico que las
-mujeres en la edad adulta
+mujeres en la edad adulta.
 
 Esto es debido a que existe un dimorfismo sexual, que empieza a
 manifestarse en especial a partir de la adolescencia. En el sexo
 femenino la distribución de la grasa es mayoritariamente distal y
 subcutánea lo que se conoce como obesidad ginoide o pera, mientras en
 los hombres la distribución de la grasa es de preferencia central siendo
-central- visceral en lo que se conoce como obesidad de tipo androide.
+central-visceral en lo que se conoce como obesidad de tipo androide.
 
 Las mujeres producen estrógenos que las protegen de la elevación de
 grasas, ya que su organismo utiliza el colesterol para producir más
@@ -1079,22 +1074,21 @@ tapa arterias vitales del corazón, cerebro y pulmones.
 Se puede decir entonces que ser hombre es un factor de riesgo para
 padecer enfermedades de tipo cardiovascular.
 
-En hombres la edad el aumento de enfermedad cardiovascular está se da en
-la década de los 40 y 60 años, en tanto que, en las mujeres, la edad no
-está asociada específicamente a cada una de las décadas, la frecuencia
-de SM es similar en todas las décadas estudiadas y tiene más que ver con
-la menopausia.
+En hombres la edad el aumento de enfermedad cardiovascular se da entre
+la década de los 40 y 60 años. Mientras que, en las mujeres, la
+frecuencia de SM es similar en todas las décadas estudiadas y tiene más
+que ver con la menopausia.
 
 También se ha relacionado una mayor obesidad central en hombres con la
 disminución de la hormona testosterona. A niveles más bajos de
 testosterona mayor perímetro de cintura.
 
-La edad, sedentarismo y /o falta de práctica de ejercicio físico junto
-con una mala alimentación constituida por alimentos hipercalóricos de
-bajo poder nutritivo y alto nivel de azúcar, grasas saturadas, alto
-consumo de sal, tabaquismo, son entre otros son factores que promueven
-la aparición de SM de la población en general y por tanto también son
-factores de riesgo para el género masculino
+La edad, sedentarismo, tabaquismo y falta de práctica de ejercicio
+físico son factores que promueven la aparición de SM de la población en
+general y por tanto también son factores de riesgo para el género
+masculino. También una mala alimentación, constituida por alimentos
+hipercalóricos de bajo poder nutritivo y alto nivel de azúcar, grasas
+saturadas, alto contenido de sal.
 
 Además de estos componentes clásicos, en los últimos años se han
 considerado otros elementos de posible impacto en la fisiopatología de
@@ -1108,9 +1102,9 @@ También se ha relacionado SM con el descenso del nivel de fertilidad.
 
 La enfermedad cardiovascular es la principal causa de muerte en las
 mujeres y existen factores de riesgo específicos de la mujer para
-desarrollarla, entre los cuales están: edad temprana de menarquia,
+desarrollarla, entre los cuales están: edad temprana de menarquía,
 menopausia, síndrome premenstrual, síndrome de ovárico poliquístico
-entre otros además de los factores riesgo compartidos con los hombres.
+entre otros, además de los factores riesgo compartidos con los hombres.
 
 Las hormonas ejercen un rol importante en la vida de una mujer; hay tres
 etapas cuando el cuerpo de esta pasa por las principales transiciones
@@ -1135,27 +1129,27 @@ La transición que experimenta la mujer durante la pre y postmenopausia,
 se asocia con la presentación o el desarrollo de características propias
 del síndrome metabólico, entre las que se encuentran:
 
--   Aumento de la grasa central abdominal\
+-   Aumento de la grasa central abdominal.
 -   Alteración del perfil lipídico (elevación de lipoproteínas de baja
     densidad y triglicéridos, disminución de lipoproteínas de alta
-    densidad)\
+    densidad)
 -   Resistencia a la insulina.
 
-Se reportó que el incremento de la LDL fue menor en mujeres
-premenopáusicas que en postmenopáusicas, al igual que el aumento en los
-triglicéridos, la disminución del HDL y obesidad central
+El incremento de la LDL es menor en mujeres premenopáusicas que en
+postmenopáusicas, al igual que el aumento en los triglicéridos, la
+disminución del HDL y obesidad central.
 
 Por esta razón, la prevalencia de síndrome metabólico se incrementa con
 la menopausia hasta en un 60%, al mezclarse variables como la edad, el
 índice de masa corporal y la inactividad física, entre otras.
 
 Este fenómeno puede explicar parcialmente el incremento en la incidencia
-de enfermedad cardiovascular observado después de la menopausia
+de enfermedad cardiovascular observado después de la menopausia.
 
 Con la menopausia se produce un cambio en la distribución de la grasa
-pasando de un tipo ginoide (acumulación en las caderas) al tipo androide
-como resultado directo del fallo ovárico que da como resultado la
-disminución de la producción de estrógenos
+pasando de un tipo ginoide (acumulación en las caderas) al tipo
+androide, como resultado directo del fallo ovárico que repercute en la
+disminución de la producción de estrógenos.
 
 Muchos estudios han destacado que en la postmenopausia se produce un
 aumento de los niveles de insulina y glucosa más elevados que en la
@@ -1172,11 +1166,9 @@ poliquístico\*\*\*???
 El síndrome de ovario poliquístico es una entidad que afecta entre el 5
 y el 7% de las mujeres en edad reproductiva.
 
-El vínculo entre el síndrome metabólico y el síndrome de ovario
-poliquístico viene dado por cuanto alrededor del 60% de las mujeres
-portadoras, presentan insulinorresistencia con hiperinsulinismo
-compensatorio, lo cual constituye la base patogénica del síndrome
-metabólico.
+Alrededor del 60% de las mujeres portadoras, presentan
+insulinorresistencia con hiperinsulinismo compensatorio, lo cual
+constituye la base patogénica del síndrome metabólico.
 
 Las mujeres portadoras de síndrome de ovario poliquístico tienden a
 poseer mayor índice de masa corporal (IMC), circunferencia de cintura,
@@ -1185,11 +1177,6 @@ comparación con aquellas que no lo presentan; por tanto, el síndrome de
 ovario poliquístico no sólo afecta la salud reproductiva, sino que
 plantea riesgos significativos potenciales a largo plazo, especialmente
 cardiovasculares.
-
-Existen una serie diagnósticos que pueden ser identificados como
-síntomas tempranos de SM, como pueden ser el síndrome de ovario
-poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
-o la diabetes gestacional.
 
 Las mujeres portadoras de síndrome de ovario poliquístico tienen riesgo
 mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
@@ -1209,17 +1196,17 @@ Es una causa frecuente de ganancia de peso en la mujer.
 \*\*\*\*En el embarazo se producen una serie de cambios y adaptaciones
 metabólicas cuyo objetivo es por un lado mantener el correcto desarrollo
 del feto y por otro asegurar la correcta nutrición materna durante la
-gestación y para que esté preparada para la lactancia. Así que
-inicialmente en la primera mitad de la gestación va haber una fase en la
-que por la acción de las hormonas estrógeno y progesterona la madre va a
-tener un hiperinsulinismo, exceso de insulina o un exceso de
-sensibilidad a la insulina que conlleva y busca favorecer el depósito
-materno de micronutrientes para poder nutrir al feto y a la madre.
+gestación y que esté preparada para la lactancia. Así que inicialmente
+en la primera mitad de la gestación habrá una fase en la que por la
+acción de las hormonas estrógeno y progesterona la madre va a tener un
+hiperinsulinismo, exceso de insulina o un exceso de sensibilidad a la
+insulina que conlleva y busca favorecer el depósito materno de
+micronutrientes para poder nutrir al feto y a la madre.
 
 A partir de la semana 20 (5 meses) se va a producir otra fase en la que
 habrá una resistencia a la insulina real. Disminuye la utilización
-materna de la glucosa y de los aminoacidos para pasarselos al feto
-mientras la madre utilizará acidos grasos provenientes de los depositos
+materna de la glucosa y de los aminoacidos para pasárselos al feto
+mientras la madre utilizará ácidos grasos provenientes de los depósitos
 que tenía previamente de la primera mitad de la gestación. \*\*\*\*
 
 El reconocimiento de este síndrome durante el embarazo podría ayudar a
@@ -1236,8 +1223,8 @@ edad y la obesidad.
 
 Si este síndrome es detectado precozmente, pueden realizarse cambios
 significativos en la conducta médica durante el embarazo desde su
-inicio, para prevenir las complicaciones maternas y fetales asociadas,
-de esta manera contribuiría como una herramienta diagnóstica útil para
+inicio, para prevenir las complicaciones maternas y fetales asociadas.
+De esta manera contribuiría como una herramienta diagnóstica útil para
 su aplicación en todas aquellas gestantes que acudan a su control
 prenatal e incluso en la consulta preconcepcional, para hacer
 diagnóstico de rutina y así recomendarles que deben tratarse.
@@ -1266,7 +1253,7 @@ síndrome durante la gestación.
 
 **Lactancia**. - Esta función fisiológica posterior al embarazo
 disminuye el riesgo de SM. La lactancia prolongada se relaciona con
-menor riesgo de DM2.Se determina que en mujeres que tuvieron hijos hace
+menor riesgo de DM2. Se determina que en mujeres que tuvieron hijos hace
 15 años, por cada año de lactancia el riesgo de SM disminuyó en 14%.
 
 \*\*\*\*\*Existen diversos factores de riesgo predisponentes
@@ -1306,11 +1293,11 @@ Por ejemplo, se ha encontrado que, a mayor peso al nacer, mayor
 probabilidad de desarrollar sobrepeso u obesidad y mayores niveles de
 presión arterial durante su niñez.
 
-También se sabe que un bajo o elevado peso al nacer es un factor para
-desarrollar diabetes mellitus II en la edad adulta
+También se sabe que tanto un bajo como elevado peso al nacer son
+factores para desarrollar diabetes mellitus II en la edad adulta.
 
 Se ha encontrado también relación entre el bajo peso al nacer y el
-riesgo cardio metabólico, morbilidad y mortalidad cardiovascular
+riesgo cardiometabólico, morbilidad y mortalidad cardiovascular
 
 Es importante identificar, de manera temprana, gestaciones en riesgo de
 exceso de peso al nacer y el manejo de los factores que contribuyen al
@@ -1318,12 +1305,12 @@ mismo, con el fin de prevenir el posterior desarrollo de obesidad y
 riesgo cardiovascular en estos niños.
 
 A destacar la importancia de promover la lactancia materna como método
-de prevención de obesidad en el niño y un ingreso adecuad de nutrientes
-con una buena ablación ( \*destete, introducción de alimentos sólidos
-del bebé)
+de prevención de obesidad en el niño y un ingreso adecuado de nutrientes
+con una buena ablación (\*destete, introducción de alimentos sólidos del
+bebé)
 
 El correcto tratamiento debe de estar encaminado a la prevención de los
-factores de riesgo del síndrome.
+factores de riesgo del SM.
 
 #### 3.2.3.2 SM en la infancia
 
@@ -1336,16 +1323,13 @@ obesos, sino que lo están haciendo a edades más tempranas.
 Los mecanismos fisiopatológicos descritos para la población adulta
 también pueden explicar la aparición del SM en niños y adolescentes.
 Aunque nos encontramos con la dificultad para medirlo de que no existe
-una unanimidad de criterios.
+unanimidad de criterios.
 
 Trasladar el concepto de riesgo utilizado en la población adulta de
 riesgo a niños y adolescentes resulta difícil, puesto que la tensión
 arterial, el nivel de lípidos, la sensibilidad a la insulina y las
 medidas antropométricas cambian con la edad y el desarrollo en la
 adolescencia.
-
-No existe un criterio unificado para poder evaluar el SM en niños, lo
-cual dificulta su diagnóstico.
 
 Las dificultades para concretar una definición ampliamente aceptada de
 SM en la infancia y adolescencia son debidas en parte a la falta de
@@ -1363,8 +1347,9 @@ diagnóstico de obesidad central y la presencia de otros dos factores de
 riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la
 glucosa).
 
-**Criterios de síndrome metabólico en la infancia y adolescencia de la
-International Diabetes Federation**
+ 
+
+##### Criterios de síndrome metabólico en la infancia y adolescencia de la International Diabetes Federation
 
   --------------------------------------------------------------------------------------------------------------------
   Edad (años)     Obesidad        Triglicéridos   HDL colesterol (mg/dl) Presión arterial       Glucosa (mg/dl)
@@ -1386,6 +1371,8 @@ International Diabetes Federation**
 **El diagnóstico requiere la presencia de obesidad central mediante
 determinación de cintura abdominal y como mínimo dos de los criterios
 restantes**
+
+ 
 
 Para la detección del SM en la infancia es necesario una herramienta de
 diagnóstico con criterios unificados y que permita una detección precoz.
@@ -1411,7 +1398,7 @@ ocupa un lugar primordial.
 
 El cambio de estilo de vida (con factores como el aumento del
 sedentarismo, menos actividades físicas al aire libre, el mayor tiempo
-frente a las pantallas, unido a un alto consumo de alimentos
+frente a las pantallas), unido a un alto consumo de alimentos
 ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
 obesidad, con toda la problemática que ello supone.
@@ -1428,7 +1415,7 @@ fisiológicos, morfológicos y funcionales entre los que se encuentran:
     años, en parte por el proceso normal de envejecimiento y en parte
     porque la actividad física suele reducirse y es un factor que
     favorece la perdida de musculo esquelético que está relacionado con
-    la tener más o menos fuerza.
+    tener más o menos fuerza.
 -   Una nueva distribución de la grasa corporal. En ambos sexos se da un
     aumento de contorno de cintura.
 
@@ -1441,28 +1428,23 @@ autonomía del anciano y tiene relación con la obesidad y la resistencia
 a la insulina. Se produce el hecho de que mayor prevalencia de obesidad
 se aumenta también la de sarcopenia.
 
-A su vez, la diabetes tipo 2 se asoció con el mayor riesgo de padecer
-sarcopenia.
+A su vez, la diabetes tipo 2 está asociada con el mayor riesgo de
+padecer sarcopenia.
 
 Estas características pueden contribuir a la discapacidad física y a los
 trastornos metabólicos en adultos mayores con diabetes.
 
 Lo que se produce es una sucesión de hechos en cadena:
 
-Con el aumento de peso se va a producir una reducción de la actividad
-física lo que provocará una pérdida de masa muscular con la consiguiente
-disminución de tejido diana para la insulina lo que favorece la
-aparición de diabetes.
-
-Sarcopenia y obesidad serán factores que actúan conjuntamente en
-discapacidad física y trastornos metabólicos en la tercera edad.
+1.  Con el aumento de peso se va a producir una reducción de la
+    actividad física, lo que provocará una pérdida de masa muscular con
+    la consiguiente disminución de tejido diana para la insulina lo que
+    favorece la aparición de diabetes.
+2.  Sarcopenia y obesidad serán factores que actúan conjuntamente en
+    discapacidad física y trastornos metabólicos en la tercera edad.
 
 Puede decirse que el proceso de envejecimiento es un factor de riesgo
 para padecer SM y diabetes.
-
-Aunque la sarcopenia no disminuye por completo la aparición de
-sarcopenia, la inactividad física acelera la pérdida muscular
-esquelética.
 
 En este momento de la vida se produce la llamada “paradoja de la
 obesidad”, y es que el sobrepeso se asocia con un mayor riesgo de
@@ -1539,24 +1521,24 @@ población.
 
 \pagebreak
 
-Material y métodos
-==================
+4. Material y métodos
+=====================
 
 Precisar los material y métodos que se van a necesitar para desarrollar
 el trabajo. El objetivo será proporcionar al lector todos los detalles
 para que se pueda repetir dicho estudio.
 
-Resultados
-==========
+5. Resultados
+=============
 
 En este apartado deberéis incluir los resultados de las encuestas y los
 resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
-Discusión
-=========
+6. Discusión
+============
 
-Conclusión
-==========
+7. Conclusión
+=============
 
 \pagebreak
 
@@ -1721,8 +1703,7 @@ cuatro kilos tras nueve meses de gestación.
 Tablas
 ======
 
-Evolución histórica de los criterios del síndrome metabólico
-------------------------------------------------------------
+##### Evolución histórica de los criterios del síndrome metabólico
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Denomina                                                                                                                                                                                                           Autor                                                                                                                                                                                                                                   Año                                        Criterios y factores de riesgo asociado
