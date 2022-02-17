@@ -810,21 +810,66 @@ Los pacientes con dislipemias presentan niveles de triglicéridos
 elevados, valores disminuidos de colesterol HDL y un aumento de las
 partículas LDL.
 
+En la formación de las dislipemias se va a producir el siguiente proceso
+fisiológico:
+
+Colesterol y triglicéridos no son solubles en agua y van a necesitar un
+transportador para circular por el torrente sanguíneo.
+
+Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
+triglicéridos al hígado para ser sintetizados.
+
+Una vez utilizadas tiene que ser desechadas para no acumularse en el
+hígado y que no dé lugar el llamado hígado graso, así son enviadas al
+músculo y demás órganos y tejidos para ser utilizados y los que no son
+necesarios se envían de vuelta al hígado en forma de lipoproteínas que
+serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
+densidad). De vuelta en el hígado este ingresa el colesterol que puede
+guardar y devuelve al torrente sanguíneo el que no puede metabolizar
+para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
+tienen la característica de que el colesterol que transportarse queda
+adherido a las paredes de los vasos sanguíneos siendo recogidos para su
+eliminación por las lipoproteínas de HDL.
+
+Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
+HDL puede recoger es cuando se producen las dislipemias.
+
+Estos depositos de grasa son fagocitadas por los macrófagos formando las
+células espumosas, se da una respuesta inflamatoria formándose el
+ateroma. Cuando este ateroma se rompe y entra en el circuito de la
+circulación es cuando se produce el trombo con su consiguiente riesgo
+cardiovascular.
+
+El diagnóstico de las dislipemias en general se basa siempre en la
+comprobación analítica de la alteración lipídica.
+
+ 
+
+  Rangos adecuados   
+  ------------------ -----------------------
+  Triglicéridos      `>` 150 mg/dl
+  HDL                
+                     Varones &lt; 40 mg/dl
+                     Mujeres &lt; 50 mg/dl
+
+ 
+
 **Colesterol**
 
 El colesterol es una sustancia similar a la grasa e indispensable para
 la vida. Se encuentra en las membranas celulares de nuestros organismos,
 desde el sistema nervioso al hígado y al corazón. El cuerpo necesita
 colesterol para fabricar hormonas, ácidos biliares, vitamina D, y otras
-sustancias. Sin embargo, el aumento del colesterol en la sangre y su
-depósito en las arterias puede ser peligroso y producir ateroesclerosis
-(estrechamiento o endurecimiento de las arterias por depósito de
-colesterol en sus paredes).
+sustancias.
 
-Una parte importante del colesterol de nuestro organismo se produce en
-el hígado. El resto es aportado a través de la dieta y del colesterol
-presente en la bilis, parte del cual se vuelve a absorber en el
-intestino.
+Una parte importante del colesterol presente en nuestro organismo es
+producido por el hígado; el resto es aportado a través de la dieta y del
+colesterol presente en la bilis, parte del cual se vuelve a absorber en
+el intestino. El problema viene dado cuando se presenta en exceso. El
+aumento del colesterol en la sangre y su depósito en las arterias puede
+ser peligroso y producir ateroesclerosis (estrechamiento o
+endurecimiento de las arterias por depósito de colesterol en sus
+paredes).
 
 El colesterol es insoluble en los medios acuosos, por lo que se
 transporta en las lipoproteínas, constituidas por una parte lipídica o
@@ -844,16 +889,27 @@ que trasportan el colesterol en la sangre:
     eliminación a través de la bilis. Un nivel bajo de colesterol HDL
     (c-HDL) aumenta el riesgo de enfermedad cardiovascular.
 
-Son varias las causas que pueden elevar los niveles de colesterol.
-Algunas de ellas no se pueden modificar, pero la mayoría sí pueden
-cambiarse.
+ 
+
+  Principales funciones antiaterogénicas de las HDL
+  ---------------------------------------------------
+  Transporte reverso del colesterol
+  Regulación del metabolismo de la glucosa
+  Antiinflamatoria
+  Antioxidante: inhiben la oxidación de LDL
+  Reparación endotelial
+  Antitrombótica
+
+ 
+
+Son varias las causas que afectan a los niveles de colesterol. Algunas
+de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
 Causas que no se pueden cambiar:
 
 -   **Herencia**. La cantidad de colesterol LDL que fabrica su cuerpo y
     la rapidez con que se elimina viene determinada en parte por los
-    genes. El colesterol elevado puede afectar a familias enteras. Sin
-    embargo, existen medidas para bajarlo.
+    genes. El colesterol elevado puede afectar a familias enteras.
 
 -   **Edad y sexo**. El colesterol empieza a elevarse hacia los 20 años
     y continúa subiendo hasta los 60 o 65 años. El colesterol en los
@@ -862,24 +918,41 @@ Causas que no se pueden cambiar:
     contrario. Los niveles de colesterol LDL en las mujeres tienden a
     subir con la menopausia.
 
-Causas que puedes cambiar:
+Causas que se pueden cambiar:
 
--   **Dieta**. Tres nutrientes de la dieta pueden elevar los niveles de
-    colesterol LDL:
-    -   Grasa saturada, un tipo de grasa que se encuentra en los
-        alimentos de origen animal y en algunos aceites vegetales como
-        el de palma, palmiste y coco.
-    -   Ácidos grasos “trans”, se encuentran principalmente en alimentos
-        elaborados con aceites y grasas hidrogenadas como bollería
-        industrial, snacks, galletas, palomitas de microondas, helados y
-        patatas fritas de sobre.
-    -   Colesterol, que procede solamente de productos de origen animal.
-        Es importante saber que las grasas saturadas dentro de su dieta
-        son las que más suben los niveles de su c-LDL. Dietas con
-        demasiada grasa saturada, ácidos grasos “trans” y colesterol son
-        la principal causa de aumento de colesterol en sangre. Y
-        contribuyen de manera determinante en el elevado número de
-        infartos de miocardio.
+-   **Dieta**. Existen varios tipos de grasas en función de su
+    estructura, y cada una de ellas posee un efecto determinado sobre
+    los niveles de colesterol en el organismo:
+
+    Con efecto negativo
+
+    -   *Ácidos grasos saturados*: son la grasa presente en lácteos,
+        carnes y derivados, y aceites de coco y palma, entre otros
+        alimentos. Tienen un efecto perjudicial, ya que aumentan el
+        colesterol total y el colesterol LDL (“colesterol malo”).
+    -   *Ácidos grasos trans*: son los más nocivos para la salud
+        cardiovascular. Ya que dietas ricas en este tipo de grasas
+        producen un aumento del colesterol total y colesterol LDL, al
+        mismo tiempo que disminuyen el colesterol HDL. Están presentes
+        en la bollería industrial, patatas de bolsa, snacks y en algunas
+        grasas para fritura y pastelería (por ejemplo, aceites vegetales
+        hidrogenados).
+
+    Con efecto positivo
+
+    -   *Ácidos grasos monoinsaturados*: poseen un efecto beneficioso
+        para nuestro organismo ya que un consumo prolongado de estos
+        produce un aumento del colesterol HDL (“colesterol bueno”) y una
+        disminución del colesterol LDL (“colesterol malo”), que se
+        asocia a un menor riesgo de desarrollar enfermedades
+        cardiovasculares. Están presentes en alimentos como el aceite de
+        oliva, el aguacate o los frutos secos.
+    -   *Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
+        6**. Resultan beneficiosos ya que una dieta rica en estos
+        produce una disminución del colesterol total y del colesterol
+        LDL. Están presentes en el pescado azul (omega 3) y en aceites
+        de semillas y frutos secos (omega 6).
+
 -   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
     LDL. También aumenta los triglicéridos y baja el colesterol HDL.
     Perdiendo algunos kilos cuando hay sobrepeso ayudamos a bajar el
@@ -920,9 +993,10 @@ producen en el hígado. Los triglicéridos circulan en la sangre mediante
 unas lipoproteínas que se producen en el intestino y en el hígado y se
 transportan a los tejidos donde se utilizan como una reserva de energía
 para cubrir las necesidades metabólicas de los músculos y el cerebro.
-Las primeras, se encargan de transportar los triglicéridos de los
-alimentos que son absorbidos, y las segundas transportan los
-triglicéridos que sintetiza el hígado.
+
+\*\*\*\*\*Las primeras, se encargan de transportar los triglicéridos de
+los alimentos que son absorbidos, y las segundas transportan los
+triglicéridos que sintetiza el hígado.\*\*\*\*\*
 
 Las causas más frecuentes de aumento de los triglicéridos son el
 sobrepeso / obesidad, el exceso de alcohol, la inactividad física, una
@@ -932,15 +1006,27 @@ especialmente si son refinados y fumar.
 También existen causas genéticas de aumento de los triglicéridos, en
 ocasiones asociadas con aumento de colesterol:
 
--   Hiperlipidemia Familiar Combinada\
--   Hipertrigliceridemia Familiar\
--   Disbetalipoproteinemia\
+-   Hiperlipidemia Familiar Combinada
+-   Hipertrigliceridemia Familiar
+-   Disbetalipoproteinemia
 -   Hiperquilomicronemia Familiar
+
+ 
 
 Para reducir los niveles de triglicéridos en la sangre: hay que
 controlar el peso, mantenerse activo, no fumar, limitar la ingesta de
 alcohol y limitar los azúcares y las bebidas azucaradas. A veces se
 necesita también medicación.
+
+La grasa es el componente de la dieta que más influyente sobre los
+niveles de colesterol y triglicéridos en sangre, teniendo más
+importancia el tipo de grasa que la cantidad total consumida.
+
+El valor a partir del cual se considera patológico, y que además es un
+importante factor de riesgo para las enfermedades cardiovasculares, es
+de **200 mg de colesterol/dl de sangre**.
+
+ 
 
   Valores normales y elevados del Perfil Lipídico   
   ------------------------------------------------- ------------------------------------------------------
@@ -964,104 +1050,7 @@ necesita también medicación.
   200-499 mg/dl                                     Altos
   Superiores a 500 mg/dl                            Existe riesgo de pancreatitis
 
-El valor a partir del cual se considera patológico, y que además es un
-importante factor de riesgo para las enfermedades cardiovasculares, es
-de **200 mg de colesterol/dl de sangre**.
-
-*El colesterol es una molécula presente en el organismo de la mayoría de
-los seres vivos, similar a la grasa e indispensable para la vida.
-Nuestro cuerpo necesita colesterol para fabricar infinidad de sustancias
-tales como hormonas, ácidos biliares o vitamina D, entre otras. Una
-parte importante del colesterol presente en nuestro organismo es
-producido por el hígado; el resto es aportado a través de la dieta. El
-problema viene dado cuando se presenta en exceso.*
-
-La grasa es el componente de la dieta que más influyente sobre los
-niveles de colesterol y triglicéridos en sangre, teniendo más
-importancia el tipo de grasa que la cantidad total consumida.
-
-Existen varios tipos de grasas en función de su estructura, y cada una
-de ellas posee un efecto determinado sobre los niveles de colesterol en
-el organismo:
-
--   **Ácidos grasos saturados**: son la grasa presente en lácteos,
-    carnes y derivados, y aceites de coco y palma, entre otros
-    alimentos. Tienen un efecto perjudicial, ya que aumentan el
-    colesterol total y el colesterol LDL (“colesterol malo”).
--   **Ácidos grasos monoinsaturados**: poseen un efecto beneficioso para
-    nuestro organismo ya que un consumo prolongado de estos produce un
-    aumento del colesterol HDL (“colesterol bueno”) y una disminución
-    del colesterol LDL (“colesterol malo”), lo cual se asocia a un menor
-    riesgo de desarrollar enfermedades cardiovasculares. Están presentes
-    en alimentos como el aceite de oliva, el aguacate o los frutos
-    secos.
--   **Ácidos grasos poliinsaturados**: de tipo **omega 3** y **omega
-    6**.Ambos resultan beneficiosos ya que una dieta rica en estos
-    produce una disminución del colesterol total y del colesterol LDL.
-    Están presentes en el pescado azul (omega 3) y en aceites de
-    semillas y frutos secos (omega 6).
--   **Ácidos grasos trans**: son los más nocivos para la salud
-    cardiovascular. Ya que dietas ricas en este tipo de grasas producen
-    un aumento del colesterol total y colesterol LDL, al mismo tiempo
-    que disminuyen el colesterol HDL. Están presentes en la bollería
-    industrial, patatas de bolsa, snacks y en algunas grasas para
-    fritura y pastelería (por ejemplo, aceites vegetales hidrogenados).
-
-En la formación de las dislipemias se va a producir el siguiente proceso
-fisiológico:
-
-Colesterol y triglicéridos no son solubles en agua y van a necesitar un
-transportador para circular por el torrente sanguíneo.
-
-Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
-triglicéridos al hígado para ser sintetizados.
-
-Una vez utilizadas tiene que ser desechadas para no acumularse en el
-hígado y que no dé lugar el llamado hígado graso, así son enviadas al
-músculo y demás órganos y tejidos para ser utilizados y los que no son
-necesarios se envían de vuelta al hígado en forma de lipoproteínas que
-serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
-densidad). De vuelta en el hígado este ingresa el colesterol que puede
-guardar y devuelve al torrente sanguíneo el que no puede metabolizar
-para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
-tienen la característica de que el colesterol que transportarse queda
-adherido a las paredes de los vasos sanguíneos siendo recogidos para su
-eliminación por las lipoproteínas de HDL.
-
-Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
-HDL puede recoger es cuando se producen las dislipemias.
-
-Estos depositos de grasa son fagocitadas por los macrófagos formando las
-células espumosas, se da una respuesta inflamatoria formándose el
-ateroma. Cuando este ateroma se rompe y entra en el circuito de la
-circulación es cuando se produce el trombo con su consiguiente riesgo
-cardiovascular.
-
-El diagnóstico de las dislipemias en general se basa siempre en la
-comprobación analítica de la alteración lipídica.
-
-Están considerados rangos adecuados:
-
-  --------------- -----------------------
-  Triglicéridos   `>` 150 mg/dl
-  HDL             
-                  Varones &lt; 40 mg/dl
-                  Mujeres &lt; 50 mg/dl
-  --------------- -----------------------
-
-Por encima de esto se considera factor de riesgo.
-
-También será considerado factor de criterio el tratamiento
-antilipemiante para diagnostico de SM.
-
-**Principales funciones antiaterogénicas de las HDL**
-
--   Transporte reverso del colesterol.
--   Regulación del metabolismo de la glucosa.
--   Antiinflamatoria.
--   Antioxidante: inhiben la oxidación de LDL
--   Reparación endotelial.
--   Antitrombótica.
+ 
 
 \*\*\*\*Las enfermedades cardíacas y los accidentes cerebrovasculares
 son en la actualidad las principales causas de fallecimiento a nivel
@@ -1072,6 +1061,8 @@ dislipemias son algunos de estos factores.
 
 Esto puede revertirse con el cambio de hábitos, una alimentación con
 menos grasas saturadas y la práctica de deporte.\*\*\*\*\*\*
+
+\pagebreak
 
 #### 3.2.1.4 Hipertensión arterial
 
@@ -1645,8 +1636,77 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 6. Discusión
 ============
 
+Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía
+que se utilice, en consecuencia no se llega a conocer la real magnitud
+del problema. Por ejemplo, la concepción original de Reaven considera a
+la RI como el factor inicial y fundamental del denominado síndrome X;
+sin embargo, solo la OMS y el grupo de estudio EGIR lo toman en cuenta.
+Los investigadores deben considerar que si utilizan varias guía en el
+mismo estudio para medir la prevalencia del SM, se obtendrán resultados
+diferentes, lo que puede impactar en las conclusiones qeu puedan
+obtener.
+
+La obesidad y el SM en niños y adolescentes constituyen una pandemia de
+consecuencias que se prevén devastadoras en lo que respecta a la
+enfermedad cardiovascular. La expansión de estos males a nivel mundial
+repercutirá más gravemente en los países de ingresos medios como el
+nuestro en donde hoy en día más del 30% de los niños y adolescentes
+tienen sobrepeso u obesidad.
+
+La pregunta que cabe es si el SM es más que la suma de las partes. Cada
+uno de sus elementos ha sido estudiado en forma individual, demostrando
+su importancia como factor de riesgo, pero aún no hay acuerdo sobre
+cuáles deben constituirse dentro, y además parece que los diferentes
+grupos de estudio quisieran agregar un nuevo factor de riesgo al SM.
+
 7. Conclusión
 =============
+
+El síndrome metabólico es un estado fisiopatológico complejo que se
+origina principalmente por un desequilibrio en la ingesta de calorías y
+el gasto energético, pero también se ve afectado por la composición
+genética/epigenética del individuo, el predominio del estilo de vida
+sedentario sobre la actividad física y otros factores como la microbiota
+intestinal y la calidad y composición de los alimentos. No se puede
+prescribir un solo remedio para su erradicación o incluso su reducción.
+Al igual que en el control de otras epidemias, será muy importante la
+educación de la población sobre el peligro para la salud del síndrome
+metabólico.
+
+En los países de ingresos medios el sobrepeso se ubica en el quinto
+lugar entre las diez mayores causas de enfermedad (al igual que en
+países desarrollados) y justo por debajo de la desnutrición, siendo la
+población de menores ingresos la más perjudicada. Por lo tanto, en los
+países pobres el riesgo de desarrollar obesidad es menor que el de
+padecer desnutrición. Es decir, que una persona pobre en un país pobre
+sufre escasez de alimentos sumado a un incremento en el gasto energético
+relacionado con el trabajo manual; en cambio, una persona pobre en un
+país de ingresos medios se expone a una abundancia de alimentos de mala
+calidad nutricional que además son económicos y fácilmente accesibles en
+mercados callejeros de grandes urbes, con el gasto energético menor en
+sus tareas laborales. En contraste, los individuos de mayores ingresos
+económicos que habitan en países de ingresos medios tienen mejor
+educación, cobertura de salud, mayor acceso a alimentos de mejor calidad
+y más tiempo libre para dedicarle a la actividad física. Por ello son en
+promedio más delgados y metabólicamente más sanos.
+
+Los factores de riesgo (a excepción del tabaquismo) era más elevado en
+aquellas personas con menores ingresos económicos y en los que tenían un
+nivel educativo más bajo.
+
+Durante las últimas décadas, la sociedad ha experimentado cambios
+drásticos que han afectado al comportamiento y estilo de vida del ser
+humano. La mecanización en los puestos de trabajo, la globalización de
+la tecnología, la falta de tiempo y las mejoras en el transporte, son
+algunos de los aspectos que han llevado a un aumento en el consumo de
+comida rápida con un elevado aporte calórico y al sedentarismo. Estas
+circunstancias y coyunturas, han contribuido enormemente a que la
+obesidad sea considerada una pandemia. Este hecho no solo es un problema
+de los países industrializados, sino que también la obesidad va
+aumentando notablemente en los países en transición, ya que estos países
+están adquiriendo estilos de vida cada vez más parecidos a los
+occidentales, disminuyendo la actividad física y teniendo un consumo
+elevado de alimentos con alta densidad energética1.
 
 \pagebreak
 
