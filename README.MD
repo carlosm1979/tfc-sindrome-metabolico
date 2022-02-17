@@ -643,12 +643,7 @@ Las personas obesas con un patrón de distribución de tipo central,
 independientemente de su grado de obesidad tendrán mayor riesgo de
 enfermedades cardiovasculares, diabetes e hipertensión.
 
-\*\*\*\*\*Se considera la obesidad como una epidemia a nivel mundial y
-es sabido que es relevante su presencia para el desarrollo de múltiples
-enfermedades destacando sobre todo las enfermedades cardiovasculares y
-las relacionadas con la resistencia a la insulina, hipertensión
-arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
-otras.\*\*\*\*
+ 
 
   ---------------------------------------------------------------------------------------------------
   Indice de Masa Corporal,                                                   
@@ -673,6 +668,15 @@ otras.\*\*\*\*
 
   Clase III                        &gt;40           Extremadamente alto      Extremadamente alto
   ---------------------------------------------------------------------------------------------------
+
+ 
+
+\*\*\*\*\*Se considera la obesidad como una epidemia a nivel mundial y
+es sabido que es relevante su presencia para el desarrollo de múltiples
+enfermedades destacando sobre todo las enfermedades cardiovasculares y
+las relacionadas con la resistencia a la insulina, hipertensión
+arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
+otras.\*\*\*\*
 
 \pagebreak
 
@@ -1871,6 +1875,8 @@ Bibliografía
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
 
+\pagebreak
+
 Anexos
 ======
 
@@ -1913,42 +1919,59 @@ cuatro kilos tras nueve meses de gestación.
 Tablas
 ======
 
-##### Evolución histórica de los criterios del síndrome metabólico
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Evolución histórica de los criterios del síndrome metabólico                                                                                                               
+  ------------------------------------------------------------------------------------ ------------------------------------------ ------------------------------------------ ---------------------------------------------------------------------------------------------------------
+  Denomina                                                                             Autor                                      Año                                        Criterios y factores de riesgo asociado
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Denomina                                                                                                                                                                                                           Autor                                                                                                                                                                                                                                   Año                                        Criterios y factores de riesgo asociado
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                                                                                                                                     Hitzenberger y Richter-Quittner                                                                                                                                                                                                         1921                                       Hipertensión y normalidades metabólicas
+                                                                                       Hitzenberger y Richter-Quittner            1921                                       Hipertensión y normalidades metabólicas
 
-                                                                                                                                                                                                                     Marañón                                                                                                                                                                                                                                 1922                                       Hipertensión y diabetes mellitus
+                                                                                       Marañón                                    1922                                       Hipertensión y diabetes mellitus
 
-                                                                                                                                                                                                                     Kylin                                                                                                                                                                                                                                   1923                                       Síndrome hipertensión-hiperglucemia-hiperuricemia
+                                                                                       Kylin                                      1923                                       Síndrome hipertensión-hiperglucemia-hiperuricemia
 
-                                                                                                                                                                                                                     Vague                                                                                                                                                                                                                                   1947                                       Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
+                                                                                       Vague                                      1947                                       Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
 
-  “Trisíndrome metabólico”                                                                                                                                                                                           Camus                                                                                                                                                                                                                                   1966                                       Gota, diabetes e hiperlipidemia
+  “Trisíndrome metabólico”                                                             Camus                                      1966                                       Gota, diabetes e hiperlipidemia
 
-  “Síndrome plurimetabólico”                                                                                                                                                                                         Avogaro y Crepaldi                                                                                                                                                                                                                      1967                                       Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
+  “Síndrome plurimetabólico”                                                           Avogaro y Crepaldi                         1967                                       Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
 
-  “Síndrome de opulencia                                                                                                                                                                                             Mehnert y Kuhlmann                                                                                                                                                                                                                      1968                                       Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países desarrollado
+  “Síndrome de opulencia                                                               Mehnert y Kuhlmann                         1968                                       Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países
+                                                                                                                                                                             desarrollado
 
-  “Síndrome Metabólico”                                                                                                                                                                                              Hanefeld y Leonhardt                                                                                                                                                                                                                    1981                                       Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis
+  “Síndrome Metabólico”                                                                Hanefeld y Leonhardt                       1981                                       Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una
+                                                                                                                                                                             base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis
 
-  “Síndrome X”                                                                                                                                                                                                       Gerald Reaven                                                                                                                                                                                                                           1988                                       Factores de riesgo cardiovascular y diabetes: hipertensión arterial esencial, resistencia a insulina, hiperglucemia, dislipemia y grasa abdominal
+  “Síndrome X”                                                                         Gerald Reaven                              1988                                       Factores de riesgo cardiovascular y diabetes: hipertensión arterial esencial, resistencia a insulina,
+                                                                                                                                                                             hiperglucemia, dislipemia y grasa abdominal
 
-  “Cuarteto de la muerte”                                                                                                                                                                                            Kaplan                                                                                                                                                                                                                                  1989                                       Adiposidad central, intolerancia a la glucosa, hipertrigliceridemia e hipertensión; importancia en el desarrollo de la enfermedad cardiovascular
+  “Cuarteto de la muerte”                                                              Kaplan                                     1989                                       Adiposidad central, intolerancia a la glucosa, hipertrigliceridemia e hipertensión; importancia en el
+                                                                                                                                                                             desarrollo de la enfermedad cardiovascular
 
-                                                                                                                                                                                                                     Organización Mundial de la Salud (OMS)                                                                                                                                                                                                  1998-1999                                  Utiliza la ratio cintura/cadera, que debe ser &gt;= 0,9 en hombres y &gt;= 0,85 en mujeres o un IMC &gt;= 30 kg/m
+                                                                                       Organización Mundial de la Salud (OMS)     1998-1999                                  Utiliza la ratio cintura/cadera, que debe ser &gt;= 0,9 en hombres y &gt;= 0,85 en mujeres o un IMC &gt;=
+                                                                                                                                                                             30 kg/m
 
-                                                                                                                                                                                                                     National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)                                                                                          2001                                       Alto riesgo cardiovascular, con colesterol de las lipoproteínas de baja densidad (LDL) (c-LDL)alto, con obesidad central:&gt;=102cm hombre, &gt;=88cm mujer, con triglicéridos altos, con colesterol HDL (c-HDL)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        bajo, hipertensión arterial y glucemias &gt;= 110 mg/dL
+                                                                                       National Cholesterol Education Program-    2001                                       Alto riesgo cardiovascular, con colesterol de las lipoproteínas de baja densidad (LDL) (c-LDL)alto, con
+                                                                                       Expert Panel on Detection, Evaluation, and                                            obesidad central:&gt;=102cm hombre, &gt;=88cm mujer, con triglicéridos altos, con colesterol HDL (c-HDL)
+                                                                                       Treatment of High Blood Cholesterol in                                                bajo, hipertensión arterial y glucemias &gt;= 110 mg/dL
+                                                                                       Adult: (NCEP ATPIII)                                                                  
 
-                                                                                                                                                                                                                     Grupo europeo para el estudio de resistencia a la insulina (EGIR)                                                                                                                                                                       2002                                       Relación entre la sensibilidad a la insulina y las enfermedades cardiovasculares; Circunferencia cintura varones &gt;94 cm, mujeres &gt;80 cm
+                                                                                       Grupo europeo para el estudio de           2002                                       Relación entre la sensibilidad a la insulina y las enfermedades cardiovasculares; Circunferencia cintura
+                                                                                       resistencia a la insulina (EGIR)                                                      varones &gt;94 cm, mujeres &gt;80 cm
 
-                                                                                                                                                                                                                     National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)                                                                                          2005                                       Disminuyó las cifras de tensión mínimas,que en 2001 eran &gt;= 135/85 mmHg, a 130/85 mmHg o cifras normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser &gt;= 100 mg/dL
+                                                                                       National Cholesterol Education Program-    2005                                       Disminuyó las cifras de tensión mínimas,que en 2001 eran &gt;= 135/85 mmHg, a 130/85 mmHg o cifras
+                                                                                       Expert Panel on Detection, Evaluation, and                                            normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser &gt;= 100 mg/dL
+                                                                                       Treatment of High Blood Cholesterol in                                                
+                                                                                       Adult: (NCEP ATPIII)                                                                  
 
-  “Síndrome metabólico”                                                                                                                                                                                              International Diabetes Federation (IDF)                                                                                                                                                                                                 2005                                       Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia, hipertrigliceridemia e hipertensión
+  “Síndrome metabólico”                                                                International Diabetes Federation (IDF)    2005                                       Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia,
+                                                                                                                                                                             hipertrigliceridemia e hipertensión
 
-                                                                                                                                                                                                                     International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International          2009                                       Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
-                                                                                                                                                                                                                     Association for the Study of Obesity                                                                                                                                                                                                                                               
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                       International Diabetes Federation Task     2009                                       Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
+                                                                                       Force on Epidemiology and Prevention                                                  
+                                                                                       National Heart,Lung, and Blood Institute                                              
+                                                                                       American Heart Association World Heart                                                
+                                                                                       Federation International Atherosclerosis                                              
+                                                                                       Society and International Association for                                             
+                                                                                       the Study of Obesity                                                                  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
