@@ -1,6 +1,9 @@
 # 7. Conclusión
 
 El síndrome metabólico es un estado fisiopatológico complejo que se origina principalmente por un desequilibrio en la ingesta de calorías y el gasto energético, pero también se ve afectado por la composición genética/epigenética del individuo, el predominio del estilo de vida sedentario sobre la actividad física y otros factores como la microbiota intestinal y la calidad y composición de los alimentos. No se puede prescribir un solo remedio para su erradicación o incluso su reducción. Al igual que en el control de otras epidemias, será muy importante la educación de la población sobre el peligro para la salud del síndrome metabólico.
+
+En los países de ingresos medios el sobrepeso se ubica en el quinto lugar entre las diez mayores causas de enfermedad (al igual que en países desarrollados) y justo por debajo de la desnutrición, siendo la población de menores ingresos la más perjudicada. Por lo tanto, en los países pobres el riesgo de desarrollar obesidad es menor que el de padecer desnutrición. Es decir, que una persona pobre en un país pobre sufre escasez de alimentos sumado a un incremento en el gasto energético relacionado con el trabajo manual; en cambio, una persona pobre en un país de ingresos medios se expone a una abundancia de alimentos de mala calidad nutricional que además son económicos y fácilmente accesibles en mercados callejeros de grandes urbes, con el gasto energético menor en sus tareas laborales. En contraste, los individuos de mayores ingresos económicos que habitan en países de ingresos medios tienen mejor educación, cobertura de salud, mayor acceso a alimentos de mejor calidad y más tiempo libre para dedicarle a la actividad física. Por ello son en promedio más delgados y metabólicamente más sanos.
+
 Los factores de riesgo (a excepción del tabaquismo) era más elevado en aquellas personas con menores ingresos económicos y en los que tenían un nivel educativo más bajo.
 
 
