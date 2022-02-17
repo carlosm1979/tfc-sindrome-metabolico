@@ -650,6 +650,32 @@ las relacionadas con la resistencia a la insulina, hipertensión
 arterial, dislipemias, cáncer colonorectal y apnea del sueño entre
 otras.\*\*\*\*
 
+  ---------------------------------------------------------------------------------------------------
+  Indice de Masa Corporal,                                                   
+  Circunferencia Abdominal y                                                 
+  Riesgo de Enfermedad                                                       
+  Cardiovascular                                                             
+  -------------------------------- ---------------- ------------------------ ------------------------
+  Categoria                        IMC              Hombres&lt; 102 cm       Hombres&lt; 102 cm
+                                                    Mujeres &lt; 88 cm       Mujeres &lt; 88 cm
+
+  Peso Bajo                        &lt;18.5         -                        -
+
+  Normal                           18.5 - 24.9      -                        Leve-Moderada
+
+  Sobrepeso                        25 - 29.9        Moderado                 Alto
+
+  Obesidad                         -                -                        -
+
+  Clase I                          30 - 34.9        Alto                     Muy alto
+
+  Clase II                         35 - 39.9        Muy alto                 Muy alto
+
+  Clase III                        &gt;40           Extremadamente alto      Extremadamente alto
+  ---------------------------------------------------------------------------------------------------
+
+\pagebreak
+
 #### 3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo II
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un
@@ -1926,25 +1952,3 @@ Tablas
                                                                                                                                                                                                                      International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International          2009                                       Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
                                                                                                                                                                                                                      Association for the Study of Obesity                                                                                                                                                                                                                                               
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular
----------------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------
-  Categoria        IMC              Hombres&lt; 102 cm Mujeres Hombres&lt; 102 cm Mujeres
-                                    &lt; 88 cm                 &lt; 88 cm
-  ---------------- ---------------- -------------------------- --------------------------
-  Peso Bajo        &lt;18.5         -                          -
-
-  Normal           18.5 - 24.9      -                          Leve-Moderada
-
-  Sobrepeso        25 - 29.9        Moderado                   Alto
-
-  Obesidad         -                -                          -
-
-  Clase I          30 - 34.9        Alto                       Muy alto
-
-  Clase II         35 - 39.9        Muy alto                   Muy alto
-
-  Clase III        &gt;40           Extremadamente alto        Extremadamente alto
-  ---------------------------------------------------------------------------------------
