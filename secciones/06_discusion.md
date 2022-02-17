@@ -1,3 +1,5 @@
+\pagebreak
+
 # 6. Discusión
 
 Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía que se utilice, en consecuencia no se llega a conocer la real magnitud del problema. Por ejemplo, la concepción original de Reaven considera a la RI como el factor inicial y fundamental del denominado síndrome X; sin embargo, solo la OMS y el grupo de estudio EGIR lo toman en cuenta. Los investigadores deben considerar que si utilizan varias guía en el mismo estudio para medir la prevalencia del SM, se obtendrán resultados diferentes, lo que puede impactar en las conclusiones qeu puedan obtener.

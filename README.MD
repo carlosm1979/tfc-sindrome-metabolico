@@ -174,11 +174,13 @@ para reducir los factores de riesgo cardiovascular.
 
  
 
-##### Criterios de diagnóstico OMS
-
-  ---------------------- ------------------------------------------------------------------
-  *Definitivo*           Intolerancia a la glucosa o tolerancia anormal a la glucosa o
-                         diabetes mellitus, resistencia a la insulina, o ambos
+  -------------------------------------------------------------------
+  Criterios de           
+  diagnóstico OMS        
+  ---------------------- --------------------------------------------
+  *Definitivo*           Intolerancia a la glucosa o tolerancia
+                         anormal a la glucosa o diabetes mellitus,
+                         resistencia a la insulina, o ambos
 
   *Dos o más de los      
   siguientes             
@@ -188,23 +190,26 @@ para reducir los factores de riesgo cardiovascular.
   regulación de glucosa  
   o diabetes**           
 
-  **Resistencia a la     (en condiciones hiperinsulinémicas y euglicémicas, con una captura
-  insulina**             de glucosa por debajo del menor cuartil para la población de base
-                         de la investigación)
+  **Resistencia a la     (en condiciones hiperinsulinémicas y
+  insulina**             euglicémicas, con una captura de glucosa por
+                         debajo del menor cuartil para la población
+                         de base de la investigación)
 
   **Presión arterial     (`>`= 140/90 mmHg)
   elevada**              
 
-  **Elevación de         (`>`= 1.7 mmol/L; 150 mg/dL),99 disminución de colesterol HDL &lt;
-  triglicéridos          0.9 mmol/L, 35 mg/dL en hombres; &lt; 1.0 mmol/L, 39 mg/dL en
-  plasmáticos**          mujeres, o ambos
+  **Elevación de         (`>`= 1.7 mmol/L; 150 mg/dL),99 disminución
+  triglicéridos          de colesterol HDL &lt; 0.9 mmol/L, 35 mg/dL
+  plasmáticos**          en hombres; &lt; 1.0 mmol/L, 39 mg/dL en
+                         mujeres, o ambos
 
-  **Obesidad central**   índice de cintura-cadera: hombres `>` 0.90; mujeres `>` 0.85, IMC
-                         `>` 30 kg/m2 o ambos
+  **Obesidad central**   índice de cintura-cadera: hombres `>` 0.90;
+                         mujeres `>` 0.85, IMC `>` 30 kg/m2 o ambos
 
-  **Microalbuminuria**   99 índice de excreción urinaria de albúmina de 20 mg/min o índice
-                         albúmina-creatinina `>` 30 mg/g
-  ---------------------- ------------------------------------------------------------------
+  **Microalbuminuria**   99 índice de excreción urinaria de albúmina
+                         de 20 mg/min o índice albúmina-creatinina
+                         `>` 30 mg/g
+  -------------------------------------------------------------------
 
 \pagebreak
 
@@ -223,18 +228,16 @@ insulina o hiperinsulinemia en ayuno y dos de los siguientes parámetros:
 
  
 
-##### Criterios de diagnóstico EGIR
-
-  --------------------------- -----------------------------------
-  **hiperglucemia**           glucosa en ayuno `>`= 6.1 mmol/L
-  **hipertensión arterial**   `>`= 140/90 mmHg o en tratamiento
-  **dislipidemia**            triglicéridos &gt; 2.0 mmol/L
-                              o colesterol HDL &lt; 1.0 mmol/L
-                              o en tratamiento
-  **obesidad central**        circunferencia de la cintura:
-  hombres                     `>`= 94 cm
-  mujeres                     `>`= 80 cm
-  --------------------------- -----------------------------------
+  Criterios de diagnóstico EGIR   
+  ------------------------------- -----------------------------------
+  **hiperglucemia**               glucosa en ayuno `>`= 6.1 mmol/L
+  **hipertensión arterial**       `>`= 140/90 mmHg o en tratamiento
+  **dislipidemia**                triglicéridos &gt; 2.0 mmol/L
+                                  o colesterol HDL &lt; 1.0 mmol/L
+                                  o en tratamiento
+  **obesidad central**            circunferencia de la cintura:
+  hombres                         `>`= 94 cm
+  mujeres                         `>`= 80 cm
 
  
 
@@ -266,20 +269,18 @@ ocasionar sismos graves para identificar individuos.
 
  
 
-##### Criterios de diagnóstico ATP III
-
-  ------------------------ ---------------------------
-        *Factor de riesgo* *Nivel definido*
-    **Obesidad abdominal** Circunferencia de cintura
-                   Hombres `>` 102cm
-                   Mujeres `>` 88cm
-         **Triglicéridos** `>`=150 mg/dL
-        **Colesterol-HDL** 
-                   Hombres &lt;40 mg/dL
-                   Mujeres &lt;50 mg/dL
-      **Presión arterial** `>`=130/80 mm Hg
-     **Grucosa en ayunas** `>`=110 mg/dL
-  ------------------------ ---------------------------
+  Criterios de diagnóstico ATP III   
+  ---------------------------------- ---------------------------
+  *Factor de riesgo*                 *Nivel definido*
+  **Obesidad abdominal**             Circunferencia de cintura
+  Hombres                            `>` 102cm
+  Mujeres                            `>` 88cm
+  **Triglicéridos**                  `>`=150 mg/dL
+  **Colesterol-HDL**                 
+  Hombres                            &lt;40 mg/dL
+  Mujeres                            &lt;50 mg/dL
+  **Presión arterial**               `>`=130/80 mm Hg
+  **Grucosa en ayunas**              `>`=110 mg/dL
 
 *El síndrome metabólico está presente cuando se cumblen tres o más de
 los cinco criterios.*
@@ -303,19 +304,17 @@ el nombre síndrome de resistencia a la insulina.
 
  
 
-### Criterios de diagnóstico de la Asociación americana de endocrinología
-
-  ------------------------ -----------------
-  **Glucosa plasmática**   
-  Ayuno                    110-125 mg/dL
-  120 minutos poscarga     140-200 mg/dL
-  de 75 g de glucosa       
-  **Triglicéridos**        `>` 150 mg/dL
-  **Colesterol HDL**       
-  Hombres                  &lt; 40 mg/dL
-  Mujeres                  &lt; 50 mg/dL
-  **Presión arterial**     `>` 130/85 mmHg
-  ------------------------ -----------------
+  Criterios de diagnóstico de la Asociación americana de endocrinología   
+  ----------------------------------------------------------------------- -----------------
+  **Glucosa plasmática**                                                  
+  Ayuno                                                                   110-125 mg/dL
+  120 minutos poscarga                                                    140-200 mg/dL
+  de 75 g de glucosa                                                      
+  **Triglicéridos**                                                       `>` 150 mg/dL
+  **Colesterol HDL**                                                      
+  Hombres                                                                 &lt; 40 mg/dL
+  Mujeres                                                                 &lt; 50 mg/dL
+  **Presión arterial**                                                    `>` 130/85 mmHg
 
  
 
@@ -328,46 +327,45 @@ criterios no son útiles como definición para estudios epidemiológicos.
 
  
 
-##### Factores de riesgo de SM de la Asociación americana de endocrinología
+  --------------------------------------------------------------------------
+  Factores de riesgo de SM de la Asociación americana  
+  de endocrinología                                    
+  ---------------------------------------------------- ---------------------
+  **Exceso de peso**                                   IMC `>` 25
 
-  ----------------------------------- ---------------------
-  **Exceso de peso**                  IMC `>` 25
+  **Circunferencia de la cintura**                     
 
-  **Circunferencia de la cintura**    
+  hombres                                              `>` 40 pulgadas
 
-  hombres                             `>` 40 pulgadas
+  mujeres                                              `>` 35 pulgadas
 
-  mujeres                             `>` 35 pulgadas
+                                                       (10-15% menos en no
+                                                       caucásicos)
 
-                                      (10-15% menos en no
-                                      caucásicos)
+  **Estilo de vida sedentario**                        
 
-  **Estilo de vida sedentario**       
+  **Edad**                                             `>` 40 años
 
-  **Edad**                            `>` 40 años
+  **Etnicidad no caucásica**                           (latino,
+                                                       hispanoamericano,
+                                                       afroamericano, nativo
+                                                       americano,
+                                                       asiático-americano,
+                                                       de las Islas del
+                                                       Pacífico)
 
-  **Etnicidad no caucásica**          (latino,
-                                      hispanoamericano,
-                                      afroamericano, nativo
-                                      americano,
-                                      asiático-americano,
-                                      de las Islas del
-                                      Pacífico)
+  **Antecedentes familiares de diabetes mellitus 2,    
+  hipertensión arterial o enfermedad cardiovascular**  
 
-  **Antecedentes familiares de        
-  diabetes mellitus 2, hipertensión   
-  arterial o enfermedad               
-  cardiovascular**                    
+  **Antecedentes de intolerancia a la glucosa o        
+  diabetes gestacional**                               
 
-  **Antecedentes de intolerancia a la 
-  glucosa o diabetes gestacional**    
+  **Acantosis nigricans**                              
 
-  **Acantosis nigricans**             
+  **Síndrome de ovario poliquístico**                  
 
-  **Síndrome de ovario poliquístico** 
-
-  **Hígado graso no alcohólico**      
-  ----------------------------------- ---------------------
+  **Hígado graso no alcohólico**                       
+  --------------------------------------------------------------------------
 
 \pagebreak
 
@@ -384,8 +382,11 @@ proinflamatorio y estado protrombótico.
 
  
 
-##### Criterios diagnostico Federación Internacional de Diabetes
-
+  -----------------------------------------------------------------------------
+  Criterios diagnostico 
+             Federación 
+       Internacional de 
+               Diabetes 
   --------------------- -------------------------------------------------------
          **Distribución La obesidad central es la que más se asocia con
        anormal de grasa síndrome metabólico y es la que, independientemente, se
@@ -414,7 +415,7 @@ proinflamatorio y estado protrombótico.
 
                **Estado Aumento del inhibidor del plasminógeno 1 y fibrinógeno
         protrombótico** 
-  --------------------- -------------------------------------------------------
+  -----------------------------------------------------------------------------
 
  
 
@@ -449,36 +450,37 @@ válido para toda la población mundial, habiéndose encontrado que, para
 las distintas etnias, deben considerarse valores de corte diferentes a
 la hora de realizar un diagnóstico.
 
-##### Valores de circunferencia abdominal indicándose la especificidad étnica
+  ---------------------------------------------------------------------------------------
+  Valores de circunferencia abdominal indicándose la                    
+  especificidad étnica                                                  
+  --------------------------------------------------- ----------------- -----------------
+  Europeos\*                                          Hombres = 94 cm   Mujeres = 80 cm
 
-  ------------------------ ----------------------- -----------------------
-  Europeos\*               Hombres = 94 cm         Mujeres = 80 cm
+  USA: es probable seguir con ATP III                 Hombres = 102 cm  Mujeres = 88 cm
 
-  USA: es probable seguir  Hombres = 102 cm        Mujeres = 88 cm
-  con ATP III                                      
+  Asia del Sur resultados basados en las poblaciones  Hombres = 90 cm   Mujeres = 80 cm
+  Chinas, Malaya y Asiático-Indú                                        
 
-  Asia del Sur resultados  Hombres = 90 cm         Mujeres = 80 cm
-  basados en las                                   
-  poblaciones Chinas,                              
-  Malaya y Asiático-Indú                           
+  China                                               Hombres = 90 cm   Mujeres = 80 cm
 
-  China                    Hombres = 90 cm         Mujeres = 80 cm
+  Japón \*\*                                          Hombres = 90 cm   Mujeres = 80 cm
 
-  Japón \*\*               Hombres = 90 cm         Mujeres = 80 cm
+  Sur América y Centro América                        Usar las          
+                                                      recomendaciones   
+                                                      para Asia hasta   
+                                                      tener nueva       
+                                                      información.      
 
-  Sur América y Centro     Usar las                
-  América                  recomendaciones para    
-                           Asiahasta tener nueva   
-                           información.            
+  Africa sub-Sahariana                                Usar los datos    
+                                                      europeos hasta    
+                                                      tener nueva       
+                                                      información       
 
-  Africa sub-Sahariana     Usar los datos europeos 
-                           hasta tener nueva       
-                           información             
-
-  Poblaciones Árabes y del Usar los datos europeos 
-  Mediterráneo.            hasta tener nueva       
-                           información             
-  ------------------------ ----------------------- -----------------------
+  Poblaciones Árabes y del Mediterráneo.              Usar los datos    
+                                                      europeos hasta    
+                                                      tener nueva       
+                                                      información       
+  ---------------------------------------------------------------------------------------
 
  
 
@@ -575,6 +577,8 @@ indicadores de que un pacientes puede desarrollar SM:
     oxidativo.
 -   Genética: Origen étnico y su historia familiar.
 
+\pagebreak
+
 ### Criterios de diagnóstico
 
 #### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
@@ -618,12 +622,11 @@ hombres y mujeres:
 
  
 
-  --------- ---------------
-  Hombres   `>` de 102 cm
-  Mujeres   `>` de 88 cm
-  --------- ---------------
-
-\*Estas medidas en adultos están sujetas a variaciones según etnias.
+  Medida de circunferencia de cintura para diagnóstico de SM             
+  ---------------------------------------------------------------------- ---------------
+  Hombres                                                                `>` de 102 cm
+  Mujeres                                                                `>` de 88 cm
+  \*Estas medidas en adultos están sujetas a variaciones según etnias.   
 
  
 
@@ -854,6 +857,8 @@ comprobación analítica de la alteración lipídica.
 
  
 
+\pagebreak
+
 **Colesterol**
 
 El colesterol es una sustancia similar a la grasa e indispensable para
@@ -904,6 +909,8 @@ que trasportan el colesterol en la sangre:
 
 Son varias las causas que afectan a los niveles de colesterol. Algunas
 de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
+
+\pagebreak
 
 Causas que no se pueden cambiar:
 
@@ -1026,7 +1033,7 @@ El valor a partir del cual se considera patológico, y que además es un
 importante factor de riesgo para las enfermedades cardiovasculares, es
 de **200 mg de colesterol/dl de sangre**.
 
- 
+\pagebreak
 
   Valores normales y elevados del Perfil Lipídico   
   ------------------------------------------------- ------------------------------------------------------
@@ -1243,6 +1250,8 @@ condición asociada al síndrome metabólico.
 
 También se ha relacionado SM con el descenso del nivel de fertilidad.
 
+\pagebreak
+
 ##### SM en la mujer
 
 La enfermedad cardiovascular es la principal causa de muerte en las
@@ -1411,6 +1420,8 @@ disminuyó en 14%.
 El correcto tratamiento debe de estar encaminado a la prevención de los
 factores de riesgo del SM.
 
+\pagebreak
+
 #### 3.2.3.2 SM en la infancia
 
 Como se ha ido relatando en los últimos 50 años la obesidad y el SM se
@@ -1448,7 +1459,8 @@ glucosa).
 
  
 
-##### Criterios de síndrome metabólico en la infancia y adolescencia de la International Diabetes Federation
+**Criterios de síndrome metabólico en la infancia y adolescencia de la
+International Diabetes Federation**
 
   --------------------------------------------------------------------------------------------------------------------
   Edad (años)     Obesidad        Triglicéridos   HDL colesterol (mg/dl) Presión arterial       Glucosa (mg/dl)
@@ -1467,9 +1479,9 @@ glucosa).
                   `>`= 80 cm                                                                    
   --------------------------------------------------------------------------------------------------------------------
 
-**El diagnóstico requiere la presencia de obesidad central mediante
+*El diagnóstico requiere la presencia de obesidad central mediante
 determinación de cintura abdominal y como mínimo dos de los criterios
-restantes**
+restantes*
 
  
 
@@ -1633,6 +1645,8 @@ para que se pueda repetir dicho estudio.
 En este apartado deberéis incluir los resultados de las encuestas y los
 resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
+\pagebreak
+
 6. Discusión
 ============
 
@@ -1658,6 +1672,8 @@ uno de sus elementos ha sido estudiado en forma individual, demostrando
 su importancia como factor de riesgo, pero aún no hay acuerdo sobre
 cuáles deben constituirse dentro, y además parece que los diferentes
 grupos de estudio quisieran agregar un nuevo factor de riesgo al SM.
+
+\pagebreak
 
 7. Conclusión
 =============
