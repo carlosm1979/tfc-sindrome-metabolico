@@ -6,5 +6,8 @@ En los países de ingresos medios el sobrepeso se ubica en el quinto lugar entre
 
 Los factores de riesgo (a excepción del tabaquismo) era más elevado en aquellas personas con menores ingresos económicos y en los que tenían un nivel educativo más bajo.
 
-
 Durante las últimas décadas, la sociedad ha experimentado cambios drásticos que han afectado al comportamiento y estilo de vida del ser humano. La mecanización en los puestos de trabajo, la globalización de la tecnología, la falta de tiempo y las mejoras en el transporte, son algunos de los aspectos que han llevado a un aumento en el consumo de comida rápida con un elevado aporte calórico y al sedentarismo. Estas circunstancias y coyunturas, han contribuido enormemente a que la obesidad sea considerada una pandemia. Este hecho no solo es un problema de los países industrializados, sino que también la obesidad va aumentando notablemente en los países en transición, ya que estos países están adquiriendo estilos de vida cada vez más parecidos a los occidentales, disminuyendo la actividad física y teniendo un consumo elevado de alimentos con alta densidad energética1.
+
+
+
+
