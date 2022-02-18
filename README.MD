@@ -11,7 +11,7 @@ Indice general
 
 -   [1. Introduccion](#introducción)
 -   [2. Objetivos](#objetivos)
--   [3. Parte teórica](#parte-teórica)
+-   [3. El síndrome metabólico](#parte-teórica)
     -   [3.1 Que es](#que-es)
     -   [3.2 Factores de riesgo.
         Características.](#factores-de-riesgo.-características.)
@@ -21,7 +21,9 @@ Indice general
             -   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus
                 tipo
                 II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
-            -   [3.2.1.3 Dislipemias](#dislipemias)
+            -   [3.2.1.3 Dislipemias](#dislipemias)\
+                    *Colesterol*\
+                    *Triglicéridos*
             -   [3.2.1.4 Hipertensión arterial](#hipertensión-arterial)
         -   [3.2.2 Desarrollo fisiopatológico del
             SM](#desarrollo-fisiopatológico-del-sm)
@@ -42,6 +44,8 @@ Indice general
 -   [6. Discusión](#difusión)
 -   [7. Conclusión](#discusión)
 -   [8. Bibliografía](#bibliografía)
+
+\pagebreak
 
 Indice tablas
 =============
@@ -151,14 +155,14 @@ la aparición de la alteraciones de salud que lo componen.
 
 \pagebreak
 
-3. Parte teórica
-================
+3. El Síndrome metabólico
+=========================
 
 3.1 Que es
 ----------
 
-El SM no es una enfermedad, es un grupo de factores de riesgo para
-desarrollo de enfermedad cardiovascular y diabetes mellitus II.
+Es un grupo de factores de riesgo para desarrollo de enfermedad
+cardiovascular y diabetes mellitus II. Como tal no es una enfermedad.
 
 #### OMS
 
@@ -418,8 +422,6 @@ proinflamatorio y estado protrombótico.
   -----------------------------------------------------------------------------
 
  
-
-\pagebreak
 
 Todas estas diversas definiciones comparten algunos de los criterios
 como son:
@@ -766,12 +768,20 @@ diabetes. Su origen no es la autoinmunidad, es la RI.
 La Asociación Americana del Corazón habla de ella como una enfermedad
 cardiovascular y no sólo de carácter metabólico.
 
-**Se considera que los valores normales de glucemia en ayunas son
-60-110md/dl., mientras que valores `>` o iguales a 160ml/dl en ayunas
-estaríamos hablando de diabetes.**
+ 
 
-**También será considerado factor de criterio positivo el tratamiento
-hipoglucemiante.**
+  --------------------------------------------------------------------------------------
+  Valores de glucemia para diagnóstico Diabetes                        
+  -------------------------------------------------------------------- -----------------
+  **Valores normales**                                                 **60-110md/dl**
+
+  Diabetes                                                             160ml/dl
+
+  También será considerado factor de criterio positivo el tratamiento  
+  hipoglucemiante                                                      
+  --------------------------------------------------------------------------------------
+
+ 
 
 Su rigen se relaciona con factores no modificables y modificables sobre
 los que hay que insistir.
@@ -1066,38 +1076,30 @@ de **200 mg de colesterol/dl de sangre**.
 \pagebreak
 
   Valores normales y elevados del Perfil Lipídico   
-  ------------------------------------------------- ------------------------------------------------------
+  ------------------------------------------------- --------------------------------------------------------
   **Colesterol total**                              
-  Por debajo de 200 mg/dl                           Deseable
+  *Por debajo de 200 mg/dl*                         *Deseable*
   200-239 mg/dl                                     Límite alto
   240 mg/dl                                         Alto
-  Por debajo de 180 mg/dl (menor de 18 años)        Deseable
+  *Por debajo de 180 mg/dl (menor de 18 años)*      *Deseable*
+                                                    
   **Colesterol LDL**                                
-  Por debajo de 100 mg/dl                           Óptimo o ideal
+  *Por debajo de 100 mg/dl*                         *Óptimo o ideal*
   100-129 mg/dl                                     Bueno
   130-159 mg/dl                                     Límite alto
   160-189 mg/dl                                     Alto
   190 mg/dl y superior                              Muy alto
+                                                    
   **Colesterol HDL**                                
-  Menos de 40 mg/dl                                 Factor de riesgo cardiovascular
-  60 mg/dl y superior                               Mayor protección contra la enfermedad cardiovascular
+  Varones: Menos de 40 mg/dl                        Factor de riesgo cardiovascular
+  Mujeres: Menos de 50 mg/dl                        
+  *60 mg/dl y superior*                             *Mayor protección contra la enfermedad cardiovascular*
+                                                    
   **Triglicéridos**                                 
-  Por debajo de 150 mg/dl                           Deseable
+  *Por debajo de 150 mg/dl*                         *Deseable*
   150-199 mg/dl                                     Límite alto
   200-499 mg/dl                                     Altos
   Superiores a 500 mg/dl                            Existe riesgo de pancreatitis
-
- 
-
-\*\*\*\*Las enfermedades cardíacas y los accidentes cerebrovasculares
-son en la actualidad las principales causas de fallecimiento a nivel
-mundial. En el desarrollo de las enfermedades cardiovasculares
-intervienen los denominados “factores de riesgo,” que incrementan el
-riesgo de sufrirla. El sobrepeso, la obesidad, el sedentarismo, y las
-dislipemias son algunos de estos factores.
-
-Esto puede revertirse con el cambio de hábitos, una alimentación con
-menos grasas saturadas y la práctica de deporte.\*\*\*\*\*\*
 
 \pagebreak
 
@@ -1209,16 +1211,18 @@ La duración de la exposición a los factores de riesgo es clave puesto
 que los daños se van sumando a lo largo de los años aumentando el riesgo
 de padecer enfermedad grave.
 
+\pagebreak
+
 ### Patologías relacionadas
 
-Relación entre el SM y:
+Se ha identificado la relación en entre el SM y:
 
 -   el cáncer colorrectal
 -   cáncer de mama
 -   cáncer de próstata
 
-El SM confiere un riesgo importante para el desarrollo de otras
-enfermedades como:
+y confiere un riesgo importante para el desarrollo de otras enfermedades
+como:
 
 -   la esteatosis hepática,
 -   el síndrome de apnea del sueño,
@@ -1542,8 +1546,9 @@ sedentarismo, menos actividades físicas al aire libre, el mayor tiempo
 frente a las pantallas), unido a un alto consumo de alimentos
 ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
-obesidad, con toda la problemática que ello supone. \#\#\#\# 3.2.3.3 SM
-en la tercera edad
+obesidad, con toda la problemática que ello supone. \pagebreak
+
+#### 3.2.3.3 SM en la tercera edad
 
 Con el proceso de envejecimiento se producen serie de cambios de tipo
 fisiológicos, morfológicos y funcionales entre los que se encuentran:
@@ -1611,9 +1616,16 @@ alimentarios y de estilo de vida son suficientes para prevenir su
 aparición en 90 de cada 100 casos, puesto que la investigación muestra
 que sólo un 10% se debe a herencia genética.
 
+Dieta y ejercicio es lo esencial, sólo con ello podemos mejorar mucho e
+incluso revertir el SM en muchas situaciones.
+
 Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han
 demostrado ser efectivas para mejorar el control metabólico, el riesgo
 cardiovascular y aumentar la esperanza de vida.
+
+La duración de la exposición a los factores de riesgo es clave, ya que
+los daños van sumándose a través de los años. Es muy importante
+identificarlo lo antes posible y más importante prevenirlo.
 
 ### 3.3.1 Relación con la alimentación
 
@@ -1631,22 +1643,25 @@ tipo 2.
 
 Como regla general, los hábitos alimentarios deben basarse en:
 
--   **una alimentación con un bajo contenido en grasa saturada, grasa
-    trans y colesterol**
--   **el aceite de oliva el principal aporte de grasa en la dieta**
--   **disminuir el consumo de azúcares sencillos**
--   **aumentar el consumo de pescado, especialmente el de pescado azul**
--   **incrementar la ingesta de frutas, verduras y cereales integrales**
+-   **Una alimentación con un bajo contenido en grasa saturada, grasa
+    trans y colesterol.**
+-   **El aceite de oliva el principal aporte de grasa en la dieta.**
+-   **Disminuir el consumo de azúcares sencillos.**
+-   **Aumentar el consumo de pescado, especialmente el de pescado
+    azul.**
+-   **Incrementar la ingesta de frutas, verduras y cereales
+    integrales.**
 
 ### 3.3.2 Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
--   **sedentarismo**
--   **un elevado consumo calórico a través de bebidas azucaradas y
-    alimentos ricos en grasa saturada**
--   **disminución en el consumo de fibra**
--   **el tabaquismo**
+-   **Sedentarismo.**
+-   **Un elevado consumo calórico a través de bebidas azucaradas y
+    alimentos ricos en grasa saturada.**
+-   **Disminución en el consumo de fibra.**
+-   **El tabaquismo.**
+-   **Consumo de alcohol.**
 
 La actividad física es parte fundamental tanto del tratamiento de los
 pacientes con la enfermedad, como de los que están en riesgo de
@@ -1654,11 +1669,11 @@ desarrollarla y debe de ser incluida en la vida cotidiana de la
 población.
 
 -   **Aparcando actividades sedentarias como la televisión o los
-    videojuegos**
+    videojuegos.**
 -   **Actividades de ocio al aire libre orientadas a un mayor consumo
-    calórico como pasear, andar en bici, nadar o hacer excursionismo**
+    calórico como pasear, andar en bici, nadar o hacer excursionismo.**
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
-    3 a 5 días por semana y con una duración de al menos 30 minutos**
+    3 a 5 días por semana y con una duración de al menos 30 minutos.**
 
 \pagebreak
 
@@ -1680,28 +1695,56 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 6. Discusión
 ============
 
+La definición de SM ha tenido muchas modificaciones y no se ha llegado a
+un criterio común entre las distintas asociaciones que lo han analizado.
+
+La pregunta que cabe es si el SM es más que la suma de las partes.
+
+Cada uno de sus elementos ha sido estudiado en forma individual,
+demostrando su importancia como factor de riesgo, pero aún no hay
+acuerdo sobre cuáles deben constituirse dentro, y además parece que los
+diferentes grupos de estudio quisieran agregar un nuevo factor de
+riesgo.
+
 Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía
-que se utilice, en consecuencia no se llega a conocer la real magnitud
+que se utilice, en consecuencia, no se llega a conocer la real magnitud
 del problema. Por ejemplo, la concepción original de Reaven considera a
 la RI como el factor inicial y fundamental del denominado síndrome X;
-sin embargo, solo la OMS y el grupo de estudio EGIR lo toman en cuenta.
-Los investigadores deben considerar que si utilizan varias guía en el
+sin embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta.
+Los investigadores deben considerar que, si utilizan varias guías en el
 mismo estudio para medir la prevalencia del SM, se obtendrán resultados
-diferentes, lo que puede impactar en las conclusiones qeu puedan
+diferentes, lo que puede impactar en las conclusiones que puedan
 obtener.
 
-La obesidad y el SM en niños y adolescentes constituyen una pandemia de
-consecuencias que se prevén devastadoras en lo que respecta a la
-enfermedad cardiovascular. La expansión de estos males a nivel mundial
-repercutirá más gravemente en los países de ingresos medios como el
-nuestro en donde hoy en día más del 30% de los niños y adolescentes
-tienen sobrepeso u obesidad.
+Otra situación que se plantea, además de los diferentes criterios
+elegidos para su diagnóstico, es que no se hace referencia a la
+importancia que pueden tener las diferentes patologías que lo forman.
 
-La pregunta que cabe es si el SM es más que la suma de las partes. Cada
-uno de sus elementos ha sido estudiado en forma individual, demostrando
-su importancia como factor de riesgo, pero aún no hay acuerdo sobre
-cuáles deben constituirse dentro, y además parece que los diferentes
-grupos de estudio quisieran agregar un nuevo factor de riesgo al SM.
+Tampoco se contempla la importancia de tener unos factores de riesgo con
+respecto a otros, ni la importancia de tener tres, cuatro o cinco.
+
+Por poner unos ejemplos:
+
+-   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
+    parámetros muy alterados que otro que se encuentra apenas por encima
+    de los criterios de corte?\
+-   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
+    antidiabéticos orales?\
+-   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
+    criterios diagnósticos de SM el riesgo CV será el mismo?\
+-   Dos pacientes diferentes con el mismo número de factores de riesgo,
+    pero diferentes, ¿estarán expuestos al mismo riesgo?
+
+En resumen, pueden darse múltiples circunstancias lo que hace difícil la
+unificación y evaluación del grado de riesgo.
+
+Cabría decir entonces que quizás la mayor importancia del concepto de SM
+resida en que utilizarlo como una guía que hace más fácil identificar
+las condiciones de riesgo cardiovascular (CV) y Diabetes Mellitus 2 en
+los individuos.
+
+Así se tendrá una mejor herramienta clínica para la detección y
+prevención de riesgo de estas enfermedades.
 
 \pagebreak
 
@@ -1753,8 +1796,6 @@ aumentando notablemente en los países en transición, ya que estos países
 están adquiriendo estilos de vida cada vez más parecidos a los
 occidentales, disminuyendo la actividad física y teniendo un consumo
 elevado de alimentos con alta densidad energética1.
-
-\pagebreak
 
 \pagebreak
 
