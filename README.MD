@@ -533,6 +533,8 @@ estos factores:
     las causas de mortalidad en todo el rango de IMC ( indice masa
     corporal). Es un factor de riesgo mayor para enfermedades del
     corazón que acumular demasiada grasa en otras partes del cuerpo.
+-   **Alto de triglicéridos**: un tipo de grasa que se encuentra en la
+    sangre.
 -   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
     como colesterol "bueno" porque ayuda a eliminar el colesterol de las
     arterias. **Nivel alto decolesterol HDL** o del llamado “malo”.
@@ -789,8 +791,6 @@ metabolismos endocrinos y autoinmunes que posee los distintos factores
 de diabetes. Lo que si se puede hacer es intentar actuar sobre los que
 sí son modificables para intentar mejorar esta situación.
 
-**Prevalencia**
-
 Hasta hace unos años era algo circunscrito al primer mundo, puesto que
 se relacionaba fundamentalmente con los hábitos de vida y el
 sedentarismo propios del modo de vida occidental. Pero en los últimos
@@ -822,33 +822,6 @@ a riesgo cardiovascular levado.
 Los pacientes con dislipemias presentan niveles de triglicéridos
 elevados, valores disminuidos de colesterol HDL y un aumento de las
 partículas LDL.
-
-Colesterol y triglicéridos no son solubles en agua y van a necesitar un
-transportador para circular por el torrente sanguíneo.
-
-Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
-triglicéridos al hígado para ser sintetizados.
-
-Una vez utilizadas tiene que ser desechadas para no acumularse en el
-hígado y que no dé lugar el llamado hígado graso, así son enviadas al
-músculo y demás órganos y tejidos para ser utilizados y los que no son
-necesarios se envían de vuelta al hígado en forma de lipoproteínas que
-serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
-densidad). De vuelta en el hígado este ingresa el colesterol que puede
-guardar y devuelve al torrente sanguíneo el que no puede metabolizar
-para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
-tienen la característica de que el colesterol que transportarse queda
-adherido a las paredes de los vasos sanguíneos siendo recogidos para su
-eliminación por las lipoproteínas de HDL.
-
-Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
-HDL puede recoger es cuando se producen las dislipemias.
-
-Estos depositos de grasa son fagocitadas por los macrófagos formando las
-células espumosas, se da una respuesta inflamatoria formándose el
-ateroma. Cuando este ateroma se rompe y entra en el circuito de la
-circulación es cuando se produce el trombo con su consiguiente riesgo
-cardiovascular.
 
 El diagnóstico de las dislipemias en general se basa siempre en la
 comprobación analítica de la alteración lipídica.
@@ -1003,19 +976,19 @@ la sangre en la arteria causando un infarto de miocardio.
 **Trigliceridos**
 
 Son grasas que se encuentran en determinados alimentos y también se
-producen en el hígado. Los triglicéridos circulan en la sangre mediante
-unas lipoproteínas que se producen en el intestino y en el hígado y se
-transportan a los tejidos donde se utilizan como una reserva de energía
-para cubrir las necesidades metabólicas de los músculos y el cerebro.
+producen en el hígado.
 
-\*\*\*\*\*Las primeras, se encargan de transportar los triglicéridos de
-los alimentos que son absorbidos, y las segundas transportan los
-triglicéridos que sintetiza el hígado.\*\*\*\*\*
+Los triglicéridos circulan en la sangre mediante unas lipoproteínas que
+se producen en el intestino y en el hígado y se transportan a los
+tejidos donde se utilizan como una reserva de energía para cubrir las
+necesidades metabólicas de los músculos y el cerebro.
 
-Las causas más frecuentes de aumento de los triglicéridos son el
-sobrepeso / obesidad, el exceso de alcohol, la inactividad física, una
-dieta muy alta en hidratos de carbono (60% o más de las calorías)
-especialmente si son refinados y fumar.
+Las causas más frecuentes de aumento de los triglicéridos son: -
+Sobrepeso / obesidad - Dieta muy alta en hidratos de carbono (60% o más
+de las calorías) especialmente si son refinados - Exceso de alcohol -
+Tabaquismo - Inactividad física - Dieta muy alta en hidratos de carbono
+(60% ó más de las calorías) especialmente si son refinados - Factores
+genéticos
 
 También existen causas genéticas de aumento de los triglicéridos, en
 ocasiones asociadas con aumento de colesterol:
@@ -1068,6 +1041,8 @@ de **200 mg de colesterol/dl de sangre**.
   200-499 mg/dl                                     Altos
   Superiores a 500 mg/dl                            Existe riesgo de pancreatitis
 
+**Tratamiento hipolipemiante también es considerado factor de riesgo**
+
 \pagebreak
 
 #### 3.2.1.4 Hipertensión arterial
@@ -1082,7 +1057,7 @@ principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
 **La HTA en adultos se define como cifras de presión arterial sistólica
-y diastólica `>` 140/90 mm Hg. **
+y diastólica** `>` **140/90 mm Hg.**
 
 **Factores de riesgo**
 
@@ -1187,8 +1162,8 @@ Se ha identificado la relación en entre el SM y el:
 -   cáncer de mama
 -   cáncer de próstata
 
-y confiere un riesgo importante para el desarrollo de otras enfermedades
-como:
+Además, confiere un riesgo importante para el desarrollo de otras
+enfermedades como:
 
 -   la esteatosis hepática,
 -   el síndrome de apnea del sueño,
@@ -1314,11 +1289,13 @@ síntomas tempranos de SM, como pueden ser el síndrome de ovario
 poliquístico, la disfunción sexual femenina, hipertensión en el embarazo
 o la diabetes gestacional.
 
-\*\*\*\*Relación entre síndrome metabólico y síndrome de ovario
-poliquístico\*\*\*???
+Relación entre síndrome metabólico y síndrome de ovario poliquístico
 
-El síndrome de ovario poliquístico es una entidad que afecta entre el 5
-y el 7% de las mujeres en edad reproductiva.
+El síndrome de ovario poliquístico, es una afección en la cual una mujer
+tiene un nivel muy elevado de andrógenos. Esto puede desencadenar
+problemas como irregularidades menstruales e Infertilidad y es una
+entidad que afecta entre el 5 y el 7% de las mujeres en edad
+reproductiva.
 
 Alrededor del 60% de las mujeres portadoras, presentan
 insulinorresistencia con hiperinsulinismo compensatorio, lo cual
@@ -1339,7 +1316,7 @@ del sueño, alteración hepática y cáncer de endometrio.
 
 ###### SM en el embarazo
 
-Puede decirse quel embarazo es un síndrome metabólico transitorio
+Puede decirse que el embarazo es un síndrome metabólico transitorio
 
 En el embarazo normal se producen una serie de cambios y adaptaciones
 metabólicas cuyo objetivo es por un lado mantener el correcto desarrollo
@@ -1353,7 +1330,7 @@ micronutrientes para poder nutrir al feto y a la madre.
 
 A partir de la semana 20 (5 meses) se va a producir otra fase en la que
 habrá una resistencia a la insulina real. Disminuye la utilización
-materna de la glucosa y de los aminoacidos para pasárselos al feto
+materna de la glucosa y de los aminoácidos para pasárselos al feto
 mientras la madre utilizará ácidos grasos provenientes de los depósitos
 que tenía previamente de la primera mitad de la gestación.
 
@@ -1382,15 +1359,15 @@ importante para trastornos hipertensivos del embarazo. Se ha
 correlacionado con:
 
 -   Hipertensión de la gestación en un 11%.
+-   Igualmente, el antecedente de trastornos hipertensivos en el primer
+    embarazo incrementa el riesgo de desarrollar posteriormente SM de 3
+    a 5 veces.
 -   Preeclampsia en un 5% (\*La preeclampsia es una complicación del
     embarazo caracterizada por presión arterial alta y signos de daños
     en otro sistema de órganos, más frecuentemente el hígado y los
     riñones. Generalmente, la preeclampsia comienza después de las 20
     semanas de embarazo en mujeres cuya presión arterial había sido
     normal).
--   Igualmente el antecedente de trastornos hipertensivos en el primer
-    embarazo incrementa el riesgo de desarrollar posteriormente SM de 3
-    a 5 veces.
 
 Es difícil demostrar que se produzcan lesiones a largo plazo en madres
 gestantes debido al SM, al contrario de lo que ocurre con los efectos de
@@ -1398,9 +1375,6 @@ una predisposición a las enfermedades cardiovasculares y la diabetes
 tipo 2. Sin embargo, tanto la DG (Diabetes Gestacional) como los
 trastornos hipertensivos del embarazo (THE) pueden verse como
 expresiones del síndrome durante la gestación.
-
-Existen diversos factores de riesgo predisponentes relacionados con el
-SM, entre los Complicaciones materno-fetales
 
 Las complicaciones neonatales en las gestantes con SM son mayores de las
 que no lo presentan.
@@ -1536,7 +1510,7 @@ Esta pérdida de masa muscular debida al envejecimiento se denomina
 sarcopenia y contribuye en gran medida a la pérdida de capacidades y de
 autonomía del anciano y tiene relación con la obesidad y la resistencia
 a la insulina. Se produce el hecho de que mayor prevalencia de obesidad
-se aumenta también la de sarcopenia. Puede mitigarse con la practica de
+se aumenta también la de sarcopenia. Puede mitigarse con la práctica de
 ejercicio de fuerza, aunque no disminuirla del todo.
 
 A su vez, la diabetes tipo 2 está asociada con el mayor riesgo de
@@ -1593,19 +1567,35 @@ La duración de la exposición a los factores de riesgo es clave, ya que
 los daños van sumándose a través de los años. Es muy importante
 identificarlo lo antes posible y más importante prevenirlo.
 
+\*\*\*\*\*Ampliar \*\*\*\*
+
+-   información a los padres
+-   controlar calidad alimentaria de los niños
+-   campañas de información en colegios
+-   leyes que no permita la venta de productos procesados en los
+    colegios
+-   imponer normas que hagan que los productos sean mas sanos, impedir
+    publicidad engañosa
+-   impedir etiquetado engañoso
+-   promover predominio de alimentos frescos sobgre los procesados.
+-   anotar que ejercicio cardiorespitarotio y de fuerza los más
+    acertados
+-   promocionar ejercicio en los niños
+-   
+
 ### 3.3.1 Relación con la alimentación
+
+El elevado aporte calórico de la alimentación actual formada por una
+gran cantidad de alimentos procesados con un alto contenido en sal,
+azúcares simples y grasas no cardiosaludables y el sedentarismo, son los
+principales causantes del notable incremento de la obesidad tanto en
+niños como en adultos en nuestra sociedad.
 
 El patrón alimentario a seguir, siempre debe ser personalizado y
 adaptado a las necesidades de cada individuo. Debe considerar la edad,
 el sexo, la actividad física, el estado metabólico, la situación
 económica y los alimentos típicos y disponibles del lugar de origen del
 individuo.
-
-El elevado aporte calórico de la alimentación actual y el sedentarismo,
-son los principales causantes del notable incremento de la obesidad en
-nuestra sociedad. A su vez, esto conlleva un aumento de las patologías
-asociadas a ella, como pueden ser el síndrome metabólico y la diabetes
-tipo 2.
 
 Como regla general, los hábitos alimentarios deben basarse en:
 
@@ -1982,3 +1972,32 @@ Tablas
                                                                                        Society and International Association for                                             
                                                                                        the Study of Obesity                                                                  
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Descarte dislipemia**
+
+Colesterol y triglicéridos no son solubles en agua y van a necesitar un
+transportador para circular por el torrente sanguíneo.
+
+Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
+triglicéridos al hígado para ser sintetizados.
+
+Una vez utilizadas tiene que ser desechadas para no acumularse en el
+hígado y que no dé lugar el llamado hígado graso, así son enviadas al
+músculo y demás órganos y tejidos para ser utilizados y los que no son
+necesarios se envían de vuelta al hígado en forma de lipoproteínas que
+serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
+densidad). De vuelta en el hígado este ingresa el colesterol que puede
+guardar y devuelve al torrente sanguíneo el que no puede metabolizar
+para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
+tienen la característica de que el colesterol que transportarse queda
+adherido a las paredes de los vasos sanguíneos siendo recogidos para su
+eliminación por las lipoproteínas de HDL.
+
+Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
+HDL puede recoger es cuando se producen las dislipemias.
+
+Estos depositos de grasa son fagocitadas por los macrófagos formando las
+células espumosas, se da una respuesta inflamatoria formándose el
+ateroma. Cuando este ateroma se rompe y entra en el circuito de la
+circulación es cuando se produce el trombo con su consiguiente riesgo
+cardiovascular.
