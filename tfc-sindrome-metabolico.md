@@ -4,48 +4,66 @@ El síndrome metabólico
 Beatriz Carro Otero
 -------------------
 
-\pagebreak
-
 Indice general
 ==============
 
 -   [1. Introduccion](#introducción)
+
 -   [2. Objetivos](#objetivos)
+
 -   [3. El síndrome metabólico](#parte-teórica)
+
     -   [3.1 Que es](#que-es)
+
     -   [3.2 Factores de riesgo.
         Características.](#factores-de-riesgo.-características.)
+
         -   [3.2.1 Diagnóstico](#diagnóstico)
+
             -   [3.2.1.1 Obesidad abdominal. Perímetro de cintura
                 elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
+
             -   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus
                 tipo
                 II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
+
             -   [3.2.1.3 Dislipemias](#dislipemias)\
                     *Colesterol*\
                     *Triglicéridos*
+
             -   [3.2.1.4 Hipertensión arterial](#hipertensión-arterial)
+
         -   [3.2.2 Desarrollo fisiopatológico del
             SM](#desarrollo-fisiopatológico-del-sm)
+
         -   [3.2.3 Por grupos de población](#por-grupos-de-población)
+
             -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)\
                     *SM en el hombre*\
                     *SM en la mujer*\
                         *SM en el embarazo*\
                         *SM en la menopausia*
+
             -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
+
             -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
+
     -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
+
         -   [3.3.1 Relación con la
             alimentación](#relación-con-la-alimentación)
-        -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
--   [4. Material y métodos](#material-y-métodos)
--   [5. Resultados](#resultados)
--   [6. Discusión](#difusión)
--   [7. Conclusión](#discusión)
--   [8. Bibliografía](#bibliografía)
 
-\pagebreak
+        -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
+
+-   [4. Material y métodos](#material-y-métodos)
+
+-   [5. Resultados](#resultados)
+
+-   [6. Discusión](#difusión)
+
+-   [7. Conclusión](#discusión)
+
+-   [8. Bibliografía](#bibliografía)
 
 Indice tablas
 =============
@@ -66,8 +84,6 @@ International Diabetes
 Federation](#criterios-de-síndrome-metabólico-en-la-infancia-y-adolescencia-de-la-international-diabetes-federation)\
 [Evolución histórica de los criterios del síndrome
 metabólico](#evolución-histórica-de-los-criterios-del-síndrome-metabólico)
-
-\pagebreak
 
 1. Introducción
 ===============
@@ -131,8 +147,6 @@ se referirán cada una de ellas de diferente manera y con variedad de
 criterios, siendo finalmente reconocido su nombre como Síndrome
 Metabólico (SM) por la OMS en 1999.
 
-\pagebreak
-
 2. Objetivos
 ============
 
@@ -152,8 +166,6 @@ y prevenirlo.
 Finalmente se busca determinar el conocimiento que tiene la población
 acerca del SM, y de como los hábitos de vida y de alimentación afectan a
 la aparición de la alteraciones de salud que lo componen.
-
-\pagebreak
 
 3. El Síndrome metabólico
 =========================
@@ -178,44 +190,16 @@ para reducir los factores de riesgo cardiovascular.
 
  
 
-  -------------------------------------------------------------------
-  Criterios de           
-  diagnóstico OMS        
-  ---------------------- --------------------------------------------
-  *Definitivo*           Intolerancia a la glucosa o tolerancia
-                         anormal a la glucosa o diabetes mellitus,
-                         resistencia a la insulina, o ambos
-
-  *Dos o más de los      
-  siguientes             
-  componentes*           
-
-  **Alteración en la     
-  regulación de glucosa  
-  o diabetes**           
-
-  **Resistencia a la     (en condiciones hiperinsulinémicas y
-  insulina**             euglicémicas, con una captura de glucosa por
-                         debajo del menor cuartil para la población
-                         de base de la investigación)
-
-  **Presión arterial     (`>`= 140/90 mmHg)
-  elevada**              
-
-  **Elevación de         (`>`= 1.7 mmol/L; 150 mg/dL),99 disminución
-  triglicéridos          de colesterol HDL &lt; 0.9 mmol/L, 35 mg/dL
-  plasmáticos**          en hombres; &lt; 1.0 mmol/L, 39 mg/dL en
-                         mujeres, o ambos
-
-  **Obesidad central**   índice de cintura-cadera: hombres `>` 0.90;
-                         mujeres `>` 0.85, IMC `>` 30 kg/m2 o ambos
-
-  **Microalbuminuria**   99 índice de excreción urinaria de albúmina
-                         de 20 mg/min o índice albúmina-creatinina
-                         `>` 30 mg/g
-  -------------------------------------------------------------------
-
-\pagebreak
+  Criterios de diagnóstico OMS                            
+  ------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------
+  *Definitivo*                                            Intolerancia a la glucosa o tolerancia anormal a la glucosa o diabetes mellitus, resistencia a la insulina, o ambos
+  *Dos o más de los siguientes componentes*               
+  **Alteración en la regulación de glucosa o diabetes**   
+  **Resistencia a la insulina**                           (en condiciones hiperinsulinémicas y euglicémicas, con una captura de glucosa por debajo del menor cuartil para la población de base de la investigación)
+  **Presión arterial elevada**                            (`>`= 140/90 mmHg)
+  **Elevación de triglicéridos plasmáticos**              (`>`= 1.7 mmol/L; 150 mg/dL),99 disminución de colesterol HDL &lt; 0.9 mmol/L, 35 mg/dL en hombres; &lt; 1.0 mmol/L, 39 mg/dL en mujeres, o ambos
+  **Obesidad central**                                    índice de cintura-cadera: hombres `>` 0.90; mujeres `>` 0.85, IMC `>` 30 kg/m2 o ambos
+  **Microalbuminuria**                                    99 índice de excreción urinaria de albúmina de 20 mg/min o índice albúmina-creatinina `>` 30 mg/g
 
 A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
@@ -249,8 +233,6 @@ Los autores establecieron que la obesidad medida por el IMC no se
 considera parte del síndrome y que se ha demostrado que la
 microalbuminuria se relaciona con concentraciones de insulina, por lo
 que debe ser suprimida.
-
-\pagebreak
 
 #### ATP-III
 
@@ -291,8 +273,6 @@ los cinco criterios.*
 
  
 
-\pagebreak
-
 #### Asociación Americana de Endocrinólogos Clínicos
 
 En 2003 Asociación Americana de Endocrinólogos Clínicos y el Colegio
@@ -331,47 +311,21 @@ criterios no son útiles como definición para estudios epidemiológicos.
 
  
 
-  --------------------------------------------------------------------------
-  Factores de riesgo de SM de la Asociación americana  
-  de endocrinología                                    
-  ---------------------------------------------------- ---------------------
-  **Exceso de peso**                                   IMC `>` 25
-
-  **Circunferencia de la cintura**                     
-
-  hombres                                              `>` 40 pulgadas
-
-  mujeres                                              `>` 35 pulgadas
-
-                                                       (10-15% menos en no
-                                                       caucásicos)
-
-  **Estilo de vida sedentario**                        
-
-  **Edad**                                             `>` 40 años
-
-  **Etnicidad no caucásica**                           (latino,
-                                                       hispanoamericano,
-                                                       afroamericano, nativo
-                                                       americano,
-                                                       asiático-americano,
-                                                       de las Islas del
-                                                       Pacífico)
-
-  **Antecedentes familiares de diabetes mellitus 2,    
-  hipertensión arterial o enfermedad cardiovascular**  
-
-  **Antecedentes de intolerancia a la glucosa o        
-  diabetes gestacional**                               
-
-  **Acantosis nigricans**                              
-
-  **Síndrome de ovario poliquístico**                  
-
-  **Hígado graso no alcohólico**                       
-  --------------------------------------------------------------------------
-
-\pagebreak
+  Factores de riesgo de SM de la Asociación americana de endocrinología                                   
+  ------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------
+  **Exceso de peso**                                                                                      IMC `>` 25
+  **Circunferencia de la cintura**                                                                        
+  hombres                                                                                                 `>` 40 pulgadas
+  mujeres                                                                                                 `>` 35 pulgadas
+                                                                                                          (10-15% menos en no caucásicos)
+  **Estilo de vida sedentario**                                                                           
+  **Edad**                                                                                                `>` 40 años
+  **Etnicidad no caucásica**                                                                              (latino, hispanoamericano, afroamericano, nativo americano, asiático-americano, de las Islas del Pacífico)
+  **Antecedentes familiares de diabetes mellitus 2, hipertensión arterial o enfermedad cardiovascular**   
+  **Antecedentes de intolerancia a la glucosa o diabetes gestacional**                                    
+  **Acantosis nigricans**                                                                                 
+  **Síndrome de ovario poliquístico**                                                                     
+  **Hígado graso no alcohólico**                                                                          
 
 #### Federación Internacional de Diabetes
 
@@ -386,40 +340,14 @@ proinflamatorio y estado protrombótico.
 
  
 
-  -----------------------------------------------------------------------------
-  Criterios diagnostico 
-             Federación 
-       Internacional de 
-               Diabetes 
-  --------------------- -------------------------------------------------------
-         **Distribución La obesidad central es la que más se asocia con
-       anormal de grasa síndrome metabólico y es la que, independientemente, se
-             corporal** relaciona con todos los demás criterios; en términos
-                        clínicos se manifiesta con aumento de la circunferencia
-                        de cintura
-
-     **Resistencia a la Existente en la mayor parte de los casos; se asocia
-             insulina** fuertemente con otros factores de riesgo metabólico y
-                        correlaciona de manera univariante con el riesgo
-                        cardiovascular. Sin embargo, no se ha podido establecer
-                        una relación firme con la hipertensión arterial; los
-                        mecanismos que unen la resistencia a la insulina y la
-                        enfermedad cardiovascular deben seguir siendo
-                        investigados
-
-         **Dislipidemia Aumento de triglicéridos y disminución del colesterol
-          aterogénica** HDL
-
-        **Aumento de la Se asocia estrechamente con obesidad e intolerancia a
-     presión arterial** la glucosa y con frecuencia afecta a personas con
-                        resistencia a la insulina.
-
-               **Estado Aumento de la proteína C reactiva
-      proinflamatorio** 
-
-               **Estado Aumento del inhibidor del plasminógeno 1 y fibrinógeno
-        protrombótico** 
-  -----------------------------------------------------------------------------
+  Criterios diagnostico Federación Internacional de Diabetes   
+  ------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Distribución anormal de grasa corporal**                   La obesidad central es la que más se asocia con síndrome metabólico y es la que, independientemente, se relaciona con todos los demás criterios; en términos clínicos se manifiesta con aumento de la circunferencia de cintura
+  **Resistencia a la insulina**                                Existente en la mayor parte de los casos; se asocia fuertemente con otros factores de riesgo metabólico y correlaciona de manera univariante con el riesgo cardiovascular. Sin embargo, no se ha podido establecer una relación firme con la hipertensión arterial; los mecanismos que unen la resistencia a la insulina y la enfermedad cardiovascular deben seguir siendo investigados
+  **Dislipidemia aterogénica**                                 Aumento de triglicéridos y disminución del colesterol HDL
+  **Aumento de la presión arterial**                           Se asocia estrechamente con obesidad e intolerancia a la glucosa y con frecuencia afecta a personas con resistencia a la insulina.
+  **Estado proinflamatorio**                                   Aumento de la proteína C reactiva
+  **Estado protrombótico**                                     Aumento del inhibidor del plasminógeno 1 y fibrinógeno
 
  
 
@@ -427,15 +355,19 @@ Todas estas diversas definiciones comparten algunos de los criterios
 como son:
 
 -   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
+
 -   **Resistencia a la insulina** (Dificultad para digerir un tipo de
     azúcar denominado «glucosa» (intolerancia a la glucosa). Los
     pacientes con síndrome metabólico generalmente tienen
     hiperinsulinemia o diabetes tipo 2.
+
 -   **Dislipidemia aterogénica** (\* alteración lipídica proteica,
     asociada a un riesgo cardiovascular elevado caracterizada por la
     asociación de colesterol HDL bajo, triglicéridos elevados y alta
     proporción de partículas LDL)
+
 -   **Hipertensión**
+
 -   Estado **proinflamatorio** y estado **protrombótico**.
 
 Sin embargo, la existencia de tanta variedad de definiciones propuestas
@@ -452,37 +384,16 @@ válido para toda la población mundial, habiéndose encontrado que, para
 las distintas etnias, deben considerarse valores de corte diferentes a
 la hora de realizar un diagnóstico.
 
-  ---------------------------------------------------------------------------------------
-  Valores de circunferencia abdominal indicándose la                    
-  especificidad étnica                                                  
-  --------------------------------------------------- ----------------- -----------------
-  Europeos\*                                          Hombres = 94 cm   Mujeres = 80 cm
-
-  USA: es probable seguir con ATP III                 Hombres = 102 cm  Mujeres = 88 cm
-
-  Asia del Sur resultados basados en las poblaciones  Hombres = 90 cm   Mujeres = 80 cm
-  Chinas, Malaya y Asiático-Indú                                        
-
-  China                                               Hombres = 90 cm   Mujeres = 80 cm
-
-  Japón \*\*                                          Hombres = 90 cm   Mujeres = 80 cm
-
-  Sur América y Centro América                        Usar las          
-                                                      recomendaciones   
-                                                      para Asia hasta   
-                                                      tener nueva       
-                                                      información.      
-
-  Africa sub-Sahariana                                Usar los datos    
-                                                      europeos hasta    
-                                                      tener nueva       
-                                                      información       
-
-  Poblaciones Árabes y del Mediterráneo.              Usar los datos    
-                                                      europeos hasta    
-                                                      tener nueva       
-                                                      información       
-  ---------------------------------------------------------------------------------------
+  Valores de circunferencia abdominal indicándose la especificidad étnica                                                                                 
+  ----------------------------------------------------------------------------------- ------------------------------------------------------------------- -----------------
+  Europeos\*                                                                          Hombres = 94 cm                                                     Mujeres = 80 cm
+  USA: es probable seguir con ATP III                                                 Hombres = 102 cm                                                    Mujeres = 88 cm
+  Asia del Sur resultados basados en las poblaciones Chinas, Malaya y Asiático-Indú   Hombres = 90 cm                                                     Mujeres = 80 cm
+  China                                                                               Hombres = 90 cm                                                     Mujeres = 80 cm
+  Japón \*\*                                                                          Hombres = 90 cm                                                     Mujeres = 80 cm
+  Sur América y Centro América                                                        Usar las recomendaciones para Asia hasta tener nueva información.   
+  Africa sub-Sahariana                                                                Usar los datos europeos hasta tener nueva información               
+  Poblaciones Árabes y del Mediterráneo.                                              Usar los datos europeos hasta tener nueva información               
 
  
 
@@ -503,8 +414,6 @@ determinantes para su desarrollo. Se considera que solo un 10% de los
 casos de SM tiene causas genéticas, por lo que hay que resaltar la
 importancia de la alimentación y los hábitos de vida como causa y a la
 vez como instrumento de prevención y tratamiento del SM.
-
-\pagebreak
 
 3.2.1 Diagnóstico del SM
 ------------------------
@@ -533,12 +442,15 @@ estos factores:
     las causas de mortalidad en todo el rango de IMC ( indice masa
     corporal). Es un factor de riesgo mayor para enfermedades del
     corazón que acumular demasiada grasa en otras partes del cuerpo.
+
 -   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
     como colesterol "bueno" porque ayuda a eliminar el colesterol de las
     arterias. **Nivel alto decolesterol HDL** o del llamado “malo”.
+
 -   **Presión arterial alta**: Si la presión arterial se mantiene alta
     en el tiempo, puede dañar su corazón y provocar otros problemas de
     salud.
+
 -   **Nivel alto de azúcar en la sangre en ayunas**: El nivel de azúcar
     en la sangre levemente alto puede ser un signo temprano de diabetes.
 
@@ -555,11 +467,11 @@ Existen además otros factores a tener en cuenta a la hora de detectar
 indicadores de que un pacientes puede desarrollar SM:
 
 -   Un estilo de vida inactivo, mala alimentación, tabaco y alcohol.
+
 -   Edad: Su riesgo aumenta a medida que envejece. Aumento del nivel
     oxidativo.
--   Genética: Origen étnico y su historia familiar.
 
-\pagebreak
+-   Genética: Origen étnico y su historia familiar.
 
 ### Factores de riesgo como criterios de diagnóstico
 
@@ -627,33 +539,18 @@ enfermedades cardiovasculares, diabetes e hipertensión.
 
  
 
-  ---------------------------------------------------------------------------------------------------
-  Indice de Masa Corporal,                                                   
-  Circunferencia Abdominal y                                                 
-  Riesgo de Enfermedad                                                       
-  Cardiovascular                                                             
-  -------------------------------- ---------------- ------------------------ ------------------------
-  Categoria                        IMC              Hombres&lt; 102 cm       Hombres&lt; 102 cm
-                                                    Mujeres &lt; 88 cm       Mujeres &lt; 88 cm
-
-  Peso Bajo                        &lt;18.5         -                        -
-
-  Normal                           18.5 - 24.9      -                        Leve-Moderada
-
-  Sobrepeso                        25 - 29.9        Moderado                 Alto
-
-  Obesidad                         -                -                        -
-
-  Clase I                          30 - 34.9        Alto                     Muy alto
-
-  Clase II                         35 - 39.9        Muy alto                 Muy alto
-
-  Clase III                        &gt;40           Extremadamente alto      Extremadamente alto
-  ---------------------------------------------------------------------------------------------------
+  Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular                                                         
+  ----------------------------------------------------------------------------------------- ------------- --------------------------------------- ---------------------------------------
+  Categoria                                                                                 IMC           Hombres&lt; 102 cm Mujeres &lt; 88 cm   Hombres&lt; 102 cm Mujeres &lt; 88 cm
+  Peso Bajo                                                                                 &lt;18.5      -                                       -
+  Normal                                                                                    18.5 - 24.9   -                                       Leve-Moderada
+  Sobrepeso                                                                                 25 - 29.9     Moderado                                Alto
+  Obesidad                                                                                  -             -                                       -
+  Clase I                                                                                   30 - 34.9     Alto                                    Muy alto
+  Clase II                                                                                  35 - 39.9     Muy alto                                Muy alto
+  Clase III                                                                                 &gt;40        Extremadamente alto                     Extremadamente alto
 
  
-
-\pagebreak
 
 #### 3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo II
 
@@ -674,13 +571,18 @@ sanguínea se produce una hiperinsulinemia lo que aumenta el riesgo de
 sufrir un infarto de miocardio debido a que la insulina:
 
 -   Eleva los niveles de triglicéridos.
+
 -   Reduce los niveles de lipoproteínas de alta densidad (HDL o
     «colesterol bueno»).
+
 -   Eleva los niveles de lipoproteínas de baja densidad (LDL o
     «colesterol malo»).
+
 -   Hace más difícil que el organismo elimine las grasas de la sangre
     después de comer.
+
 -   Eleva la presión arterial.
+
 -   Aumenta la capacidad de coagulación de la sangre.
 
 Esta falta de sensibilidad a la insulina y esta respuesta de un aumento
@@ -690,12 +592,16 @@ y a la aparición de, entre otras patologías:
 -   Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no
     poder ingresar la glucosa en las células se produce un nivel levado
     de glucosa en la sangre).
+
 -   Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el
     corazón y los vasos sanguíneos. Se asocia con la acumulación de
     depósitos de grasa en las arterias. A menudo implica hipertensión,
     que puede ser causa y resultado de ECV.
+
 -   Dislipidemias.
+
 -   Hipertensión arterial.
+
 -   Síndrome de ovario poliquístico.
 
 La RI, el SM y la aterosclerosis parecen tener una base inflamatoria
@@ -743,16 +649,11 @@ cardiovascular y no sólo de carácter metabólico.
 
  
 
-  --------------------------------------------------------------------------------------
-  Valores de glucemia para diagnóstico Diabetes                        
-  -------------------------------------------------------------------- -----------------
-  **Valores normales**                                                 **60-110md/dl**
-
-  Diabetes                                                             160ml/dl
-
-  También será considerado factor de criterio positivo el tratamiento  
-  hipoglucemiante                                                      
-  --------------------------------------------------------------------------------------
+  Valores de glucemia para diagnóstico Diabetes                                         
+  ------------------------------------------------------------------------------------- -----------------
+  **Valores normales**                                                                  **60-110md/dl**
+  Diabetes                                                                              160ml/dl
+  También será considerado factor de criterio positivo el tratamiento hipoglucemiante   
 
  
 
@@ -763,10 +664,13 @@ Factores no modificables:
 
 -   **Genética** (aunque se puede influir en esa expresión de los genes
     a través de la Epigenética)
+
 -   **Prematuridad**: haber nacido prematuro o con peso inadecuado,
     tanto con bajo peso como con sobrepeso, para la edad gestacional.
+
 -   **Madre con diabetes gestacional**: favorece la aparición de
     diabetes en la edad adulta.
+
 -   **Etnia**
 
 Factores modificables:
@@ -775,9 +679,11 @@ Factores modificables:
     alimentación, tabaquismo, consumo de alcohol, estrés emocional,
     falta de sueño) todos ellos capaces de mejorar o empeorar la
     enfermedad.
+
 -   **Disrruptores endocrinos**: químicos capaces de mimetizar nuestras
     hormonas y, por tanto, de alterar el correcto funcionamiento
     corporal y afectar negativamente a nuestra salud.
+
 -   **Déficit de micronutrientes**: como selenio, hierro vitamina D.
 
 Son factores de riesgo que actúan sobre el sistema inmunológico, la
@@ -811,8 +717,6 @@ autoinmune de tipo I.
 
 Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
 de personas en todo el mundo con riesgo de desarrollar diabetes.
-
-\pagebreak
 
 #### 3.2.1.3 Dislipemias
 
@@ -863,8 +767,6 @@ comprobación analítica de la alteración lipídica.
                      Mujeres &lt; 50 mg/dl
 
  
-
-\pagebreak
 
 **Colesterol**
 
@@ -917,8 +819,6 @@ que trasportan el colesterol en la sangre:
 Son varias las causas que afectan a los niveles de colesterol. Algunas
 de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
-\pagebreak
-
 Causas que no se pueden cambiar:
 
 -   **Herencia**. La cantidad de colesterol LDL que fabrica su cuerpo y
@@ -938,12 +838,15 @@ Causas que se pueden cambiar:
     estructura, y cada una de ellas posee un efecto determinado sobre
     los niveles de colesterol en el organismo:
 
-    Con efecto negativo
+<!-- -->
+
+-   Con efecto negativo
 
     -   *Ácidos grasos saturados*: son la grasa presente en lácteos,
         carnes y derivados, y aceites de coco y palma, entre otros
         alimentos. Tienen un efecto perjudicial, ya que aumentan el
         colesterol total y el colesterol LDL (“colesterol malo”).
+
     -   *Ácidos grasos trans*: son los más nocivos para la salud
         cardiovascular. Ya que dietas ricas en este tipo de grasas
         producen un aumento del colesterol total y colesterol LDL, al
@@ -961,11 +864,14 @@ Causas que se pueden cambiar:
         asocia a un menor riesgo de desarrollar enfermedades
         cardiovasculares. Están presentes en alimentos como el aceite de
         oliva, el aguacate o los frutos secos.
+
     -   *Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
         6**. Resultan beneficiosos ya que una dieta rica en estos
         produce una disminución del colesterol total y del colesterol
         LDL. Están presentes en el pescado azul (omega 3) y en aceites
         de semillas y frutos secos (omega 6).
+
+<!-- -->
 
 -   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
     LDL. También aumenta los triglicéridos y baja el colesterol HDL.
@@ -1021,8 +927,11 @@ También existen causas genéticas de aumento de los triglicéridos, en
 ocasiones asociadas con aumento de colesterol:
 
 -   Hiperlipidemia Familiar Combinada
+
 -   Hipertrigliceridemia Familiar
+
 -   Disbetalipoproteinemia
+
 -   Hiperquilomicronemia Familiar
 
  
@@ -1039,8 +948,6 @@ importancia el tipo de grasa que la cantidad total consumida.
 El valor a partir del cual se considera patológico, y que además es un
 importante factor de riesgo para las enfermedades cardiovasculares, es
 de **200 mg de colesterol/dl de sangre**.
-
-\pagebreak
 
   Valores normales y elevados del Perfil Lipídico   
   ------------------------------------------------- --------------------------------------------------------
@@ -1068,8 +975,6 @@ de **200 mg de colesterol/dl de sangre**.
   200-499 mg/dl                                     Altos
   Superiores a 500 mg/dl                            Existe riesgo de pancreatitis
 
-\pagebreak
-
 #### 3.2.1.4 Hipertensión arterial
 
 No existe un único elemento desencadenante de la hipertensión arterial,
@@ -1082,7 +987,7 @@ principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
 **La HTA en adultos se define como cifras de presión arterial sistólica
-y diastólica `>` 140/90 mm Hg. **
+y diastólica** `>` **140/90 mm Hg. **
 
 **Factores de riesgo**
 
@@ -1106,16 +1011,20 @@ Algunas personas tienen presión arterial alta causada por una enfermedad
 subyacente, como podrían ser:
 
 -   Apnea obstructiva del sueño
+
 -   Enfermedad renal
+
 -   Tumores de la glándula suprarrenal
+
 -   Problemas de tiroides
+
 -   Ciertos defectos de nacimiento (congénitos) en los vasos sanguíneos
+
 -   Ciertos medicamentos, como las píldoras anticonceptivas, los
     antigripales, los descongestionantes, los analgésicos de venta libre
     y algunos medicamentos con receta médica
--   Drogas ilícitas, como la cocaína y las anfetaminas
 
-\pagebreak
+-   Drogas ilícitas, como la cocaína y las anfetaminas
 
 ### 3.2.2 Desarrollo fisiopatológico del SM
 
@@ -1177,26 +1086,28 @@ La duración de la exposición a los factores de riesgo es clave puesto
 que los daños se van sumando a lo largo de los años aumentando el riesgo
 de padecer enfermedad grave.
 
-\pagebreak
-
 ### Patologías relacionadas
 
 Se ha identificado la relación en entre el SM y el:
 
 -   el cáncer colorrectal
+
 -   cáncer de mama
+
 -   cáncer de próstata
 
 y confiere un riesgo importante para el desarrollo de otras enfermedades
 como:
 
 -   la esteatosis hepática,
--   el síndrome de apnea del sueño,
--   la enfermedad renal crónica,
--   el síndrome del ovario poliquístico
--   la infertilidad masculina
 
-\pagebreak
+-   el síndrome de apnea del sueño,
+
+-   la enfermedad renal crónica,
+
+-   el síndrome del ovario poliquístico
+
+-   la infertilidad masculina
 
 ### 3.2.3 Por grupos de población
 
@@ -1250,8 +1161,6 @@ condición asociada al síndrome metabólico.
 
 También se ha relacionado SM con el descenso del nivel de fertilidad.
 
-\pagebreak
-
 ##### SM en la mujer
 
 La enfermedad cardiovascular es la principal causa de muerte en las
@@ -1284,9 +1193,11 @@ se asocia con la presentación o el desarrollo de características propias
 del síndrome metabólico, entre las que se encuentran:
 
 -   Aumento de la grasa central abdominal.
+
 -   Alteración del perfil lipídico (elevación de lipoproteínas de baja
     densidad y triglicéridos, disminución de lipoproteínas de alta
     densidad)
+
 -   Resistencia a la insulina.
 
 El incremento de la LDL es menor en mujeres premenopáusicas que en
@@ -1382,12 +1293,14 @@ importante para trastornos hipertensivos del embarazo. Se ha
 correlacionado con:
 
 -   Hipertensión de la gestación en un 11%.
+
 -   Preeclampsia en un 5% (\*La preeclampsia es una complicación del
     embarazo caracterizada por presión arterial alta y signos de daños
     en otro sistema de órganos, más frecuentemente el hígado y los
     riñones. Generalmente, la preeclampsia comienza después de las 20
     semanas de embarazo en mujeres cuya presión arterial había sido
     normal).
+
 -   Igualmente el antecedente de trastornos hipertensivos en el primer
     embarazo incrementa el riesgo de desarrollar posteriormente SM de 3
     a 5 veces.
@@ -1419,8 +1332,6 @@ disminuyó en 14%.
 
 El correcto tratamiento debe de estar encaminado a la prevención de los
 factores de riesgo del SM.
-
-\pagebreak
 
 #### 3.2.3.2 SM en la infancia
 
@@ -1462,22 +1373,11 @@ glucosa).
 **Criterios de síndrome metabólico en la infancia y adolescencia de la
 International Diabetes Federation**
 
-  --------------------------------------------------------------------------------------------------------------------
-  Edad (años)     Obesidad        Triglicéridos   HDL colesterol (mg/dl) Presión arterial       Glucosa (mg/dl)
-                  (cintura        (mg/dl)                                (mmHg)                 
-                  abdominal)                                                                    
-  --------------- --------------- --------------- ---------------------- ---------------------- ----------------------
-  6-10            `>`=P90         -               -                      -                      -
-
-  10-16           `>`=P90 o       `>`=150         &lt;40                 Sistólica: `>` 130     Glucosa en ayunas
-                  criterio                                               Diastólica: `>` 85     `>`100 o DM2
-                  adulto, si este                                                               
-                  es menor                                                                      
-
-  `>`16 (adultos) Varones: `>`=   `>`=150         Varones: &lt;40        Sistólica: `>`130      Glucosa en ayunas
-                  94 cm Mujeres:                  Mujeres: &lt;50        Diastólica: `>`85      `>`100 oDM2
-                  `>`= 80 cm                                                                    
-  --------------------------------------------------------------------------------------------------------------------
+  Edad (años)       Obesidad (cintura abdominal)                  Triglicéridos (mg/dl)   HDL colesterol (mg/dl)            Presión arterial (mmHg)                 Glucosa (mg/dl)
+  ----------------- --------------------------------------------- ----------------------- --------------------------------- --------------------------------------- --------------------------------
+  6-10              `>`=P90                                       -                       -                                 -                                       -
+  10-16             `>`=P90 o criterio adulto, si este es menor   `>`=150                 &lt;40                            Sistólica: `>` 130 Diastólica: `>` 85   Glucosa en ayunas `>`100 o DM2
+  `>`16 (adultos)   Varones: `>`= 94 cm Mujeres: `>`= 80 cm       `>`=150                 Varones: &lt;40 Mujeres: &lt;50   Sistólica: `>`130 Diastólica: `>`85     Glucosa en ayunas `>`100 oDM2
 
 *El diagnóstico requiere la presencia de obesidad central mediante
 determinación de cintura abdominal y como mínimo dos de los criterios
@@ -1512,7 +1412,7 @@ sedentarismo, menos actividades físicas al aire libre, el mayor tiempo
 frente a las pantallas), unido a un alto consumo de alimentos
 ultra-procesados, con un alto contenido de grasas saturadas, azúcares
 simples y sal, ha supuesto que se de este problema de aumento de
-obesidad, con toda la problemática que ello supone. \pagebreak
+obesidad, con toda la problemática que ello supone.
 
 #### 3.2.3.3 SM en la tercera edad
 
@@ -1520,15 +1420,19 @@ Con el proceso de envejecimiento se producen serie de cambios de tipo
 fisiológicos, morfológicos y funcionales entre los que se encuentran:
 
 -   Un mayor estrés oxidativo.
+
 -   Variaciones neurohormonales que pueden tener un efecto opuesto a la
     insulina.
+
 -   Reducción de la masa muscular, esto comienza a partir de los 50
     años, en parte por el proceso normal de envejecimiento y en parte
     porque la actividad física suele reducirse y es un factor que
     favorece la perdida de musculo esquelético que está relacionado con
     tener más o menos fuerza.
+
 -   Una nueva distribución de la grasa corporal. En ambos sexos se da un
-    aumento de contorno de cintura.\
+    aumento de contorno de cintura.
+
 -   El aumento del tejido adiposo va a la par que la pérdida de masa
     muscular. A mayor pérdida de músculo mayor ganancia de grasa.
 
@@ -1566,8 +1470,6 @@ la base del peso corporal si no está asociada a otras patologías.
 
 Puede decirse que el proceso de envejecimiento es un factor de riesgo
 para padecer SM y diabetes.
-
-\pagebreak
 
 3.3 Tratamiento y prevención
 ----------------------------
@@ -1611,10 +1513,14 @@ Como regla general, los hábitos alimentarios deben basarse en:
 
 -   **Una alimentación con un bajo contenido en grasa saturada, grasa
     trans y colesterol.**
+
 -   **El aceite de oliva el principal aporte de grasa en la dieta.**
+
 -   **Disminuir el consumo de azúcares sencillos.**
+
 -   **Aumentar el consumo de pescado, especialmente el de pescado
     azul.**
+
 -   **Incrementar la ingesta de frutas, verduras y cereales
     integrales.**
 
@@ -1623,10 +1529,14 @@ Como regla general, los hábitos alimentarios deben basarse en:
 Favorecen el desarrollo del SM otros factores:
 
 -   **Sedentarismo.**
+
 -   **Un elevado consumo calórico a través de bebidas azucaradas y
     alimentos ricos en grasa saturada.**
+
 -   **Disminución en el consumo de fibra.**
+
 -   **El tabaquismo.**
+
 -   **Consumo de alcohol.**
 
 La actividad física es parte fundamental tanto del tratamiento de los
@@ -1636,12 +1546,12 @@ población.
 
 -   **Aparcando actividades sedentarias como la televisión o los
     videojuegos.**
+
 -   **Actividades de ocio al aire libre orientadas a un mayor consumo
     calórico como pasear, andar en bici, nadar o hacer excursionismo.**
+
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
     3 a 5 días por semana y con una duración de al menos 30 minutos.**
-
-\pagebreak
 
 4. Material y métodos
 =====================
@@ -1655,8 +1565,6 @@ para que se pueda repetir dicho estudio.
 
 En este apartado deberéis incluir los resultados de las encuestas y los
 resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
-
-\pagebreak
 
 6. Discusión
 ============
@@ -1693,11 +1601,14 @@ Por poner unos ejemplos:
 
 -   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
     parámetros muy alterados que otro que se encuentra apenas por encima
-    de los criterios de corte?\
+    de los criterios de corte?
+
 -   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
-    antidiabéticos orales?\
+    antidiabéticos orales?
+
 -   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
-    criterios diagnósticos de SM el riesgo CV será el mismo?\
+    criterios diagnósticos de SM el riesgo CV será el mismo?
+
 -   Dos pacientes diferentes con el mismo número de factores de riesgo,
     pero diferentes, ¿estarán expuestos al mismo riesgo?
 
@@ -1711,8 +1622,6 @@ los individuos.
 
 Así se tendrá una mejor herramienta clínica para la detección y
 prevención de riesgo de estas enfermedades.
-
-\pagebreak
 
 7. Conclusión
 =============
@@ -1763,8 +1672,6 @@ están adquiriendo estilos de vida cada vez más parecidos a los
 occidentales, disminuyendo la actividad física y teniendo un consumo
 elevado de alimentos con alta densidad energética1.
 
-\pagebreak
-
 Bibliografía
 ============
 
@@ -1775,15 +1682,18 @@ Bibliografía
     &lt;http://scielo.sld.cu/scielo.php?script=sci\_arttext&pid=S1561-29532006000300006&lng=es&nrm=iso&gt;.
     ISSN
     1561-2953.](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1561-29532006000300006)
+
 -   [Córdova-Pluma VH, Castro-Martínez G, Rubio-Guerra A, Hegewisch ME.
     Breve crónica de la definición del síndrome metabólico. Med Int Méx
     2014;30:312-328](https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf)
+
 -   [HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de
     estilo de vida como estrategia en la prevención del síndrome
     metabólico y la diabetes mellitus tipo 2: hitos y perspectivas.
     Anales Sis San Navarra. 2016, vol.39, n.2 \[citado 2022-01-17\],
     pp.269-289. ISSN
     1137-6627](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S1137-66272016000200009&lng=es&nrm=iso)
+
 -   [SCHNELL, Mercedes; DOMINGUEZ, Zury A y CARRERA, Carlos. Aspectos
     genéticos, clínicos y fisiopatológicos del Síndrome Metabólico. An
     Venez Nutr \[online\]. 2007, vol.20, n.2 \[citado 2022-01-25\],
@@ -1791,10 +1701,12 @@ Bibliografía
     &lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0798-07522007000200006&lng=es&nrm=iso&gt;.
     ISSN
     0798-0752](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0798-07522007000200006)
+
 -   [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
     del área de salud de A Coruña, Mª Pilar Carballo González,
     http://hdl.handle.net/2183/16548](http://hdl.handle.net/2183/16548)
+
 -   [YEPEZ, Mayel Cristina; ZEPPENFEL, María Eugenia; COLON, José
     Antonio y ZIMMER, Eveline. Síndrome metabólico durante el embarazo:
     Complicaciones materno-fetales. Rev Obstet Ginecol Venez \[online\].
@@ -1802,6 +1714,7 @@ Bibliografía
     &lt;http://ve.scielo.org/scielo.php?script=sci\_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso&gt;.
     ISSN
     0048-7732.](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0048-77322011000200002&lng=es&nrm=iso)
+
 -   [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
     GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de
     riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr.
@@ -1810,47 +1723,56 @@ Bibliografía
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
     ISSN 1699-5198.
     https://dx.doi.org/10.20960/nh.1024](http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso)
+
 -   [Romain Pierlot, Estela Cuevas-Romero, Jorge Rodríguez-Antolín,
     Pablo Méndez-Hernández, Margarita Martínez-Gómez, PREVALENCIA DE
     SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICA, TIP, Volume
     20, Issue 1,2017,Pages 40-49,ISSN
     1405-888X,https://doi.org/10.1016/j.recqb.2016.11.004.](https://www.sciencedirect.com/science/article/pii/S1405888X16300158)
 
-------------------------------------------------------------------------
-
 1.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
     metabólico y su prevalencia en la población que acude a una farmacia
     comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3
     (4):
     146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
+
 2.  [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
     Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages
     931–938](https://doi.org/10.1373/clinchem.2005.048611)
+
 3.  [Proteina C reactiva ultrasensible como marcador de estado
     proinflamatorio en pacientes con síndrome metabólico |
     http://dspace.utalca.cl/handle/1950/4714](http://dspace.utalca.cl/handle/1950/4714)
+
 4.  [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
     del área de salud de A Coruña |
     https://ruc.udc.es/dspace/handle/2183/16548](https://ruc.udc.es/dspace/handle/2183/16548)
+
 5.  [La falta de sueño puede disminuir el colesterol
     «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
     https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/
+
 6.  [Síndrome
     metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
+
 7.  [síndrome metabólico - Perspectiva general |
     https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
+
 8.  [Síndrome metabólico - Diagnostico |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/
     iagnosis-treatment/drc-20351921](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
+
 9.  [Síndrome metabolico - Descripción General |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
+
 10. [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o
     realidad?. An. Fac. med. \[online\]. 2020, vol.81, n.1 \[citado
     2022-01-20\], pp.92-98. Disponible en:
     &lt;http://www.scielo.org.pe/scielo.php?script=sci\_arttext&pid=S1025-55832020000100092&lng=es&nrm=iso&gt;.
     ISSN 1025-5583.
     http://dx.doi.org/10.15381/anales.v81i1.17787.](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832020000100092&lng=es)
+
 11. [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
     GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de
     riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr.
@@ -1859,17 +1781,20 @@ Bibliografía
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
     ISSN 1699-5198.
     https://dx.doi.org/10.20960/nh.1024.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013)
+
 12. [Síndrome metabólico M. Güemes-Hidalgo\*, M.T. Muñoz-Calvo\*\*
     \*Departamento de Endocrinología. Great Ormond Street Hospital for
     Children. Londres.Reino Unido. \*\*Servicio de Endocrinología.
     Hospital Infantil Universitario Niño Jesús.Profesora Asociada de
     Pediatría. Universidad Autónoma.
     Madrid](https://www.pediatriaintegral.es/publicacion-2015-07/sindrome-metabolico/)
+
 13. [Asociación del síndrome metabólico con bajo peso al nacimiento,
     consumo de dietas hipercalóricas y acantosis nigricans en escolares
     y adolescentes con sobrepeso y obesidad - Endocrinología, Diabetes y
     Nutrición Vol. 64. Núm. 1.Páginas 1-62
     (Enero 2017)](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-articulo-asociacion-del-sindrome-metabolico-con-S2530016416300106)
+
 14. [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en
     población laboral: El corazón de Asepeyo. An. Med. Interna (Madrid)
     \[online\]. 2008, vol.25, n.7 \[citado 2022-01-20\], pp.325-330.
@@ -1877,12 +1802,11 @@ Bibliografía
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-71992008000700003&lng=es&nrm=iso&gt;.
     ISSN
     0212-7199.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-71992008000700003)
+
 15. [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad
     Central del Ecuador Hospital Quito-Ecuador Bernardo Aguirre F.
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
-
-\pagebreak
 
 Anexos
 ======
@@ -1921,64 +1845,27 @@ trata puede ser mortal para la madre y para el bebe.\
 **Macrosomía**: El feto macrosómico es el bebé que nace con más de
 cuatro kilos tras nueve meses de gestación.
 
-\pagebreak
-
 Tablas
 ======
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Evolución histórica de los criterios del síndrome metabólico                                                                                                               
-  ------------------------------------------------------------------------------------ ------------------------------------------ ------------------------------------------ ---------------------------------------------------------------------------------------------------------
-  Denomina                                                                             Autor                                      Año                                        Criterios y factores de riesgo asociado
+  Evolución histórica de los criterios del síndrome metabólico                                                                                                                                                                                                                                                                                     
+  -------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Denomina                                                       Autor                                                                                                                                                                                                                                                                 Año         Criterios y factores de riesgo asociado
+                                                                 Hitzenberger y Richter-Quittner                                                                                                                                                                                                                                       1921        Hipertensión y normalidades metabólicas
+                                                                 Marañón                                                                                                                                                                                                                                                               1922        Hipertensión y diabetes mellitus
+                                                                 Kylin                                                                                                                                                                                                                                                                 1923        Síndrome hipertensión-hiperglucemia-hiperuricemia
+                                                                 Vague                                                                                                                                                                                                                                                                 1947        Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
+  “Trisíndrome metabólico”                                       Camus                                                                                                                                                                                                                                                                 1966        Gota, diabetes e hiperlipidemia
+  “Síndrome plurimetabólico”                                     Avogaro y Crepaldi                                                                                                                                                                                                                                                    1967        Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
+  “Síndrome de opulencia                                         Mehnert y Kuhlmann                                                                                                                                                                                                                                                    1968        Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países desarrollado
+  “Síndrome Metabólico”                                          Hanefeld y Leonhardt                                                                                                                                                                                                                                                  1981        Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis
+  “Síndrome X”                                                   Gerald Reaven                                                                                                                                                                                                                                                         1988        Factores de riesgo cardiovascular y diabetes: hipertensión arterial esencial, resistencia a insulina, hiperglucemia, dislipemia y grasa abdominal
+  “Cuarteto de la muerte”                                        Kaplan                                                                                                                                                                                                                                                                1989        Adiposidad central, intolerancia a la glucosa, hipertrigliceridemia e hipertensión; importancia en el desarrollo de la enfermedad cardiovascular
+                                                                 Organización Mundial de la Salud (OMS)                                                                                                                                                                                                                                1998-1999   Utiliza la ratio cintura/cadera, que debe ser &gt;= 0,9 en hombres y &gt;= 0,85 en mujeres o un IMC &gt;= 30 kg/m
+                                                                 National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)                                                                                                                        2001        Alto riesgo cardiovascular, con colesterol de las lipoproteínas de baja densidad (LDL) (c-LDL)alto, con obesidad central:&gt;=102cm hombre, &gt;=88cm mujer, con triglicéridos altos, con colesterol HDL (c-HDL) bajo, hipertensión arterial y glucemias &gt;= 110 mg/dL
+                                                                 Grupo europeo para el estudio de resistencia a la insulina (EGIR)                                                                                                                                                                                                     2002        Relación entre la sensibilidad a la insulina y las enfermedades cardiovasculares; Circunferencia cintura varones &gt;94 cm, mujeres &gt;80 cm
+                                                                 National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)                                                                                                                        2005        Disminuyó las cifras de tensión mínimas,que en 2001 eran &gt;= 135/85 mmHg, a 130/85 mmHg o cifras normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser &gt;= 100 mg/dL
+  “Síndrome metabólico”                                          International Diabetes Federation (IDF)                                                                                                                                                                                                                               2005        Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia, hipertrigliceridemia e hipertensión
+                                                                 International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International Association for the Study of Obesity   2009        Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
 
-                                                                                       Hitzenberger y Richter-Quittner            1921                                       Hipertensión y normalidades metabólicas
 
-                                                                                       Marañón                                    1922                                       Hipertensión y diabetes mellitus
-
-                                                                                       Kylin                                      1923                                       Síndrome hipertensión-hiperglucemia-hiperuricemia
-
-                                                                                       Vague                                      1947                                       Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis
-
-  “Trisíndrome metabólico”                                                             Camus                                      1966                                       Gota, diabetes e hiperlipidemia
-
-  “Síndrome plurimetabólico”                                                           Avogaro y Crepaldi                         1967                                       Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria
-
-  “Síndrome de opulencia                                                               Mehnert y Kuhlmann                         1968                                       Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países
-                                                                                                                                                                             desarrollado
-
-  “Síndrome Metabólico”                                                                Hanefeld y Leonhardt                       1981                                       Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una
-                                                                                                                                                                             base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis
-
-  “Síndrome X”                                                                         Gerald Reaven                              1988                                       Factores de riesgo cardiovascular y diabetes: hipertensión arterial esencial, resistencia a insulina,
-                                                                                                                                                                             hiperglucemia, dislipemia y grasa abdominal
-
-  “Cuarteto de la muerte”                                                              Kaplan                                     1989                                       Adiposidad central, intolerancia a la glucosa, hipertrigliceridemia e hipertensión; importancia en el
-                                                                                                                                                                             desarrollo de la enfermedad cardiovascular
-
-                                                                                       Organización Mundial de la Salud (OMS)     1998-1999                                  Utiliza la ratio cintura/cadera, que debe ser &gt;= 0,9 en hombres y &gt;= 0,85 en mujeres o un IMC &gt;=
-                                                                                                                                                                             30 kg/m
-
-                                                                                       National Cholesterol Education Program-    2001                                       Alto riesgo cardiovascular, con colesterol de las lipoproteínas de baja densidad (LDL) (c-LDL)alto, con
-                                                                                       Expert Panel on Detection, Evaluation, and                                            obesidad central:&gt;=102cm hombre, &gt;=88cm mujer, con triglicéridos altos, con colesterol HDL (c-HDL)
-                                                                                       Treatment of High Blood Cholesterol in                                                bajo, hipertensión arterial y glucemias &gt;= 110 mg/dL
-                                                                                       Adult: (NCEP ATPIII)                                                                  
-
-                                                                                       Grupo europeo para el estudio de           2002                                       Relación entre la sensibilidad a la insulina y las enfermedades cardiovasculares; Circunferencia cintura
-                                                                                       resistencia a la insulina (EGIR)                                                      varones &gt;94 cm, mujeres &gt;80 cm
-
-                                                                                       National Cholesterol Education Program-    2005                                       Disminuyó las cifras de tensión mínimas,que en 2001 eran &gt;= 135/85 mmHg, a 130/85 mmHg o cifras
-                                                                                       Expert Panel on Detection, Evaluation, and                                            normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser &gt;= 100 mg/dL
-                                                                                       Treatment of High Blood Cholesterol in                                                
-                                                                                       Adult: (NCEP ATPIII)                                                                  
-
-  “Síndrome metabólico”                                                                International Diabetes Federation (IDF)    2005                                       Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia,
-                                                                                                                                                                             hipertrigliceridemia e hipertensión
-
-                                                                                       International Diabetes Federation Task     2009                                       Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
-                                                                                       Force on Epidemiology and Prevention                                                  
-                                                                                       National Heart,Lung, and Blood Institute                                              
-                                                                                       American Heart Association World Heart                                                
-                                                                                       Federation International Atherosclerosis                                              
-                                                                                       Society and International Association for                                             
-                                                                                       the Study of Obesity                                                                  
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
