@@ -94,8 +94,8 @@ individuos con una mayor capacidad para acumular grasas, ya que así
 aumentaban su capacidad de supervivencia en épocas de escasez.
 
 Se puede decir entonces que la obesidad es tan antigua como la
-humanidad, y se que se consideraba como una garantía de supervivencia
-ante las enfermedades y la incertidumbre por la cantidad de alimento
+humanidad, y que se consideraba como una garantía de supervivencia ante
+las enfermedades y la incertidumbre por la cantidad de alimento
 disponible. Por ello era considerada como buena, deseable e incluso como
 símbolo de estatus y belleza.
 
@@ -150,8 +150,8 @@ También definir tratamientos y hábitos de vida que ayudarían a tratarlo
 y prevenirlo.
 
 Finalmente se busca determinar el conocimiento que tiene la población
-acerca del SM, y de como los hábitos de vida y de alimentación afectan a
-la aparición de la alteraciones de salud que lo componen.
+acerca del SM, y de como los hábitos de vida y de alimentación afectan
+la aparición de las alteraciones de salud que lo componen.
 
 \pagebreak
 
@@ -162,7 +162,8 @@ la aparición de la alteraciones de salud que lo componen.
 ----------
 
 Es un grupo de factores de riesgo para desarrollo de enfermedad
-cardiovascular y diabetes mellitus II. Como tal no es una enfermedad.
+cardiovascular y diabetes mellitus II. El SM como tal no es una
+enfermedad.
 
 #### OMS
 
@@ -226,7 +227,7 @@ definir la lista de factores que lo componen.
 En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina
 (EGIR) debido a que el síndrome incluye características no metabólicas,
 consideraron que era más apropiado llamarlo “síndrome de resistencia a
-la insulina”. Además sugiere una definición para individuos no
+la insulina”. Además, sugiere una definición para individuos no
 diabéticos, en los que el síndrome se distinga por resistencia a la
 insulina o hiperinsulinemia en ayuno y dos de los siguientes parámetros:
 
@@ -286,7 +287,7 @@ ocasionar sismos graves para identificar individuos.
   **Presión arterial**               `>`=130/80 mm Hg
   **Grucosa en ayunas**              `>`=110 mg/dL
 
-*El síndrome metabólico está presente cuando se cumblen tres o más de
+*El síndrome metabólico está presente cuando se cumplen tres o más de
 los cinco criterios.*
 
  
@@ -447,7 +448,7 @@ para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y
 también sobre la importancia que tiene cada uno de los factores que lo
 conforman.
 
-Una dificultad añadida es que se ha visto que un mismo varemos no es
+Una dificultad añadida es que se ha visto que un mismo baremo no es
 válido para toda la población mundial, habiéndose encontrado que, para
 las distintas etnias, deben considerarse valores de corte diferentes a
 la hora de realizar un diagnóstico.
@@ -512,8 +513,8 @@ vez como instrumento de prevención y tratamiento del SM.
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que es indicador de un elevado riesgo cardiovascular y diabetes.
 
-Realizando un diagnóstico precoz podría prevenirse y retrasarse estas
-patologías.
+Realizando un diagnóstico precoz podría prevenirse y retrasarse la
+aparición de estas patologías.
 
 Se conoce que las personas con SM tienen el doble de riesgo de padecer
 enfermedad cardiovascular y unas cinco veces mayor de sufrir diabetes.
@@ -533,11 +534,13 @@ estos factores:
     las causas de mortalidad en todo el rango de IMC ( indice masa
     corporal). Es un factor de riesgo mayor para enfermedades del
     corazón que acumular demasiada grasa en otras partes del cuerpo.
--   **Alto de triglicéridos**: un tipo de grasa que se encuentra en la
-    sangre.
+-   **Nivel alto de triglicéridos**: un tipo de grasa que se encuentra
+    en la sangre.
 -   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
     como colesterol "bueno" porque ayuda a eliminar el colesterol de las
-    arterias. **Nivel alto decolesterol HDL** o del llamado “malo”.
+    arterias.
+-   **Nivel alto decolesterol HDL** o del llamado “malo” que es el que
+    se acumula en los vasos sanguíneos.
 -   **Presión arterial alta**: Si la presión arterial se mantiene alta
     en el tiempo, puede dañar su corazón y provocar otros problemas de
     salud.
@@ -548,13 +551,13 @@ Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
 diabetes y accidente cerebrovascular.
 
 La mayoría de los trastornos asociados con el síndrome metabólico no
-tiene signos ni síntomas evidentes, sinembargo un elevado contorno de
+tiene signos ni síntomas evidentes, sin embargo, un elevado contorno de
 cintura nos daría un indicio de que puede haber algún factor más
 asociado y sería un motivo para buscar otros factores de riesgo que
 pudiese haber y que no se aprecian a simple vista.
 
 Existen además otros factores a tener en cuenta a la hora de detectar
-indicadores de que un pacientes puede desarrollar SM:
+indicadores de que un paciente puede desarrollar SM:
 
 -   Un estilo de vida inactivo, mala alimentación, tabaco y alcohol.
 -   Edad: Su riesgo aumenta a medida que envejece. Aumento del nivel
@@ -563,7 +566,7 @@ indicadores de que un pacientes puede desarrollar SM:
 
 \pagebreak
 
-### Factores de riesgo como criterios de diagnóstico
+### Factores de riesgo como criterios de diagnóstico.
 
 #### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
 
@@ -571,32 +574,56 @@ La masa de grasa es el componente más variable en la composición
 corporal, tanto si se comparan varios individuos como si se consideran
 los cambios de una persona a lo largo de la vida.
 
-La obesidad se define como la cumulación de tejido adiposo (TA) que
+La obesidad se define como la acumulación de tejido adiposo (TA) que
 puede afectar negativamente a la salud. Sus indicadores son un IMC mayor
 o igual a 30 y el incremento del diámetro de la circunferencia de
 cintura.
 
-La obesidad abdominal o visceral evaluada por la circunferencia de
-cintura o por la relación cintura/cadera está relacionada con un aumento
-de riesgo de todas las causas de mortalidad en todo el rango de IMC.
+Existe una clara relación entre la obesidad y el riesgo de sufrir
+múltiples patologías entre las que destacan las ECV. Desde 1980, la
+obesidad se ha más que duplicado en todo el mundo. Según una nota de la
+OMS publicada en 2016, en el año 2014 más de 1900 millones de personas
+mayores de 18 tenían exceso de peso, de los cuales, aproximadamente 600
+millones eran obesos. Esto supone que alrededor del 39% de la población
+adulta mundial (38% de hombres y 40% de las mujeres) padecía sobrepeso y
+un 13% (11% de los hombres y 15% de las mujeres) obesidad.
+
+Está considerada como una pandemia a nivel mundial.
 
 En su clasificación se han empleado múltiples variantes, pero la más
 utilizada es aquella que se sustenta en la distribución corporal del
 exceso de grasa. Se denomina fenotipo androide, cuando el sobrepeso
-predomina en el segmento superior y fenotipo ginoide, si la acumulación
-del tejido adiposo es mayor en el segmento inferior.
+predomina en el segmento superior (mayoritariamente en hombres) y
+fenotipo ginoide (mayoritariamente en mujeres), si la acumulación del
+tejido adiposo es mayor en el segmento inferior.
 
 Hay que distinguir además dos tipos de tejido adiposo en el abdomen
-según su localización, el subcutáneo y el interno. Este último, asu vez,
-se divide en visceral (depósito de grasa en órganos como hígado y
+según su localización, el subcutáneo y el interno. Este último, a su
+vez, se divide en visceral (depósito de grasa en órganos como hígado y
 páncreas) y muscular.
+
+*Distribución tejido graso:*
+
+-   Fenotipo ginoide: segmento inferior.
+
+-   Fenotipo androide: segmento superior:
+    -   Grasa subcutánea
+    -   Grasa interna + Visceral +Muscular
+
+Los riesgos asociados al exceso de grasa se deben, a la localización de
+la grasa más que a la cantidad total, siendo la grasa acumulada en la
+región abdominal la que afecta de forma más negativa a la buena salud.
+
+La obesidad abdominal o visceral evaluada por la circunferencia de
+cintura o por la relación cintura/cadera está relacionada con un aumento
+de riesgo de todas las causas de mortalidad en todo el rango de IMC.
 
 Los riesgos asociados al exceso de grasa se deben, en parte, a la
 localización de la grasa, más que a la cantidad total, siendo la grasa
 acumulada en la región abdominal la que afecta de forma más negativa a
 la buena salud.
 
-La grasa visceral es un factor de riesgo independientemente de
+Además, la grasa visceral es un factor de riesgo independientemente de
 resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e
 hipertensión, todos criterios el SM
 
@@ -615,9 +642,10 @@ hombres y mujeres:
  
 
 Estas medidas de contorno de cintura tienen mayor correlación con los
-factores de riesgo metabólicos que el IMC (Índice de masa corporal). El
-IMC resulta menos fiable porque puede ser alto en individuos que no sean
-obesos, como podría ser el caso de deportistas o personas con unas
+factores de riesgo metabólicos que el IMC (Índice de masa corporal).
+
+El IMC resulta menos fiable porque puede ser alto en individuos que no
+sean obesos, como podría ser el caso de deportistas o personas con unas
 determinadas características morfológicas. Sería el caso de personas de
 hueso ancho, que tienen un IMC más elevado que el que le correspondería
 por estatura y peso, pero carecen de niveles de grasa de riesgo a nivel
@@ -728,7 +756,7 @@ que conforman el Síndrome Metabólico.
 
 La OMS lo define como el grupo de trastornos metabólicos de diferentes
 causas y cuya característica fundamental es la hiperglucemia (niveles de
-glucosa sanguinea elevados). Es una hiperglucemia que aparece de forma
+glucosa sanguínea elevados). Es una hiperglucemia que aparece de forma
 crónica. Se mantiene la glucosa en sangre durante tiempos elevados y hay
 alteración en el metabolismo de los HdC, las grasas y las proteínas y
 todo ello debido o bien a la síntesis de la insulina o a su acción.
@@ -783,7 +811,7 @@ Factores modificables:
 -   **Déficit de micronutrientes**: como selenio, hierro vitamina D.
 
 Son factores de riesgo que actúan sobre el sistema inmunológico, la
-vascularización, el tejido adiposo, músculo, hígado, intestino o la
+vascularización, el tejido adiposo, músculo, hígado, intestino o el
 microbiota.
 
 Sobre todo, hay una relación estrecha siendo muy difícil separar los
@@ -809,8 +837,9 @@ también a niños cosa que era impensable hace unos años que cuando se
 hablaba de diabetes infantil se asociaba directamente a la diabetes
 autoinmune de tipo I.
 
-Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
-de personas en todo el mundo con riesgo de desarrollar diabetes.
+u incidencia y prevalencia va en aumento, se calcula otros 350 millones
+de personas en todo el mundo con riesgo de desarrollar diabetes y es
+especialmente preocupante su crecimiento en la infancia.
 
 \pagebreak
 
@@ -850,11 +879,12 @@ sustancias.
 Una parte importante del colesterol presente en nuestro organismo es
 producido por el hígado; el resto es aportado a través de la dieta y del
 colesterol presente en la bilis, parte del cual se vuelve a absorber en
-el intestino. El problema viene dado cuando se presenta en exceso. El
-aumento del colesterol en la sangre y su depósito en las arterias puede
-ser peligroso y producir ateroesclerosis (estrechamiento o
-endurecimiento de las arterias por depósito de colesterol en sus
-paredes).
+el intestino.
+
+El problema viene dado cuando se presenta en exceso. El aumento del
+colesterol en la sangre y su depósito en las arterias puede ser
+peligroso y producir ateroesclerosis (estrechamiento o endurecimiento de
+las arterias por depósito de colesterol en sus paredes).
 
 El colesterol es insoluble en los medios acuosos, por lo que se
 transporta en las lipoproteínas, constituidas por una parte lipídica o
@@ -973,7 +1003,7 @@ romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que
 puede causar un coágulo o trombo sobre la placa que impide el flujo de
 la sangre en la arteria causando un infarto de miocardio.
 
-**Trigliceridos**
+**Triglicéridos**
 
 Son grasas que se encuentran en determinados alimentos y también se
 producen en el hígado.
@@ -983,12 +1013,17 @@ se producen en el intestino y en el hígado y se transportan a los
 tejidos donde se utilizan como una reserva de energía para cubrir las
 necesidades metabólicas de los músculos y el cerebro.
 
-Las causas más frecuentes de aumento de los triglicéridos son: -
-Sobrepeso / obesidad - Dieta muy alta en hidratos de carbono (60% o más
-de las calorías) especialmente si son refinados - Exceso de alcohol -
-Tabaquismo - Inactividad física - Dieta muy alta en hidratos de carbono
-(60% ó más de las calorías) especialmente si son refinados - Factores
-genéticos
+Las causas más frecuentes de aumento de los triglicéridos son:
+
+-   Sobrepeso / obesidad\
+-   Dieta muy alta en hidratos de carbono (60% o más de las calorías)
+    especialmente si son refinados\
+-   Exceso de alcohol\
+-   Tabaquismo\
+-   Inactividad física\
+-   Dieta muy alta en hidratos de carbono (60% ó más de las calorías)
+    especialmente si son refinados
+-   Factores genéticos
 
 También existen causas genéticas de aumento de los triglicéridos, en
 ocasiones asociadas con aumento de colesterol:
@@ -1052,7 +1087,7 @@ sino que hay varios factores de riesgo que sirven de indicadores que
 deben llevar a hacer una revisión del estado de la tensión arterial de
 forma preventiva.
 
-La hipertensión también incrementa el riesgo de mobimortalidad y afecta
+La hipertensión también incrementa el riesgo de morbimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
@@ -1065,7 +1100,8 @@ Existen una serie de factores de riesgo a tener en cuenta. La edad, ya
 que a medida que aumenta las posibilidades de tener hipertensión. Con
 respecto al género, se conoce que hasta los 50 años los hombres tienen
 más probabilidades de tener hipertensión. Del mismo modo los individuos
-de etnia negra tienen más probabilidades de tener HAS.
+de etnia negra tienen más probabilidades de tener HAS (hipertensión
+arterial sistémica).
 
 Hábitos de vida sedentarios aumentan tanto el riesgo de hipertensión
 como el de desarrollo de enfermedades cardiovasculares.
@@ -1144,7 +1180,7 @@ cardiovascular.
 Todos estos elementos patológicos van a derivar en la aparición de
 ateroesclerosis, es decir, los vasos sanguíneos poco a poco van a ir
 taponándose y cerrándose, lo que va a propiciar la aparición mayores
-alteraciones ateroescleróticas,que pueden hacer que aparezca la
+alteraciones ateroescleróticas, que pueden hacer que aparezca la
 enfermedad cardiovascular que es la primera causante de muerte por
 encima del cáncer.
 
@@ -1158,18 +1194,18 @@ de padecer enfermedad grave.
 
 Se ha identificado la relación en entre el SM y el:
 
--   el cáncer colorrectal
--   cáncer de mama
--   cáncer de próstata
+-   Cáncer colorrectal
+-   Cáncer de mama
+-   Cáncer de próstata
 
 Además, confiere un riesgo importante para el desarrollo de otras
 enfermedades como:
 
--   la esteatosis hepática,
--   el síndrome de apnea del sueño,
--   la enfermedad renal crónica,
--   el síndrome del ovario poliquístico
--   la infertilidad masculina
+-   Esteatosis hepática,
+-   Síndrome de apnea del sueño,
+-   Enfermedad renal crónica,
+-   Síndrome del ovario poliquístico
+-   Infertilidad masculina
 
 \pagebreak
 
@@ -1370,29 +1406,18 @@ correlacionado con:
     normal).
 
 Es difícil demostrar que se produzcan lesiones a largo plazo en madres
-gestantes debido al SM, al contrario de lo que ocurre con los efectos de
-una predisposición a las enfermedades cardiovasculares y la diabetes
-tipo 2. Sin embargo, tanto la DG (Diabetes Gestacional) como los
-trastornos hipertensivos del embarazo (THE) pueden verse como
+gestantes debido al SM, sin embargo, tanto la DG (Diabetes Gestacional)
+como los trastornos hipertensivos del embarazo (THE) pueden verse como
 expresiones del síndrome durante la gestación.
 
-Las complicaciones neonatales en las gestantes con SM son mayores de las
-que no lo presentan.
+A destacar la importancia de promover la lactancia materna, esta función
+fisiológica posterior al embarazo disminuye el riesgo de SM. La
+lactancia prolongada se relaciona con menor riesgo de DM2. Se determina
+que en mujeres que tuvieron hijos hace 15 años, por cada año de
+lactancia el riesgo de SM disminuyó en 14%.
 
-Es importante identificar, de manera temprana, gestaciones en riesgo de
-exceso de peso al nacer y el manejo de los factores que contribuyen al
-mismo, con el fin de prevenir el posterior desarrollo de obesidad y
-riesgo cardiovascular en estos niños.
-
-A destacar la importancia de promover la lactancia materna como método
-de prevención de obesidad en el niño. Esta función fisiológica posterior
-al embarazo disminuye el riesgo de SM. La lactancia prolongada se
-relaciona con menor riesgo de DM2. Se determina que en mujeres que
-tuvieron hijos hace 15 años, por cada año de lactancia el riesgo de SM
-disminuyó en 14%.
-
-El correcto tratamiento debe de estar encaminado a la prevención de los
-factores de riesgo del SM.
+El correcto tratamiento del SM en el embarazo debe de estar encaminado a
+la prevención de los factores de riesgo del SM.
 
 \pagebreak
 
@@ -1496,7 +1521,7 @@ fisiológicos, morfológicos y funcionales entre los que se encuentran:
 -   Un mayor estrés oxidativo.
 -   Variaciones neurohormonales que pueden tener un efecto opuesto a la
     insulina.
--   Reducción de la masa muscular, esto comienza a partir de los 50
+-   Reducción de la masa muscular. Esto comienza a partir de los 50
     años, en parte por el proceso normal de envejecimiento y en parte
     porque la actividad física suele reducirse y es un factor que
     favorece la perdida de musculo esquelético que está relacionado con
@@ -1551,10 +1576,9 @@ conjunto de los factores que lo componen, sino que deben tratarse cada
 una de las enfermedades por separado.
 
 La prevención es uno de los elementos clave para el control de esta
-enfermedad, ya que se ha estimado que unos correctos hábitos
-alimentarios y de estilo de vida son suficientes para prevenir su
-aparición en 90 de cada 100 casos, puesto que la investigación muestra
-que sólo un 10% se debe a herencia genética.
+enfermedad. Se ha estimado que unos correctos hábitos alimentarios y de
+estilo de vida son suficientes para prevenir su aparición en 90 de cada
+100 casos, ya que sólo un 10% se debe a herencia genética.
 
 Dieta y ejercicio es lo esencial, sólo con ello podemos mejorar mucho e
 incluso revertir el SM en muchas situaciones.
@@ -1566,22 +1590,6 @@ cardiovascular y aumentar la esperanza de vida.
 La duración de la exposición a los factores de riesgo es clave, ya que
 los daños van sumándose a través de los años. Es muy importante
 identificarlo lo antes posible y más importante prevenirlo.
-
-\*\*\*\*\*Ampliar \*\*\*\*
-
--   información a los padres
--   controlar calidad alimentaria de los niños
--   campañas de información en colegios
--   leyes que no permita la venta de productos procesados en los
-    colegios
--   imponer normas que hagan que los productos sean mas sanos, impedir
-    publicidad engañosa
--   impedir etiquetado engañoso
--   promover predominio de alimentos frescos sobgre los procesados.
--   anotar que ejercicio cardiorespitarotio y de fuerza los más
-    acertados
--   promocionar ejercicio en los niños
--   
 
 ### 3.3.1 Relación con la alimentación
 
@@ -1602,11 +1610,19 @@ Como regla general, los hábitos alimentarios deben basarse en:
 -   **Una alimentación con un bajo contenido en grasa saturada, grasa
     trans y colesterol.**
 -   **El aceite de oliva el principal aporte de grasa en la dieta.**
--   **Disminuir el consumo de azúcares sencillos.**
--   **Aumentar el consumo de pescado, especialmente el de pescado
-    azul.**
--   **Incrementar la ingesta de frutas, verduras y cereales
+-   **Aumentar el consumo de pescado, especialmente el de pescado azul
+    de pequeño tamaño.**
+-   **Priorizar el consumo de carnes blancas sobre las rojas y el
+    pescado sobre la carne.**
+-   **Incrementar la ingesta de frutas, verduras, legumbres y cereales
     integrales.**
+-   **Incorporar a la dieta frutos secos y semillas.**
+-   **Disminuir el consumo de azúcares sencillos cuanto más mejor.**
+-   **Eliminar los refrescos o bebidas azucaradas y en general los
+    alimentos superfluos que no tienen valor nutricional.**
+
+**-Eliminar en lo posible alimentos de elaboración industrial y ultra
+procesados.**
 
 ### 3.3.2 Hábitos de vida
 
@@ -1617,19 +1633,24 @@ Favorecen el desarrollo del SM otros factores:
     alimentos ricos en grasa saturada.**
 -   **Disminución en el consumo de fibra.**
 -   **El tabaquismo.**
--   **Consumo de alcohol.**
+-   **Consumo de alcohol, el cual debería de ser eliminado de la
+    dieta.**
 
-La actividad física es parte fundamental tanto del tratamiento de los
-pacientes con la enfermedad, como de los que están en riesgo de
-desarrollarla y debe de ser incluida en la vida cotidiana de la
-población.
+La actividad física es tan importante como una buena alimentación, es
+parte fundamental tanto del tratamiento de los pacientes con la
+enfermedad, como de los que están en riesgo de desarrollarla y debe de
+ser incluida en la vida cotidiana de la población.
 
--   **Aparcando actividades sedentarias como la televisión o los
-    videojuegos.**
--   **Actividades de ocio al aire libre orientadas a un mayor consumo
-    calórico como pasear, andar en bici, nadar o hacer excursionismo.**
+Alimentación y actividad física deben de ir de la mano.
+
+-   **Es necesario aparcar actividades sedentarias como la televisión o
+    los videojuegos.**
+-   **Realizar actividades de ocio al aire libre orientadas a un mayor
+    consumo calórico como pasear, andar en bici, nadar o hacer
+    excursionismo.**
 -   **Como regla general, se aconseja que sea de intensidad moderada, de
-    3 a 5 días por semana y con una duración de al menos 30 minutos.**
+    3 a 5 días por semana y con una duración aconsejable de al menos 30/
+    60 minutos.**
 
 \pagebreak
 
@@ -1681,15 +1702,18 @@ respecto a otros, ni la importancia de tener tres, cuatro o cinco.
 
 Por poner unos ejemplos:
 
--   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
-    parámetros muy alterados que otro que se encuentra apenas por encima
-    de los criterios de corte?\
--   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
-    antidiabéticos orales?\
--   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
-    criterios diagnósticos de SM el riesgo CV será el mismo?\
--   Dos pacientes diferentes con el mismo número de factores de riesgo,
-    pero diferentes, ¿estarán expuestos al mismo riesgo?
+¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros
+muy alterados que otro que se encuentra apenas por encima de los
+criterios de corte?
+
+¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
+antidiabéticos orales?
+
+¿Ante dos pacientes diferentes, pero que reúnen igual número de
+criterios diagnósticos de SM el riesgo CV será el mismo?
+
+Dos pacientes diferentes con el mismo número de factores de riesgo, pero
+diferentes, ¿estarán expuestos al mismo riesgo?
 
 En resumen, pueden darse múltiples circunstancias lo que hace difícil la
 unificación y evaluación del grado de riesgo.
@@ -1895,7 +1919,7 @@ IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
 OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
 Índice de masa corporal DM2: Diabetes Mellitus tipo 2 PAS: Presión
-arterial sistólica
+arterial sistólica HAS: Hipertensión arterial sistémica.
 
 EGIR: European Group for the Study of Insulin Resistance \#\# Glosario
 
