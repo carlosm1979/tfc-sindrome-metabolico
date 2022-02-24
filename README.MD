@@ -39,11 +39,12 @@ Indice general
         -   [3.3.1 Relación con la
             alimentación](#relación-con-la-alimentación)
         -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
--   [4. Material y métodos](#material-y-métodos)
--   [5. Resultados](#resultados)
--   [6. Discusión](#difusión)
--   [7. Conclusión](#discusión)
--   [8. Bibliografía](#bibliografía)
+-   [4. Projecto creación de empresa]()
+-   [5. Material y métodos](#material-y-métodos)
+-   [6. Resultados](#resultados)
+-   [7. Discusión](#difusión)
+-   [8. Conclusión](#discusión)
+-   [9. Bibliografía](#bibliografía)
 
 \pagebreak
 
@@ -1654,14 +1655,70 @@ Alimentación y actividad física deben de ir de la mano.
 
 \pagebreak
 
-4. Material y métodos
+4. Proyecto creación impresa
+============================
+
+\pagebreak
+
+5. Material y métodos
 =====================
 
 Precisar los material y métodos que se van a necesitar para desarrollar
 el trabajo. El objetivo será proporcionar al lector todos los detalles
 para que se pueda repetir dicho estudio.
 
-5. Resultados
+\pagebreak
+
+6. Conclusión
+=============
+
+El síndrome metabólico es un estado fisiopatológico complejo que se
+origina principalmente por un desequilibrio en la ingesta de calorías y
+el gasto energético, pero también se ve afectado por la composición
+genética/epigenética del individuo, el predominio del estilo de vida
+sedentario sobre la actividad física y otros factores como la microbiota
+intestinal y la calidad y composición de los alimentos. No se puede
+prescribir un solo remedio para su erradicación o incluso su reducción.
+Al igual que en el control de otras epidemias, será muy importante la
+educación de la población sobre el peligro para la salud del síndrome
+metabólico.
+
+En los países de ingresos medios el sobrepeso se ubica en el quinto
+lugar entre las diez mayores causas de enfermedad (al igual que en
+países desarrollados) y justo por debajo de la desnutrición, siendo la
+población de menores ingresos la más perjudicada. Por lo tanto, en los
+países pobres el riesgo de desarrollar obesidad es menor que el de
+padecer desnutrición. Es decir, que una persona pobre en un país pobre
+sufre escasez de alimentos sumado a un incremento en el gasto energético
+relacionado con el trabajo manual; en cambio, una persona pobre en un
+país de ingresos medios se expone a una abundancia de alimentos de mala
+calidad nutricional que además son económicos y fácilmente accesibles en
+mercados callejeros de grandes urbes, con el gasto energético menor en
+sus tareas laborales. En contraste, los individuos de mayores ingresos
+económicos que habitan en países de ingresos medios tienen mejor
+educación, cobertura de salud, mayor acceso a alimentos de mejor calidad
+y más tiempo libre para dedicarle a la actividad física. Por ello son en
+promedio más delgados y metabólicamente más sanos.
+
+Los factores de riesgo (a excepción del tabaquismo) era más elevado en
+aquellas personas con menores ingresos económicos y en los que tenían un
+nivel educativo más bajo.
+
+Durante las últimas décadas, la sociedad ha experimentado cambios
+drásticos que han afectado al comportamiento y estilo de vida del ser
+humano. La mecanización en los puestos de trabajo, la globalización de
+la tecnología, la falta de tiempo y las mejoras en el transporte, son
+algunos de los aspectos que han llevado a un aumento en el consumo de
+comida rápida con un elevado aporte calórico y al sedentarismo. Estas
+circunstancias y coyunturas, han contribuido enormemente a que la
+obesidad sea considerada una pandemia. Este hecho no solo es un problema
+de los países industrializados, sino que también la obesidad va
+aumentando notablemente en los países en transición, ya que estos países
+están adquiriendo estilos de vida cada vez más parecidos a los
+occidentales, disminuyendo la actividad física y teniendo un consumo
+elevado de alimentos con alta densidad energética1.
+
+6. Resultados
 =============
 
 En este apartado deberéis incluir los resultados de las encuestas y los
@@ -1669,7 +1726,7 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
 \pagebreak
 
-6. Discusión
+7. Discusión
 ============
 
 La definición de SM ha tenido muchas modificaciones y no se ha llegado a
@@ -1725,57 +1782,6 @@ los individuos.
 
 Así se tendrá una mejor herramienta clínica para la detección y
 prevención de riesgo de estas enfermedades.
-
-\pagebreak
-
-7. Conclusión
-=============
-
-El síndrome metabólico es un estado fisiopatológico complejo que se
-origina principalmente por un desequilibrio en la ingesta de calorías y
-el gasto energético, pero también se ve afectado por la composición
-genética/epigenética del individuo, el predominio del estilo de vida
-sedentario sobre la actividad física y otros factores como la microbiota
-intestinal y la calidad y composición de los alimentos. No se puede
-prescribir un solo remedio para su erradicación o incluso su reducción.
-Al igual que en el control de otras epidemias, será muy importante la
-educación de la población sobre el peligro para la salud del síndrome
-metabólico.
-
-En los países de ingresos medios el sobrepeso se ubica en el quinto
-lugar entre las diez mayores causas de enfermedad (al igual que en
-países desarrollados) y justo por debajo de la desnutrición, siendo la
-población de menores ingresos la más perjudicada. Por lo tanto, en los
-países pobres el riesgo de desarrollar obesidad es menor que el de
-padecer desnutrición. Es decir, que una persona pobre en un país pobre
-sufre escasez de alimentos sumado a un incremento en el gasto energético
-relacionado con el trabajo manual; en cambio, una persona pobre en un
-país de ingresos medios se expone a una abundancia de alimentos de mala
-calidad nutricional que además son económicos y fácilmente accesibles en
-mercados callejeros de grandes urbes, con el gasto energético menor en
-sus tareas laborales. En contraste, los individuos de mayores ingresos
-económicos que habitan en países de ingresos medios tienen mejor
-educación, cobertura de salud, mayor acceso a alimentos de mejor calidad
-y más tiempo libre para dedicarle a la actividad física. Por ello son en
-promedio más delgados y metabólicamente más sanos.
-
-Los factores de riesgo (a excepción del tabaquismo) era más elevado en
-aquellas personas con menores ingresos económicos y en los que tenían un
-nivel educativo más bajo.
-
-Durante las últimas décadas, la sociedad ha experimentado cambios
-drásticos que han afectado al comportamiento y estilo de vida del ser
-humano. La mecanización en los puestos de trabajo, la globalización de
-la tecnología, la falta de tiempo y las mejoras en el transporte, son
-algunos de los aspectos que han llevado a un aumento en el consumo de
-comida rápida con un elevado aporte calórico y al sedentarismo. Estas
-circunstancias y coyunturas, han contribuido enormemente a que la
-obesidad sea considerada una pandemia. Este hecho no solo es un problema
-de los países industrializados, sino que también la obesidad va
-aumentando notablemente en los países en transición, ya que estos países
-están adquiriendo estilos de vida cada vez más parecidos a los
-occidentales, disminuyendo la actividad física y teniendo un consumo
-elevado de alimentos con alta densidad energética1.
 
 \pagebreak
 

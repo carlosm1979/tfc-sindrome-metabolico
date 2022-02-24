@@ -1,6 +1,6 @@
 \pagebreak
 
-# 7. Conclusión
+# 6. Conclusión
 
 El síndrome metabólico es un estado fisiopatológico complejo que se origina principalmente por un desequilibrio en la ingesta de calorías y el gasto energético, pero también se ve afectado por la composición genética/epigenética del individuo, el predominio del estilo de vida sedentario sobre la actividad física y otros factores como la microbiota intestinal y la calidad y composición de los alimentos. No se puede prescribir un solo remedio para su erradicación o incluso su reducción. Al igual que en el control de otras epidemias, será muy importante la educación de la población sobre el peligro para la salud del síndrome metabólico.
 
