@@ -20,45 +20,40 @@ Indice general
 
         -   [3.2.1 Diagnóstico](#diagnóstico)
 
-[3.2.1.1 Obesidad. Perímetro de cintura
-elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
+            -   [3.2.1.1 Obesidad abdominal. Perímetro de cintura
+                elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
 
--   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo
-    II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
+            -   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus
+                tipo
+                II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
 
--   [3.2.1.3 Dislipemias](#dislipemias)\
-        *Colesterol*\
-        *Triglicéridos*
+            -   [3.2.1.3 Dislipemias](#dislipemias)\
+                    *Colesterol*\
+                    *Triglicéridos*
 
--   [3.2.1.4 Hipertensión arterial](#hipertensión-arterial)
+            -   [3.2.1.4 Hipertensión arterial](#hipertensión-arterial)
 
-<!-- -->
+        -   [3.2.2 Desarrollo fisiopatológico del
+            SM](#desarrollo-fisiopatológico-del-sm)
 
--   [3.2.2 Desarrollo fisiopatológico del
-    SM](#desarrollo-fisiopatológico-del-sm)
+        -   [3.2.3 Por grupos de población](#por-grupos-de-población)
 
--   [3.2.3 Por grupos de población](#por-grupos-de-población)
+            -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)\
+                    *SM en el hombre*\
+                    *SM en la mujer*\
+                        *SM en el embarazo*\
+                        *SM en la menopausia*
 
-    -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)\
-            *SM en el hombre*\
-            *SM en la mujer*\
-                *SM en el embarazo*\
-                *SM en la menopausia*
+            -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
 
-    -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
+            -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
 
-    -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
+    -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
 
-<!-- -->
+        -   [3.3.1 Relación con la
+            alimentación](#relación-con-la-alimentación)
 
--   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
-
-    -   [3.3.1 Relación con la
-        alimentación](#relación-con-la-alimentación)
-
-    -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
-
-<!-- -->
+        -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 
 -   [4. Material y métodos](#material-y-métodos)
 
@@ -115,8 +110,8 @@ individuos con una mayor capacidad para acumular grasas, ya que así
 aumentaban su capacidad de supervivencia en épocas de escasez.
 
 Se puede decir entonces que la obesidad es tan antigua como la
-humanidad, y que se consideraba como una garantía de supervivencia ante
-las enfermedades y la incertidumbre por la cantidad de alimento
+humanidad, y se que se consideraba como una garantía de supervivencia
+ante las enfermedades y la incertidumbre por la cantidad de alimento
 disponible. Por ello era considerada como buena, deseable e incluso como
 símbolo de estatus y belleza.
 
@@ -170,7 +165,7 @@ y prevenirlo.
 
 Finalmente se busca determinar el conocimiento que tiene la población
 acerca del SM, y de como los hábitos de vida y de alimentación afectan a
-la aparición de las alteraciones de salud que lo componen.
+la aparición de la alteraciones de salud que lo componen.
 
 3. El Síndrome metabólico
 =========================
@@ -179,8 +174,7 @@ la aparición de las alteraciones de salud que lo componen.
 ----------
 
 Es un grupo de factores de riesgo para desarrollo de enfermedad
-cardiovascular y diabetes mellitus II. El SM como tal no es una
-enfermedad.
+cardiovascular y diabetes mellitus II. Como tal no es una enfermedad.
 
 #### OMS
 
@@ -216,7 +210,7 @@ definir la lista de factores que lo componen.
 En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina
 (EGIR) debido a que el síndrome incluye características no metabólicas,
 consideraron que era más apropiado llamarlo “síndrome de resistencia a
-la insulina”. Además, sugiere una definición para individuos no
+la insulina”. Además sugiere una definición para individuos no
 diabéticos, en los que el síndrome se distinga por resistencia a la
 insulina o hiperinsulinemia en ayuno y dos de los siguientes parámetros:
 
@@ -274,7 +268,7 @@ ocasionar sismos graves para identificar individuos.
   **Presión arterial**               `>`=130/80 mm Hg
   **Grucosa en ayunas**              `>`=110 mg/dL
 
-*El síndrome metabólico está presente cuando se cumplen tres o más de
+*El síndrome metabólico está presente cuando se cumblen tres o más de
 los cinco criterios.*
 
  
@@ -360,21 +354,21 @@ proinflamatorio y estado protrombótico.
 Todas estas diversas definiciones comparten algunos de los criterios
 como son:
 
-**Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
+-   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
 
-**Resistencia a la insulina** (Dificultad para digerir un tipo de azúcar
-denominado «glucosa» (intolerancia a la glucosa). Los pacientes con
-síndrome metabólico generalmente tienen hiperinsulinemia o diabetes tipo
-2.
+-   **Resistencia a la insulina** (Dificultad para digerir un tipo de
+    azúcar denominado «glucosa» (intolerancia a la glucosa). Los
+    pacientes con síndrome metabólico generalmente tienen
+    hiperinsulinemia o diabetes tipo 2.
 
-**Dislipidemia aterogénica** (\* alteración lipídica proteica, asociada
-a un riesgo cardiovascular elevado caracterizada por la asociación de
-colesterol HDL bajo, triglicéridos elevados y alta proporción de
-partículas LDL)
+-   **Dislipidemia aterogénica** (\* alteración lipídica proteica,
+    asociada a un riesgo cardiovascular elevado caracterizada por la
+    asociación de colesterol HDL bajo, triglicéridos elevados y alta
+    proporción de partículas LDL)
 
-**Hipertensión**
+-   **Hipertensión**
 
-Estado **proinflamatorio** y estado **protrombótico**.
+-   Estado **proinflamatorio** y estado **protrombótico**.
 
 Sin embargo, la existencia de tanta variedad de definiciones propuestas
 dificulta poder tener una referencia clara para la práctica clínica y el
@@ -385,7 +379,7 @@ para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y
 también sobre la importancia que tiene cada uno de los factores que lo
 conforman.
 
-Una dificultad añadida es que se ha visto que un mismo varemo no es
+Una dificultad añadida es que se ha visto que un mismo varemos no es
 válido para toda la población mundial, habiéndose encontrado que, para
 las distintas etnias, deben considerarse valores de corte diferentes a
 la hora de realizar un diagnóstico.
@@ -427,8 +421,8 @@ vez como instrumento de prevención y tratamiento del SM.
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que es indicador de un elevado riesgo cardiovascular y diabetes.
 
-Realizando un diagnóstico precoz podría prevenirse y retrasarse la
-aparición de estas patologías.
+Realizando un diagnóstico precoz podría prevenirse y retrasarse estas
+patologías.
 
 Se conoce que las personas con SM tienen el doble de riesgo de padecer
 enfermedad cardiovascular y unas cinco veces mayor de sufrir diabetes.
@@ -442,109 +436,80 @@ siendo habitual que en una persona confluyan varios de ellos a la vez.
 Para confirmar un diagnóstico de SM, es necesario tener tres o más de
 estos factores:
 
-**Obesidad abdominal**: es el signo visible. La obesidad abdominal o
-visceral evaluada por la circunferencia de cintura o por la relación
-cintura/cadera está relacionada con un aumento de riesgo de todas las
-causas de mortalidad en todo el rango de IMC (índice masa corporal). Es
-un factor de riesgo mayor para enfermedades del corazón que acumular
-demasiada grasa en otras partes del cuerpo.
+-   **Obesidad abdominal**: es el signo visible. La obesidad abdominal o
+    visceral evaluada por la circunferencia de cintura o por la relación
+    cintura/cadera está relacionada con un aumento de riesgo de todas
+    las causas de mortalidad en todo el rango de IMC ( indice masa
+    corporal). Es un factor de riesgo mayor para enfermedades del
+    corazón que acumular demasiada grasa en otras partes del cuerpo.
 
-**Nivel alto de triglicéridos**: un tipo de grasa que se encuentra en la
-sangre.
+-   **Alto de triglicéridos**: un tipo de grasa que se encuentra en la
+    sangre.
 
-**Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce como
-colesterol "bueno" porque ayuda a eliminar el colesterol de las
-arterias.
+-   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
+    como colesterol "bueno" porque ayuda a eliminar el colesterol de las
+    arterias. **Nivel alto decolesterol HDL** o del llamado “malo”.
 
-**Nivel alto de colesterol HDL** o del llamado “malo” que es el que se
-acumula en los vasos sanguíneos.
+-   **Presión arterial alta**: Si la presión arterial se mantiene alta
+    en el tiempo, puede dañar su corazón y provocar otros problemas de
+    salud.
 
-**Presión arterial alta**: Si la presión arterial se mantiene alta en el
-tiempo, puede dañar su corazón y provocar otros problemas de salud.
-
-**Nivel alto de azúcar en la sangre en ayunas**: El nivel de azúcar en
-la sangre levemente alto puede ser un signo temprano de diabetes.
+-   **Nivel alto de azúcar en la sangre en ayunas**: El nivel de azúcar
+    en la sangre levemente alto puede ser un signo temprano de diabetes.
 
 Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca,
 diabetes y accidente cerebrovascular.
 
 La mayoría de los trastornos asociados con el síndrome metabólico no
-tiene signos ni síntomas evidentes, sin embargo, un elevado contorno de
+tiene signos ni síntomas evidentes, sinembargo un elevado contorno de
 cintura nos daría un indicio de que puede haber algún factor más
 asociado y sería un motivo para buscar otros factores de riesgo que
 pudiese haber y que no se aprecian a simple vista.
 
 Existen además otros factores a tener en cuenta a la hora de detectar
-indicadores de que un paciente puede desarrollar SM:
+indicadores de que un pacientes puede desarrollar SM:
 
 -   Un estilo de vida inactivo, mala alimentación, tabaco y alcohol.
-
-<!-- -->
 
 -   Edad: Su riesgo aumenta a medida que envejece. Aumento del nivel
     oxidativo.
 
-<!-- -->
-
 -   Genética: Origen étnico y su historia familiar.
 
-### Factores de riesgo como criterios de diagnóstico.
+### Factores de riesgo como criterios de diagnóstico
 
-#### 3.2.1.1 Obesidad. Perímetro de cintura elevado.
+#### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
 
 La masa de grasa es el componente más variable en la composición
 corporal, tanto si se comparan varios individuos como si se consideran
 los cambios de una persona a lo largo de la vida.
 
-La obesidad se define como la acumulación de tejido adiposo (TA) que
+La obesidad se define como la cumulación de tejido adiposo (TA) que
 puede afectar negativamente a la salud. Sus indicadores son un IMC mayor
 o igual a 30 y el incremento del diámetro de la circunferencia de
 cintura.
-
-Existe una clara relación entre la obesidad y el riesgo de sufrir
-múltiples patologías entre las que destacan las ECV. Desde 1980, la
-obesidad se ha más que duplicado en todo el mundo. Según una nota de la
-OMS publicada en 2016, en el año 2014 más de 1900 millones de personas
-mayores de 18 tenían exceso de peso, de los cuales, aproximadamente 600
-millones eran obesos. Esto supone que alrededor del 39% de la población
-adulta mundial (38% de hombres y 40% de las mujeres) padecía sobrepeso y
-un 13% (11% de los hombres y 15% de las mujeres) obesidad.
-
-Está considerada como una pandemia a nivel mundial.
-
-En su clasificación se han empleado múltiples variantes, pero la más
-utilizada es aquella que se sustenta en la distribución corporal del
-exceso de grasa. Se denomina fenotipo androide, cuando el sobrepeso
-predomina en el segmento superior (mayoritariamente en hombres) y
-fenotipo ginoide (mayoritariamente en mujeres), si la acumulación del
-tejido adiposo es mayor en el segmento inferior.
-
-Hay que distinguir además dos tipos de tejido adiposo en el abdomen
-según su localización, el subcutáneo y el interno. Este último, a su
-vez, se divide en visceral (depósito de grasa en órganos como hígado y
-páncreas) y muscular.
-
-*Distribución tejido graso:*
-
--   Fenotipo ginoide: segmento inferior.
-
-<!-- -->
-
--   Fenotipo androide: segmento superior: \* Grasa subcutánea
-
-\* Grasa interna + Visceral
-
-+Muscular
-
-Los riesgos asociados al exceso de grasa se deben, a la localización de
-la grasa más que a la cantidad total, siendo la grasa acumulada en la
-región abdominal la que afecta de forma más negativa a la buena salud.
 
 La obesidad abdominal o visceral evaluada por la circunferencia de
 cintura o por la relación cintura/cadera está relacionada con un aumento
 de riesgo de todas las causas de mortalidad en todo el rango de IMC.
 
-Además, la grasa visceral es un factor de riesgo independientemente de
+En su clasificación se han empleado múltiples variantes, pero la más
+utilizada es aquella que se sustenta en la distribución corporal del
+exceso de grasa. Se denomina fenotipo androide, cuando el sobrepeso
+predomina en el segmento superior y fenotipo ginoide, si la acumulación
+del tejido adiposo es mayor en el segmento inferior.
+
+Hay que distinguir además dos tipos de tejido adiposo en el abdomen
+según su localización, el subcutáneo y el interno. Este último, asu vez,
+se divide en visceral (depósito de grasa en órganos como hígado y
+páncreas) y muscular.
+
+Los riesgos asociados al exceso de grasa se deben, en parte, a la
+localización de la grasa, más que a la cantidad total, siendo la grasa
+acumulada en la región abdominal la que afecta de forma más negativa a
+la buena salud.
+
+La grasa visceral es un factor de riesgo independientemente de
 resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e
 hipertensión, todos criterios el SM
 
@@ -563,11 +528,10 @@ hombres y mujeres:
  
 
 Estas medidas de contorno de cintura tienen mayor correlación con los
-factores de riesgo metabólicos que el IMC (Índice de masa corporal).
-
-El IMC resulta menos fiable porque puede ser alto en individuos que no
-sean obesos, como podría ser el caso de deportistas o personas con unas
-determinadas características morfológicas, sería el caso de personas de
+factores de riesgo metabólicos que el IMC (Índice de masa corporal). El
+IMC resulta menos fiable porque puede ser alto en individuos que no sean
+obesos, como podría ser el caso de deportistas o personas con unas
+determinadas características morfológicas. Sería el caso de personas de
 hueso ancho, que tienen un IMC más elevado que el que le correspondería
 por estatura y peso, pero carecen de niveles de grasa de riesgo a nivel
 abdominal.
@@ -609,39 +573,39 @@ la corriente sanguínea. Cuando hay mucha insulina en la corriente
 sanguínea se produce una hiperinsulinemia lo que aumenta el riesgo de
 sufrir un infarto de miocardio debido a que la insulina:
 
--Eleva los niveles de triglicéridos.
+-   Eleva los niveles de triglicéridos.
 
--Reduce los niveles de lipoproteínas de alta densidad (HDL o «colesterol
-bueno»).
+-   Reduce los niveles de lipoproteínas de alta densidad (HDL o
+    «colesterol bueno»).
 
--Eleva los niveles de lipoproteínas de baja densidad (LDL o «colesterol
-malo»).
+-   Eleva los niveles de lipoproteínas de baja densidad (LDL o
+    «colesterol malo»).
 
--Hace más difícil que el organismo elimine las grasas de la sangre
-después de comer.
+-   Hace más difícil que el organismo elimine las grasas de la sangre
+    después de comer.
 
--Eleva la presión arterial.
+-   Eleva la presión arterial.
 
--Aumenta la capacidad de coagulación de la sangre.
+-   Aumenta la capacidad de coagulación de la sangre.
 
 Esta falta de sensibilidad a la insulina y esta respuesta de un aumento
 excesivo de su producción puede desembocar en una disfunción metabólica
 y a la aparición de, entre otras patologías:
 
--Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no poder
-ingresar la glucosa en las células se produce un nivel levado de glucosa
-en la sangre).
+-   Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no
+    poder ingresar la glucosa en las células se produce un nivel levado
+    de glucosa en la sangre).
 
--Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el
-corazón y los vasos sanguíneos. Se asocia con la acumulación de
-depósitos de grasa en las arterias. A menudo implica hipertensión, que
-puede ser causa y resultado de ECV.
+-   Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el
+    corazón y los vasos sanguíneos. Se asocia con la acumulación de
+    depósitos de grasa en las arterias. A menudo implica hipertensión,
+    que puede ser causa y resultado de ECV.
 
--Dislipidemias.
+-   Dislipidemias.
 
--Hipertensión arterial.
+-   Hipertensión arterial.
 
--Síndrome de ovario poliquístico.
+-   Síndrome de ovario poliquístico.
 
 La RI, el SM y la aterosclerosis parecen tener una base inflamatoria
 común; se admite que la RI es el proceso fisiopatológico que subyace
@@ -671,7 +635,7 @@ que conforman el Síndrome Metabólico.
 
 La OMS lo define como el grupo de trastornos metabólicos de diferentes
 causas y cuya característica fundamental es la hiperglucemia (niveles de
-glucosa sanguínea elevados). Es una hiperglucemia que aparece de forma
+glucosa sanguinea elevados). Es una hiperglucemia que aparece de forma
 crónica. Se mantiene la glucosa en sangre durante tiempos elevados y hay
 alteración en el metabolismo de los HdC, las grasas y las proteínas y
 todo ello debido o bien a la síntesis de la insulina o a su acción.
@@ -688,51 +652,51 @@ cardiovascular y no sólo de carácter metabólico.
 
  
 
-  Valores de glucemia para diagnóstico Diabetes                                             
-  ----------------------------------------------------------------------------------------- -----------------
-  **Valores normales**                                                                      **60-110md/dl**
-  **Diabetes**                                                                              **160ml/dl**
-  **También será considerado factor de criterio positivo el tratamiento hipoglucemiante**   
+  Valores de glucemia para diagnóstico Diabetes                                         
+  ------------------------------------------------------------------------------------- -----------------
+  **Valores normales**                                                                  **60-110md/dl**
+  Diabetes                                                                              160ml/dl
+  También será considerado factor de criterio positivo el tratamiento hipoglucemiante   
 
-** **
+ 
 
 Su rigen se relaciona con factores no modificables y modificables sobre
 los que hay que insistir.
 
 Factores no modificables:
 
-**Genética** (aunque se puede influir en esa expresión de los genes a
-través de la Epigenética)
+-   **Genética** (aunque se puede influir en esa expresión de los genes
+    a través de la Epigenética)
 
-**Prematuridad**: haber nacido prematuro o con peso inadecuado, tanto
-con bajo peso como con sobrepeso, para la edad gestacional.
+-   **Prematuridad**: haber nacido prematuro o con peso inadecuado,
+    tanto con bajo peso como con sobrepeso, para la edad gestacional.
 
-**Madre con diabetes gestacional**: favorece la aparición de diabetes en
-la edad adulta.
+-   **Madre con diabetes gestacional**: favorece la aparición de
+    diabetes en la edad adulta.
 
-**Etnia**
+-   **Etnia**
 
 Factores modificables:
 
-**Factores ambientales**: hábitos de vida (actividad física,
-alimentación, tabaquismo, consumo de alcohol, estrés emocional, falta de
-sueño) todos ellos capaces de mejorar o empeorar la enfermedad.
+-   **Factores ambientales**: hábitos de vida (actividad física,
+    alimentación, tabaquismo, consumo de alcohol, estrés emocional,
+    falta de sueño) todos ellos capaces de mejorar o empeorar la
+    enfermedad.
 
-**Disrruptores endocrinos**: químicos capaces de mimetizar nuestras
-hormonas y, por tanto, de alterar el correcto funcionamiento corporal y
-afectar negativamente a nuestra salud.
+-   **Disrruptores endocrinos**: químicos capaces de mimetizar nuestras
+    hormonas y, por tanto, de alterar el correcto funcionamiento
+    corporal y afectar negativamente a nuestra salud.
 
-**Déficit de micronutrientes**: como selenio, hierro vitamina D.
+-   **Déficit de micronutrientes**: como selenio, hierro vitamina D.
 
 Son factores de riesgo que actúan sobre el sistema inmunológico, la
-vascularización, el tejido adiposo, músculo, hígado, intestino o el
+vascularización, el tejido adiposo, músculo, hígado, intestino o la
 microbiota.
 
 Sobre todo, hay una relación estrecha siendo muy difícil separar los
 metabolismos endocrinos y autoinmunes que posee los distintos factores
-de diabetes. Lo que []{#_Int_oOr0Bdw6 .anchor}si se puede hacer es
-intentar actuar sobre los que sí son modificables para intentar mejorar
-esta situación.
+de diabetes. Lo que si se puede hacer es intentar actuar sobre los que
+sí son modificables para intentar mejorar esta situación.
 
 Hasta hace unos años era algo circunscrito al primer mundo, puesto que
 se relacionaba fundamentalmente con los hábitos de vida y el
@@ -752,9 +716,8 @@ también a niños cosa que era impensable hace unos años que cuando se
 hablaba de diabetes infantil se asociaba directamente a la diabetes
 autoinmune de tipo I.
 
-\*\*\*\*Su incidencia y prevalencia va en aumento, se calcula otros 350
-millones de personas en todo el mundo con riesgo de desarrollar diabetes
-y es especialmente preocupante su crecimiento en la infancia. CAMBIOS
+Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
+de personas en todo el mundo con riesgo de desarrollar diabetes.
 
 #### 3.2.1.3 Dislipemias
 
@@ -765,58 +728,21 @@ Los pacientes con dislipemias presentan niveles de triglicéridos
 elevados, valores disminuidos de colesterol HDL y un aumento de las
 partículas LDL.
 
-**Esto no\*\***\*En la formación de las dislipemias se va a producir el
-siguiente proceso fisiológico:
-
-Colesterol y triglicéridos no son solubles en agua y van a necesitar un
-transportador para circular por el torrente sanguíneo.
-
-Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
-triglicéridos al hígado para ser sintetizados.
-
-Una vez utilizadas tiene que ser desechadas para no acumularse en el
-hígado y que no dé lugar el llamado hígado graso, así son enviadas al
-músculo y demás órganos y tejidos para ser utilizados y los que no son
-necesarios se envían de vuelta al hígado en forma de lipoproteínas que
-serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
-densidad). De vuelta en el hígado este ingresa el colesterol que puede
-guardar y devuelve al torrente sanguíneo el que no puede metabolizar
-para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
-tienen la característica de que el colesterol que transportarse queda
-adherido a las paredes de los vasos sanguíneos siendo recogidos para su
-eliminación por las lipoproteínas de HDL.
-
-Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
-HDL puede recoger es cuando se producen las dislipemias.
-
-Estos depósitos de grasa son fagocitados por los macrófagos formando las
-células espumosas, se da una respuesta inflamatoria formándose el
-ateroma. Cuando este ateroma se rompe y entra en el circuito de la
-circulación es cuando se produce el trombo con su consiguiente riesgo
-cardiovascular. \*\*\*\*NO
-
 El diagnóstico de las dislipemias en general se basa siempre en la
 comprobación analítica de la alteración lipídica.
 
  
 
-  ---------------------------------------
-  Rangos          
-                  
-  adecuados       
-  --------------- -----------------------
-  Triglicéridos   `>` 150 mg/dl
-
-  HDL             
-
-                  Varones &lt; 40 mg/dl
-
-                  Mujeres &lt; 50 mg/dl
-  ---------------------------------------
+  Rangos adecuados   
+  ------------------ -----------------------
+  Triglicéridos      `>` 150 mg/dl
+  HDL                
+                     Varones &lt; 40 mg/dl
+                     Mujeres &lt; 50 mg/dl
 
  
 
-**-Colesterol**
+**Colesterol**
 
 El colesterol es una sustancia similar a la grasa e indispensable para
 la vida. Se encuentra en las membranas celulares de nuestros organismos,
@@ -825,42 +751,42 @@ colesterol para fabricar hormonas, ácidos biliares, vitamina D, y otras
 sustancias.
 
 Una parte importante del colesterol presente en nuestro organismo es
-[]{#_Int_APu5W3Uh .anchor}producido por el hígado; el resto es aportado
-a través de la dieta y del colesterol presente en la bilis, parte del
-cual se vuelve a absorber en el intestino.
-
-El problema viene dado cuando se presenta en exceso. El aumento del
-colesterol en la sangre y su depósito en las arterias puede ser
-peligroso y producir ateroesclerosis (estrechamiento o endurecimiento de
-las arterias por depósito de colesterol en sus paredes).
+producido por el hígado; el resto es aportado a través de la dieta y del
+colesterol presente en la bilis, parte del cual se vuelve a absorber en
+el intestino. El problema viene dado cuando se presenta en exceso. El
+aumento del colesterol en la sangre y su depósito en las arterias puede
+ser peligroso y producir ateroesclerosis (estrechamiento o
+endurecimiento de las arterias por depósito de colesterol en sus
+paredes).
 
 El colesterol es insoluble en los medios acuosos, por lo que se
 transporta en las lipoproteínas, constituidas por una parte lipídica o
 acuosa y otra proteica. Existen dos tipos diferentes de lipoproteínas
 que trasportan el colesterol en la sangre:
 
-**Lipoproteínas de baja densidad o LDL**, que también se conocen como
-colesterol “malo”. Son las lipoproteínas encargadas de transportar el
-colesterol a los tejidos para su utilización, incluyendo las arterias.
-La mayor parte del colesterol en sangre es colesterol LDL (c-LDL).
-Cuanto mayor sea el nivel de colesterol LDL en sangre, mayor es el
-riesgo de enfermedad cardiovascular.
+-   **Lipoproteínas de baja densidad o LDL**, que también se conocen
+    como colesterol “malo”. Son las lipoproteínas encargadas de
+    transportar el colesterol a los tejidos para su utilización,
+    incluyendo las arterias. La mayor parte del colesterol en sangre es
+    colesterol LDL (c-LDL). Cuanto mayor sea el nivel de colesterol LDL
+    en sangre, mayor es el riesgo de enfermedad cardiovascular.
 
-**Lipoproteínas de alta densidad, o HDL**, también conocidas como
-colesterol “bueno”, porque son las encargadas de recoger el colesterol
-de los tejidos y transportarlo al hígado para su eliminación a través de
-la bilis. Un nivel bajo de colesterol HDL (c-HDL) aumenta el riesgo de
-enfermedad cardiovascular.
+-   **Lipoproteínas de alta densidad, o HDL**, también conocidas como
+    colesterol “bueno”, porque son las encargadas de recoger el
+    colesterol de los tejidos y transportarlo al hígado para su
+    eliminación a través de la bilis. Un nivel bajo de colesterol HDL
+    (c-HDL) aumenta el riesgo de enfermedad cardiovascular.
 
-Principales funciones antiaterogénicas de las HDL
+ 
 
-  -------------------------------------------
+  Principales funciones antiaterogénicas de las HDL
+  ---------------------------------------------------
+  Transporte reverso del colesterol
   Regulación del metabolismo de la glucosa
   Antiinflamatoria
   Antioxidante: inhiben la oxidación de LDL
   Reparación endotelial
   Antitrombótica
-  -------------------------------------------
 
  
 
@@ -869,55 +795,63 @@ de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
 Causas que no se pueden cambiar:
 
-**Herencia**. La cantidad de colesterol LDL que fabrica su cuerpo y la
-rapidez con que se elimina viene determinada en parte por los genes. El
-colesterol elevado puede afectar a familias enteras.
+-   **Herencia**. La cantidad de colesterol LDL que fabrica su cuerpo y
+    la rapidez con que se elimina viene determinada en parte por los
+    genes. El colesterol elevado puede afectar a familias enteras.
 
-**Edad y sexo**. El colesterol empieza a elevarse hacia los 20 años y
-continúa subiendo hasta los 60 o 65 años. El colesterol en los hombres
-tiende a ser más alto antes de los 50 años que el de las mujeres con esa
-misma edad. Pero después de los 50 ocurre lo contrario. Los niveles de
-colesterol LDL en las mujeres tienden a subir con la menopausia.
+-   **Edad y sexo**. El colesterol empieza a elevarse hacia los 20 años
+    y continúa subiendo hasta los 60 o 65 años. El colesterol en los
+    hombres tiende a ser más alto antes de los 50 años que el de las
+    mujeres con esa misma edad. Pero después de los 50 ocurre lo
+    contrario. Los niveles de colesterol LDL en las mujeres tienden a
+    subir con la menopausia.
 
 Causas que se pueden cambiar:
 
-**Dieta**. Existen varios tipos de grasas en función de su estructura, y
-cada una de ellas posee un efecto determinado sobre los niveles de
-colesterol en el organismo:
+-   **Dieta**. Existen varios tipos de grasas en función de su
+    estructura, y cada una de ellas posee un efecto determinado sobre
+    los niveles de colesterol en el organismo:
 
-Con efecto negativo
+<!-- -->
 
-*-Ácidos grasos saturados*: son la grasa presente en lácteos, carnes y
-derivados, y aceites de coco y palma, entre otros alimentos. Tienen un
-efecto perjudicial, ya que aumentan el colesterol total y el colesterol
-LDL (“colesterol malo”).
+-   Con efecto negativo
 
-*-Ácidos grasos trans*: son los más nocivos para la salud
-cardiovascular. Ya que dietas ricas en este tipo de grasas producen un
-aumento del colesterol total y colesterol LDL, al mismo tiempo que
-disminuyen el colesterol HDL. Están presentes en la bollería industrial,
-patatas de bolsa, snacks y en algunas grasas para fritura y pastelería
-(por ejemplo, aceites vegetales hidrogenados).
+    -   *Ácidos grasos saturados*: son la grasa presente en lácteos,
+        carnes y derivados, y aceites de coco y palma, entre otros
+        alimentos. Tienen un efecto perjudicial, ya que aumentan el
+        colesterol total y el colesterol LDL (“colesterol malo”).
 
-Con efecto positivo
+    -   *Ácidos grasos trans*: son los más nocivos para la salud
+        cardiovascular. Ya que dietas ricas en este tipo de grasas
+        producen un aumento del colesterol total y colesterol LDL, al
+        mismo tiempo que disminuyen el colesterol HDL. Están presentes
+        en la bollería industrial, patatas de bolsa, snacks y en algunas
+        grasas para fritura y pastelería (por ejemplo, aceites vegetales
+        hidrogenados).
 
-*-Ácidos grasos monoinsaturados*: poseen un efecto beneficioso para
-nuestro organismo ya que un consumo prolongado de estos produce un
-aumento del colesterol HDL (“colesterol bueno”) y una disminución del
-colesterol LDL (“colesterol malo”), que se asocia a un menor riesgo de
-desarrollar enfermedades cardiovasculares. Están presentes en alimentos
-como el aceite de oliva, el aguacate o los frutos secos.
+    Con efecto positivo
 
-*-Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega 6**.
-Resultan beneficiosos ya que una dieta rica en estos produce una
-disminución del colesterol total y del colesterol LDL. Están presentes
-en el pescado azul (omega 3) y en aceites de semillas y frutos secos
-(omega 6).
+    -   *Ácidos grasos monoinsaturados*: poseen un efecto beneficioso
+        para nuestro organismo ya que un consumo prolongado de estos
+        produce un aumento del colesterol HDL (“colesterol bueno”) y una
+        disminución del colesterol LDL (“colesterol malo”), que se
+        asocia a un menor riesgo de desarrollar enfermedades
+        cardiovasculares. Están presentes en alimentos como el aceite de
+        oliva, el aguacate o los frutos secos.
 
-**Sobrepeso**. El exceso de peso tiende a aumentar su colesterol LDL.
-También aumenta los triglicéridos y baja el colesterol HDL. Perdiendo
-algunos kilos cuando hay sobrepeso ayudamos a bajar el colesterol LDL y
-los triglicéridos, y al mismo tiempo subimos el colesterol HDL.
+    -   *Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
+        6**. Resultan beneficiosos ya que una dieta rica en estos
+        produce una disminución del colesterol total y del colesterol
+        LDL. Están presentes en el pescado azul (omega 3) y en aceites
+        de semillas y frutos secos (omega 6).
+
+<!-- -->
+
+-   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
+    LDL. También aumenta los triglicéridos y baja el colesterol HDL.
+    Perdiendo algunos kilos cuando hay sobrepeso ayudamos a bajar el
+    colesterol LDL y los triglicéridos, y al mismo tiempo subimos el
+    colesterol HDL.
 
 El aumento en las cifras de colesterol en sangre y su depósito en las
 arterias origina la enfermedad ateroesclerótica cardiovascular que es la
@@ -946,7 +880,7 @@ romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que
 puede causar un coágulo o trombo sobre la placa que impide el flujo de
 la sangre en la arteria causando un infarto de miocardio.
 
-**-Triglicéridos**
+**Trigliceridos**
 
 Son grasas que se encuentran en determinados alimentos y también se
 producen en el hígado.
@@ -956,25 +890,27 @@ se producen en el intestino y en el hígado y se transportan a los
 tejidos donde se utilizan como una reserva de energía para cubrir las
 necesidades metabólicas de los músculos y el cerebro.
 
-Las causas más frecuentes de aumento de los triglicéridos son:
+Las causas más frecuentes de aumento de los triglicéridos son: -
+Sobrepeso / obesidad - Dieta muy alta en hidratos de carbono (60% o más
+de las calorías) especialmente si son refinados - Exceso de alcohol -
+Tabaquismo - Inactividad física - Dieta muy alta en hidratos de carbono
+(60% ó más de las calorías) especialmente si son refinados - Factores
+genéticos
 
--Sobrepeso / obesidad
+También existen causas genéticas de aumento de los triglicéridos, en
+ocasiones asociadas con aumento de colesterol:
 
--Dieta muy alta en hidratos de carbono (60% o más de las calorías)
-especialmente si son refinados
+-   Hiperlipidemia Familiar Combinada
 
--Exceso de alcohol
+-   Hipertrigliceridemia Familiar
 
--Tabaquismo
+-   Disbetalipoproteinemia
 
-- Inactividad física,
+-   Hiperquilomicronemia Familiar
 
--Dieta muy alta en hidratos de carbono (60% ó más de las calorías)
-especialmente si son refinados
+ 
 
--Factores genéticos
-
- Para reducir los niveles de triglicéridos en la sangre: hay que
+Para reducir los niveles de triglicéridos en la sangre: hay que
 controlar el peso, mantenerse activo, no fumar, limitar la ingesta de
 alcohol y limitar los azúcares y las bebidas azucaradas. A veces se
 necesita también medicación.
@@ -1022,12 +958,12 @@ sino que hay varios factores de riesgo que sirven de indicadores que
 deben llevar a hacer una revisión del estado de la tensión arterial de
 forma preventiva.
 
-La hipertensión también incrementa el riesgo de morbimortalidad y afecta
+La hipertensión también incrementa el riesgo de mobimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
 **La HTA en adultos se define como cifras de presión arterial sistólica
-y diastólica** `>` **140/90 mm Hg. **
+y diastólica** `>` **140/90 mm Hg.**
 
 **Factores de riesgo**
 
@@ -1035,8 +971,7 @@ Existen una serie de factores de riesgo a tener en cuenta. La edad, ya
 que a medida que aumenta las posibilidades de tener hipertensión. Con
 respecto al género, se conoce que hasta los 50 años los hombres tienen
 más probabilidades de tener hipertensión. Del mismo modo los individuos
-de etnia negra tienen más probabilidades de tener HAS (hipertensión
-arterial sistémica).
+de etnia negra tienen más probabilidades de tener HAS.
 
 Hábitos de vida sedentarios aumentan tanto el riesgo de hipertensión
 como el de desarrollo de enfermedades cardiovasculares.
@@ -1051,21 +986,21 @@ También consumo prolongado de alcohol aumenta la presión arterial.
 Algunas personas tienen presión arterial alta causada por una enfermedad
 subyacente, como podrían ser:
 
-Apnea obstructiva del sueño
+-   Apnea obstructiva del sueño
 
-Enfermedad renal
+-   Enfermedad renal
 
-Tumores de la glándula suprarrenal
+-   Tumores de la glándula suprarrenal
 
-Problemas de tiroides
+-   Problemas de tiroides
 
-Ciertos defectos de nacimiento (congénitos) en los vasos sanguíneos
+-   Ciertos defectos de nacimiento (congénitos) en los vasos sanguíneos
 
-Ciertos medicamentos, como las píldoras anticonceptivas, los
-antigripales, los descongestionantes, los analgésicos de venta libre y
-algunos medicamentos con receta médica
+-   Ciertos medicamentos, como las píldoras anticonceptivas, los
+    antigripales, los descongestionantes, los analgésicos de venta libre
+    y algunos medicamentos con receta médica
 
-Drogas ilícitas, como la cocaína y las anfetaminas
+-   Drogas ilícitas, como la cocaína y las anfetaminas
 
 ### 3.2.2 Desarrollo fisiopatológico del SM
 
@@ -1119,7 +1054,7 @@ cardiovascular.
 Todos estos elementos patológicos van a derivar en la aparición de
 ateroesclerosis, es decir, los vasos sanguíneos poco a poco van a ir
 taponándose y cerrándose, lo que va a propiciar la aparición mayores
-alteraciones ateroescleróticas, que pueden hacer que aparezca la
+alteraciones ateroescleróticas,que pueden hacer que aparezca la
 enfermedad cardiovascular que es la primera causante de muerte por
 encima del cáncer.
 
@@ -1131,24 +1066,24 @@ de padecer enfermedad grave.
 
 Se ha identificado la relación en entre el SM y el:
 
--Cáncer colorrectal
+-   el cáncer colorrectal
 
--Cáncer de mama
+-   cáncer de mama
 
--Cáncer de próstata
+-   cáncer de próstata
 
 Además, confiere un riesgo importante para el desarrollo de otras
 enfermedades como:
 
--Esteatosis hepática,
+-   la esteatosis hepática,
 
--Síndrome de apnea del sueño,
+-   el síndrome de apnea del sueño,
 
--Enfermedad renal crónica,
+-   la enfermedad renal crónica,
 
--Síndrome del ovario poliquístico
+-   el síndrome del ovario poliquístico
 
--infertilidad masculina
+-   la infertilidad masculina
 
 ### 3.2.3 Por grupos de población
 
@@ -1233,12 +1168,13 @@ La transición que experimenta la mujer durante la pre y postmenopausia,
 se asocia con la presentación o el desarrollo de características propias
 del síndrome metabólico, entre las que se encuentran:
 
--Aumento de la grasa central abdominal.
+-   Aumento de la grasa central abdominal.
 
--Alteración del perfil lipídico (elevación de lipoproteínas de baja
-densidad y triglicéridos, disminución de lipoproteínas de alta densidad)
+-   Alteración del perfil lipídico (elevación de lipoproteínas de baja
+    densidad y triglicéridos, disminución de lipoproteínas de alta
+    densidad)
 
--Resistencia a la insulina.
+-   Resistencia a la insulina.
 
 El incremento de la LDL es menor en mujeres premenopáusicas que en
 postmenopáusicas, al igual que el aumento en los triglicéridos, la
@@ -1334,31 +1270,43 @@ La presencia de SM antes del inicio del embarazo es un factor de riesgo
 importante para trastornos hipertensivos del embarazo. Se ha
 correlacionado con:
 
--Hipertensión de la gestación en un 11%.
+-   Hipertensión de la gestación en un 11%.
 
--Igualmente, el antecedente de trastornos hipertensivos en el primer
-embarazo incrementa el riesgo de desarrollar posteriormente SM de 3 a 5
-veces.
+-   Igualmente, el antecedente de trastornos hipertensivos en el primer
+    embarazo incrementa el riesgo de desarrollar posteriormente SM de 3
+    a 5 veces.
 
--Preeclampsia en un 5% (\*La preeclampsia es una complicación del
-embarazo caracterizada por presión arterial alta y signos de daños en
-otro sistema de órganos, más frecuentemente el hígado y los riñones.
-Generalmente, la preeclampsia comienza después de las 20 semanas de
-embarazo en mujeres cuya presión arterial había sido normal).
+-   Preeclampsia en un 5% (\*La preeclampsia es una complicación del
+    embarazo caracterizada por presión arterial alta y signos de daños
+    en otro sistema de órganos, más frecuentemente el hígado y los
+    riñones. Generalmente, la preeclampsia comienza después de las 20
+    semanas de embarazo en mujeres cuya presión arterial había sido
+    normal).
 
 Es difícil demostrar que se produzcan lesiones a largo plazo en madres
-gestantes debido al SM, sin embargo, tanto la DG (Diabetes Gestacional)
-como los trastornos hipertensivos del embarazo (THE) pueden verse como
+gestantes debido al SM, al contrario de lo que ocurre con los efectos de
+una predisposición a las enfermedades cardiovasculares y la diabetes
+tipo 2. Sin embargo, tanto la DG (Diabetes Gestacional) como los
+trastornos hipertensivos del embarazo (THE) pueden verse como
 expresiones del síndrome durante la gestación.
 
-A destacar la importancia de promover la lactancia materna, esta función
-fisiológica posterior al embarazo disminuye el riesgo de SM. La
-lactancia prolongada se relaciona con menor riesgo de DM2. Se determina
-que en mujeres que tuvieron hijos hace 15 años, por cada año de
-lactancia el riesgo de SM disminuyó en 14%.
+Las complicaciones neonatales en las gestantes con SM son mayores de las
+que no lo presentan.
 
-El correcto tratamiento del SM en el embarazo debe de estar encaminado a
-la prevención de los factores de riesgo del SM.
+Es importante identificar, de manera temprana, gestaciones en riesgo de
+exceso de peso al nacer y el manejo de los factores que contribuyen al
+mismo, con el fin de prevenir el posterior desarrollo de obesidad y
+riesgo cardiovascular en estos niños.
+
+A destacar la importancia de promover la lactancia materna como método
+de prevención de obesidad en el niño. Esta función fisiológica posterior
+al embarazo disminuye el riesgo de SM. La lactancia prolongada se
+relaciona con menor riesgo de DM2. Se determina que en mujeres que
+tuvieron hijos hace 15 años, por cada año de lactancia el riesgo de SM
+disminuyó en 14%.
+
+El correcto tratamiento debe de estar encaminado a la prevención de los
+factores de riesgo del SM.
 
 #### 3.2.3.2 SM en la infancia
 
@@ -1446,22 +1394,22 @@ obesidad, con toda la problemática que ello supone.
 Con el proceso de envejecimiento se producen serie de cambios de tipo
 fisiológicos, morfológicos y funcionales entre los que se encuentran:
 
--Un mayor estrés oxidativo.
+-   Un mayor estrés oxidativo.
 
--Variaciones neurohormonales que pueden tener un efecto opuesto a la
-insulina.
+-   Variaciones neurohormonales que pueden tener un efecto opuesto a la
+    insulina.
 
--Reducción de la masa muscular. Esto comienza a partir de los 50 años,
-en parte por el proceso normal de envejecimiento y en parte porque la
-actividad física suele reducirse y es un factor que favorece la perdida
-de musculo esquelético que está relacionado con tener más o menos
-fuerza.
+-   Reducción de la masa muscular, esto comienza a partir de los 50
+    años, en parte por el proceso normal de envejecimiento y en parte
+    porque la actividad física suele reducirse y es un factor que
+    favorece la perdida de musculo esquelético que está relacionado con
+    tener más o menos fuerza.
 
--Una nueva distribución de la grasa corporal. En ambos sexos se da un
-aumento de contorno de cintura.
+-   Una nueva distribución de la grasa corporal. En ambos sexos se da un
+    aumento de contorno de cintura.
 
--El aumento del tejido adiposo va a la par que la pérdida de masa
-muscular. A mayor pérdida de músculo mayor ganancia de grasa.
+-   El aumento del tejido adiposo va a la par que la pérdida de masa
+    muscular. A mayor pérdida de músculo mayor ganancia de grasa.
 
 Esta pérdida de masa muscular debida al envejecimiento se denomina
 sarcopenia y contribuye en gran medida a la pérdida de capacidades y de
@@ -1505,11 +1453,11 @@ Como síndrome, no hay establecido un tratamiento específico para el
 conjunto de los factores que lo componen, sino que deben tratarse cada
 una de las enfermedades por separado.
 
-+\*\*\*La prevención es uno de los elementos clave para el control de
-esta enfermedad. Se ha estimado que unos correctos hábitos alimentarios
-y de estilo de vida son suficientes para prevenir su aparición en 90 de
-cada 100 casos, ya que sólo un 10% se debe a herencia genética.
-\*\*\*\*\*\*\* Párrafo entero
+La prevención es uno de los elementos clave para el control de esta
+enfermedad, ya que se ha estimado que unos correctos hábitos
+alimentarios y de estilo de vida son suficientes para prevenir su
+aparición en 90 de cada 100 casos, puesto que la investigación muestra
+que sólo un 10% se debe a herencia genética.
 
 Dieta y ejercicio es lo esencial, sólo con ello podemos mejorar mucho e
 incluso revertir el SM en muchas situaciones.
@@ -1521,6 +1469,29 @@ cardiovascular y aumentar la esperanza de vida.
 La duración de la exposición a los factores de riesgo es clave, ya que
 los daños van sumándose a través de los años. Es muy importante
 identificarlo lo antes posible y más importante prevenirlo.
+
+\*\*\*\*\*Ampliar \*\*\*\*
+
+-   información a los padres
+
+-   controlar calidad alimentaria de los niños
+
+-   campañas de información en colegios
+
+-   leyes que no permita la venta de productos procesados en los
+    colegios
+
+-   imponer normas que hagan que los productos sean mas sanos, impedir
+    publicidad engañosa
+
+-   impedir etiquetado engañoso
+
+-   promover predominio de alimentos frescos sobgre los procesados.
+
+-   anotar que ejercicio cardiorespitarotio y de fuerza los más
+    acertados
+
+-   promocionar ejercicio en los niños
 
 ### 3.3.1 Relación con la alimentación
 
@@ -1538,64 +1509,47 @@ individuo.
 
 Como regla general, los hábitos alimentarios deben basarse en:
 
-**\*\*\*-Una alimentación con un bajo contenido en grasa saturada, grasa
-trans y colesterol.**
+-   **Una alimentación con un bajo contenido en grasa saturada, grasa
+    trans y colesterol.**
 
-**-El aceite de oliva el principal aporte de grasa en la dieta.**
+-   **El aceite de oliva el principal aporte de grasa en la dieta.**
 
-**-Aumentar el consumo de pescado, especialmente el de pescado azul de
-pequeño tamaño.**
+-   **Disminuir el consumo de azúcares sencillos.**
 
-**-Priorizar el consumo de carnes blancas sobre las rojas y el pescado
-sobre la carne.**
+-   **Aumentar el consumo de pescado, especialmente el de pescado
+    azul.**
 
-**-Incrementar la ingesta de frutas, verduras, legumbres y cereales
-integrales.**
-
-**-Incorporar a la dieta frutos secos y semillas.**
-
-**-Disminuir el consumo de azúcares sencillos cuanto más mejor.**
-
-**-Eliminar los refrescos o bebidas azucaradas y en general los
-alimentos superfluos que no tienen valor nutricional.**
-
-**-Eliminar en lo posible alimentos de elaboración industrial y ultra
-procesados.**
-
-**-Promover el consumo de agua \*\*\***
+-   **Incrementar la ingesta de frutas, verduras y cereales
+    integrales.**
 
 ### 3.3.2 Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
 
-**-Sedentarismo.**
+-   **Sedentarismo.**
 
-**-Un elevado consumo calórico a través de bebidas azucaradas y
-alimentos ricos en grasa saturada.**
+-   **Un elevado consumo calórico a través de bebidas azucaradas y
+    alimentos ricos en grasa saturada.**
 
-**-Disminución en el consumo de fibra.**
+-   **Disminución en el consumo de fibra.**
 
-**-El tabaquismo.**
+-   **El tabaquismo.**
 
-**-Consumo de alcohol, el cual debería de ser eliminado de la dieta.**
+-   **Consumo de alcohol.**
 
-La actividad física es tan importante como una buena alimentación, es
-parte fundamental tanto del tratamiento de los pacientes con la
-enfermedad, como de los que están en riesgo de desarrollarla y debe de
-ser incluida en la vida cotidiana de la población.
+La actividad física es parte fundamental tanto del tratamiento de los
+pacientes con la enfermedad, como de los que están en riesgo de
+desarrollarla y debe de ser incluida en la vida cotidiana de la
+población.
 
-Alimentación y actividad física deben de ir de la mano.
+-   **Aparcando actividades sedentarias como la televisión o los
+    videojuegos.**
 
-**-Es necesario aparcar actividades sedentarias como la televisión o los
-videojuegos.**
+-   **Actividades de ocio al aire libre orientadas a un mayor consumo
+    calórico como pasear, andar en bici, nadar o hacer excursionismo.**
 
-**-Realizar actividades de ocio al aire libre orientadas a un mayor
-consumo calórico como pasear, andar en bici, nadar o hacer
-excursionismo.**
-
-**-Como regla general, se aconseja que sea de intensidad moderada, de 3
-a 5 días por semana y con una duración aconsejable de al menos 30/ 60
-minutos. **
+-   **Como regla general, se aconseja que sea de intensidad moderada, de
+    3 a 5 días por semana y con una duración de al menos 30 minutos.**
 
 4. Material y métodos
 =====================
@@ -1643,18 +1597,18 @@ respecto a otros, ni la importancia de tener tres, cuatro o cinco.
 
 Por poner unos ejemplos:
 
-¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros
-muy alterados que otro que se encuentra apenas por encima de los
-criterios de corte?
+-   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
+    parámetros muy alterados que otro que se encuentra apenas por encima
+    de los criterios de corte?
 
-¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
-antidiabéticos orales?
+-   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
+    antidiabéticos orales?
 
-¿Ante dos pacientes diferentes, pero que reúnen igual número de
-criterios diagnósticos de SM el riesgo CV será el mismo?
+-   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
+    criterios diagnósticos de SM el riesgo CV será el mismo?
 
-Dos pacientes diferentes con el mismo número de factores de riesgo, pero
-diferentes, ¿estarán expuestos al mismo riesgo?
+-   Dos pacientes diferentes con el mismo número de factores de riesgo,
+    pero diferentes, ¿estarán expuestos al mismo riesgo?
 
 En resumen, pueden darse múltiples circunstancias lo que hace difícil la
 unificación y evaluación del grado de riesgo.
@@ -1912,4 +1866,31 @@ Tablas
   “Síndrome metabólico”                                          International Diabetes Federation (IDF)                                                                                                                                                                                                                               2005        Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia, hipertrigliceridemia e hipertensión
                                                                  International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International Association for the Study of Obesity   2009        Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible
 
+**Descarte dislipemia**
 
+Colesterol y triglicéridos no son solubles en agua y van a necesitar un
+transportador para circular por el torrente sanguíneo.
+
+Las lipoproteínas LDL van a ser las encargadas de llevar colesterol y
+triglicéridos al hígado para ser sintetizados.
+
+Una vez utilizadas tiene que ser desechadas para no acumularse en el
+hígado y que no dé lugar el llamado hígado graso, así son enviadas al
+músculo y demás órganos y tejidos para ser utilizados y los que no son
+necesarios se envían de vuelta al hígado en forma de lipoproteínas que
+serán colesterol y en mayor cantidad triglicéridos (VLDL de muy baja
+densidad). De vuelta en el hígado este ingresa el colesterol que puede
+guardar y devuelve al torrente sanguíneo el que no puede metabolizar
+para que no forme grasa.Lo hace en formas de lipoproteínas LDL, éstas
+tienen la característica de que el colesterol que transportarse queda
+adherido a las paredes de los vasos sanguíneos siendo recogidos para su
+eliminación por las lipoproteínas de HDL.
+
+Cuando se adhiere mayor cantidad LDL que del que las lipoproteínas de
+HDL puede recoger es cuando se producen las dislipemias.
+
+Estos depositos de grasa son fagocitadas por los macrófagos formando las
+células espumosas, se da una respuesta inflamatoria formándose el
+ateroma. Cuando este ateroma se rompe y entra en el circuito de la
+circulación es cuando se produce el trombo con su consiguiente riesgo
+cardiovascular.

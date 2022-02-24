@@ -1,6 +1,6 @@
 \pagebreak
 
-# 7. Discusión
+# 6. Discusión
 
 La definición de SM ha tenido muchas modificaciones y no se ha llegado a un criterio común entre las distintas asociaciones que lo han analizado. 
 
