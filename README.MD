@@ -16,11 +16,11 @@ Indice general
     -   [3.2 Factores de riesgo.
         Características.](#factores-de-riesgo.-características.)
         -   [3.2.1 Diagnóstico](#diagnóstico)
-            -   [3.2.1.1 Obesidad abdominal. Perímetro de cintura
+            -   [3.2.1.1 Obesidad. Perímetro de cintura
                 elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
-            -   [3.2.1.2 Resistencia a la insulina. Diabetes mellitus
-                tipo
-                II](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)
+            -   [3.2.1.2 Resistencia a la
+                insulina.](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)\
+                    *Diabetes mellitus tipo II*
             -   [3.2.1.3 Dislipemias](#dislipemias)\
                     *Colesterol*\
                     *Triglicéridos*
@@ -514,17 +514,17 @@ vez como instrumento de prevención y tratamiento del SM.
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que es indicador de un elevado riesgo cardiovascular y diabetes.
 
-Realizando un diagnóstico precoz podría prevenirse y retrasarse la
-aparición de estas patologías.
-
 Se conoce que las personas con SM tienen el doble de riesgo de padecer
 enfermedad cardiovascular y unas cinco veces mayor de sufrir diabetes.
+
+Realizando un diagnóstico precoz podría prevenirse y retrasarse la
+aparición de estas patologías.
 
 Del mismo modo, cuanto más tiempo estén expuestos a los factores de
 riesgo mayores serán los daños acumulados.
 
-Son varios los factores de riesgo para desarrollar síndrome metabólico,
-siendo habitual que en una persona confluyan varios de ellos a la vez.
+Son varios los factores de riesgo para desarrollarlo, siendo habitual
+que en una persona confluyan varios a la vez.
 
 Para confirmar un diagnóstico de SM, es necesario tener tres o más de
 estos factores:
@@ -533,8 +533,9 @@ estos factores:
     visceral evaluada por la circunferencia de cintura o por la relación
     cintura/cadera está relacionada con un aumento de riesgo de todas
     las causas de mortalidad en todo el rango de IMC ( indice masa
-    corporal). Es un factor de riesgo mayor para enfermedades del
-    corazón que acumular demasiada grasa en otras partes del cuerpo.
+    corporal).\
+    Es un factor de riesgo mayor para enfermedades del corazón que
+    acumular demasiada grasa en otras partes del cuerpo.
 -   **Nivel alto de triglicéridos**: un tipo de grasa que se encuentra
     en la sangre.
 -   **Nivel bajo de colesterol HDL**: En ocasiones, el HDL se conoce
