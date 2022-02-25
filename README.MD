@@ -31,8 +31,8 @@ Indice general
             -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)\
                     *SM en el hombre*\
                     *SM en la mujer*\
-                        *SM en el embarazo*\
-                        *SM en la menopausia*
+                        *SM en la menopausia*         *SM en el
+                embarazo*\
             -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
             -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
     -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
@@ -1289,8 +1289,10 @@ riesgo de desarrollar síndrome metabólico.
 Los estrógenos tienen un efecto protector, tienen funciones
 antioxidantes y antiinflamatorias, favorecen el perfil lipídico,
 aumentan la sensibilidad a la insulina y favorecen una menor grasa
-abdominal. Su pérdida tiene como consecuencia que en la mujer que se
-aumente el riesgo de SM, enfermedad cardiovascular y diabetes.
+abdominal. Su pérdida tiene como consecuencia que en la mujer se aumente
+el riesgo de SM, enfermedad cardiovascular y diabetes.
+
+**SM en la menopausia**
 
 La transición que experimenta la mujer durante la pre y postmenopausia,
 se asocia con la presentación o el desarrollo de características propias
@@ -1352,7 +1354,7 @@ mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
 vascular de gran vaso o afectación renal, síndrome de apnea obstructiva
 del sueño, alteración hepática y cáncer de endometrio.
 
-###### SM en el embarazo
+**SM en el embarazo**
 
 Puede decirse que el embarazo es un síndrome metabólico transitorio
 
