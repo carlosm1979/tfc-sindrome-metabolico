@@ -1010,10 +1010,10 @@ la sangre en la arteria causando un infarto de miocardio.
 Son grasas que se encuentran en determinados alimentos y también se
 producen en el hígado.
 
-Los triglicéridos circulan en la sangre mediante unas lipoproteínas que
-se producen en el intestino y en el hígado y se transportan a los
-tejidos donde se utilizan como una reserva de energía para cubrir las
-necesidades metabólicas de los músculos y el cerebro.
+Los triglicéridos circulan en la sangre mediante las lipoproteínas que
+los transportan a los tejidos donde se utilizan como una reserva de
+energía para cubrir las necesidades metabólicas de los músculos y el
+cerebro.
 
 Las causas más frecuentes de aumento de los triglicéridos son:
 
@@ -1050,7 +1050,7 @@ El valor a partir del cual se considera patológico, y que además es un
 importante factor de riesgo para las enfermedades cardiovasculares, es
 de **200 mg de colesterol/dl de sangre**.
 
-\pagebreak
+ 
 
   Valores normales y elevados del Perfil Lipídico   
   ------------------------------------------------- --------------------------------------------------------
