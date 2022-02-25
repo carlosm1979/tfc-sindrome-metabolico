@@ -570,7 +570,7 @@ indicadores de que un paciente puede desarrollar SM:
 
 ### Factores de riesgo como criterios de diagnóstico.
 
-#### 3.2.1.1 Obesidad abdominal. Perímetro de cintura elevado.
+#### 3.2.1.1 Obesidad. Perímetro de cintura elevado.
 
 La masa de grasa es el componente más variable en la composición
 corporal, tanto si se comparan varios individuos como si se consideran
@@ -608,9 +608,11 @@ páncreas) y muscular.
 
 -   Fenotipo ginoide: segmento inferior.
 
--   Fenotipo androide: segmento superior:
+-   Fenotipo androide: segmento superior (abdominal):
     -   Grasa subcutánea
-    -   Grasa interna + Visceral +Muscular
+    -   Grasa interna
+        -   Visceral
+        -   Muscular
 
 Los riesgos asociados al exceso de grasa se deben, a la localización de
 la grasa más que a la cantidad total, siendo la grasa acumulada en la
@@ -627,7 +629,7 @@ la buena salud.
 
 Además, la grasa visceral es un factor de riesgo independientemente de
 resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e
-hipertensión, todos criterios el SM
+hipertensión, todos criterios el SM.
 
 Este mayor factor de riesgo metabólico se define en individuos adultos
 por la medida de circunferencia de cintura y que es diferente entre
@@ -839,7 +841,7 @@ también a niños cosa que era impensable hace unos años que cuando se
 hablaba de diabetes infantil se asociaba directamente a la diabetes
 autoinmune de tipo I.
 
-u incidencia y prevalencia va en aumento, se calcula otros 350 millones
+Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
 de personas en todo el mundo con riesgo de desarrollar diabetes y es
 especialmente preocupante su crecimiento en la infancia.
 
@@ -848,7 +850,7 @@ especialmente preocupante su crecimiento en la infancia.
 #### 3.2.1.3 Dislipemias
 
 La dislipemia es una alteración de los lípidos en sangre y está asociada
-a riesgo cardiovascular levado.
+a riesgo cardiovascular elevado.
 
 Los pacientes con dislipemias presentan niveles de triglicéridos
 elevados, valores disminuidos de colesterol HDL y un aumento de las
@@ -867,8 +869,6 @@ comprobación analítica de la alteración lipídica.
                      Mujeres &lt; 50 mg/dl
 
  
-
-\pagebreak
 
 **Colesterol**
 
