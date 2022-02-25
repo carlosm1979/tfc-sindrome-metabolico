@@ -31,8 +31,8 @@ Indice general
             -   [3.2.3.1 SM en el adulto](#sm-en-el-adulto)\
                     *SM en el hombre*\
                     *SM en la mujer*\
-                        *SM en la menopausia*         *SM en el
-                embarazo*\
+                        *SM en la menopausia*\
+                        *SM en el embarazo*
             -   [3.2.3.2 SM en la infancia](#sm-en-la-infancia)
             -   [3.2.3.3 SM en la tercera edad](#sm-en-la-tercera-edad)
     -   [3.3 Tratamiento y prevención](#tratamiento-y-prevención)
