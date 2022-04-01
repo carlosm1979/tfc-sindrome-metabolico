@@ -636,11 +636,6 @@ La obesidad abdominal o visceral evaluada por la circunferencia de
 cintura o por la relación cintura/cadera está relacionada con un aumento
 de riesgo de todas las causas de mortalidad en todo el rango de IMC.
 
-Los riesgos asociados al exceso de grasa se deben, en parte, a la
-localización de la grasa, más que a la cantidad total, siendo la grasa
-acumulada en la región abdominal la que afecta de forma más negativa a
-la buena salud.
-
 Además, la grasa visceral es un factor de riesgo independientemente de
 resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e
 hipertensión, todos criterios el SM.
@@ -902,6 +897,21 @@ colesterol en la sangre y su depósito en las arterias puede ser
 peligroso y producir ateroesclerosis (estrechamiento o endurecimiento de
 las arterias por depósito de colesterol en sus paredes).
 
+Parte del exceso de colesterol puede depositarse en la pared arterial.
+Con el tiempo, va aumentando y forma la placa de ateroma. La placa puede
+estrechar los vasos y los hace menos flexibles, lo que produce la
+ateroesclerosis o endurecimiento de las arterias.
+
+Este proceso puede suceder en los vasos sanguíneos de cualquier parte
+del cuerpo, incluyendo las arterias del corazón (arterias coronarias).
+Si las arterias coronarias se bloquean por la placa de ateroma se impide
+que la sangre lleve el oxígeno y los nutrientes suficientes al músculo
+cardiaco. Esto produce dolor en el pecho o angina. Algunas placas con
+mucho colesterol se hacen inestables, tienen una fina cubierta y pueden
+romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que
+puede causar un coágulo o trombo sobre la placa que impide el flujo de
+la sangre en la arteria causando un infarto de miocardio.
+
 El colesterol es insoluble en los medios acuosos, por lo que se
 transporta en las lipoproteínas, constituidas por una parte lipídica o
 acuosa y otra proteica. Existen dos tipos diferentes de lipoproteínas
@@ -1003,21 +1013,6 @@ la hipertensión arterial y la diabetes mellitus.
 
 También puede ser causa de enfermedad cardiovascular el aumento de los
 triglicéridos y un colesterol-HDL bajo.
-
-Parte del exceso de colesterol puede depositarse en la pared arterial.
-Con el tiempo, va aumentando y forma la placa de ateroma. La placa puede
-estrechar los vasos y los hace menos flexibles, lo que produce la
-ateroesclerosis o endurecimiento de las arterias.
-
-Este proceso puede suceder en los vasos sanguíneos de cualquier parte
-del cuerpo, incluyendo las arterias del corazón (arterias coronarias).
-Si las arterias coronarias se bloquean por la placa de ateroma se impide
-que la sangre lleve el oxígeno y los nutrientes suficientes al músculo
-cardiaco. Esto produce dolor en el pecho o angina. Algunas placas con
-mucho colesterol se hacen inestables, tienen una fina cubierta y pueden
-romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que
-puede causar un coágulo o trombo sobre la placa que impide el flujo de
-la sangre en la arteria causando un infarto de miocardio.
 
 **Triglicéridos**
 
