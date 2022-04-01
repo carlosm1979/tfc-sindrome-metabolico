@@ -59,4 +59,4 @@
 12. [SM Descripción general](/docs/documentacion/027.md)
 13. [Sindrome metabólico](/docs/documentacion/028.pdf)
 14. [Síndrome metabólico: definición, historia, criterios](/docs/documentacion/037.md)
-
+15. [Prevalencia de síndrome metabólico en adultos en la encuesta estatal de salud y nutrición en Nuevo León 2015](/docs/documentacion/039.pdf)
