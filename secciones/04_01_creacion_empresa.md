@@ -1,0 +1,280 @@
+\pagebreak 
+
+## Creación empresa
+
+**CREACIÓN DE UN GABINETE DE NUTRICIÓN Y DIETÉTICA**
+
+Proyecto para poner en funcionamiento un gabinete de nutrición y
+dietética, con consulta para atención al público.
+
+Se expone cómo será la configuración del local, el análisis de riesgos y
+oportunidades del negocio, así como las acciones de promoción de la
+empresa. También una previsión de ingresos y gastos que puede tener el
+negocio.
+
+Por último se adjuntan los formularios relacionados con los trámites
+administrativos necesarios para constituir la empresa.
+
+
+
+### Pasos para montar la empresa
+
+*Nombre de la empresa*
+
+Beatriz Carro Dietista Nutricionista
+
+*Situación de la empresa*
+
+A Coruña
+
+*Descripción del plano del local*
+
+Local comercial de uso compartido con otro profesional sanitario,
+situado en zona de paso peatonal, en el que cada especialista tendrá su
+gabinete independiente.
+
+Espacios:
+
+**Gabinete de nutrición y dietética**
+
+Consulta de trabajo dividida en dos áreas:
+
+Área de despacho con escritorio donde poder recibir y hablar con los
+pacientes, con espacio para almacenar fichas de trabajo y documentación.
+
+Área donde estarán los aparatos de medición necesarios para atender a
+los pacientes y una camilla.
+
+**Gabinete del otro profesional sanitario**
+**Entrada y sala de espera**
+
+En la entrada del local, habrá una sala donde los pacientes de ambos
+gabinetes esperarán a ser atendidos.
+
+**Baño para pacientes adaptado a minusválidos.**
+**Baño para uso interno**
+
+\pagebreak
+
+### Plan DAFO
+
+
+#### Debilidades
+
+-   Empresa desconocida.
+-   Posible menor llegada de clientes nuevos por el poco conocimiento de
+    la población de los servicios que puede aportarle un dietista.
+
+*Como corregir*
+
+-   Darse a conocer con campaña de marketing.
+-   Tener presencia en redes sociales.
+-   Aprovechar las redes sociales para realizar una labor informativa
+    sobre los beneficios de contar con los servicios de una profesional
+    dietista.
+
+#### Amenazas
+
+-   Cambio de legislación que pueda interferir en el desarrollo de la
+    actividad.
+-   Proliferación de una mayor oferta de dietistas.
+-   Confusión de la población sobre la profesionalidad de la profesión
+    por culpa de la promoción de dietas y consejos sobre alimentación
+    por parte de gente no profesional a través de las redes sociales.
+
+*Como afrontar*
+
+-   Mantenerse informado y formado acerca de las novedades que surjan en
+    la profesión, de forma que las evoluciones que puedan provocar
+    cambios legislativos no nos cojan por sorpresa.
+-   Aprovechar al máximo nuestra situación de novedad en nuestra área
+    geográfica para posicionarnos adecuadamente frente a la futura
+    competencia.
+-   Aprovechar nuestras redes sociales aportando información profesional
+    y comprensible, de forma que a la vez nos demos a conocer y ayudemos
+    a que la población tenga una información adecuada.
+
+#### Fortalezas
+
+-   Ausencia del mismo tipo de oferta en la zona.
+-   Poder ir dándose a conocer sin asumir un riesgo elevado.
+-   Ubicación: Local comercial muy visible en calle muy transitada y
+    bien ubicada. Lugar muy transitado con muchos pequeños negocios.
+    Buen lugar para aparcar. Cerca de gran zona comercial Buena
+    comunicación transporte público.
+-   No es necesario una gran inversión inicial, lo que supone un menor
+    riesgo económico.
+-   Poder simultanear trabajo online.
+-   Flexibilidad para desplazarse a atendar a pacientes.
+-   Complementariedad con negocio con el que se comparte local.
+
+*Como mantener*
+
+-   Aprovechar que se ofrece un servicio novedoso en la zona para que la
+    gente nos tome como referencia de dietista al que pueden acudir.
+-   Mantener una relación fluida con el otro gabinete de forma que se
+    puedan crear sinergias que beneficien a ambos. Por ejemplo,
+    conociendo bien que servicios presta, e informándose de cuales de
+    los servicios de dietista pueden ser atractivos para los pacientes
+    del otro profesional.
+
+#### Oportunidades
+
+-   No excesiva cantidad de profesionales dietistas.
+-   Poder ampliar acceso a clientes vía online
+
+*Como explorar*
+
+-   Dependiendo del tipo de tratamiento que fuese necesario. Analizar
+    cuál sería una manera viable de poder atender de forma completa a un
+    paciente sin necesidad de realizar todas las consultas en
+    presencial, dando así más flexibilidad a las necesidades del
+    cliente.
+
+\pagebreak
+
+### Plan de Marketing
+
+**Campaña de buzoneo**
+
+Para darse a conocer en nuestra área geográfica más próxima (barrio).
+
+Campaña de publicidad en redes sociales:
+
+Permiten realizar campañas segmentando el área geográfica y los
+destinatarios a los que queremos llegar. Por lo que podemos realizar una
+campaña del ámbito de nuestra ciudad y enfocada, por ejemplo, a un rango
+de edad.
+
+**Página web y cuentas en redes sociales**
+
+Donde podemos dar información clara de donde estamos y que servicios
+ofrecemos.
+
+También serán una vía de comunicación directa con nuestros potenciales
+clientes.
+
+**Blog**
+
+Donde podemos escribir contenidos profesionales e interesantes sobre
+nutrición, contribuyendo a que exista contenido de calidad acerca de la
+nutrición. Esto mejorará la percepción y consciencia de la población
+acerca de la necesidad del trabajo de los dietistas.
+
+**Boca a boca**
+
+Dando a conocer a todos nuestros conocidos que estamos trabajando y que
+hacemos.
+
+\pagebreak
+
+### Plan financiero
+
+*Inversión inicial*
+
+Podría ser aportada con ahorros. La idea es empezar con la mínima
+inversión e intentar minimizar riesgos.
+
+| CONSULTA ||
+|---|-|
+| Mesa de despacho y silla | 200€ |
+| Dos sillas para paciente y acompañante | 60€ |
+| Estanterías y cajoneras | 100€ |
+| Material de escritorio (papel, lápices bolígrafos, etc.) | 60€ |
+| Ordenador e impresora | 800€ |
+| Material de consulta (papel para camilla, guantes) | 30€ |
+| **Subtotal consulta** | **1250€** |
+
+
+
+| SALA DE TRATAMIENTO ||
+|---|-|
+| Biombo | 35€ |
+| Camilla | 220€ |
+| Tensiómetro | 35€ |
+| Bascula de bioimpedancia | 45€ |
+| Tallímetro | 20€ |
+| Plicómetro | 10€ |
+| Cinta antropométrica | 6€ |
+| **Subtotal sala tratamiento** | 371€ |
+| **Total inversión inicial material** | **1621€** |
+
+\pagebreak
+
+### Plan gastos y beneficios de la empresa
+
+*Previsión de ingresos mensuales*
+
+Haciendo la previsión de tener un paciente al día:
+
+Primera consulta a una tarifa de 6o euros daría una cifra de 1200 euros
+a los que habría que sumar las tarifa a las consultas de revisión con
+unas tarifas de 30 euros la consulta serían 600 euros, lo que nos daría
+en total a percibir de 600 euros al mes.
+
+*Previsión de gastos*
+
+**Gastos generales (luz, agua, internet): incluidos en el alquiler del
+despacho.**
+
+
+| Gastos mensuales ||
+|---|-|
+| Alquiler | 300€ |
+| Pago cuota de autónomos | 60€ |
+| Gastos de gestores financieros | 60€ |
+| **Total gastos mensuales** | **420€** |
+
+| Gastos trimestrales ||
+|---|-|
+| Pago IRFP |  |
+
+
+| Gastos anuales ||
+|--------|-|
+| Impuesto actividades económicas (IAE) |  |
+| Seguro responsabilidad civil | 135€ |
+
+
+**Análisis**
+
+Ingresos mensuales: 2000 euros
+
+Gastos: 420 euros
+
+Cálculo de beneficios: 2000 – 420 =1580 euros.
+
+Sería necesario un mínimo de 8 a 10 pacientes al mes para poder
+subsistir asumiendo perdidas apoyándose en un colchón financiero inicial
+de unos seis mil euros para poder mantener abierta la consulta durante
+el primer año y poder analizar su viabilidad.
+
+### Papeles oficiales para gestionar la empresa (alta en la seguridad social, IAE, licencia del ayuntamiento para la apertura, etc.)
+
+*Titulación*: TSD (Técnico Superior Dietética)
+
+*Alta en IAE*: Grupo 839
+
+*Realizar la Inscripción en el Registro Mercantil*
+
+*Realizar la declaración censal de inicio de actividades*
+
+*Declaración censal*
+
+*Ley protección datos*
+
+RGPD
+
+Identificar los tratamientos que contengan datos de carácter personal.
+Que serán lo que contengan información de: empleados, pacientes,
+clientes o proveedores.
+
+Disponer de un Delegado de Protección de Datos en nuestro centro.
+
+Evaluación de Impacto en la Protección de Datos Personales
+
+*Seguros*
+
+Seguro de responsabilidad civil
+
+Responsabilidad Civil Patronal
