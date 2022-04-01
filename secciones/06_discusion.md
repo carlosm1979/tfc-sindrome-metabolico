@@ -14,18 +14,15 @@ Otra situación que se plantea, además de los diferentes criterios elegidos par
 
 Tampoco se contempla la importancia de tener unos factores de riesgo con respecto a otros, ni la importancia de tener tres, cuatro o cinco. 
 
- Por poner unos ejemplos:  
+Por poner unos ejemplos:
 
-¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros muy alterados que otro que se encuentra apenas por encima de los criterios de corte?
-
-¿Es lo mismo un paciente con glucemia en ayunas que otro que toma antidiabéticos orales?
-
-¿Ante dos pacientes diferentes, pero que reúnen igual número de criterios diagnósticos de SM el riesgo CV será el mismo?
-
-Dos pacientes diferentes con el mismo número de factores de riesgo, pero diferentes, ¿estarán expuestos al mismo riesgo?
+- ¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros muy alterados que otro que se encuentra apenas por encima de los criterios de corte?
+- ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma antidiabéticos orales?
+- ¿Ante dos pacientes diferentes, pero que reúnen igual número de criterios diagnósticos de SM el riesgo CV será el mismo?
+- Dos pacientes diferentes con el mismo número de factores de riesgo, pero diferentes, ¿estarán expuestos al mismo riesgo?
 
 En resumen, pueden darse múltiples circunstancias lo que hace difícil la unificación y evaluación del grado de riesgo. 
 
 Cabría decir entonces que quizás la mayor importancia del concepto de SM resida en que utilizarlo como una guía que hace más fácil identificar las condiciones de riesgo cardiovascular (CV) y Diabetes Mellitus 2 en los individuos. 
 
- Así se tendrá una mejor herramienta clínica para la detección y prevención de riesgo de estas enfermedades.
+Así se tendrá una mejor herramienta clínica para la detección y prevención de riesgo de estas enfermedades.

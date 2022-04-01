@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "pandoc -s secciones/*.md -o README.MD",
-    "to-markdown": "pandoc tfc-sindrome-metabolico.docx -t markdown -o tfc-sindrome-metabolico.md",
+    "to-markdown": "pandoc tfc-sindrome-metabolico.odt -t markdown -o tfc-sindrome-metabolico.md",
     "to-docx": "pandoc README.MD -t docx -o tfc-sindrome-metabolico.docx",
     "to-pdf": "pandoc -V mainfont=urwa030 -V fontsize=12pt -V geometry:top=0.8in -V geometry:right=0.8in -V geometry:bottom=0.8in -V geometry:left=0.8in README.MD -o tfc-sindrome-metabolico.pdf",
     "persist": "git commit -m $(date \"+%Y-%m-%d@%H:%M\")",
