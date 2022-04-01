@@ -2,17 +2,17 @@
 
 # 6. Discusión
 
-La definición de SM ha tenido muchas modificaciones y no se ha llegado a un criterio común entre las distintas asociaciones que lo han analizado. 
+La definición de SM ha tenido muchas modificaciones y no se ha llegado a un criterio común entre las distintas asociaciones que lo han analizado.
 
-La pregunta que cabe es si el SM es más que la suma de las partes.  
+La pregunta que cabe es si el SM es más que la suma de las partes.
 
-Cada uno de sus elementos ha sido estudiado en forma individual, demostrando su importancia como factor de riesgo, pero aún no hay acuerdo sobre cuáles deben constituirse dentro, y además parece que los diferentes grupos de estudio quisieran agregar un nuevo factor de riesgo. 
+Cada uno de sus elementos ha sido estudiado en forma individual, demostrando su importancia como factor de riesgo, pero aún no hay acuerdo sobre cuáles deben constituirse dentro, y además parece que los diferentes grupos de estudio quisieran agregar un nuevo factor de riesgo.
 
-Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía que se utilice, en consecuencia, no se llega a conocer la real magnitud del problema. Por ejemplo, la concepción original de Reaven considera a la RI como el factor inicial y fundamental del denominado síndrome X; sin embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta. Los investigadores deben considerar que, si utilizan varias guías en el mismo estudio para medir la prevalencia del SM, se obtendrán resultados diferentes, lo que puede impactar en las conclusiones que puedan obtener. 
+Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía que se utilice, en consecuencia, no se llega a conocer la real magnitud del problema. Por ejemplo, la concepción original de Reaven considera a la RI como el factor inicial y fundamental del denominado síndrome X; sin embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta. Los investigadores deben considerar que, si utilizan varias guías en el mismo estudio para medir la prevalencia del SM, se obtendrán resultados diferentes, lo que puede impactar en las conclusiones que puedan obtener.
 
-Otra situación que se plantea, además de los diferentes criterios elegidos para su diagnóstico, es que no se hace referencia a la importancia que pueden tener las diferentes patologías que lo forman. 
+Otra situación que se plantea, además de los diferentes criterios elegidos para su diagnóstico, es que no se hace referencia a la importancia que pueden tener las diferentes patologías que lo forman.
 
-Tampoco se contempla la importancia de tener unos factores de riesgo con respecto a otros, ni la importancia de tener tres, cuatro o cinco. 
+Tampoco se contempla la importancia de tener unos factores de riesgo con respecto a otros, ni la importancia de tener tres, cuatro o cinco.
 
 Por poner unos ejemplos:
 
