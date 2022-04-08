@@ -2,10 +2,34 @@
 
 # 7. Conclusión
 
-El síndrome metabólico es un estado fisiopatológico complejo que se origina principalmente por un desequilibrio en la ingesta de calorías y el gasto energético, pero también se ve afectado por la composición genética/epigenética del individuo, el predominio del estilo de vida sedentario sobre la actividad física y otros factores como la microbiota intestinal y la calidad y composición de los alimentos. No se puede prescribir un solo remedio para su erradicación o incluso su reducción. Al igual que en el control de otras epidemias, será muy importante la educación de la población sobre el peligro para la salud del síndrome metabólico.
+El síndrome metabólico es un estado fisiopatológico complejo que se caracteriza por obesidad abdominal, resistencia a la insulina, hipertensión e hiperglicemia. 
 
-En los países de ingresos medios el sobrepeso se ubica en el quinto lugar entre las diez mayores causas de enfermedad (al igual que en países desarrollados) y justo por debajo de la desnutrición, siendo la población de menores ingresos la más perjudicada. Por lo tanto, en los países pobres el riesgo de desarrollar obesidad es menor que el de padecer desnutrición. Es decir, que una persona pobre en un país pobre sufre escasez de alimentos sumado a un incremento en el gasto energético relacionado con el trabajo manual; en cambio, una persona pobre en un país de ingresos medios se expone a una abundancia de alimentos de mala calidad nutricional que además son económicos y fácilmente accesibles en mercados callejeros de grandes urbes, con el gasto energético menor en sus tareas laborales. En contraste, los individuos de mayores ingresos económicos que habitan en países de ingresos medios tienen mejor educación, cobertura de salud, mayor acceso a alimentos de mejor calidad y más tiempo libre para dedicarle a la actividad física. Por ello son en promedio más delgados y metabólicamente más sanos.
+Puede afirmarse que el aumento de la obesidad va en paralelo con el incremento del SM y que dos de las complicaciones más importantes que se relacionan con el SM son el desarrollo de enfermedades cardiovasculares y Diabetes Mellitus II. 
 
-Los factores de riesgo (a excepción del tabaquismo) era más elevado en aquellas personas con menores ingresos económicos y en los que tenían un nivel educativo más bajo.
+Su origen principal es desequilibrio en la ingesta de calorías y el gasto energético, pero también se ve afectado por la composición genética del individuo, el predominio del estilo de vida sedentario sobre la actividad física y otros factores como el microbiota intestinal y la calidad y composición de los alimentos. 
 
-Durante las últimas décadas, la sociedad ha experimentado cambios drásticos que han afectado al comportamiento y estilo de vida del ser humano. La mecanización en los puestos de trabajo, la globalización de la tecnología, la falta de tiempo y las mejoras en el transporte, son algunos de los aspectos que han llevado a un aumento en el consumo de comida rápida con un elevado aporte calórico y al sedentarismo. Estas circunstancias y coyunturas, han contribuido enormemente a que la obesidad sea considerada una pandemia. Este hecho no solo es un problema de los países industrializados, sino que también la obesidad va aumentando notablemente en los países en transición, ya que estos países están adquiriendo estilos de vida cada vez más parecidos a los occidentales, disminuyendo la actividad física y teniendo un consumo elevado de alimentos con alta densidad energética1.
+No se puede prescribir un solo remedio para su erradicación o incluso su reducción, pero hay que señalar que sólo en el 10% tiene un origen genético por lo será muy importante la educación de la población y la implicación de las distintas instituciones para la elaboración de un plan de educación y prevención de este síndrome que representa ya un problema de salud pública. 
+
+La pérdida de peso por una dieta adecuada y la actividad física es un factor fundamental para el manejo de estas patologías. Aunque no se alcance un normopeso, se sabe que las pérdidas entre 5/10 Kg han demostrado ser efectivas en la mejora de todas las patologías relacionadas. 
+
+Hay que señalar el papel importante que tiene la industria de la alimentación en este problema. Nos encontramos en una sociedad que tiene acceso a una gran cantidad y variedad de productos alimenticios de elaboración industrial, que, si bien tienen un control higiénico sanitario que garantiza que su consumo no va a producir un problema de salud en el corto plazo, en la mayoría de los casos no resulta así en el medio/ largo periodo de tiempo. 
+
+Este hecho va acompañado de unas fuertísimas campañas de publicidad por parte de la industria alimentaria, que en muchas ocasiones promociona productos con una dudosa calidad, como productos saludables y recomendables para mantener o recuperar una buena salud, cuando eso está muy lejos de la realidad. Esto es particularmente importante y grave en los productos destinado al consumo infantil y serían las instituciones oficiales correspondientes las que tendrían que promover unas legislaciones que protegiesen la salud de las personas, siendo su responsabilidad advertir sobre los riesgos de la comida basura estableciendo cargas impositivas y regulando la propaganda, sobre todo la dirigida a menores de edad. 
+
+Por otro lado, hay que comentar los factores sociales, culturales y económicos y como afectan a la alimentación y salud de los individuos. 
+
+Es un problema que ya no afecta solo a los países industrializados, sino que también ha aumentado notablemente en los países en transición, ya que estos países están adquiriendo estilos de vida cada vez más parecidos a los occidentales, disminuyendo la actividad física y teniendo un consumo elevado de alimentos con alta cantidad energética. 
+
+En los países de ingresos medios el sobrepeso se ubica en el quinto lugar entre las diez mayores causas de enfermedad (al igual que en países desarrollados) y justo por debajo de la desnutrición, siendo la población de menores ingresos la más perjudicada. 
+
+En los países pobres el riesgo de desarrollar obesidad es menor que el de padecer desnutrición. 
+
+Es decir, que una persona pobre en un país pobre sufre escasez de alimentos sumado a un incremento en el gasto energético relacionado con el trabajo manual; en cambio, una persona pobre en un país de ingresos medios se expone a una abundancia de alimentos de mala calidad nutricional que además son económicos y fácilmente accesibles en mercados callejeros de grandes urbes, con el gasto energético menor en sus tareas laborales. 
+
+En contraste, los individuos de mayores ingresos económicos que habitan en países de ingresos medios tienen mejor educación, cobertura de salud, mayor acceso a alimentos de mejor calidad y más tiempo libre para dedicarle a la actividad física. Por ello son en promedio más delgados y metabólicamente más sanos. 
+
+En resumen, los factores de riesgo (a excepción del tabaquismo) son más elevados en aquellas personas con menores ingresos económicos y en los que tienen un nivel educativo más bajo. 
+
+Para terminar, decir que la evidencia científica parece destacar que una alimentación baja en grasa, con un contenido moderadamente alto en proteínas, HdC de bajo índice glucémico y adecuada al patrón de dieta mediterráneas es efectivo para mantener el peso tras un periodo de pérdida para reducir todos los factores que engloban el SM, incluida la DM2 
+
+Así pues, en la salud todo suma o resta y en el desarrollo o erradicación del SM no es una excepción. 
