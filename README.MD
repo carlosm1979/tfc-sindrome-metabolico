@@ -1954,39 +1954,41 @@ Paciente
 
 Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
 ….... Superior a 30 supone Obesidad grado I). Perímetro de cintura 103
-cm (mayor o igual de 88 es de riesgo para enfermedades cardiovasculares
-y diabetes según criterio de la OMS). Perímetro de cadera 110 cm,
-perímetro de pantorrilla 39,5 cm, perímetro de muslo 57cm y perímetro de
-muñeca 16.5 cm. (157 /16,5 =9,8), se trata por tanto de una mujer de
-complexión mediana.
+cm (perímetro de cintura mayor de 88 cm por lo que es de riesgo para
+enfermedades cardiovasculares y diabetes según criterio de la OMS).
+Perímetro de cadera 110 cm, perímetro de pantorrilla 39,5 cm, perímetro
+de muslo 57cm y perímetro de muñeca 16.5 cm. Se trata de una mujer de
+complexión mediana (157/16,5= 9,8 al encontrarse dentro del valor de
+referencia de 10,1/11)
 
 Los objetivos al inicio de la consulta son la pérdida de peso y
 adquisición de hábitos saludables. Comenta no tener prisa en ello y
 tener la sensación subjetiva de buena salud. Sin embargo, al analizar la
 analítica y datos que me facilita observo que tiene Diabetes tipo II,
-hipercolesterolemia, hipertensión, obesidad grado I, lo que conlleva 4
-de las 5 características que conforman el síndrome metabólico.
+hipercolesterolemia e hipertensión, que unido a un perímetro de cintura
+elevado conforma 4 de los 5 factores de riesgo que se tienen en cuenta
+para determinar la existencia del llamado Síndrome Metabólico (SM).
 
-Está realizando tratamiento hipolipemiante para control de colesterol e
-hipoglucemiante oral por indicación de su médico de cabecera.
+Está realizando **tratamiento** hipolipemiante para control de
+colesterol e hipoglucemiante oral por indicación de su médico de
+cabecera.
 
--   Atorvastatina 40 mg una vez al día en las mañanas ((para la
+-   *Atorvastina 40 mg* una vez al día en las mañanas ((para la
     disminución de colesterol en sangre y prevención enfermedades
     cardiovasculares).
 
--   Metformina 850 mg una vez al día en los mediodías (antidiabético
+-   *Metformina 850 mg* una vez al día en los mediodías (antidiabético
     oral).
 
 No refiere alergias ni operaciones.
 
-**Antecedentes familiares**
-
-Refiere enfermedad coronaria precoz en familiares de primer grado.
+**Antecedentes familiares**: refiere enfermedad coronaria precoz en
+familiares de primer grado.
 
 Padre: IAM (infarto agudo de miocárdico), cirugía valvular y ACV
 (accidente cerebro bascular).
 
-Madre: Diabetes tipo II.
+Madre: Diabetes tipo II
 
 Dice tener una alimentación variada y unos horarios establecidos para
 las comidas, aunque la falta de tiempo para cocinar le obliga a cocinar
@@ -1994,13 +1996,14 @@ el almuerzo el día anterior y aunque come pocos fritos sus menús más
 habituales son los guisos. Realiza un picoteo frecuente a lo largo del
 día y consumo de bollería industrial en el café de media mañana.
 
-El consumo de alcoholes de vino o cerveza ligados a comidas familiares o
-con amigos los fines de semana.
+El consumo de alcohol es de vino o cerveza ligados a comidas familiares
+o con amigos los fines de semana.
 
 No fumadora.
 
 A la pregunta sobre si realiza algún tipo de actividad física refiere
-caminar una hora al día a paso ligero cuando el tiempo se lo permite.
+caminar una hora al día a paso ligero cuando el tiempo se lo permite,
+aunque que últimamente lo hace menos.
 
 ### Objetivos
 
@@ -2008,26 +2011,6 @@ Los objetivos a realizar son la pérdida de peso y la adquisición de unos
 hábitos saludables que pueda mantener en el tiempo como medio de control
 de sus patologías y comprobar con ello si puede producirse una reducción
 o suspensión de la medicación que actualmente tiene pautada.
-
-El cálculo de gasto de energía del metabolismo basal en reposo lo
-realizo por la fórmula de Harris y Benedict dando un resultado de una
-TMR de 1210 kcal.
-
-La energía del trabajo es de 363 kcal., el 30% del MB que corresponde
-con una actividad ligera. Mientras que la energía de la termogénesis o
-ADE es de 121 kcal que corresponde al 10% del metabolismo basal.
-
-Así tendremos una paciente con un gasto energético total de 1694 kcal.
-
-Para el cálculo de proteínas que voy a darle utilizo un índice de masa
-corporal de 29, inferior al de 33 que es el que tiene, lo que da como
-resultado un “peso ideal” de 71,5 kg. La cantidad de proteína que le
-daré será de n 1,2 gr por kg y día (supondrá un total de ....) para
-saciarla y que ayude a la formación de masa muscular.
-
-Para el cálculo de los lípidos tomaré como porcentaje el 25% del total
-de la dieta a ingerir debido a que estamos ante un paciente con
-patologías lipídicas.
 
 \pagebreak
 
@@ -2037,6 +2020,30 @@ patologías lipídicas.
 En este apartado deberéis incluir los resultados de las encuestas y los
 resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
+La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
+tipo I.
+
+El peso actual es de 74 kg con un IMC de 30 lo que la sitúa en el límite
+entre sobrepeso y obesidad.
+
+La pérdida de peso se ha producido de forma progresiva y casi matemática
+de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
+
+**Refiere**:
+
+-   Encontrarse mejor físicamente.\
+-   Dormir mejor.\
+-   Comenta que antes se encontraba más cansada física y mentalmente.
+    Dice encontrarse con más energía y más alegría lo que le supone un
+    mayor bienestar emocional.\
+-   Manifiesta encontrarse más alegre y con mejor ánimo.\
+-   Comenta que hay semanas que le cuesta más mantener los menús y otras
+    menos, pero en general lo lleva bien y aunque tiene un día libre el
+    fin de semana procura no pasarse y comer “con cabeza”.
+
+La paciente manifiesta encontrarse contenta y animada a seguir hasta
+conseguir los resultados que habíamos acordado.
+
 \pagebreak
 
 6. Discusión
@@ -2045,19 +2052,26 @@ resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 La definición de SM ha tenido muchas modificaciones y no se ha llegado a
 un criterio común entre las distintas asociaciones que lo han analizado.
 
-La pregunta que cabe es si el SM es más que la suma de las partes.
-
 Cada uno de sus elementos ha sido estudiado en forma individual,
 demostrando su importancia como factor de riesgo, pero aún no hay
 acuerdo sobre cuáles deben constituirse dentro, y además parece que los
 diferentes grupos de estudio quisieran agregar un nuevo factor de
 riesgo.
 
-Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía
-que se utilice, en consecuencia, no se llega a conocer la real magnitud
-del problema. Por ejemplo, la concepción original de Reaven considera a
-la RI como el factor inicial y fundamental del denominado síndrome X;
-sin embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta.
+La pregunta que cabe es si el SM es más que la suma de las partes.
+
+Hay estudios que dicen que la utilización de los factores de riesgo
+cardiovasculares (FRCV) es suficiente para prevenir el riesgo
+cardiovascular en las personas, por lo cual no consideran necesario
+acudir a la aplicación de las guías de SM.
+
+Por otro lado, se ha demostrado que la prevalencia del SM varía de
+acuerdo a la guía que se utilice, en consecuencia, no se llega a conocer
+la real magnitud del problema. Por ejemplo, la concepción original de
+Reaven considera a la RI como el factor inicial y fundamental del
+denominado síndrome X; sin embargo, sólo la OMS y el grupo de estudio
+EGIR lo toman en cuenta.
+
 Los investigadores deben considerar que, si utilizan varias guías en el
 mismo estudio para medir la prevalencia del SM, se obtendrán resultados
 diferentes, lo que puede impactar en las conclusiones que puedan
@@ -2074,11 +2088,11 @@ Por poner unos ejemplos:
 
 -   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
     parámetros muy alterados que otro que se encuentra apenas por encima
-    de los criterios de corte?
+    de los criterios de corte?\
 -   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
-    antidiabéticos orales?
+    antidiabéticos orales?\
 -   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
-    criterios diagnósticos de SM el riesgo CV será el mismo?
+    criterios diagnósticos de SM el riesgo CV será el mismo?\
 -   Dos pacientes diferentes con el mismo número de factores de riesgo,
     pero diferentes, ¿estarán expuestos al mismo riesgo?
 
@@ -2091,58 +2105,103 @@ las condiciones de riesgo cardiovascular (CV) y Diabetes Mellitus 2 en
 los individuos.
 
 Así se tendrá una mejor herramienta clínica para la detección y
-prevención de riesgo de estas enfermedades.
-
-\pagebreak
+prevención de riesgo de estas enfermedades. \pagebreak
 
 7. Conclusión
 =============
 
 El síndrome metabólico es un estado fisiopatológico complejo que se
-origina principalmente por un desequilibrio en la ingesta de calorías y
-el gasto energético, pero también se ve afectado por la composición
-genética/epigenética del individuo, el predominio del estilo de vida
-sedentario sobre la actividad física y otros factores como la microbiota
-intestinal y la calidad y composición de los alimentos. No se puede
-prescribir un solo remedio para su erradicación o incluso su reducción.
-Al igual que en el control de otras epidemias, será muy importante la
-educación de la población sobre el peligro para la salud del síndrome
-metabólico.
+caracteriza por obesidad abdominal, resistencia a la insulina,
+hipertensión e hiperglicemia.
+
+Puede afirmarse que el aumento de la obesidad va en paralelo con el
+incremento del SM y que dos de las complicaciones más importantes que se
+relacionan con el SM son el desarrollo de enfermedades cardiovasculares
+y Diabetes Mellitus II.
+
+Su origen principal es desequilibrio en la ingesta de calorías y el
+gasto energético, pero también se ve afectado por la composición
+genética del individuo, el predominio del estilo de vida sedentario
+sobre la actividad física y otros factores como el microbiota intestinal
+y la calidad y composición de los alimentos.
+
+No se puede prescribir un solo remedio para su erradicación o incluso su
+reducción, pero hay que señalar que sólo en el 10% tiene un origen
+genético por lo será muy importante la educación de la población y la
+implicación de las distintas instituciones para la elaboración de un
+plan de educación y prevención de este síndrome que representa ya un
+problema de salud pública.
+
+La pérdida de peso por una dieta adecuada y la actividad física es un
+factor fundamental para el manejo de estas patologías. Aunque no se
+alcance un normopeso, se sabe que las pérdidas entre 5/10 Kg han
+demostrado ser efectivas en la mejora de todas las patologías
+relacionadas.
+
+Hay que señalar el papel importante que tiene la industria de la
+alimentación en este problema. Nos encontramos en una sociedad que tiene
+acceso a una gran cantidad y variedad de productos alimenticios de
+elaboración industrial, que, si bien tienen un control higiénico
+sanitario que garantiza que su consumo no va a producir un problema de
+salud en el corto plazo, en la mayoría de los casos no resulta así en el
+medio/ largo periodo de tiempo.
+
+Este hecho va acompañado de unas fuertísimas campañas de publicidad por
+parte de la industria alimentaria, que en muchas ocasiones promociona
+productos con una dudosa calidad, como productos saludables y
+recomendables para mantener o recuperar una buena salud, cuando eso está
+muy lejos de la realidad. Esto es particularmente importante y grave en
+los productos destinado al consumo infantil y serían las instituciones
+oficiales correspondientes las que tendrían que promover unas
+legislaciones que protegiesen la salud de las personas, siendo su
+responsabilidad advertir sobre los riesgos de la comida basura
+estableciendo cargas impositivas y regulando la propaganda, sobre todo
+la dirigida a menores de edad.
+
+Por otro lado, hay que comentar los factores sociales, culturales y
+económicos y como afectan a la alimentación y salud de los individuos.
+
+Es un problema que ya no afecta solo a los países industrializados, sino
+que también ha aumentado notablemente en los países en transición, ya
+que estos países están adquiriendo estilos de vida cada vez más
+parecidos a los occidentales, disminuyendo la actividad física y
+teniendo un consumo elevado de alimentos con alta cantidad energética.
 
 En los países de ingresos medios el sobrepeso se ubica en el quinto
 lugar entre las diez mayores causas de enfermedad (al igual que en
 países desarrollados) y justo por debajo de la desnutrición, siendo la
-población de menores ingresos la más perjudicada. Por lo tanto, en los
-países pobres el riesgo de desarrollar obesidad es menor que el de
-padecer desnutrición. Es decir, que una persona pobre en un país pobre
-sufre escasez de alimentos sumado a un incremento en el gasto energético
-relacionado con el trabajo manual; en cambio, una persona pobre en un
-país de ingresos medios se expone a una abundancia de alimentos de mala
-calidad nutricional que además son económicos y fácilmente accesibles en
+población de menores ingresos la más perjudicada.
+
+En los países pobres el riesgo de desarrollar obesidad es menor que el
+de padecer desnutrición.
+
+Es decir, que una persona pobre en un país pobre sufre escasez de
+alimentos sumado a un incremento en el gasto energético relacionado con
+el trabajo manual; en cambio, una persona pobre en un país de ingresos
+medios se expone a una abundancia de alimentos de mala calidad
+nutricional que además son económicos y fácilmente accesibles en
 mercados callejeros de grandes urbes, con el gasto energético menor en
-sus tareas laborales. En contraste, los individuos de mayores ingresos
-económicos que habitan en países de ingresos medios tienen mejor
-educación, cobertura de salud, mayor acceso a alimentos de mejor calidad
-y más tiempo libre para dedicarle a la actividad física. Por ello son en
-promedio más delgados y metabólicamente más sanos.
+sus tareas laborales.
 
-Los factores de riesgo (a excepción del tabaquismo) era más elevado en
-aquellas personas con menores ingresos económicos y en los que tenían un
-nivel educativo más bajo.
+En contraste, los individuos de mayores ingresos económicos que habitan
+en países de ingresos medios tienen mejor educación, cobertura de salud,
+mayor acceso a alimentos de mejor calidad y más tiempo libre para
+dedicarle a la actividad física. Por ello son en promedio más delgados y
+metabólicamente más sanos.
 
-Durante las últimas décadas, la sociedad ha experimentado cambios
-drásticos que han afectado al comportamiento y estilo de vida del ser
-humano. La mecanización en los puestos de trabajo, la globalización de
-la tecnología, la falta de tiempo y las mejoras en el transporte, son
-algunos de los aspectos que han llevado a un aumento en el consumo de
-comida rápida con un elevado aporte calórico y al sedentarismo. Estas
-circunstancias y coyunturas, han contribuido enormemente a que la
-obesidad sea considerada una pandemia. Este hecho no solo es un problema
-de los países industrializados, sino que también la obesidad va
-aumentando notablemente en los países en transición, ya que estos países
-están adquiriendo estilos de vida cada vez más parecidos a los
-occidentales, disminuyendo la actividad física y teniendo un consumo
-elevado de alimentos con alta densidad energética1.
+En resumen, los factores de riesgo (a excepción del tabaquismo) son más
+elevados en aquellas personas con menores ingresos económicos y en los
+que tienen un nivel educativo más bajo.
+
+Para terminar, decir que la evidencia científica parece destacar que una
+alimentación baja en grasa, con un contenido moderadamente alto en
+proteínas, HdC de bajo índice glucémico y adecuada al patrón de dieta
+mediterráneas es efectivo para mantener el peso tras un periodo de
+pérdida para reducir todos los factores que engloban el SM, incluida la
+DM2
+
+Así pues, en la salud todo suma o resta y en el desarrollo o
+erradicación del SM no es una excepción.
 
 \pagebreak
 
