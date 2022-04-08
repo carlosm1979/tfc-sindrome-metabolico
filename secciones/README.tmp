@@ -1,0 +1,1702 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="el-síndrome-metabólico">El síndrome metabólico</h1>
+<h2 id="beatriz-carro-otero">Beatriz Carro Otero</h2>
+
+<h1 id="indice-general">Indice general</h1>
+<ul>
+<li><a href="#introducción">1. Introduccion</a></li>
+<li><a href="#objetivos">2. Objetivos</a></li>
+<li><a href="#parte-teórica">3. El síndrome metabólico</a>
+<ul>
+<li><a href="#que-es">3.1 Que es</a></li>
+<li><a href="#factores-de-riesgo.-características.">3.2 Factores de riesgo. Características.</a>
+<ul>
+<li><a href="#diagnóstico">3.2.1 Diagnóstico</a>
+<ul>
+<li><a href="#obesidad-abdominal.perímetro-de-cintura-elevado.">3.2.1.1 Obesidad. Perímetro de cintura elevado.</a></li>
+<li><a href="#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii">3.2.1.2 Resistencia a la insulina.</a><br />
+    <em>Diabetes mellitus tipo II</em></li>
+<li><a href="#dislipemias">3.2.1.3 Dislipemias</a><br />
+    <em>Colesterol</em><br />
+    <em>Triglicéridos</em></li>
+<li><a href="#hipertensión-arterial">3.2.1.4 Hipertensión arterial</a></li>
+</ul></li>
+<li><a href="#desarrollo-fisiopatológico-del-sm">3.2.2 Desarrollo fisiopatológico del SM</a></li>
+<li><a href="#por-grupos-de-población">3.2.3 Por grupos de población</a>
+<ul>
+<li><a href="#sm-en-el-adulto">3.2.3.1 SM en el adulto</a><br />
+    <em>SM en el hombre</em><br />
+    <em>SM en la mujer</em><br />
+        <em>SM en la menopausia</em><br />
+        <em>SM en el embarazo</em></li>
+<li><a href="#sm-en-la-infancia">3.2.3.2 SM en la infancia</a></li>
+<li><a href="#sm-en-la-tercera-edad">3.2.3.3 SM en la tercera edad</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#tratamiento-y-prevención">3.3 Tratamiento y prevención</a>
+<ul>
+<li><a href="#relación-con-la-alimentación">3.3.1 Relación con la alimentación</a></li>
+<li><a href="#hábitos-de-vida">3.3.2 Hábitos de vida</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#material-y-métodos">4. Material y métodos</a>
+<ul>
+<li><a href="">Creación empresa</a></li>
+</ul></li>
+<li><a href="#resultados">5. Resultados</a></li>
+<li><a href="#difusión">6. Discusión</a></li>
+<li><a href="#discusión">7. Conclusión</a></li>
+<li><a href="#bibliografía">8. Bibliografía</a></li>
+</ul>
+
+<h1 id="indice-tablas">Indice tablas</h1>
+<table style="width:28%;">
+<colgroup>
+<col width="22%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="right">Página</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Criterios de diagnóstico OMS</td>
+<td align="right">6</td>
+</tr>
+<tr class="even">
+<td align="left">Criterios de diagnóstico EGIR</td>
+<td align="right">7</td>
+</tr>
+<tr class="odd">
+<td align="left">Criterios de diagnóstico ATP III</td>
+<td align="right">8</td>
+</tr>
+<tr class="even">
+<td align="left">Criterios de diagnóstico de la Asociación americana de endocrinología</td>
+<td align="right">9</td>
+</tr>
+<tr class="odd">
+<td align="left">Factores de riesgo de SM de la Asociación americana de endocrinología</td>
+<td align="right">9</td>
+</tr>
+<tr class="even">
+<td align="left">Criterios diagnostico Federación Internacional de Diabetes</td>
+<td align="right">11</td>
+</tr>
+<tr class="odd">
+<td align="left">Valores de circunferencia abdominal indicándose la especificidad étnica</td>
+<td align="right">12</td>
+</tr>
+<tr class="even">
+<td align="left">Medida de circunferencia de cintura para diagnóstico de SM</td>
+<td align="right">15</td>
+</tr>
+<tr class="odd">
+<td align="left">Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular</td>
+<td align="right">15</td>
+</tr>
+<tr class="even">
+<td align="left">Valores de glucemia para diagnóstico Diabetes</td>
+<td align="right">17</td>
+</tr>
+<tr class="odd">
+<td align="left">Principales funciones antiaterogénicas de las HDL</td>
+<td align="right">20</td>
+</tr>
+<tr class="even">
+<td align="left">Valores normales y elevados del Perfil Lipídico</td>
+<td align="right">23</td>
+</tr>
+<tr class="odd">
+<td align="left">Criterios de síndrome metabólico en la infancia y adolescencia de la International Diabetes Federation</td>
+<td align="right">31</td>
+</tr>
+</tbody>
+</table>
+
+<h1 id="introducción">1. Introducción</h1>
+<p>A lo largo del último siglo nuestros hábitos de vida han cambiado enormemente, volviéndose progresivamente más sedentarios, por lo que la cantidad de energía que consumimos para nuestra actividad diaria ha disminuido. En paralelo, en nuestra alimentación ha aumentado la proporción de productos de elaboración industrial, que conllevan una elevada cantidad de aporte calórico a partir de alimentos, en muchas ocasiones, de mala calidad.</p>
+<p>A esto nos enfrentamos con la misma maquinaria metabólica de nuestros antepasados.</p>
+<p>Esta rápida evolución cultural no va acompasada con lo que ha sido nuestra evolución biológica a través de los siglos. Nuestros antepasados se alimentaban de la caza, la pesca y la recolección, lo que les suponía una gran actividad física con un gasto enorme de energía. Esta dificultad para conseguir alimento los llevaba a comer en abundancia cuando tenían comida, y a largos periodos de tiempo de escasez de alimento. Es por ello que la selección natural ha premiado a aquellos individuos con una mayor capacidad para acumular grasas, ya que así aumentaban su capacidad de supervivencia en épocas de escasez.</p>
+<p>Se puede decir entonces que la obesidad es tan antigua como la humanidad, y que se consideraba como una garantía de supervivencia ante las enfermedades y la incertidumbre por la cantidad de alimento disponible. Por ello era considerada como buena, deseable e incluso como símbolo de estatus y belleza.</p>
+<p>Esto se trasladó también al criterio médico, ya que desde finales del s. XIX y hasta principios del s. XX se pensaba que tener exceso de peso era saludable y servía de protección contra enfermedades, mientras que ser delgado no era sano y se atribuía a enfermedades nerviosas.</p>
+<p>Las consecuencias de lo anteriormente descrito se ven en las enfermedades que mayor carga de morbimortalidad producen en el mundo entero (enfermedades cardiovasculares).</p>
+<p>Es a partir de los años 20 cuando el conocimiento acerca de las consecuencias negativas de la obesidad para la salud ha ido aumentando. Ya en 1923 Eskil Kylin, un médico sueco, definió la asociación entre hipertensión, hiperglicemia y gota. En los años 30 la comunidad médica lo aceptaba como un problema.</p>
+<p>A partir de los años 60 comienzan los estudios a sobre la obesidad como una patología. También aumenta el conocimiento acerca de la grasa, que se entiende como un órgano con sus propias hormonas, genética y biología celular.</p>
+<p>El primer intento de definición del conjunto de patologías relacionadas con la obesidad y sus consecuencias negativas para la salud lo realizó Gerarld Reaven en 1988, cuando llamó 'síndrome X' a la agrupación de Resistencia a la insulina (RI), dislipidemia e hipertensión.</p>
+<p>Con posterioridad serán varias las asociaciones internacionales que procurarán establecer criterios de diagnóstico para este síndrome al que se referirán cada una de ellas de diferente manera y con variedad de criterios, siendo finalmente reconocido su nombre como Síndrome Metabólico (SM) por la OMS en 1999.</p>
+
+<h1 id="objetivos">2. Objetivos</h1>
+<pre><code>- Obtener información sobre que es el S. Metabólico  
+- Estudiar la importancia de la alimentación en su aparición  
+- Definir pautas para prevenir y controlar su desarrollo  
+- Investigar que conocimiento tiene la población acerca de este síndrome  </code></pre>
+<p>Este proyecto busca hacer una recopilación de la información que se tiene actualmente acerca del SM. Enfocándose en los aspectos relacionados con la alimentación que afectan en las diversas enfermedades que lo componen.</p>
+<p>También definir tratamientos y hábitos de vida que ayudarían a tratarlo y prevenirlo.</p>
+<p>Finalmente se busca determinar el conocimiento que tiene la población acerca del SM, y de como los hábitos de vida y de alimentación afectan la aparición de las alteraciones de salud que lo componen.</p>
+
+<h1 id="el-síndrome-metabólico-1">3. El Síndrome metabólico</h1>
+<h2 id="que-es">3.1 Que es</h2>
+<p>Es un grupo de factores de riesgo para desarrollo de enfermedad cardiovascular y diabetes mellitus II. El SM como tal no es una enfermedad.</p>
+<h4 id="oms">OMS</h4>
+<p>Después de la definición dada por Gerarld Reaven, en 1999 la OMS cambió la denominación a 'Síndrome metabólico', y estableció una definición en la que considera que hay evidencia de que la RI como el factor causal común de los componentes individuales del síndrome metabólico, aunque afectando de forma diferente a cada uno de ellos. También que cada uno es un factor de riesgo cardiovascular por si mismo, pero en combinación son mucho más potentes, y que el tratamiento no debe enfocarse únicamente al control de la glucosa, si no incluir también estrategias para reducir los factores de riesgo cardiovascular.</p>
+<p> </p>
+<table style="width:8%;">
+<colgroup>
+<col width="2%" />
+<col width="5%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterios de diagnóstico OMS</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><em>Definitivo</em></td>
+<td>Intolerancia a la glucosa o tolerancia anormal a la glucosa o diabetes mellitus, resistencia a la insulina, o ambos</td>
+</tr>
+<tr class="even">
+<td><em>Dos o más de los siguientes componentes</em></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Alteración en la regulación de glucosa o diabetes</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Resistencia a la insulina</strong></td>
+<td>(en condiciones hiperinsulinémicas y euglicémicas, con una captura de glucosa por debajo del menor cuartil para la población de base de la investigación)</td>
+</tr>
+<tr class="odd">
+<td><strong>Presión arterial elevada</strong></td>
+<td>(<code>&gt;</code>= 140/90 mmHg)</td>
+</tr>
+<tr class="even">
+<td><strong>Elevación de triglicéridos plasmáticos</strong></td>
+<td>(<code>&gt;</code>= 1.7 mmol/L; 150 mg/dL),99 disminución de colesterol HDL &lt; 0.9 mmol/L, 35 mg/dL en hombres; &lt; 1.0 mmol/L, 39 mg/dL en mujeres, o ambos</td>
+</tr>
+<tr class="odd">
+<td><strong>Obesidad central</strong></td>
+<td>índice de cintura-cadera: hombres <code>&gt;</code> 0.90; mujeres <code>&gt;</code> 0.85, IMC <code>&gt;</code> 30 kg/m2 o ambos</td>
+</tr>
+<tr class="even">
+<td><strong>Microalbuminuria</strong></td>
+<td>99 índice de excreción urinaria de albúmina de 20 mg/min o índice albúmina-creatinina <code>&gt;</code> 30 mg/g</td>
+</tr>
+</tbody>
+</table>
+
+<p>A lo largo de los años diversos investigadores e instituciones internacionales han buscado establecer criterios para acotarlo, buscando definir la lista de factores que lo componen.</p>
+<h4 id="grupo-europeo-para-el-estudio-de-la-resistencia-a-la-insulina-egir">Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)</h4>
+<p>En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR) debido a que el síndrome incluye características no metabólicas, consideraron que era más apropiado llamarlo “síndrome de resistencia a la insulina”. Además, sugiere una definición para individuos no diabéticos, en los que el síndrome se distinga por resistencia a la insulina o hiperinsulinemia en ayuno y dos de los siguientes parámetros:</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterios de diagnóstico EGIR</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>hiperglucemia</strong></td>
+<td>glucosa en ayuno <code>&gt;</code>= 6.1 mmol/L</td>
+</tr>
+<tr class="even">
+<td><strong>hipertensión arterial</strong></td>
+<td><code>&gt;</code>= 140/90 mmHg o en tratamiento</td>
+</tr>
+<tr class="odd">
+<td><strong>dislipidemia</strong></td>
+<td>triglicéridos &gt; 2.0 mmol/L</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>o colesterol HDL &lt; 1.0 mmol/L</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>o en tratamiento</td>
+</tr>
+<tr class="even">
+<td><strong>obesidad central</strong></td>
+<td>circunferencia de la cintura:</td>
+</tr>
+<tr class="odd">
+<td>hombres</td>
+<td><code>&gt;</code>= 94 cm</td>
+</tr>
+<tr class="even">
+<td>mujeres</td>
+<td><code>&gt;</code>= 80 cm</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Los autores establecieron que la obesidad medida por el IMC no se considera parte del síndrome y que se ha demostrado que la microalbuminuria se relaciona con concentraciones de insulina, por lo que debe ser suprimida.</p>
+
+<h4 id="atp-iii">ATP-III</h4>
+<p>En 2002 el Panel de Expertos en la Detección, Evaluación y Tratamiento de Colesterol Elevado en Sangre, propuesto por el Tercer Reporte del Programa Nacional de Educación del Colesterol de Estados Unidos publicó su lista de criterios, conocida como ATP-III. Comentaron la alta prevalencia del síndrome, la ausencia de criterios bien aceptados para su diagnóstico y que los factores generalmente aceptados para constituirlo eran obesidad abdominal, dislipidemia aterogénica, aumento de la presión arterial, resistencia a la insulina, intolerancia a la glucosa o ambas, estado protrombótico y estado proinflamatorio.</p>
+<p>No consideró necesario recomendar una medición rutinaria de resistencia a la insulina, pues asumen que la mayor parte de los sujetos que cumplan tres o más criterios la padecerán y rechazan la microalbuminuria de la OMS. Tanto esta como la definición de la OMS incluyen las cuatro características mayores del síndrome metabólico y su uso clínico no debe ocasionar sismos graves para identificar individuos.</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Criterios de diagnóstico ATP III</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><em>Factor de riesgo</em></td>
+<td><em>Nivel definido</em></td>
+</tr>
+<tr class="even">
+<td><strong>Obesidad abdominal</strong></td>
+<td>Circunferencia de cintura</td>
+</tr>
+<tr class="odd">
+<td>Hombres</td>
+<td><code>&gt;</code> 102cm</td>
+</tr>
+<tr class="even">
+<td>Mujeres</td>
+<td><code>&gt;</code> 88cm</td>
+</tr>
+<tr class="odd">
+<td><strong>Triglicéridos</strong></td>
+<td><code>&gt;</code>=150 mg/dL</td>
+</tr>
+<tr class="even">
+<td><strong>Colesterol-HDL</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Hombres</td>
+<td>&lt;40 mg/dL</td>
+</tr>
+<tr class="even">
+<td>Mujeres</td>
+<td>&lt;50 mg/dL</td>
+</tr>
+<tr class="odd">
+<td><strong>Presión arterial</strong></td>
+<td><code>&gt;</code>=130/80 mm Hg</td>
+</tr>
+<tr class="even">
+<td><strong>Grucosa en ayunas</strong></td>
+<td><code>&gt;</code>=110 mg/dL</td>
+</tr>
+</tbody>
+</table>
+<p><em>El síndrome metabólico está presente cuando se cumplen tres o más de los cinco criterios.</em></p>
+<p> </p>
+
+<h4 id="asociación-americana-de-endocrinólogos-clínicos">Asociación Americana de Endocrinólogos Clínicos</h4>
+<p>En 2003 Asociación Americana de Endocrinólogos Clínicos y el Colegio Americano de Endocrinología adoptaron los criterios ATP-III en los puntos concernientes a presión arterial y lípidos, pero sugirieron reconocer las limitaciones de la determinación de glucosa en ayuno, añadiendo la determinación de glucosa 2 horas poscarga y agregar el IMC como medida de obesidad, considerando a ésta factor de riesgo, en lugar de criterio. Y modificaron la definición para volver a enfocarla en la resistencia a la insulina como causa primaria de síndrome metabólico y, una vez más, excluyeron a los diabéticos de la definición y propusieron el nombre síndrome de resistencia a la insulina.</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Criterios de diagnóstico de la Asociación americana de endocrinología</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Glucosa plasmática</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td align="left">Ayuno</td>
+<td>110-125 mg/dL</td>
+</tr>
+<tr class="odd">
+<td align="left">120 minutos poscarga</td>
+<td>140-200 mg/dL</td>
+</tr>
+<tr class="even">
+<td align="left">de 75 g de glucosa</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Triglicéridos</strong></td>
+<td><code>&gt;</code> 150 mg/dL</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Colesterol HDL</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left">Hombres</td>
+<td>&lt; 40 mg/dL</td>
+</tr>
+<tr class="even">
+<td align="left">Mujeres</td>
+<td>&lt; 50 mg/dL</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Presión arterial</strong></td>
+<td><code>&gt;</code> 130/85 mmHg</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Esta propuesta difiere de las anteriores en que el concepto de síndrome de resistencia a la insulina excluye a pacientes cuyo grado de hiperglucemia cumple el criterio diagnóstico de diabetes mellitus 2; una limitante mayor es que no especifica un número definido de factores para el diagnóstico, sino que se deja a juicio clínico. Por tanto, estos criterios no son útiles como definición para estudios epidemiológicos.</p>
+<p> </p>
+<table style="width:10%;">
+<colgroup>
+<col width="6%" />
+<col width="2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Factores de riesgo de SM de la Asociación americana de endocrinología</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Exceso de peso</strong></td>
+<td>IMC <code>&gt;</code> 25</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Circunferencia de la cintura</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left">hombres</td>
+<td><code>&gt;</code> 40 pulgadas</td>
+</tr>
+<tr class="even">
+<td align="left">mujeres</td>
+<td><code>&gt;</code> 35 pulgadas</td>
+</tr>
+<tr class="odd">
+<td align="left"></td>
+<td>(10-15% menos en no caucásicos)</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Estilo de vida sedentario</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Edad</strong></td>
+<td><code>&gt;</code> 40 años</td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Etnicidad no caucásica</strong></td>
+<td>(latino, hispanoamericano, afroamericano, nativo americano, asiático-americano, de las Islas del Pacífico)</td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Antecedentes familiares de diabetes mellitus 2, hipertensión arterial o enfermedad cardiovascular</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Antecedentes de intolerancia a la glucosa o diabetes gestacional</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Acantosis nigricans</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td align="left"><strong>Síndrome de ovario poliquístico</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Hígado graso no alcohólico</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="federación-internacional-de-diabetes">Federación Internacional de Diabetes</h4>
+<p>En 2005 la Federación Internacional de Diabetes realizó un taller a fin de establecer un consenso global o una herramienta de diagnóstico unificada que pudiera usarse universalmente y destacar áreas donde se necesita mayor conocimiento. Los participantes estuvieron de acuerdo en que las características generales del síndrome metabólico incluyen: distribución anormal de grasa corporal, resistencia a la insulina, dislipidemia aterogénica, aumento de la presión arterial, estado proinflamatorio y estado protrombótico.</p>
+<p> </p>
+<table style="width:15%;">
+<colgroup>
+<col width="4%" />
+<col width="11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">Criterios diagnostico Federación Internacional de Diabetes</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><strong>Distribución anormal de grasa corporal</strong></td>
+<td>La obesidad central es la que más se asocia con síndrome metabólico y es la que, independientemente, se relaciona con todos los demás criterios; en términos clínicos se manifiesta con aumento de la circunferencia de cintura</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Resistencia a la insulina</strong></td>
+<td>Existente en la mayor parte de los casos; se asocia fuertemente con otros factores de riesgo metabólico y correlaciona de manera univariante con el riesgo cardiovascular. Sin embargo, no se ha podido establecer una relación firme con la hipertensión arterial; los mecanismos que unen la resistencia a la insulina y la enfermedad cardiovascular deben seguir siendo investigados</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Dislipidemia aterogénica</strong></td>
+<td>Aumento de triglicéridos y disminución del colesterol HDL</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Aumento de la presión arterial</strong></td>
+<td>Se asocia estrechamente con obesidad e intolerancia a la glucosa y con frecuencia afecta a personas con resistencia a la insulina.</td>
+</tr>
+<tr class="odd">
+<td align="right"><strong>Estado proinflamatorio</strong></td>
+<td>Aumento de la proteína C reactiva</td>
+</tr>
+<tr class="even">
+<td align="right"><strong>Estado protrombótico</strong></td>
+<td>Aumento del inhibidor del plasminógeno 1 y fibrinógeno</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Todas estas diversas definiciones comparten algunos de los criterios como son:</p>
+<ul>
+<li><strong>Obesidad abdominal</strong> (*perímetro de contorno de cintura elevado)</li>
+<li><strong>Resistencia a la insulina</strong> (Dificultad para digerir un tipo de azúcar denominado «glucosa» (intolerancia a la glucosa). Los pacientes con síndrome metabólico generalmente tienen hiperinsulinemia o diabetes tipo 2.</li>
+<li><strong>Dislipidemia aterogénica</strong> (* alteración lipídica proteica, asociada a un riesgo cardiovascular elevado caracterizada por la asociación de colesterol HDL bajo, triglicéridos elevados y alta proporción de partículas LDL)</li>
+<li><strong>Hipertensión</strong></li>
+<li>Estado <strong>proinflamatorio</strong> y estado <strong>protrombótico</strong>.</li>
+</ul>
+<p>Sin embargo, la existencia de tanta variedad de definiciones propuestas dificulta poder tener una referencia clara para la práctica clínica y el poder aprovechar de forma unificada los diferentes estudios realizados. Distintas asociaciones han intentado unificar los varemos que manejan las diferentes asociaciones, pero no se ha llegado a un criterio común para su diagnóstico. Hay discrepancias sobre los varemos a utilizar y también sobre la importancia que tiene cada uno de los factores que lo conforman.</p>
+<p>Una dificultad añadida es que se ha visto que un mismo baremo no es válido para toda la población mundial, habiéndose encontrado que, para las distintas etnias, deben considerarse valores de corte diferentes a la hora de realizar un diagnóstico.</p>
+<table style="width:14%;">
+<colgroup>
+<col width="8%" />
+<col width="2%" />
+<col width="2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Valores de circunferencia abdominal indicándose la especificidad étnica</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Europeos*</td>
+<td>Hombres = 94 cm</td>
+<td>Mujeres = 80 cm</td>
+</tr>
+<tr class="even">
+<td>USA: es probable seguir con ATP III</td>
+<td>Hombres = 102 cm</td>
+<td>Mujeres = 88 cm</td>
+</tr>
+<tr class="odd">
+<td>Asia del Sur resultados basados en las poblaciones Chinas, Malaya y Asiático-Indú</td>
+<td>Hombres = 90 cm</td>
+<td>Mujeres = 80 cm</td>
+</tr>
+<tr class="even">
+<td>China</td>
+<td>Hombres = 90 cm</td>
+<td>Mujeres = 80 cm</td>
+</tr>
+<tr class="odd">
+<td>Japón **</td>
+<td>Hombres = 90 cm</td>
+<td>Mujeres = 80 cm</td>
+</tr>
+<tr class="even">
+<td>Sur América y Centro América</td>
+<td>Usar las recomendaciones para Asia hasta tener nueva información.</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Africa sub-Sahariana</td>
+<td>Usar los datos europeos hasta tener nueva información</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Poblaciones Árabes y del Mediterráneo.</td>
+<td>Usar los datos europeos hasta tener nueva información</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Actualmente lo que se está considerando como un enfoque adecuado, en vez de pretender realizar un diagnóstico de SM que cumpla una lista cerrada de criterios, es entender el SM como una guía que ayude a detectar los factores de riesgo que pueden desembocar en diabetes Mellitus 2 y enfermedades cardiovasculares. De esta manera resulta una mejor herramienta clínica para la prevención y detección del riesgo de esas enfermedades.</p>
+<p>Con respecto a los posibles desencadenantes para desarrollar los factores que conforman el SM, se consideran tanto factores genéticos como ambientales, que incluirían la alimentación y hábitos de vida. Una alimentación con elevado consumo de grasas saturadas y de alto nivel calórico, junto con una vida sedentaria pueden ser factores determinantes para su desarrollo. Se considera que solo un 10% de los casos de SM tiene causas genéticas, por lo que hay que resaltar la importancia de la alimentación y los hábitos de vida como causa y a la vez como instrumento de prevención y tratamiento del SM.</p>
+
+<h2 id="diagnóstico-del-sm">3.2.1 Diagnóstico del SM</h2>
+<p>La importancia de hacer el diagnóstico de Síndrome Metabólico radica en que es indicador de un elevado riesgo cardiovascular y diabetes.</p>
+<p>Se conoce que las personas con SM tienen el doble de riesgo de padecer enfermedad cardiovascular y unas cinco veces mayor de sufrir diabetes.</p>
+<p>Realizando un diagnóstico precoz podría prevenirse y retrasarse la aparición de estas patologías.</p>
+<p>Del mismo modo, cuanto más tiempo estén expuestos a los factores de riesgo mayores serán los daños acumulados.</p>
+<p>Son varios los factores de riesgo para desarrollarlo, siendo habitual que en una persona confluyan varios a la vez.</p>
+<p>Para confirmar un diagnóstico de SM, es necesario tener tres o más de estos factores:</p>
+<ul>
+<li><strong>Obesidad abdominal</strong>: es el signo visible. La obesidad abdominal o visceral evaluada por la circunferencia de cintura o por la relación cintura/cadera está relacionada con un aumento de riesgo de todas las causas de mortalidad en todo el rango de IMC ( indice masa corporal).<br />
+Es un factor de riesgo mayor para enfermedades del corazón que acumular demasiada grasa en otras partes del cuerpo.</li>
+<li><strong>Nivel alto de triglicéridos</strong>: un tipo de grasa que se encuentra en la sangre.</li>
+<li><strong>Nivel bajo de colesterol HDL</strong>: En ocasiones, el HDL se conoce como colesterol &quot;bueno&quot; porque ayuda a eliminar el colesterol de las arterias.</li>
+<li><strong>Nivel alto decolesterol HDL</strong> o del llamado “malo” que es el que se acumula en los vasos sanguíneos.</li>
+<li><strong>Presión arterial alta</strong>: Si la presión arterial se mantiene alta en el tiempo, puede dañar su corazón y provocar otros problemas de salud.</li>
+<li><strong>Nivel alto de azúcar en la sangre en ayunas</strong>: El nivel de azúcar en la sangre levemente alto puede ser un signo temprano de diabetes.</li>
+</ul>
+<p>Cuantos más factores tenga, mayor será su riesgo de enfermedad cardíaca, diabetes y accidente cerebrovascular.</p>
+<p>La mayoría de los trastornos asociados con el síndrome metabólico no tiene signos ni síntomas evidentes, sin embargo, un elevado contorno de cintura nos daría un indicio de que puede haber algún factor más asociado y sería un motivo para buscar otros factores de riesgo que pudiese haber y que no se aprecian a simple vista.</p>
+<p>Existen además otros factores a tener en cuenta a la hora de detectar indicadores de que un paciente puede desarrollar SM:</p>
+<ul>
+<li>Un estilo de vida inactivo, mala alimentación, tabaco y alcohol.</li>
+<li>Edad: Su riesgo aumenta a medida que envejece. Aumento del nivel oxidativo.</li>
+<li>Genética: Origen étnico y su historia familiar.</li>
+</ul>
+
+<h3 id="factores-de-riesgo-como-criterios-de-diagnóstico.">Factores de riesgo como criterios de diagnóstico.</h3>
+<h4 id="obesidad.-perímetro-de-cintura-elevado.">3.2.1.1 Obesidad. Perímetro de cintura elevado.</h4>
+<p>La masa de grasa es el componente más variable en la composición corporal, tanto si se comparan varios individuos como si se consideran los cambios de una persona a lo largo de la vida.</p>
+<p>La obesidad se define como la acumulación de tejido adiposo (TA) que puede afectar negativamente a la salud. Sus indicadores son un IMC mayor o igual a 30 y el incremento del diámetro de la circunferencia de cintura.</p>
+<p>Existe una clara relación entre la obesidad y el riesgo de sufrir múltiples patologías entre las que destacan las ECV. Desde 1980, la obesidad se ha más que duplicado en todo el mundo. Según una nota de la OMS publicada en 2016, en el año 2014 más de 1900 millones de personas mayores de 18 tenían exceso de peso, de los cuales, aproximadamente 600 millones eran obesos. Esto supone que alrededor del 39% de la población adulta mundial (38% de hombres y 40% de las mujeres) padecía sobrepeso y un 13% (11% de los hombres y 15% de las mujeres) obesidad.</p>
+<p>Está considerada como una pandemia a nivel mundial.</p>
+<p>En su clasificación se han empleado múltiples variantes, pero la más utilizada es aquella que se sustenta en la distribución corporal del exceso de grasa. Se denomina fenotipo androide, cuando el sobrepeso predomina en el segmento superior (mayoritariamente en hombres) y fenotipo ginoide (mayoritariamente en mujeres), si la acumulación del tejido adiposo es mayor en el segmento inferior.</p>
+<p>Hay que distinguir además dos tipos de tejido adiposo en el abdomen según su localización, el subcutáneo y el interno. Este último, a su vez, se divide en visceral (depósito de grasa en órganos como hígado y páncreas) y muscular.</p>
+<p><em>Distribución tejido graso:</em></p>
+<ul>
+<li><p>Fenotipo ginoide: segmento inferior.</p></li>
+<li>Fenotipo androide: segmento superior (abdominal):
+<ul>
+<li>Grasa subcutánea</li>
+<li>Grasa interna
+<ul>
+<li>Visceral</li>
+<li>Muscular</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Los riesgos asociados al exceso de grasa se deben, a la localización de la grasa más que a la cantidad total, siendo la grasa acumulada en la región abdominal la que afecta de forma más negativa a la buena salud.</p>
+<p>La obesidad abdominal o visceral evaluada por la circunferencia de cintura o por la relación cintura/cadera está relacionada con un aumento de riesgo de todas las causas de mortalidad en todo el rango de IMC.</p>
+<p>Además, la grasa visceral es un factor de riesgo independientemente de resistencia a la insulina (RI), intolerancia a la glucosa, dislipemia e hipertensión, todos criterios el SM.</p>
+<p>Este mayor factor de riesgo metabólico se define en individuos adultos por la medida de circunferencia de cintura y que es diferente entre hombres y mujeres:</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Medida de circunferencia de cintura para diagnóstico de SM</th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Hombres</td>
+<td align="left"><code>&gt;</code> de 102 cm</td>
+</tr>
+<tr class="even">
+<td align="left">Mujeres</td>
+<td align="left"><code>&gt;</code> de 88 cm</td>
+</tr>
+<tr class="odd">
+<td align="left">*Estas medidas en adultos están sujetas a variaciones según etnias.</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Estas medidas de contorno de cintura tienen mayor correlación con los factores de riesgo metabólicos que el IMC (Índice de masa corporal).</p>
+<p>El IMC resulta menos fiable porque puede ser alto en individuos que no sean obesos, como podría ser el caso de deportistas o personas con unas determinadas características morfológicas. Sería el caso de personas de hueso ancho, que tienen un IMC más elevado que el que le correspondería por estatura y peso, pero carecen de niveles de grasa de riesgo a nivel abdominal.</p>
+<p>Las personas obesas con un patrón de distribución de tipo central, independientemente de su grado de obesidad tendrán mayor riesgo de enfermedades cardiovasculares, diabetes e hipertensión.</p>
+<p> </p>
+<table style="width:17%;">
+<colgroup>
+<col width="5%" />
+<col width="2%" />
+<col width="4%" />
+<col width="4%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad Cardiovascular</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Categoria</td>
+<td>IMC</td>
+<td>Hombres&lt; 102 cm Mujeres &lt; 88 cm</td>
+<td>Hombres&lt; 102 cm Mujeres &lt; 88 cm</td>
+</tr>
+<tr class="even">
+<td>Peso Bajo</td>
+<td>&lt;18.5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Normal</td>
+<td>18.5 - 24.9</td>
+<td>-</td>
+<td>Leve-Moderada</td>
+</tr>
+<tr class="even">
+<td>Sobrepeso</td>
+<td>25 - 29.9</td>
+<td>Moderado</td>
+<td>Alto</td>
+</tr>
+<tr class="odd">
+<td>Obesidad</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Clase I</td>
+<td>30 - 34.9</td>
+<td>Alto</td>
+<td>Muy alto</td>
+</tr>
+<tr class="odd">
+<td>Clase II</td>
+<td>35 - 39.9</td>
+<td>Muy alto</td>
+<td>Muy alto</td>
+</tr>
+<tr class="even">
+<td>Clase III</td>
+<td>&gt;40</td>
+<td>Extremadamente alto</td>
+<td>Extremadamente alto</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+
+<h4 id="resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii">3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo II</h4>
+<p>El síndrome de resistencia a la insulina no es una enfermedad sino un término usado para describir un proceso fisiopatológico que se caracteriza por una disminución de la sensibilidad a la acción de la hormona insulina.</p>
+<p>La insulina es una hormona que ayuda a las células del organismo a ingresar el azúcar (glucosa) que les da energía. Normalmente, el páncreas libera insulina cuando se ingieren ciertos alimentos.</p>
+<p>Si las células diana se vuelven resistentes a la insulina, se necesita más insulina para que la glucosa penetre en las células. Por consiguiente, el páncreas debe producir más insulina, que es bombeada a la corriente sanguínea. Cuando hay mucha insulina en la corriente sanguínea se produce una hiperinsulinemia lo que aumenta el riesgo de sufrir un infarto de miocardio debido a que la insulina:</p>
+<ul>
+<li>Eleva los niveles de triglicéridos.</li>
+<li>Reduce los niveles de lipoproteínas de alta densidad (HDL o «colesterol bueno»).</li>
+<li>Eleva los niveles de lipoproteínas de baja densidad (LDL o «colesterol malo»).</li>
+<li>Hace más difícil que el organismo elimine las grasas de la sangre después de comer.</li>
+<li>Eleva la presión arterial.</li>
+<li>Aumenta la capacidad de coagulación de la sangre.</li>
+</ul>
+<p>Esta falta de sensibilidad a la insulina y esta respuesta de un aumento excesivo de su producción puede desembocar en una disfunción metabólica y a la aparición de, entre otras patologías:</p>
+<ul>
+<li>Diabetes Mellitus II (Hiperglucemia plasmática, resultado de no poder ingresar la glucosa en las células se produce un nivel levado de glucosa en la sangre).</li>
+<li>Ateroesclerosis (ECV) que es un grupo de trastornos que afectan el corazón y los vasos sanguíneos. Se asocia con la acumulación de depósitos de grasa en las arterias. A menudo implica hipertensión, que puede ser causa y resultado de ECV.</li>
+<li>Dislipidemias.</li>
+<li>Hipertensión arterial.</li>
+<li>Síndrome de ovario poliquístico.</li>
+</ul>
+<p>La RI, el SM y la aterosclerosis parecen tener una base inflamatoria común; se admite que la RI es el proceso fisiopatológico que subyace bajo el conjunto de factores de RCV (ateroesclerosis) y del SM.</p>
+<p>Además de la genética heredada son varias las causas que intervienen por lo que es difícil medir el rango de influencia de cada uno de los factores.</p>
+<p>Lo que sí se puede es modificar los factores ambientales, los hábitos de vida que influyan sobre su prevención y mejora.</p>
+<p>Hoy en día se habla de la Epigenética, que estudia los cambios hereditarios causados por la activación o desactivación los genes sin cambiar la secuencia del ADN, Estos cambios como son la alimentación, ejercicio, sustancias químicas o medicamentos (factores ambientales) modifican el riesgo de enfermedades y a veces pasan de padres a hijos</p>
+<p><strong>Diabetes Mellitus II</strong></p>
+<p>Por otro lado, si hablamos de la RI como uno de los factores que conforman el SM tenemos que dedicar un apartado para hablar de la Diabetes Mellitus II que es una enfermedad que surge a partir de esa resistencia a la insulina y que da como resultado un elevado índice de glucemia en sangre, siendo la glucemia en sangre uno de los criterios que conforman el Síndrome Metabólico.</p>
+<p>La OMS lo define como el grupo de trastornos metabólicos de diferentes causas y cuya característica fundamental es la hiperglucemia (niveles de glucosa sanguínea elevados). Es una hiperglucemia que aparece de forma crónica. Se mantiene la glucosa en sangre durante tiempos elevados y hay alteración en el metabolismo de los HdC, las grasas y las proteínas y todo ello debido o bien a la síntesis de la insulina o a su acción.</p>
+<p>A largo plazo esta hiperglucemia da lugar a complicaciones específicas como afectación ocular, renal, aumento del riesgo de ateroesclerosis y problemas cardiovasculares.</p>
+<p>La diabetes Mellitus tipo II representa el 90/95 % de todas las diabetes. Su origen no es la autoinmunidad, es la RI.</p>
+<p>La Asociación Americana del Corazón habla de ella como una enfermedad cardiovascular y no sólo de carácter metabólico.</p>
+<p> </p>
+<table style="width:14%;">
+<colgroup>
+<col width="11%" />
+<col width="2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Valores de glucemia para diagnóstico Diabetes</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Valores normales</strong></td>
+<td><strong>60-110md/dl</strong></td>
+</tr>
+<tr class="even">
+<td>Diabetes</td>
+<td>160ml/dl</td>
+</tr>
+<tr class="odd">
+<td>También será considerado factor de criterio positivo el tratamiento hipoglucemiante</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Su rigen se relaciona con factores no modificables y modificables sobre los que hay que insistir.</p>
+<p>Factores no modificables:</p>
+<ul>
+<li><strong>Genética</strong> (aunque se puede influir en esa expresión de los genes a través de la Epigenética)</li>
+<li><strong>Prematuridad</strong>: haber nacido prematuro o con peso inadecuado, tanto con bajo peso como con sobrepeso, para la edad gestacional.</li>
+<li><strong>Madre con diabetes gestacional</strong>: favorece la aparición de diabetes en la edad adulta.</li>
+<li><strong>Etnia</strong></li>
+</ul>
+<p>Factores modificables:</p>
+<ul>
+<li><strong>Factores ambientales</strong>: hábitos de vida (actividad física, alimentación, tabaquismo, consumo de alcohol, estrés emocional, falta de sueño) todos ellos capaces de mejorar o empeorar la enfermedad.</li>
+<li><strong>Disrruptores endocrinos</strong>: químicos capaces de mimetizar nuestras hormonas y, por tanto, de alterar el correcto funcionamiento corporal y afectar negativamente a nuestra salud.</li>
+<li><strong>Déficit de micronutrientes</strong>: como selenio, hierro vitamina D.</li>
+</ul>
+<p>Son factores de riesgo que actúan sobre el sistema inmunológico, la vascularización, el tejido adiposo, músculo, hígado, intestino o el microbiota.</p>
+<p>Sobre todo, hay una relación estrecha siendo muy difícil separar los metabolismos endocrinos y autoinmunes que posee los distintos factores de diabetes. Lo que si se puede hacer es intentar actuar sobre los que sí son modificables para intentar mejorar esta situación.</p>
+<p>Hasta hace unos años era algo circunscrito al primer mundo, puesto que se relacionaba fundamentalmente con los hábitos de vida y el sedentarismo propios del modo de vida occidental. Pero en los últimos años ha ido aumentando su incidencia y prevalencia a nivel global, a medida que en los países menos desarrollados que van adoptando estilos de vida occidentales.</p>
+<p>Actualmente se trata de una pandemia a nivel mundial.</p>
+<p>Se cree que afecta al 8/12% de la población, aunque hay países en que este porcentaje es mayor como es el caso de España.</p>
+<p>En el año 2017 se realizó un estudio en el que se vió que afectaba a 425 millones de personas de todo el mundo especialmente adultos, pero también a niños cosa que era impensable hace unos años que cuando se hablaba de diabetes infantil se asociaba directamente a la diabetes autoinmune de tipo I.</p>
+<p>Su incidencia y prevalencia va en aumento, se calcula otros 350 millones de personas en todo el mundo con riesgo de desarrollar diabetes y es especialmente preocupante su crecimiento en la infancia.</p>
+
+<h4 id="dislipemias">3.2.1.3 Dislipemias</h4>
+<p>La dislipemia es una alteración de los lípidos en sangre y está asociada a riesgo cardiovascular elevado.</p>
+<p>Los pacientes con dislipemias presentan niveles de triglicéridos elevados, valores disminuidos de colesterol HDL y un aumento de las partículas LDL.</p>
+<p>El diagnóstico de las dislipemias en general se basa siempre en la comprobación analítica de la alteración lipídica.</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Rangos adecuados</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Triglicéridos</td>
+<td><code>&gt;</code> 150 mg/dl</td>
+</tr>
+<tr class="even">
+<td>HDL</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Varones &lt; 40 mg/dl</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Mujeres &lt; 50 mg/dl</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Colesterol</strong></p>
+<p>El colesterol es una sustancia similar a la grasa e indispensable para la vida. Se encuentra en las membranas celulares de nuestros organismos, desde el sistema nervioso al hígado y al corazón. El cuerpo necesita colesterol para fabricar hormonas, ácidos biliares, vitamina D, y otras sustancias.</p>
+<p>Una parte importante del colesterol presente en nuestro organismo es producido por el hígado; el resto es aportado a través de la dieta y del colesterol presente en la bilis, parte del cual se vuelve a absorber en el intestino.</p>
+<p>El problema viene dado cuando se presenta en exceso. El aumento del colesterol en la sangre y su depósito en las arterias puede ser peligroso y producir ateroesclerosis (estrechamiento o endurecimiento de las arterias por depósito de colesterol en sus paredes).</p>
+<p>Parte del exceso de colesterol puede depositarse en la pared arterial. Con el tiempo, va aumentando y forma la placa de ateroma. La placa puede estrechar los vasos y los hace menos flexibles, lo que produce la ateroesclerosis o endurecimiento de las arterias.</p>
+<p>Este proceso puede suceder en los vasos sanguíneos de cualquier parte del cuerpo, incluyendo las arterias del corazón (arterias coronarias). Si las arterias coronarias se bloquean por la placa de ateroma se impide que la sangre lleve el oxígeno y los nutrientes suficientes al músculo cardiaco. Esto produce dolor en el pecho o angina. Algunas placas con mucho colesterol se hacen inestables, tienen una fina cubierta y pueden romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que puede causar un coágulo o trombo sobre la placa que impide el flujo de la sangre en la arteria causando un infarto de miocardio.</p>
+<p>El colesterol es insoluble en los medios acuosos, por lo que se transporta en las lipoproteínas, constituidas por una parte lipídica o acuosa y otra proteica. Existen dos tipos diferentes de lipoproteínas que trasportan el colesterol en la sangre:</p>
+<ul>
+<li><p><strong>Lipoproteínas de baja densidad o LDL</strong>, que también se conocen como colesterol “malo”. Son las lipoproteínas encargadas de transportar el colesterol a los tejidos para su utilización, incluyendo las arterias. La mayor parte del colesterol en sangre es colesterol LDL (c-LDL). Cuanto mayor sea el nivel de colesterol LDL en sangre, mayor es el riesgo de enfermedad cardiovascular.</p></li>
+<li><p><strong>Lipoproteínas de alta densidad, o HDL</strong>, también conocidas como colesterol “bueno”, porque son las encargadas de recoger el colesterol de los tejidos y transportarlo al hígado para su eliminación a través de la bilis. Un nivel bajo de colesterol HDL (c-HDL) aumenta el riesgo de enfermedad cardiovascular.</p></li>
+</ul>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Principales funciones antiaterogénicas de las HDL</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Transporte reverso del colesterol</td>
+</tr>
+<tr class="even">
+<td>Regulación del metabolismo de la glucosa</td>
+</tr>
+<tr class="odd">
+<td>Antiinflamatoria</td>
+</tr>
+<tr class="even">
+<td>Antioxidante: inhiben la oxidación de LDL</td>
+</tr>
+<tr class="odd">
+<td>Reparación endotelial</td>
+</tr>
+<tr class="even">
+<td>Antitrombótica</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Son varias las causas que afectan a los niveles de colesterol. Algunas de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.</p>
+
+<p>Causas que no se pueden cambiar:</p>
+<ul>
+<li><p><strong>Herencia</strong>. La cantidad de colesterol LDL que fabrica su cuerpo y la rapidez con que se elimina viene determinada en parte por los genes. El colesterol elevado puede afectar a familias enteras.</p></li>
+<li><p><strong>Edad y sexo</strong>. El colesterol empieza a elevarse hacia los 20 años y continúa subiendo hasta los 60 o 65 años. El colesterol en los hombres tiende a ser más alto antes de los 50 años que el de las mujeres con esa misma edad. Pero después de los 50 ocurre lo contrario. Los niveles de colesterol LDL en las mujeres tienden a subir con la menopausia.</p></li>
+</ul>
+<p>Causas que se pueden cambiar:</p>
+<ul>
+<li><p><strong>Dieta</strong>. Existen varios tipos de grasas en función de su estructura, y cada una de ellas posee un efecto determinado sobre los niveles de colesterol en el organismo:</p>
+<p>Con efecto negativo</p>
+<ul>
+<li><em>Ácidos grasos saturados</em>: son la grasa presente en lácteos, carnes y derivados, y aceites de coco y palma, entre otros alimentos. Tienen un efecto perjudicial, ya que aumentan el colesterol total y el colesterol LDL (“colesterol malo”).</li>
+<li><em>Ácidos grasos trans</em>: son los más nocivos para la salud cardiovascular. Ya que dietas ricas en este tipo de grasas producen un aumento del colesterol total y colesterol LDL, al mismo tiempo que disminuyen el colesterol HDL. Están presentes en la bollería industrial, patatas de bolsa, snacks y en algunas grasas para fritura y pastelería (por ejemplo, aceites vegetales hidrogenados).</li>
+</ul>
+<p>Con efecto positivo</p>
+<ul>
+<li><em>Ácidos grasos monoinsaturados</em>: poseen un efecto beneficioso para nuestro organismo ya que un consumo prolongado de estos produce un aumento del colesterol HDL (“colesterol bueno”) y una disminución del colesterol LDL (“colesterol malo”), que se asocia a un menor riesgo de desarrollar enfermedades cardiovasculares. Están presentes en alimentos como el aceite de oliva, el aguacate o los frutos secos.</li>
+<li><em>Ácidos grasos poliinsaturados</em>: de tipo <strong>omega 3</strong> y <strong>omega 6</strong>. Resultan beneficiosos ya que una dieta rica en estos produce una disminución del colesterol total y del colesterol LDL. Están presentes en el pescado azul (omega 3) y en aceites de semillas y frutos secos (omega 6).</li>
+</ul></li>
+<li><p><strong>Sobrepeso</strong>. El exceso de peso tiende a aumentar su colesterol LDL. También aumenta los triglicéridos y baja el colesterol HDL. Perdiendo algunos kilos cuando hay sobrepeso ayudamos a bajar el colesterol LDL y los triglicéridos, y al mismo tiempo subimos el colesterol HDL.</p></li>
+</ul>
+<p>El aumento en las cifras de colesterol en sangre y su depósito en las arterias origina la enfermedad ateroesclerótica cardiovascular que es la principal causa de mortalidad. La enfermedad ateroesclerótica incluye la enfermedad coronaria (angina e infarto de miocardio), cerebrovascular (infarto cerebral o ictus) y la enfermedad arterial periférica (claudicación o dolor en las piernas). El colesterol elevado es uno de los principales factores de riesgo cardiovascular, junto con el tabaco, la hipertensión arterial y la diabetes mellitus.</p>
+<p>También puede ser causa de enfermedad cardiovascular el aumento de los triglicéridos y un colesterol-HDL bajo.</p>
+<p><strong>Triglicéridos</strong></p>
+<p>Son grasas que se encuentran en determinados alimentos y también se producen en el hígado.</p>
+<p>Los triglicéridos circulan en la sangre mediante las lipoproteínas que los transportan a los tejidos donde se utilizan como una reserva de energía para cubrir las necesidades metabólicas de los músculos y el cerebro.</p>
+<p>Las causas más frecuentes de aumento de los triglicéridos son:</p>
+<ul>
+<li>Sobrepeso / obesidad<br />
+</li>
+<li>Dieta muy alta en hidratos de carbono (60% o más de las calorías) especialmente si son refinados<br />
+</li>
+<li>Exceso de alcohol<br />
+</li>
+<li>Tabaquismo<br />
+</li>
+<li>Inactividad física<br />
+</li>
+<li>Dieta muy alta en hidratos de carbono (60% ó más de las calorías) especialmente si son refinados</li>
+<li>Factores genéticos</li>
+</ul>
+<p>También existen causas genéticas de aumento de los triglicéridos, en ocasiones asociadas con aumento de colesterol:</p>
+<ul>
+<li>Hiperlipidemia Familiar Combinada</li>
+<li>Hipertrigliceridemia Familiar</li>
+<li>Disbetalipoproteinemia</li>
+<li>Hiperquilomicronemia Familiar</li>
+</ul>
+<p> </p>
+<p>Para reducir los niveles de triglicéridos en la sangre: hay que controlar el peso, mantenerse activo, no fumar, limitar la ingesta de alcohol y limitar los azúcares y las bebidas azucaradas. A veces se necesita también medicación.</p>
+<p>La grasa es el componente de la dieta que más influyente sobre los niveles de colesterol y triglicéridos en sangre, teniendo más importancia el tipo de grasa que la cantidad total consumida.</p>
+<p>El valor a partir del cual se considera patológico, y que además es un importante factor de riesgo para las enfermedades cardiovasculares, es de <strong>200 mg de colesterol/dl de sangre</strong>.</p>
+<p> </p>
+<table>
+<thead>
+<tr class="header">
+<th>Valores normales y elevados del Perfil Lipídico</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Colesterol total</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><em>Por debajo de 200 mg/dl</em></td>
+<td><em>Deseable</em></td>
+</tr>
+<tr class="odd">
+<td>200-239 mg/dl</td>
+<td>Límite alto</td>
+</tr>
+<tr class="even">
+<td>240 mg/dl</td>
+<td>Alto</td>
+</tr>
+<tr class="odd">
+<td><em>Por debajo de 180 mg/dl (menor de 18 años)</em></td>
+<td><em>Deseable</em></td>
+</tr>
+<tr class="even">
+<td> </td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Colesterol LDL</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><em>Por debajo de 100 mg/dl</em></td>
+<td><em>Óptimo o ideal</em></td>
+</tr>
+<tr class="odd">
+<td>100-129 mg/dl</td>
+<td>Bueno</td>
+</tr>
+<tr class="even">
+<td>130-159 mg/dl</td>
+<td>Límite alto</td>
+</tr>
+<tr class="odd">
+<td>160-189 mg/dl</td>
+<td>Alto</td>
+</tr>
+<tr class="even">
+<td>190 mg/dl y superior</td>
+<td>Muy alto</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Colesterol HDL</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Varones: Menos de 40 mg/dl</td>
+<td>Factor de riesgo cardiovascular</td>
+</tr>
+<tr class="even">
+<td>Mujeres: Menos de 50 mg/dl</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><em>60 mg/dl y superior</em></td>
+<td><em>Mayor protección contra la enfermedad cardiovascular</em></td>
+</tr>
+<tr class="even">
+<td> </td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Triglicéridos</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><em>Por debajo de 150 mg/dl</em></td>
+<td><em>Deseable</em></td>
+</tr>
+<tr class="odd">
+<td>150-199 mg/dl</td>
+<td>Límite alto</td>
+</tr>
+<tr class="even">
+<td>200-499 mg/dl</td>
+<td>Altos</td>
+</tr>
+<tr class="odd">
+<td>Superiores a 500 mg/dl</td>
+<td>Existe riesgo de pancreatitis</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Tratamiento hipolipemiante también es considerado factor de riesgo</strong></p>
+
+<h4 id="hipertensión-arterial">3.2.1.4 Hipertensión arterial</h4>
+<p>No existe un único elemento desencadenante de la hipertensión arterial, sino que hay varios factores de riesgo que sirven de indicadores que deben llevar a hacer una revisión del estado de la tensión arterial de forma preventiva.</p>
+<p>La hipertensión también incrementa el riesgo de morbimortalidad y afecta principalmente la retina (retinopatía hipertensiva), los riñones (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).</p>
+<p><strong>La HTA en adultos se define como cifras de presión arterial sistólica y diastólica</strong> <code>&gt;</code> <strong>140/90 mm Hg.</strong></p>
+<p><strong>Factores de riesgo</strong></p>
+<p>Existen una serie de factores de riesgo a tener en cuenta. La edad, ya que a medida que aumenta las posibilidades de tener hipertensión. Con respecto al género, se conoce que hasta los 50 años los hombres tienen más probabilidades de tener hipertensión. Del mismo modo los individuos de etnia negra tienen más probabilidades de tener HAS (hipertensión arterial sistémica).</p>
+<p>Hábitos de vida sedentarios aumentan tanto el riesgo de hipertensión como el de desarrollo de enfermedades cardiovasculares.</p>
+<p>El exceso de peso es también un factor de riesgo, tanto en edades jóvenes como en la edad adulta. Detectándose que incluso en individuos que no lleven una vida sedentaria, el aumento de IMC resulta en aumento de probabilidades de sufrir hipertensión.</p>
+<p>También consumo prolongado de alcohol aumenta la presión arterial.</p>
+<p>Algunas personas tienen presión arterial alta causada por una enfermedad subyacente, como podrían ser:</p>
+<ul>
+<li>Apnea obstructiva del sueño</li>
+<li>Enfermedad renal</li>
+<li>Tumores de la glándula suprarrenal</li>
+<li>Problemas de tiroides</li>
+<li>Ciertos defectos de nacimiento (congénitos) en los vasos sanguíneos</li>
+<li>Ciertos medicamentos, como las píldoras anticonceptivas, los antigripales, los descongestionantes, los analgésicos de venta libre y algunos medicamentos con receta médica</li>
+<li>Drogas ilícitas, como la cocaína y las anfetaminas</li>
+</ul>
+
+<h3 id="desarrollo-fisiopatológico-del-sm">3.2.2 Desarrollo fisiopatológico del SM</h3>
+<p>Para el desarrollo del SM tienen que darse dos factores causales. Uno es una susceptibilidad genética y otro son una serie de factores ambientales y que son los que dan un riesgo determinado para que una persona sufra SM.</p>
+<p>Los factores ambientales (hábitos de vida) tienen mucho peso y están asociados fundamentalmente a la obesidad, que será el elemento núcleo. En concreto la obesidad que cursa con aumento de grasa visceral que se acumula dentro de los órganos y desencadena una serie de cambios que hace que poco a poco el funcionamiento del metabolismo vaya deteriorando.</p>
+<p>Hay una serie de elementos que empiezan a aparecer sucesivamente una vez que ya se ha dado la obesidad visceral. Uno de ellos es la acumulación de grasa en el hígado.</p>
+<p>Este normalmente no tiene muchos acúmulos de grasa, pero en una persona obesa van apareciendo acúmulos que producen lo que se denomina hígado graso o esteatosis hepática.</p>
+<p>Un hígado lleno de grasa no es un hígado sano, no funciona bien y produce otros problemas a largo plazo, como el aumento de la inflamación y la dislipemia. El hígado es una gran fábrica en el organismo y el metabolismo de los lípidos se lleva a cabo en él, cuando está lleno de grasa aparece alteración de grasa en sangre, una dislipemia.</p>
+<p>Además, la obesidad conlleva una mayor resistencia a la insulina. Al principio es un mecanismo compensador del cuerpo, que pretende es que nuestras cifras de glucemia no aumenten demasiado. Pero con el paso del tiempo este mecanismo compensador no puede mantenerse apareciendo la hiperglucemia y la Diabetes Mellitus II, que siempre va asociada a cierto grado de resistencia a la insulina.</p>
+<p>Tanto la RI como la DM2 tienen una retroalimentación positiva sobre la obesidad, es decir hacen más fácil que el obeso siga siendo obeso. Empeora la obesidad y además los vasos sanguíneos que tienen un recubrimiento interno que se daña a causa de las hiperglucemias, hiperinsulinemias y a la inflamación crónica. Aparece así la disfunción endotelial.</p>
+<p>Tanto el hígado graso, como la RI, como DM2, la dislipemia y la disfunción endotelial van a estar favorecidas y a la vez van a favorecer la inflamación.</p>
+<p>El peligro que esto produce es la aparición de enfermedad cardiovascular.</p>
+<p>Todos estos elementos patológicos van a derivar en la aparición de ateroesclerosis, es decir, los vasos sanguíneos poco a poco van a ir taponándose y cerrándose, lo que va a propiciar la aparición mayores alteraciones ateroescleróticas, que pueden hacer que aparezca la enfermedad cardiovascular que es la primera causante de muerte por encima del cáncer.</p>
+<p>La duración de la exposición a los factores de riesgo es clave puesto que los daños se van sumando a lo largo de los años aumentando el riesgo de padecer enfermedad grave.</p>
+
+<h3 id="patologías-relacionadas">Patologías relacionadas</h3>
+<p>Se ha identificado la relación en entre el SM y el:</p>
+<ul>
+<li>Cáncer colorrectal</li>
+<li>Cáncer de mama</li>
+<li>Cáncer de próstata</li>
+</ul>
+<p>Además, confiere un riesgo importante para el desarrollo de otras enfermedades como:</p>
+<ul>
+<li>Esteatosis hepática,</li>
+<li>Síndrome de apnea del sueño,</li>
+<li>Enfermedad renal crónica,</li>
+<li>Síndrome del ovario poliquístico</li>
+<li>Infertilidad masculina</li>
+</ul>
+
+<h3 id="por-grupos-de-población">3.2.3 Por grupos de población</h3>
+<h4 id="sm-en-el-adulto">3.2.3.1 SM en el adulto</h4>
+<h5 id="sm-en-el-hombre">SM en el hombre</h5>
+<p>La población masculina es más propensa al síndrome metabólico que las mujeres en la edad adulta.</p>
+<p>Esto es debido a que existe un dimorfismo sexual, que empieza a manifestarse en especial a partir de la adolescencia. En el sexo femenino la distribución de la grasa es mayoritariamente distal y subcutánea lo que se conoce como obesidad ginoide o pera, mientras en los hombres la distribución de la grasa es de preferencia central siendo central-visceral en lo que se conoce como obesidad de tipo androide.</p>
+<p>Las mujeres producen estrógenos que las protegen de la elevación de grasas, ya que su organismo utiliza el colesterol para producir más hormonas.</p>
+<p>Por el contrario, los hombres tienen menor cantidad de estrógenos y son más propensos a acumular grasa en el contorno de cintura (obesidad tipo androide) la misma que obstruye la circulación, causa hipertensión y tapa arterias vitales del corazón, cerebro y pulmones.</p>
+<p>Se puede decir entonces que ser hombre es un factor de riesgo para padecer enfermedades de tipo cardiovascular.</p>
+<p>En hombres la edad el aumento de enfermedad cardiovascular se da entre la década de los 40 y 60 años. Mientras que, en las mujeres, la frecuencia de SM es similar en todas las décadas estudiadas y tiene más que ver con la menopausia.</p>
+<p>También se ha relacionado una mayor obesidad central en hombres con la disminución de la hormona testosterona. A niveles más bajos de testosterona mayor perímetro de cintura.</p>
+<p>La edad, sedentarismo, tabaquismo y falta de práctica de ejercicio físico son factores que promueven la aparición de SM de la población en general y por tanto también son factores de riesgo para el género masculino. También una mala alimentación, constituida por alimentos hipercalóricos de bajo poder nutritivo y alto nivel de azúcar, grasas saturadas, alto contenido de sal.</p>
+<p>Además de estos componentes clásicos, en los últimos años se han considerado otros elementos de posible impacto en la fisiopatología de este síndrome, como son los esteroides sexuales y los glucocorticoides. Algunos autores proponen considerar el hipogonadismo masculino como una condición asociada al síndrome metabólico.</p>
+<p>También se ha relacionado SM con el descenso del nivel de fertilidad.</p>
+
+<h5 id="sm-en-la-mujer">SM en la mujer</h5>
+<p>La enfermedad cardiovascular es la principal causa de muerte en las mujeres y existen factores de riesgo específicos de la mujer para desarrollarla, entre los cuales están: edad temprana de menarquía, menopausia, síndrome premenstrual, síndrome de ovárico poliquístico entre otros, además de los factores riesgo compartidos con los hombres.</p>
+<p>Las hormonas ejercen un rol importante en la vida de una mujer; hay tres etapas cuando el cuerpo de esta pasa por las principales transiciones hormonales: la pubertad, el embarazo y la menopausia.</p>
+<p>En estas fases de transición, las mujeres pueden verse expuestas a diferentes riesgos de enfermedades relacionadas con la obesidad y el síndrome metabólico.</p>
+<p>La pubertad es un período crítico del desarrollo caracterizado por cambios biológicos dinámicos. El aumento de la grasa corporal y la resistencia a la insulina durante la pubertad, pueden incrementar el riesgo de desarrollar síndrome metabólico.</p>
+<p>Los estrógenos tienen un efecto protector, tienen funciones antioxidantes y antiinflamatorias, favorecen el perfil lipídico, aumentan la sensibilidad a la insulina y favorecen una menor grasa abdominal. Su pérdida tiene como consecuencia que en la mujer se aumente el riesgo de SM, enfermedad cardiovascular y diabetes.</p>
+<p><strong>SM en la menopausia</strong></p>
+<p>La transición que experimenta la mujer durante la pre y postmenopausia, se asocia con la presentación o el desarrollo de características propias del síndrome metabólico, entre las que se encuentran:</p>
+<ul>
+<li>Aumento de la grasa central abdominal.</li>
+<li>Alteración del perfil lipídico (elevación de lipoproteínas de baja densidad y triglicéridos, disminución de lipoproteínas de alta densidad)</li>
+<li>Resistencia a la insulina.</li>
+</ul>
+<p>El incremento de la LDL es menor en mujeres premenopáusicas que en postmenopáusicas, al igual que el aumento en los triglicéridos, la disminución del HDL y obesidad central.</p>
+<p>Por esta razón, la prevalencia de síndrome metabólico se incrementa con la menopausia hasta en un 60%, al mezclarse variables como la edad, el índice de masa corporal y la inactividad física, entre otras.</p>
+<p>Este fenómeno puede explicar parcialmente el incremento en la incidencia de enfermedad cardiovascular observado después de la menopausia.</p>
+<p>Con la menopausia se produce un cambio en la distribución de la grasa pasando de un tipo ginoide (acumulación en las caderas) al tipo androide, como resultado directo del fallo ovárico que repercute en la disminución de la producción de estrógenos.</p>
+<p>Muchos estudios han destacado que en la postmenopausia se produce un aumento de los niveles de insulina y glucosa más elevados que en la premenopausia, lo que empeoraría aún más la resistencia a la insulina.</p>
+<p>Existen una serie diagnósticos que pueden ser identificados como síntomas tempranos de SM, como pueden ser el síndrome de ovario poliquístico, la disfunción sexual femenina, hipertensión en el embarazo o la diabetes gestacional.</p>
+<p>Relación entre síndrome metabólico y síndrome de ovario poliquístico</p>
+<p>El síndrome de ovario poliquístico, es una afección en la cual una mujer tiene un nivel muy elevado de andrógenos. Esto puede desencadenar problemas como irregularidades menstruales e Infertilidad y es una entidad que afecta entre el 5 y el 7% de las mujeres en edad reproductiva.</p>
+<p>Alrededor del 60% de las mujeres portadoras, presentan insulinorresistencia con hiperinsulinismo compensatorio, lo cual constituye la base patogénica del síndrome metabólico.</p>
+<p>Las mujeres portadoras de síndrome de ovario poliquístico tienden a poseer mayor índice de masa corporal (IMC), circunferencia de cintura, presión arterial, glucemia en ayuno y concentración de insulina en comparación con aquellas que no lo presentan; por tanto, el síndrome de ovario poliquístico no sólo afecta la salud reproductiva, sino que plantea riesgos significativos potenciales a largo plazo, especialmente cardiovasculares.</p>
+<p>Las mujeres portadoras de síndrome de ovario poliquístico tienen riesgo mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad vascular de gran vaso o afectación renal, síndrome de apnea obstructiva del sueño, alteración hepática y cáncer de endometrio.</p>
+<p><strong>SM en el embarazo</strong></p>
+<p>Puede decirse que el embarazo es un síndrome metabólico transitorio</p>
+<p>En el embarazo normal se producen una serie de cambios y adaptaciones metabólicas cuyo objetivo es por un lado mantener el correcto desarrollo del feto y por otro asegurar la correcta nutrición materna durante la gestación y que esté preparada para la lactancia. Así que inicialmente en la primera mitad de la gestación habrá una fase en la que por la acción de las hormonas estrógeno y progesterona la madre va a tener un hiperinsulinismo, exceso de insulina o un exceso de sensibilidad a la insulina que conlleva y busca favorecer el depósito materno de micronutrientes para poder nutrir al feto y a la madre.</p>
+<p>A partir de la semana 20 (5 meses) se va a producir otra fase en la que habrá una resistencia a la insulina real. Disminuye la utilización materna de la glucosa y de los aminoácidos para pasárselos al feto mientras la madre utilizará ácidos grasos provenientes de los depósitos que tenía previamente de la primera mitad de la gestación.</p>
+<p>El reconocimiento de este síndrome durante el embarazo podría ayudar a identificar a un subgrupo de mujeres quienes no solamente pueden desarrollar complicaciones durante el embarazo, sino que potencialmente tienen un riesgo incrementado de condiciones metabólicas y cardiovasculares a lo largo de su vida.</p>
+<p>Las embarazadas con SM tienen un mayor riesgo de morbimortalidad por enfermedades cardiovasculares y diabetes mellitus tipo 2.</p>
+<p>En cuanto a la prevalencia del SM se ha observado un incremente con la edad y la obesidad.</p>
+<p>Si este síndrome es detectado precozmente, pueden realizarse cambios significativos en la conducta médica durante el embarazo desde su inicio, para prevenir las complicaciones maternas y fetales asociadas. De esta manera contribuiría como una herramienta diagnóstica útil para su aplicación en todas aquellas gestantes que acudan a su control prenatal e incluso en la consulta preconcepcional, para hacer diagnóstico de rutina y así recomendarles que deben tratarse.</p>
+<p>La presencia de SM antes del inicio del embarazo es un factor de riesgo importante para trastornos hipertensivos del embarazo. Se ha correlacionado con:</p>
+<ul>
+<li>Hipertensión de la gestación en un 11%.</li>
+<li>Igualmente, el antecedente de trastornos hipertensivos en el primer embarazo incrementa el riesgo de desarrollar posteriormente SM de 3 a 5 veces.</li>
+<li>Preeclampsia en un 5% (*La preeclampsia es una complicación del embarazo caracterizada por presión arterial alta y signos de daños en otro sistema de órganos, más frecuentemente el hígado y los riñones. Generalmente, la preeclampsia comienza después de las 20 semanas de embarazo en mujeres cuya presión arterial había sido normal).</li>
+</ul>
+<p>Es difícil demostrar que se produzcan lesiones a largo plazo en madres gestantes debido al SM, sin embargo, tanto la DG (Diabetes Gestacional) como los trastornos hipertensivos del embarazo (THE) pueden verse como expresiones del síndrome durante la gestación.</p>
+<p>A destacar la importancia de promover la lactancia materna, esta función fisiológica posterior al embarazo disminuye el riesgo de SM. La lactancia prolongada se relaciona con menor riesgo de DM2. Se determina que en mujeres que tuvieron hijos hace 15 años, por cada año de lactancia el riesgo de SM disminuyó en 14%.</p>
+<p>El correcto tratamiento del SM en el embarazo debe de estar encaminado a la prevención de los factores de riesgo del SM.</p>
+
+<h4 id="sm-en-la-infancia">3.2.3.2 SM en la infancia</h4>
+<p>Como se ha ido relatando en los últimos 50 años la obesidad y el SM se han convertido en un problema global. Esto antes era considerado como enfermedades del adulto, ahora ha ido aumentando de forma progresiva su incidencia en niños y adolescentes. No solo se están volviendo más obesos, sino que lo están haciendo a edades más tempranas.</p>
+<p>Los mecanismos fisiopatológicos descritos para la población adulta también pueden explicar la aparición del SM en niños y adolescentes. Aunque nos encontramos con la dificultad para medirlo de que no existe unanimidad de criterios.</p>
+<p>Trasladar el concepto de riesgo utilizado en la población adulta de riesgo a niños y adolescentes resulta difícil, puesto que la tensión arterial, el nivel de lípidos, la sensibilidad a la insulina y las medidas antropométricas cambian con la edad y el desarrollo en la adolescencia.</p>
+<p>Las dificultades para concretar una definición ampliamente aceptada de SM en la infancia y adolescencia son debidas en parte a la falta de valores normativos que puedan aplicarse en todo el mundo, a diferencias étnicas, valores normativos para las diferentes edades pediátricas, la ausencia de un rango de normalidad para la insulina en la infancia y la RI fisiológica de la pubertad.</p>
+<p>En el año 2007 la International Diabetes Federation (IDF) propuso una definición de síndrome metabólico para la infancia y adolescencia.</p>
+<p>Es el más utilizado por su fácil manejo. Basada en grupos de edad y que no permite hacer el diagnóstico antes de los 10 años, requiere el diagnóstico de obesidad central y la presencia de otros dos factores de riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la glucosa).</p>
+<p> </p>
+<p><strong>Criterios de síndrome metabólico en la infancia y adolescencia de la International Diabetes Federation</strong></p>
+<table style="width:21%;">
+<colgroup>
+<col width="2%" />
+<col width="2%" />
+<col width="2%" />
+<col width="4%" />
+<col width="4%" />
+<col width="4%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Edad (años)</th>
+<th>Obesidad (cintura abdominal)</th>
+<th>Triglicéridos (mg/dl)</th>
+<th>HDL colesterol (mg/dl)</th>
+<th>Presión arterial (mmHg)</th>
+<th>Glucosa (mg/dl)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>6-10</td>
+<td><code>&gt;</code>=P90</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>10-16</td>
+<td><code>&gt;</code>=P90 o criterio adulto, si este es menor</td>
+<td><code>&gt;</code>=150</td>
+<td>&lt;40</td>
+<td>Sistólica: <code>&gt;</code> 130 Diastólica: <code>&gt;</code> 85</td>
+<td>Glucosa en ayunas <code>&gt;</code>100 o DM2</td>
+</tr>
+<tr class="odd">
+<td><code>&gt;</code>16 (adultos)</td>
+<td>Varones: <code>&gt;</code>= 94 cm Mujeres: <code>&gt;</code>= 80 cm</td>
+<td><code>&gt;</code>=150</td>
+<td>Varones: &lt;40 Mujeres: &lt;50</td>
+<td>Sistólica: <code>&gt;</code>130 Diastólica: <code>&gt;</code>85</td>
+<td>Glucosa en ayunas <code>&gt;</code>100 oDM2</td>
+</tr>
+</tbody>
+</table>
+<p><em>El diagnóstico requiere la presencia de obesidad central mediante determinación de cintura abdominal y como mínimo dos de los criterios restantes</em></p>
+<p> </p>
+<p>Para la detección del SM en la infancia es necesario una herramienta de diagnóstico con criterios unificados y que permita una detección precoz.</p>
+<p>Independientemente de catalogarse o no de síndrome metabólico, queda claro que lo importante es identificar y tratar la obesidad infantil y los diferentes factores de riesgo.</p>
+<p>En niños la circunferencia de cintura es predictora del síndrome de insulinorresistencia, recomendándose su lectura en la práctica clínica como herramienta simple para identificar a niños con riesgo de presentar en un futuro ECV y diabetes tipo II.</p>
+<p>La obesidad infantil es el principal factor de riesgo de obesidad en el adulto, así como de síndrome metabólico, diabetes mellitus tipo 2 y del desarrollo de enfermedades cardiovasculares, que reducen la calidad y duración de la vida.</p>
+<p>Si bien son numerosas las causas responsables del incremento en la prevalencia del sobrepeso, además de los mecanismos fisiopatológicos existen también factores ambientales, y el cambio en el estilo de vida ocupa un lugar primordial.</p>
+<p>El cambio de estilo de vida (con factores como el aumento del sedentarismo, menos actividades físicas al aire libre, el mayor tiempo frente a las pantallas), unido a un alto consumo de alimentos ultra-procesados, con un alto contenido de grasas saturadas, azúcares simples y sal, ha supuesto que se de este problema de aumento de obesidad, con toda la problemática que ello supone. </p>
+<h4 id="sm-en-la-tercera-edad">3.2.3.3 SM en la tercera edad</h4>
+<p>Con el proceso de envejecimiento se producen serie de cambios de tipo fisiológicos, morfológicos y funcionales entre los que se encuentran:</p>
+<ul>
+<li>Un mayor estrés oxidativo.</li>
+<li>Variaciones neurohormonales que pueden tener un efecto opuesto a la insulina.</li>
+<li>Reducción de la masa muscular. Esto comienza a partir de los 50 años, en parte por el proceso normal de envejecimiento y en parte porque la actividad física suele reducirse y es un factor que favorece la perdida de musculo esquelético que está relacionado con tener más o menos fuerza.</li>
+<li>Una nueva distribución de la grasa corporal. En ambos sexos se da un aumento de contorno de cintura.<br />
+</li>
+<li>El aumento del tejido adiposo va a la par que la pérdida de masa muscular. A mayor pérdida de músculo mayor ganancia de grasa.</li>
+</ul>
+<p>Esta pérdida de masa muscular debida al envejecimiento se denomina sarcopenia y contribuye en gran medida a la pérdida de capacidades y de autonomía del anciano y tiene relación con la obesidad y la resistencia a la insulina. Se produce el hecho de que mayor prevalencia de obesidad se aumenta también la de sarcopenia. Puede mitigarse con la práctica de ejercicio de fuerza, aunque no disminuirla del todo.</p>
+<p>A su vez, la diabetes tipo 2 está asociada con el mayor riesgo de padecer sarcopenia.</p>
+<p>Estas características pueden contribuir a la discapacidad física y a los trastornos metabólicos en adultos mayores con diabetes.</p>
+<p>Lo que se produce es una sucesión de hechos en cadena:</p>
+<p>Con el aumento de peso se va a producir una reducción de la actividad física, lo que provocará una pérdida de masa muscular con la consiguiente disminución de tejido diana para la insulina lo que favorece la aparición de diabetes.</p>
+<p>Sarcopenia y obesidad serán factores que actúan conjuntamente en discapacidad física y trastornos metabólicos en la tercera edad.</p>
+<p>En este momento de la vida se produce la llamada “paradoja de la obesidad”, y es que el sobrepeso se asocia con un mayor riesgo de enfermedad cardiovascular, pero disminuye la mortalidad por estas patologías.</p>
+<p>Por lo tanto, aunque la pérdida de peso siempre es beneficiosa, en personas mayores obesas hay que tener cuidado en recomendarla sólo sobre la base del peso corporal si no está asociada a otras patologías.</p>
+<p>Puede decirse que el proceso de envejecimiento es un factor de riesgo para padecer SM y diabetes.</p>
+
+<h2 id="tratamiento-y-prevención">3.3 Tratamiento y prevención</h2>
+<p>Como síndrome, no hay establecido un tratamiento específico para el conjunto de los factores que lo componen, sino que deben tratarse cada una de las enfermedades por separado.</p>
+<p>La prevención es uno de los elementos clave para el control de esta enfermedad. Se ha estimado que unos correctos hábitos alimentarios y de estilo de vida son suficientes para prevenir su aparición en 90 de cada 100 casos, ya que sólo un 10% se debe a herencia genética.</p>
+<p>Dieta y ejercicio es lo esencial, sólo con ello podemos mejorar mucho e incluso revertir el SM en muchas situaciones.</p>
+<p>Aunque no se alcance el normopeso, las pérdidas entre 5-10 kg han demostrado ser efectivas para mejorar el control metabólico, el riesgo cardiovascular y aumentar la esperanza de vida.</p>
+<p>La duración de la exposición a los factores de riesgo es clave, ya que los daños van sumándose a través de los años. Es muy importante identificarlo lo antes posible y más importante prevenirlo.</p>
+<h3 id="relación-con-la-alimentación">3.3.1 Relación con la alimentación</h3>
+<p>El elevado aporte calórico de la alimentación actual formada por una gran cantidad de alimentos procesados con un alto contenido en sal, azúcares simples y grasas no cardiosaludables y el sedentarismo, son los principales causantes del notable incremento de la obesidad tanto en niños como en adultos en nuestra sociedad.</p>
+<p>El patrón alimentario a seguir, siempre debe ser personalizado y adaptado a las necesidades de cada individuo. Debe considerar la edad, el sexo, la actividad física, el estado metabólico, la situación económica y los alimentos típicos y disponibles del lugar de origen del individuo.</p>
+<p>Como regla general, los hábitos alimentarios deben basarse en:</p>
+<ul>
+<li><strong>Una alimentación con un bajo contenido en grasa saturada, grasa trans y colesterol.</strong></li>
+<li><strong>El aceite de oliva el principal aporte de grasa en la dieta.</strong></li>
+<li><strong>Aumentar el consumo de pescado, especialmente el de pescado azul de pequeño tamaño.</strong></li>
+<li><strong>Priorizar el consumo de carnes blancas sobre las rojas y el pescado sobre la carne.</strong></li>
+<li><strong>Incrementar la ingesta de frutas, verduras, legumbres y cereales integrales.</strong></li>
+<li><strong>Incorporar a la dieta frutos secos y semillas.</strong></li>
+<li><strong>Disminuir el consumo de azúcares sencillos cuanto más mejor.</strong></li>
+<li><strong>Eliminar los refrescos o bebidas azucaradas y en general los alimentos superfluos que no tienen valor nutricional.</strong></li>
+</ul>
+<p><strong>-Eliminar en lo posible alimentos de elaboración industrial y ultra procesados.</strong></p>
+<h3 id="hábitos-de-vida">3.3.2 Hábitos de vida</h3>
+<p>Favorecen el desarrollo del SM otros factores:</p>
+<ul>
+<li><strong>Sedentarismo.</strong></li>
+<li><strong>Un elevado consumo calórico a través de bebidas azucaradas y alimentos ricos en grasa saturada.</strong></li>
+<li><strong>Disminución en el consumo de fibra.</strong></li>
+<li><strong>El tabaquismo.</strong></li>
+<li><strong>Consumo de alcohol, el cual debería de ser eliminado de la dieta.</strong></li>
+</ul>
+<p>La actividad física es tan importante como una buena alimentación, es parte fundamental tanto del tratamiento de los pacientes con la enfermedad, como de los que están en riesgo de desarrollarla y debe de ser incluida en la vida cotidiana de la población.</p>
+<p>Alimentación y actividad física deben de ir de la mano.</p>
+<ul>
+<li><strong>Es necesario aparcar actividades sedentarias como la televisión o los videojuegos.</strong></li>
+<li><strong>Realizar actividades de ocio al aire libre orientadas a un mayor consumo calórico como pasear, andar en bici, nadar o hacer excursionismo.</strong></li>
+<li><strong>Como regla general, se aconseja que sea de intensidad moderada, de 3 a 5 días por semana y con una duración aconsejable de al menos 30/ 60 minutos.</strong></li>
+</ul>
+
+<h1 id="material-y-métodos">4. Material y métodos</h1>
+<p>Precisar los material y métodos que se van a necesitar para desarrollar el trabajo. El objetivo será proporcionar al lector todos los detalles para que se pueda repetir dicho estudio.</p>
+
+<h2 id="creación-empresa">Creación empresa</h2>
+<p><strong>CREACIÓN DE UN GABINETE DE NUTRICIÓN Y DIETÉTICA</strong></p>
+<p>Proyecto para poner en funcionamiento un gabinete de nutrición y dietética, con consulta para atención al público.</p>
+<p>Se expone cómo será la configuración del local, el análisis de riesgos y oportunidades del negocio, así como las acciones de promoción de la empresa. También una previsión de ingresos y gastos que puede tener el negocio.</p>
+<p>Por último se adjuntan los formularios relacionados con los trámites administrativos necesarios para constituir la empresa.</p>
+<h3 id="pasos-para-montar-la-empresa">Pasos para montar la empresa</h3>
+<p><em>Nombre de la empresa</em></p>
+<p>Beatriz Carro Dietista Nutricionista</p>
+<p><em>Situación de la empresa</em></p>
+<p>A Coruña</p>
+<p><em>Descripción del plano del local</em></p>
+<p>Local comercial de uso compartido con otro profesional sanitario, situado en zona de paso peatonal, en el que cada especialista tendrá su gabinete independiente.</p>
+<p>Espacios:</p>
+<p><strong>Gabinete de nutrición y dietética</strong></p>
+<p>Consulta de trabajo dividida en dos áreas:</p>
+<p>Área de despacho con escritorio donde poder recibir y hablar con los pacientes, con espacio para almacenar fichas de trabajo y documentación.</p>
+<p>Área donde estarán los aparatos de medición necesarios para atender a los pacientes y una camilla.</p>
+<p><strong>Gabinete del otro profesional sanitario</strong> <strong>Entrada y sala de espera</strong></p>
+<p>En la entrada del local, habrá una sala donde los pacientes de ambos gabinetes esperarán a ser atendidos.</p>
+<p><strong>Baño para pacientes adaptado a minusválidos.</strong> <strong>Baño para uso interno</strong></p>
+
+<h3 id="plan-dafo">Plan DAFO</h3>
+<h4 id="debilidades">Debilidades</h4>
+<ul>
+<li>Empresa desconocida.</li>
+<li>Posible menor llegada de clientes nuevos por el poco conocimiento de la población de los servicios que puede aportarle un dietista.</li>
+</ul>
+<p><em>Como corregir</em></p>
+<ul>
+<li>Darse a conocer con campaña de marketing.</li>
+<li>Tener presencia en redes sociales.</li>
+<li>Aprovechar las redes sociales para realizar una labor informativa sobre los beneficios de contar con los servicios de una profesional dietista.</li>
+</ul>
+<h4 id="amenazas">Amenazas</h4>
+<ul>
+<li>Cambio de legislación que pueda interferir en el desarrollo de la actividad.</li>
+<li>Proliferación de una mayor oferta de dietistas.</li>
+<li>Confusión de la población sobre la profesionalidad de la profesión por culpa de la promoción de dietas y consejos sobre alimentación por parte de gente no profesional a través de las redes sociales.</li>
+</ul>
+<p><em>Como afrontar</em></p>
+<ul>
+<li>Mantenerse informado y formado acerca de las novedades que surjan en la profesión, de forma que las evoluciones que puedan provocar cambios legislativos no nos cojan por sorpresa.</li>
+<li>Aprovechar al máximo nuestra situación de novedad en nuestra área geográfica para posicionarnos adecuadamente frente a la futura competencia.</li>
+<li>Aprovechar nuestras redes sociales aportando información profesional y comprensible, de forma que a la vez nos demos a conocer y ayudemos a que la población tenga una información adecuada.</li>
+</ul>
+<h4 id="fortalezas">Fortalezas</h4>
+<ul>
+<li>Ausencia del mismo tipo de oferta en la zona.</li>
+<li>Poder ir dándose a conocer sin asumir un riesgo elevado.</li>
+<li>Ubicación: Local comercial muy visible en calle muy transitada y bien ubicada. Lugar muy transitado con muchos pequeños negocios. Buen lugar para aparcar. Cerca de gran zona comercial Buena comunicación transporte público.</li>
+<li>No es necesario una gran inversión inicial, lo que supone un menor riesgo económico.</li>
+<li>Poder simultanear trabajo online.</li>
+<li>Flexibilidad para desplazarse a atendar a pacientes.</li>
+<li>Complementariedad con negocio con el que se comparte local.</li>
+</ul>
+<p><em>Como mantener</em></p>
+<ul>
+<li>Aprovechar que se ofrece un servicio novedoso en la zona para que la gente nos tome como referencia de dietista al que pueden acudir.</li>
+<li>Mantener una relación fluida con el otro gabinete de forma que se puedan crear sinergias que beneficien a ambos. Por ejemplo, conociendo bien que servicios presta, e informándose de cuales de los servicios de dietista pueden ser atractivos para los pacientes del otro profesional.</li>
+</ul>
+<h4 id="oportunidades">Oportunidades</h4>
+<ul>
+<li>No excesiva cantidad de profesionales dietistas.</li>
+<li>Poder ampliar acceso a clientes vía online</li>
+</ul>
+<p><em>Como explorar</em></p>
+<ul>
+<li>Dependiendo del tipo de tratamiento que fuese necesario. Analizar cuál sería una manera viable de poder atender de forma completa a un paciente sin necesidad de realizar todas las consultas en presencial, dando así más flexibilidad a las necesidades del cliente.</li>
+</ul>
+
+<h3 id="plan-de-marketing">Plan de Marketing</h3>
+<p><strong>Campaña de buzoneo</strong></p>
+<p>Para darse a conocer en nuestra área geográfica más próxima (barrio).</p>
+<p>Campaña de publicidad en redes sociales:</p>
+<p>Permiten realizar campañas segmentando el área geográfica y los destinatarios a los que queremos llegar. Por lo que podemos realizar una campaña del ámbito de nuestra ciudad y enfocada, por ejemplo, a un rango de edad.</p>
+<p><strong>Página web y cuentas en redes sociales</strong></p>
+<p>Donde podemos dar información clara de donde estamos y que servicios ofrecemos.</p>
+<p>También serán una vía de comunicación directa con nuestros potenciales clientes.</p>
+<p><strong>Blog</strong></p>
+<p>Donde podemos escribir contenidos profesionales e interesantes sobre nutrición, contribuyendo a que exista contenido de calidad acerca de la nutrición. Esto mejorará la percepción y consciencia de la población acerca de la necesidad del trabajo de los dietistas.</p>
+<p><strong>Boca a boca</strong></p>
+<p>Dando a conocer a todos nuestros conocidos que estamos trabajando y que hacemos.</p>
+
+<h3 id="plan-financiero">Plan financiero</h3>
+<p><em>Inversión inicial</em></p>
+<p>Podría ser aportada con ahorros. La idea es empezar con la mínima inversión e intentar minimizar riesgos.</p>
+<table>
+<thead>
+<tr class="header">
+<th>CONSULTA</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mesa de despacho y silla</td>
+<td>200€</td>
+</tr>
+<tr class="even">
+<td>Dos sillas para paciente y acompañante</td>
+<td>60€</td>
+</tr>
+<tr class="odd">
+<td>Estanterías y cajoneras</td>
+<td>100€</td>
+</tr>
+<tr class="even">
+<td>Material de escritorio (papel, lápices bolígrafos, etc.)</td>
+<td>60€</td>
+</tr>
+<tr class="odd">
+<td>Ordenador e impresora</td>
+<td>800€</td>
+</tr>
+<tr class="even">
+<td>Material de consulta (papel para camilla, guantes)</td>
+<td>30€</td>
+</tr>
+<tr class="odd">
+<td><strong>Subtotal consulta</strong></td>
+<td><strong>1250€</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>SALA DE TRATAMIENTO</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Biombo</td>
+<td>35€</td>
+</tr>
+<tr class="even">
+<td>Camilla</td>
+<td>220€</td>
+</tr>
+<tr class="odd">
+<td>Tensiómetro</td>
+<td>35€</td>
+</tr>
+<tr class="even">
+<td>Bascula de bioimpedancia</td>
+<td>45€</td>
+</tr>
+<tr class="odd">
+<td>Tallímetro</td>
+<td>20€</td>
+</tr>
+<tr class="even">
+<td>Plicómetro</td>
+<td>10€</td>
+</tr>
+<tr class="odd">
+<td>Cinta antropométrica</td>
+<td>6€</td>
+</tr>
+<tr class="even">
+<td><strong>Subtotal sala tratamiento</strong></td>
+<td>371€</td>
+</tr>
+<tr class="odd">
+<td><strong>Total inversión inicial material</strong></td>
+<td><strong>1621€</strong></td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="plan-gastos-y-beneficios-de-la-empresa">Plan gastos y beneficios de la empresa</h3>
+<p><em>Previsión de ingresos mensuales</em></p>
+<p>Haciendo la previsión de tener un paciente al día:</p>
+<p>Primera consulta a una tarifa de 6o euros daría una cifra de 1200 euros a los que habría que sumar las tarifa a las consultas de revisión con unas tarifas de 30 euros la consulta serían 600 euros, lo que nos daría en total a percibir de 600 euros al mes.</p>
+<p><em>Previsión de gastos</em></p>
+<p><strong>Gastos generales (luz, agua, internet): incluidos en el alquiler del despacho.</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th>Gastos mensuales</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Alquiler</td>
+<td>300€</td>
+</tr>
+<tr class="even">
+<td>Pago cuota de autónomos</td>
+<td>60€</td>
+</tr>
+<tr class="odd">
+<td>Gastos de gestores financieros</td>
+<td>60€</td>
+</tr>
+<tr class="even">
+<td><strong>Total gastos mensuales</strong></td>
+<td><strong>420€</strong></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>Gastos trimestrales</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Pago IRFP</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th>Gastos anuales</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Impuesto actividades económicas (IAE)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Seguro responsabilidad civil</td>
+<td>135€</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Análisis</strong></p>
+<p>Ingresos mensuales: 2000 euros</p>
+<p>Gastos: 420 euros</p>
+<p>Cálculo de beneficios: 2000 – 420 =1580 euros.</p>
+<p>Sería necesario un mínimo de 8 a 10 pacientes al mes para poder subsistir asumiendo perdidas apoyándose en un colchón financiero inicial de unos seis mil euros para poder mantener abierta la consulta durante el primer año y poder analizar su viabilidad.</p>
+<h3 id="papeles-oficiales-para-gestionar-la-empresa-alta-en-la-seguridad-social-iae-licencia-del-ayuntamiento-para-la-apertura-etc.">Papeles oficiales para gestionar la empresa (alta en la seguridad social, IAE, licencia del ayuntamiento para la apertura, etc.)</h3>
+<p><em>Titulación</em>: TSD (Técnico Superior Dietética)</p>
+<p><em>Alta en IAE</em>: Grupo 839</p>
+<p><em>Realizar la Inscripción en el Registro Mercantil</em></p>
+<p><em>Realizar la declaración censal de inicio de actividades</em></p>
+<p><em>Declaración censal</em></p>
+<p><em>Ley protección datos</em></p>
+<p>RGPD</p>
+<p>Identificar los tratamientos que contengan datos de carácter personal. Que serán lo que contengan información de: empleados, pacientes, clientes o proveedores.</p>
+<p>Disponer de un Delegado de Protección de Datos en nuestro centro.</p>
+<p>Evaluación de Impacto en la Protección de Datos Personales</p>
+<p><em>Seguros</em></p>
+<p>Seguro de responsabilidad civil</p>
+<p>Responsabilidad Civil Patronal</p>
+
+<h2 id="paciente">Paciente</h2>
+<p>Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27 ….... Superior a 30 supone Obesidad grado I). Perímetro de cintura 103 cm (mayor o igual de 88 es de riesgo para enfermedades cardiovasculares y diabetes según criterio de la OMS). Perímetro de cadera 110 cm, perímetro de pantorrilla 39,5 cm, perímetro de muslo 57cm y perímetro de muñeca 16.5 cm. (157 /16,5 =9,8), se trata por tanto de una mujer de complexión mediana.</p>
+<p>Los objetivos al inicio de la consulta son la pérdida de peso y adquisición de hábitos saludables. Comenta no tener prisa en ello y tener la sensación subjetiva de buena salud. Sin embargo, al analizar la analítica y datos que me facilita observo que tiene Diabetes tipo II, hipercolesterolemia, hipertensión, obesidad grado I, lo que conlleva 4 de las 5 características que conforman el síndrome metabólico.</p>
+<p>Está realizando tratamiento hipolipemiante para control de colesterol e hipoglucemiante oral por indicación de su médico de cabecera.</p>
+<ul>
+<li><p>Atorvastatina 40 mg una vez al día en las mañanas ((para la disminución de colesterol en sangre y prevención enfermedades cardiovasculares).</p></li>
+<li><p>Metformina 850 mg una vez al día en los mediodías (antidiabético oral).</p></li>
+</ul>
+<p>No refiere alergias ni operaciones.</p>
+<p><strong>Antecedentes familiares</strong></p>
+<p>Refiere enfermedad coronaria precoz en familiares de primer grado.</p>
+<p>Padre: IAM (infarto agudo de miocárdico), cirugía valvular y ACV (accidente cerebro bascular).</p>
+<p>Madre: Diabetes tipo II.</p>
+<p>Dice tener una alimentación variada y unos horarios establecidos para las comidas, aunque la falta de tiempo para cocinar le obliga a cocinar el almuerzo el día anterior y aunque come pocos fritos sus menús más habituales son los guisos. Realiza un picoteo frecuente a lo largo del día y consumo de bollería industrial en el café de media mañana.</p>
+<p>El consumo de alcoholes de vino o cerveza ligados a comidas familiares o con amigos los fines de semana.</p>
+<p>No fumadora.</p>
+<p>A la pregunta sobre si realiza algún tipo de actividad física refiere caminar una hora al día a paso ligero cuando el tiempo se lo permite.</p>
+<h3 id="objetivos-1">Objetivos</h3>
+<p>Los objetivos a realizar son la pérdida de peso y la adquisición de unos hábitos saludables que pueda mantener en el tiempo como medio de control de sus patologías y comprobar con ello si puede producirse una reducción o suspensión de la medicación que actualmente tiene pautada.</p>
+<p>El cálculo de gasto de energía del metabolismo basal en reposo lo realizo por la fórmula de Harris y Benedict dando un resultado de una TMR de 1210 kcal.</p>
+<p>La energía del trabajo es de 363 kcal., el 30% del MB que corresponde con una actividad ligera. Mientras que la energía de la termogénesis o ADE es de 121 kcal que corresponde al 10% del metabolismo basal.</p>
+<p>Así tendremos una paciente con un gasto energético total de 1694 kcal.</p>
+<p>Para el cálculo de proteínas que voy a darle utilizo un índice de masa corporal de 29, inferior al de 33 que es el que tiene, lo que da como resultado un “peso ideal” de 71,5 kg. La cantidad de proteína que le daré será de n 1,2 gr por kg y día (supondrá un total de ....) para saciarla y que ayude a la formación de masa muscular.</p>
+<p>Para el cálculo de los lípidos tomaré como porcentaje el 25% del total de la dieta a ingerir debido a que estamos ante un paciente con patologías lipídicas.</p>
+
+<h1 id="resultados">5. Resultados</h1>
+<p>En este apartado deberéis incluir los resultados de las encuestas y los resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.</p>
+
+<h1 id="discusión">6. Discusión</h1>
+<p>La definición de SM ha tenido muchas modificaciones y no se ha llegado a un criterio común entre las distintas asociaciones que lo han analizado.</p>
+<p>La pregunta que cabe es si el SM es más que la suma de las partes.</p>
+<p>Cada uno de sus elementos ha sido estudiado en forma individual, demostrando su importancia como factor de riesgo, pero aún no hay acuerdo sobre cuáles deben constituirse dentro, y además parece que los diferentes grupos de estudio quisieran agregar un nuevo factor de riesgo.</p>
+<p>Se ha demostrado que la prevalencia del SM varía de acuerdo a la guía que se utilice, en consecuencia, no se llega a conocer la real magnitud del problema. Por ejemplo, la concepción original de Reaven considera a la RI como el factor inicial y fundamental del denominado síndrome X; sin embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta. Los investigadores deben considerar que, si utilizan varias guías en el mismo estudio para medir la prevalencia del SM, se obtendrán resultados diferentes, lo que puede impactar en las conclusiones que puedan obtener.</p>
+<p>Otra situación que se plantea, además de los diferentes criterios elegidos para su diagnóstico, es que no se hace referencia a la importancia que pueden tener las diferentes patologías que lo forman.</p>
+<p>Tampoco se contempla la importancia de tener unos factores de riesgo con respecto a otros, ni la importancia de tener tres, cuatro o cinco.</p>
+<p>Por poner unos ejemplos:</p>
+<ul>
+<li>¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros muy alterados que otro que se encuentra apenas por encima de los criterios de corte?</li>
+<li>¿Es lo mismo un paciente con glucemia en ayunas que otro que toma antidiabéticos orales?</li>
+<li>¿Ante dos pacientes diferentes, pero que reúnen igual número de criterios diagnósticos de SM el riesgo CV será el mismo?</li>
+<li>Dos pacientes diferentes con el mismo número de factores de riesgo, pero diferentes, ¿estarán expuestos al mismo riesgo?</li>
+</ul>
+<p>En resumen, pueden darse múltiples circunstancias lo que hace difícil la unificación y evaluación del grado de riesgo.</p>
+<p>Cabría decir entonces que quizás la mayor importancia del concepto de SM resida en que utilizarlo como una guía que hace más fácil identificar las condiciones de riesgo cardiovascular (CV) y Diabetes Mellitus 2 en los individuos.</p>
+<p>Así se tendrá una mejor herramienta clínica para la detección y prevención de riesgo de estas enfermedades.</p>
+
+<h1 id="conclusión">7. Conclusión</h1>
+<p>El síndrome metabólico es un estado fisiopatológico complejo que se origina principalmente por un desequilibrio en la ingesta de calorías y el gasto energético, pero también se ve afectado por la composición genética/epigenética del individuo, el predominio del estilo de vida sedentario sobre la actividad física y otros factores como la microbiota intestinal y la calidad y composición de los alimentos. No se puede prescribir un solo remedio para su erradicación o incluso su reducción. Al igual que en el control de otras epidemias, será muy importante la educación de la población sobre el peligro para la salud del síndrome metabólico.</p>
+<p>En los países de ingresos medios el sobrepeso se ubica en el quinto lugar entre las diez mayores causas de enfermedad (al igual que en países desarrollados) y justo por debajo de la desnutrición, siendo la población de menores ingresos la más perjudicada. Por lo tanto, en los países pobres el riesgo de desarrollar obesidad es menor que el de padecer desnutrición. Es decir, que una persona pobre en un país pobre sufre escasez de alimentos sumado a un incremento en el gasto energético relacionado con el trabajo manual; en cambio, una persona pobre en un país de ingresos medios se expone a una abundancia de alimentos de mala calidad nutricional que además son económicos y fácilmente accesibles en mercados callejeros de grandes urbes, con el gasto energético menor en sus tareas laborales. En contraste, los individuos de mayores ingresos económicos que habitan en países de ingresos medios tienen mejor educación, cobertura de salud, mayor acceso a alimentos de mejor calidad y más tiempo libre para dedicarle a la actividad física. Por ello son en promedio más delgados y metabólicamente más sanos.</p>
+<p>Los factores de riesgo (a excepción del tabaquismo) era más elevado en aquellas personas con menores ingresos económicos y en los que tenían un nivel educativo más bajo.</p>
+<p>Durante las últimas décadas, la sociedad ha experimentado cambios drásticos que han afectado al comportamiento y estilo de vida del ser humano. La mecanización en los puestos de trabajo, la globalización de la tecnología, la falta de tiempo y las mejoras en el transporte, son algunos de los aspectos que han llevado a un aumento en el consumo de comida rápida con un elevado aporte calórico y al sedentarismo. Estas circunstancias y coyunturas, han contribuido enormemente a que la obesidad sea considerada una pandemia. Este hecho no solo es un problema de los países industrializados, sino que también la obesidad va aumentando notablemente en los países en transición, ya que estos países están adquiriendo estilos de vida cada vez más parecidos a los occidentales, disminuyendo la actividad física y teniendo un consumo elevado de alimentos con alta densidad energética1.</p>
+
+<h1 id="bibliografía">Bibliografía</h1>
+<ul>
+<li><a href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1561-29532006000300006">CALDERIN BOUZA, Raúl Orlando y ORLANDI GONZALEZ, Neraldo. Síndrome metabólico vs síndrome de insulinorresistencia. Diferentes términos, clasificaciones y enfoques: ¿existe o no?. Rev Cubana Endocrinol [online]. 2006, vol.17, n.3 [citado 2022-01-22]. Disponible en: &lt;http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S1561-29532006000300006&amp;lng=es&amp;nrm=iso&gt;. ISSN 1561-2953.</a></li>
+<li><a href="https://www.researchgate.net/profile/Marta-Hegewisch/publication/285026795_A_brief_chronic_of_metabolic_syndrome_definition/links/5bbcc9be299bf1049b7853b9/A-brief-chronic-of-metabolic-syndrome-definition.pdf">Córdova-Pluma VH, Castro-Martínez G, Rubio-Guerra A, Hegewisch ME. Breve crónica de la definición del síndrome metabólico. Med Int Méx 2014;30:312-328</a></li>
+<li><a href="http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1137-66272016000200009&amp;lng=es&amp;nrm=iso">HERNANDEZ RUIZ DE EGUILAZ, M. et al. Cambios alimentarios y de estilo de vida como estrategia en la prevención del síndrome metabólico y la diabetes mellitus tipo 2: hitos y perspectivas. Anales Sis San Navarra. 2016, vol.39, n.2 [citado 2022-01-17], pp.269-289. ISSN 1137-6627</a></li>
+<li><a href="http://ve.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0798-07522007000200006">SCHNELL, Mercedes; DOMINGUEZ, Zury A y CARRERA, Carlos. Aspectos genéticos, clínicos y fisiopatológicos del Síndrome Metabólico. An Venez Nutr [online]. 2007, vol.20, n.2 [citado 2022-01-25], pp.92-98. Disponible en: &lt;http://ve.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0798-07522007000200006&amp;lng=es&amp;nrm=iso&gt;. ISSN 0798-0752</a></li>
+<li><a href="http://hdl.handle.net/2183/16548">Estudio de la obesidad, síndrome metabólico, comorbilidad y estado nutricional en pacientes no institucionalizados mayores de 64 años del área de salud de A Coruña, Mª Pilar Carballo González, http://hdl.handle.net/2183/16548</a></li>
+<li><a href="http://ve.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0048-77322011000200002&amp;lng=es&amp;nrm=iso">YEPEZ, Mayel Cristina; ZEPPENFEL, María Eugenia; COLON, José Antonio y ZIMMER, Eveline. Síndrome metabólico durante el embarazo: Complicaciones materno-fetales. Rev Obstet Ginecol Venez [online]. 2011, vol.71, n.2 [citado 2022-01-29], pp.77-87. Disponible en: &lt;http://ve.scielo.org/scielo.php?script=sci_arttext&amp;pid=S0048-77322011000200002&amp;lng=es&amp;nrm=iso&gt;. ISSN 0048-7732.</a></li>
+<li><a href="http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-16112017000500013&amp;lng=es&amp;nrm=iso">GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr. Hosp. [online]. 2017, vol.34, n.5 [citado 2022-01-30], pp.1105-1111. Disponible en: &lt;http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-16112017000500013&amp;lng=es&amp;nrm=iso&gt;. ISSN 1699-5198. https://dx.doi.org/10.20960/nh.1024</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1405888X16300158">Romain Pierlot, Estela Cuevas-Romero, Jorge Rodríguez-Antolín, Pablo Méndez-Hernández, Margarita Martínez-Gómez, PREVALENCIA DE SÍNDROME METABÓLICO EN NIÑOS Y ADOLESCENTES DE AMÉRICA, TIP, Volume 20, Issue 1,2017,Pages 40-49,ISSN 1405-888X,https://doi.org/10.1016/j.recqb.2016.11.004.</a></li>
+</ul>
+<hr />
+<ol style="list-style-type: decimal">
+<li><a href="https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria">Guerra A, González V, García E, Moreno E, Ramos A. El síndrome metabólico y su prevalencia en la población que acude a una farmacia comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3 (4): 146-150</a></li>
+<li><a href="https://doi.org/10.1373/clinchem.2005.048611">Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace, Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages 931–938</a></li>
+<li><a href="http://dspace.utalca.cl/handle/1950/4714">Proteina C reactiva ultrasensible como marcador de estado proinflamatorio en pacientes con síndrome metabólico | http://dspace.utalca.cl/handle/1950/4714</a></li>
+<li><a href="https://ruc.udc.es/dspace/handle/2183/16548">Estudio de la obesidad, síndrome metabólico, comorbilidad y estado nutricional en pacientes no institucionalizados mayores de 64 años del área de salud de A Coruña | https://ruc.udc.es/dspace/handle/2183/16548</a></li>
+<li><a href="https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/">La falta de sueño puede disminuir el colesterol «bueno»</a> https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/</li>
+<li><a href="https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico">Síndrome metabólico</a></li>
+<li><a href="https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico">síndrome metabólico - Perspectiva general | https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico</a></li>
+<li><a href="https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921">Síndrome metabólico - Diagnostico | https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/ iagnosis-treatment/drc-20351921</a></li>
+<li><a href="https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916">Síndrome metabolico - Descripción General | https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916</a></li>
+<li><a href="http://www.scielo.org.pe/scielo.php?script=sci_arttext&amp;pid=S1025-55832020000100092&amp;lng=es">GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o realidad?. An. Fac. med. [online]. 2020, vol.81, n.1 [citado 2022-01-20], pp.92-98. Disponible en: &lt;http://www.scielo.org.pe/scielo.php?script=sci_arttext&amp;pid=S1025-55832020000100092&amp;lng=es&amp;nrm=iso&gt;. ISSN 1025-5583. http://dx.doi.org/10.15381/anales.v81i1.17787.</a></li>
+<li><a href="https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-16112017000500013">GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr. Hosp. [online]. 2017, vol.34, n.5 [citado 2022-01-20], pp.1105-1111. Disponible en: &lt;http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-16112017000500013&amp;lng=es&amp;nrm=iso&gt;. ISSN 1699-5198. https://dx.doi.org/10.20960/nh.1024.</a></li>
+<li><a href="https://www.pediatriaintegral.es/publicacion-2015-07/sindrome-metabolico/">Síndrome metabólico M. Güemes-Hidalgo*, M.T. Muñoz-Calvo** *Departamento de Endocrinología. Great Ormond Street Hospital for Children. Londres.Reino Unido. **Servicio de Endocrinología. Hospital Infantil Universitario Niño Jesús.Profesora Asociada de Pediatría. Universidad Autónoma. Madrid</a></li>
+<li><a href="https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-articulo-asociacion-del-sindrome-metabolico-con-S2530016416300106">Asociación del síndrome metabólico con bajo peso al nacimiento, consumo de dietas hipercalóricas y acantosis nigricans en escolares y adolescentes con sobrepeso y obesidad - Endocrinología, Diabetes y Nutrición Vol. 64. Núm. 1.Páginas 1-62 (Enero 2017)</a></li>
+<li><a href="https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-71992008000700003">GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en población laboral: El corazón de Asepeyo. An. Med. Interna (Madrid) [online]. 2008, vol.25, n.7 [citado 2022-01-20], pp.325-330. Disponible en: &lt;http://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S0212-71992008000700003&amp;lng=es&amp;nrm=iso&gt;. ISSN 0212-7199.</a></li>
+<li><a href="https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf">Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad Central del Ecuador Hospital Quito-Ecuador Bernardo Aguirre F. Universidad de las Américas (UDLA) Quito-Ecuador</a></li>
+</ol>
+
+<h1 id="anexos">Anexos</h1>
+<h2 id="vocabulario">Vocabulario</h2>
+<p>dislipidemia aterogénica: elevación de triglicéridos y/o descenso de cHDL<br />
+estado proinflamatorio: aumento de la proteína c reactiva. Un estado proinflamatorio se caracteriza por un elevado número de citoquinas inflamatorias en el plasma. estado protrombótico: aumento del inhibidor de plasminógeno 1 y fibrinógeno.</p>
+<h2 id="abreviaturas">Abreviaturas</h2>
+<p>SM: Síndrome Metabólico<br />
+IDF: Inernational Diabetes Federation<br />
+ATP: Adult Treatment Panel (ATP-III)<br />
+OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC: Índice de masa corporal DM2: Diabetes Mellitus tipo 2 PAS: Presión arterial sistólica HAS: Hipertensión arterial sistémica.</p>
+<p>EGIR: European Group for the Study of Insulin Resistance ## Glosario</p>
+<p><strong>Sarcopenia</strong>: Afección que se caracteriza por la pérdida de masa, fuerza y funcionamiento de los músculos en los adultos mayores.<br />
+<strong>Morbimortalidad</strong>: tasa de muertes por enfermedad en una población y tiempo determinados.<br />
+<strong>Preclampsia</strong>: complicación del embarazo caracterizada por presión arteial alta y signos de daños en otro sistema de órganos, generalmente hígado y riñón. Generalmente comienza después de las veinte semanas de embarazo en mujeres cuya presión arterial había sido normal, si no se trata puede ser mortal para la madre y para el bebe.<br />
+<strong>Macrosomía</strong>: El feto macrosómico es el bebé que nace con más de cuatro kilos tras nueve meses de gestación.</p>
+
+<table style="width:18%;">
+<colgroup>
+<col width="5%" />
+<col width="2%" />
+<col width="2%" />
+<col width="6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Evolución histórica de los criterios del síndrome metabólico</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Denomina</td>
+<td>Autor</td>
+<td>Año</td>
+<td>Criterios y factores de riesgo asociado</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Hitzenberger y Richter-Quittner</td>
+<td>1921</td>
+<td>Hipertensión y normalidades metabólicas</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Marañón</td>
+<td>1922</td>
+<td>Hipertensión y diabetes mellitus</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Kylin</td>
+<td>1923</td>
+<td>Síndrome hipertensión-hiperglucemia-hiperuricemia</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Vague</td>
+<td>1947</td>
+<td>Obesidad ginoide y androide; diabetes, hipertensión, gota y aterosclerosis</td>
+</tr>
+<tr class="even">
+<td>“Trisíndrome metabólico”</td>
+<td>Camus</td>
+<td>1966</td>
+<td>Gota, diabetes e hiperlipidemia</td>
+</tr>
+<tr class="odd">
+<td>“Síndrome plurimetabólico”</td>
+<td>Avogaro y Crepaldi</td>
+<td>1967</td>
+<td>Hiperlipidemia, obesidad y diabetes, y su asociación con hipertensión y enfermedad coronaria</td>
+</tr>
+<tr class="even">
+<td>“Síndrome de opulencia</td>
+<td>Mehnert y Kuhlmann</td>
+<td>1968</td>
+<td>Conexión de estos trastornos con la nutrición y los cambios en el estilo de vida de los países desarrollado</td>
+</tr>
+<tr class="odd">
+<td>“Síndrome Metabólico”</td>
+<td>Hanefeld y Leonhardt</td>
+<td>1981</td>
+<td>Diabetes de tipo 2, hiperinsulinemia, obesidad, hipertensión, hiperlipidemia y trombofilia, sobre una base genética y de influencias medioambientales: sobrealimentación, sedentarismo, arteriosclerosis</td>
+</tr>
+<tr class="even">
+<td>“Síndrome X”</td>
+<td>Gerald Reaven</td>
+<td>1988</td>
+<td>Factores de riesgo cardiovascular y diabetes: hipertensión arterial esencial, resistencia a insulina, hiperglucemia, dislipemia y grasa abdominal</td>
+</tr>
+<tr class="odd">
+<td>“Cuarteto de la muerte”</td>
+<td>Kaplan</td>
+<td>1989</td>
+<td>Adiposidad central, intolerancia a la glucosa, hipertrigliceridemia e hipertensión; importancia en el desarrollo de la enfermedad cardiovascular</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Organización Mundial de la Salud (OMS)</td>
+<td>1998-1999</td>
+<td>Utiliza la ratio cintura/cadera, que debe ser &gt;= 0,9 en hombres y &gt;= 0,85 en mujeres o un IMC &gt;= 30 kg/m</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)</td>
+<td>2001</td>
+<td>Alto riesgo cardiovascular, con colesterol de las lipoproteínas de baja densidad (LDL) (c-LDL)alto, con obesidad central:&gt;=102cm hombre, &gt;=88cm mujer, con triglicéridos altos, con colesterol HDL (c-HDL) bajo, hipertensión arterial y glucemias &gt;= 110 mg/dL</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Grupo europeo para el estudio de resistencia a la insulina (EGIR)</td>
+<td>2002</td>
+<td>Relación entre la sensibilidad a la insulina y las enfermedades cardiovasculares; Circunferencia cintura varones &gt;94 cm, mujeres &gt;80 cm</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>National Cholesterol Education Program- Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adult: (NCEP ATPIII)</td>
+<td>2005</td>
+<td>Disminuyó las cifras de tensión mínimas,que en 2001 eran &gt;= 135/85 mmHg, a 130/85 mmHg o cifras normales en hipertensos con tratamiento establecido, y la glucemia pasó a ser &gt;= 100 mg/dL</td>
+</tr>
+<tr class="even">
+<td>“Síndrome metabólico”</td>
+<td>International Diabetes Federation (IDF)</td>
+<td>2005</td>
+<td>Circunferencia de cintura como criterio imprescindible, además de dos, de los siguientes, hiperglucemia, hipertrigliceridemia e hipertensión</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>International Diabetes Federation Task Force on Epidemiology and Prevention National Heart,Lung, and Blood Institute American Heart Association World Heart Federation International Atherosclerosis Society and International Association for the Study of Obesity</td>
+<td>2009</td>
+<td>Armonización de criterios: Circunferencia de cintura deja de ser criterio imprescindible</td>
+</tr>
+</tbody>
+</table>
+<div class="figure">
+<img src="diptico-dietoterapia.png" />
+
+</div>
+</body>
+</html>
