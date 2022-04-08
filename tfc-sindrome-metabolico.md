@@ -1735,8 +1735,6 @@ Refiere:
 encontrarse con más energía y más alegría lo que le supone un mayor
 bienestar emocional.
 
-- Manifiesta encontrarse más alegre y con mejor ánimo.
-
 - Comenta que hay semanas que le cuesta más mantener los menús y otras
 menos, pero en general lo lleva bien y aunque tiene un día libre el fin
 de semana procura no pasarse y comer “con cabeza”.
@@ -1849,24 +1847,25 @@ medio/ largo periodo de tiempo.
 
  Este hecho va acompañado de unas fuertísimas campañas de publicidad por
 parte de la industria alimentaria, que en muchas ocasiones promociona
-productos con una dudosa calidad, como productos saludables y
+productos con una dudosa calidad como productos saludables y
 recomendables para mantener o recuperar una buena salud, cuando eso está
 muy lejos de la realidad. Esto es particularmente importante y grave en
 los productos destinado al consumo infantil y serían las instituciones
 oficiales correspondientes las que tendrían que promover unas
 legislaciones que protegiesen la salud de las personas, siendo su
 responsabilidad advertir sobre los riesgos de la comida basura
-estableciendo cargas impositivas y regulando la propaganda, sobre todo
+estableciendo cargas impositivas y regulando la publicidad, sobre todo
 la dirigida a menores de edad.
 
 Por otro lado, hay que comentar los factores sociales, culturales y
 económicos y como afectan a la alimentación y salud de los individuos.
 
- Es un problema que ya no afecta solo a los países industrializados,
-sino que también ha aumentado notablemente en los países en transición,
-ya que estos países están adquiriendo estilos de vida cada vez más
-parecidos a los occidentales, disminuyendo la actividad física y
-teniendo un consumo elevado de alimentos con alta cantidad energética.
+ El SM es un problema que ya no afecta solo a los países
+industrializados, sino que también ha aumentado notablemente en los
+países en transición, ya que estos países están adquiriendo estilos de
+vida cada vez más parecidos a los occidentales, disminuyendo la
+actividad física y teniendo un consumo elevado de alimentos con alta
+densidad energética.
 
 En los países de ingresos medios el sobrepeso se ubica en el quinto
 lugar entre las diez mayores causas de enfermedad (al igual que en
