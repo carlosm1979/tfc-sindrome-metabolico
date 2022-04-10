@@ -2335,7 +2335,12 @@ cHDL\
 estado proinflamatorio: aumento de la proteína c reactiva. Un estado
 proinflamatorio se caracteriza por un elevado número de citoquinas
 inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
-de plasminógeno 1 y fibrinógeno.
+de plasminógeno 1 y fibrinógeno.\
+acantosis nigricans: trastorno de la piel que se caracteriza por zonas
+de la piel oscuras, con cambios de color aterciopelados en los pliegues
+y en los surcos. La piel aceptada se puede engrosar. En la mayoría de
+los casos la acantosis pigmentaria afecta a las axilas, ingle, cuello.
+Suele aparecer en personas obesas o con diabetes.
 
 Abreviaturas
 ------------
