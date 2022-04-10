@@ -786,16 +786,18 @@ cardiovascular y no sólo de carácter metabólico.
 
  
 
-  --------------------------------------------------------------------------------------
-  Valores de glucemia para diagnóstico Diabetes                        
-  -------------------------------------------------------------------- -----------------
-  **Valores normales**                                                 **60-110md/dl**
+  -------------------------------------------------------------------------------------------
+  Valores de glucemia para diagnóstico Diabetes                            
+  ------------------------------------------------------------------------ ------------------
+  **Diagnóstico diabetes**                                                 **&gt;126md/dl**
 
-  Diabetes                                                             160ml/dl
+  **Valores normales**                                                     **60-110md/dl**
 
-  También será considerado factor de criterio positivo el tratamiento  
-  hipoglucemiante                                                      
-  --------------------------------------------------------------------------------------
+  Diabetes                                                                 160ml/dl
+
+  También será considerado factor de criterio positivo el tratamiento      
+  hipoglucemiante                                                          
+  -------------------------------------------------------------------------------------------
 
  
 
@@ -850,9 +852,9 @@ también a niños cosa que era impensable hace unos años que cuando se
 hablaba de diabetes infantil se asociaba directamente a la diabetes
 autoinmune de tipo I.
 
-Su incidencia y prevalencia va en aumento, se calcula otros 350 millones
-de personas en todo el mundo con riesgo de desarrollar diabetes y es
-especialmente preocupante su crecimiento en la infancia.
+Su incidencia y prevalencia va en aumento, se calcula que hay otros 350
+millones de personas en todo el mundo con riesgo de desarrollar diabetes
+y es especialmente preocupante su crecimiento en la infancia.
 
 \pagebreak
 
