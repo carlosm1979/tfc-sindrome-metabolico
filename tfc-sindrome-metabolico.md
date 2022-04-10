@@ -769,7 +769,7 @@ y es especialmente preocupante su crecimiento en la infancia. CAMBIOS
 #### []{#anchor-6}3.2.1.3 Dislipemias
 
 La dislipemia es una alteración de los lípidos en sangre y está asociada
-a riesgo cardiovascular levado.
+a riesgo cardiovascular elevado.
 
 Los pacientes con dislipemias presentan niveles de triglicéridos
 elevados, valores disminuidos de colesterol HDL y un aumento de las
@@ -1142,7 +1142,10 @@ obesidad, es decir hacen más fácil que el obeso siga siendo obeso.
 Empeora la obesidad y además los vasos sanguíneos que tienen un
 recubrimiento interno que se daña a causa de las hiperglucemias,
 hiperinsulinemias y a la inflamación crónica. Aparece así la disfunción
-endotelial.
+endotelial, que es una alteración en la relajación vascular inducida por
+la disminución de los factores de relajación derivados del endotelio. Se
+produce un aumento del estímulo vasoconstrictor con tendencia
+protrombótica de la vasculatura.
 
 Tanto el hígado graso, como la RI, como DM2, la dislipemia y la
 disfunción endotelial van a estar favorecidas y a la vez van a favorecer
@@ -1501,9 +1504,11 @@ muscular. A mayor pérdida de músculo mayor ganancia de grasa.
 
 Esta pérdida de masa muscular debida al envejecimiento se denomina
 sarcopenia y contribuye en gran medida a la pérdida de capacidades y de
-autonomía del anciano y tiene relación con la obesidad y la resistencia
-a la insulina. Se produce el hecho de que mayor prevalencia de obesidad
-se aumenta también la de sarcopenia. Puede mitigarse con la práctica de
+autonomía de las personas mayores y tiene relación con la obesidad y la
+resistencia a la insulina.
+
+Se produce el hecho de que a mayor prevalencia de obesidad se aumenta
+también la de sarcopenia. Esto puede mitigarse con la práctica de
 ejercicio de fuerza, aunque no disminuirla del todo.
 
 A su vez, la diabetes tipo 2 está asociada con el mayor riesgo de
@@ -1522,10 +1527,10 @@ favorece la aparición de diabetes.
 Sarcopenia y obesidad serán factores que actúan conjuntamente en
 discapacidad física y trastornos metabólicos en la tercera edad.
 
-En este momento de la vida se produce la llamada “paradoja de la
-obesidad”, y es que el sobrepeso se asocia con un mayor riesgo de
-enfermedad cardiovascular, pero disminuye la mortalidad por estas
-patologías.
+A destacar que en este momento de la vida se produce la llamada
+“paradoja de la obesidad”, y es que el sobrepeso se asocia con un mayor
+riesgo de enfermedad cardiovascular, pero disminuye la mortalidad por
+estas patologías.
 
 Por lo tanto, aunque la pérdida de peso siempre es beneficiosa, en
 personas mayores obesas hay que tener cuidado en recomendarla sólo sobre
