@@ -159,11 +159,6 @@ Metabólico (SM) por la OMS en 1999.
 2. Objetivos
 ============
 
-    - Obtener información sobre que es el S. Metabólico  
-    - Estudiar la importancia de la alimentación en su aparición  
-    - Definir pautas para prevenir y controlar su desarrollo  
-    - Investigar que conocimiento tiene la población acerca de este síndrome  
-
 Este proyecto busca hacer una recopilación de la información que se
 tiene actualmente acerca del SM. Enfocándose en los aspectos
 relacionados con la alimentación que afectan en las diversas
@@ -767,6 +762,8 @@ hereditarios causados por la activación o desactivación los genes sin
 cambiar la secuencia del ADN, Estos cambios como son la alimentación,
 ejercicio, sustancias químicas o medicamentos (factores ambientales)
 modifican el riesgo de enfermedades y a veces pasan de padres a hijos
+
+\pagebreak
 
 **Diabetes Mellitus II**
 
@@ -1682,6 +1679,8 @@ Como regla general, los hábitos alimentarios deben basarse en:
 **-Eliminar en lo posible alimentos de elaboración industrial y ultra
 procesados.**
 
+\pagebreak
+
 ### 3.3.2 Hábitos de vida
 
 Favorecen el desarrollo del SM otros factores:
@@ -1931,6 +1930,8 @@ kcal.
 
 Se elaborará una dieta de 1500 kcal que cubra perfectamente sus
 necesidades nutricionales.
+
+\pagebreak
 
 **Intervención dietética**:
 
@@ -2448,6 +2449,8 @@ Sería necesario un mínimo de 8 a 10 pacientes al mes para poder
 subsistir asumiendo perdidas apoyándose en un colchón financiero inicial
 de unos seis mil euros para poder mantener abierta la consulta durante
 el primer año y poder analizar su viabilidad.
+
+\pagebreak
 
 ### Papeles oficiales para gestionar la empresa (alta en la seguridad social, IAE, licencia del ayuntamiento para la apertura, etc.)
 

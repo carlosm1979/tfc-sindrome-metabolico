@@ -249,6 +249,8 @@ subsistir asumiendo perdidas apoyándose en un colchón financiero inicial
 de unos seis mil euros para poder mantener abierta la consulta durante
 el primer año y poder analizar su viabilidad.
 
+\pagebreak
+
 ### Papeles oficiales para gestionar la empresa (alta en la seguridad social, IAE, licencia del ayuntamiento para la apertura, etc.)
 
 *Titulación*: TSD (Técnico Superior Dietética)
