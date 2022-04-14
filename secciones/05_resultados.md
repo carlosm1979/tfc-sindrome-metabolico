@@ -2,16 +2,13 @@
 
 # 5. Resultados
 
-En este apartado deberéis incluir los resultados de las encuestas y los resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
-
-
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad tipo I. 
 
 El peso actual es de 74 kg con un IMC de 30 lo que la sitúa en el límite entre sobrepeso y obesidad. 
 
 La pérdida de peso se ha producido de forma progresiva y casi matemática de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes. 
 
-**Refiere**: 
+**Refiere:** 
 
 - Encontrarse mejor físicamente.  
 - Dormir mejor.  
