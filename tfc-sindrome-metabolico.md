@@ -1036,10 +1036,8 @@ La hipertensión también incrementa el riesgo de morbimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
-\*\*\*\*\*+PONER EN GRAFICA\*\*\*\*\*
-
 **La HTA en adultos se define como cifras de presión arterial sistólica
-y diastólica &gt; 140/90 mm Hg. **
+y diastólica &gt; 140/90 mm Hg. (Ya puesta en gráfica)**
 
 Factores de riesgo
 
@@ -2304,10 +2302,6 @@ y ver como proceder ya que su peso ideal por IMC está alrededor de los
 60 Kg y un peso de 70 Kg todavía la mantendría en una situación de
 sobrepeso.
 
-**NO \*\*\***A petición suya se realizará una dieta en la que no tenga
-que pesar la comida puesto que manifiesta que no le es posible realizar
-una dieta de esas características.** \*\*\*no**
-
 La dieta se enfoca en el consumo de alimentos saludables y la
 adquisición de unos buenos hábitos alimenticios y de vida.
 
@@ -2370,16 +2364,6 @@ descremada y sin azúcar.
 
 Recomendación de aumentar la ingesta de líquido a lo largo del día, agua
 o infusiones.
-
-**NO\*\*\*\*\***\*Se realiza menú de plato único (Plato de Oxford). Se
-hace recomendación de dividir el plato en tres partes: 1/2 de vegetales
-(salteados, cocidos o en ensaladas); ¼ de proteínas (carne de ave, cerdo
-y alguna vez filete de ternera, huevos y pescado de preferencia)
-normalmente a la plancha; ¼ de HdC (arroz o tubérculos, raramente
-pasta). En ocasiones se compone plato mitad vegetales mitad proteínas.
-
-No se pesa la comida. Se recomienda que utilice un plato de tamaño
-normal, ni grande ni pequeño. \*\*\*\*\*\*\*** NO**
 
 La comida puede ir acompañada de un trozo de pan.
 
