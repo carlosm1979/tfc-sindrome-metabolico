@@ -2090,9 +2090,6 @@ dieta
 5. Resultados
 =============
 
-En este apartado deberéis incluir los resultados de las encuestas y los
-resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
-
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
 tipo I.
 
@@ -2102,7 +2099,7 @@ entre sobrepeso y obesidad.
 La pérdida de peso se ha producido de forma progresiva y casi matemática
 de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
-**Refiere**:
+**Refiere:**
 
 -   Encontrarse mejor físicamente.\
 -   Dormir mejor.\
@@ -2126,35 +2123,27 @@ un criterio común entre las distintas asociaciones que lo han analizado.
 
 Cada uno de sus elementos ha sido estudiado en forma individual,
 demostrando su importancia como factor de riesgo, pero aún no hay
-acuerdo sobre cuáles deben constituirse dentro, y además parece que los
-diferentes grupos de estudio quisieran agregar un nuevo factor de
-riesgo.
+acuerdo global sobre cuáles deben considerarse constitutivos del SM.
+Además, diferentes grupos de estudio agregan nuevos factores a tener en
+cuenta.
 
-La pregunta que cabe es si el SM es más que la suma de las partes.
+Otra cuestión que se ha planteado es si el SM es más que la suma de las
+partes. Ya que hay estudios que dicen que la utilización de los factores
+de riesgo cardiovasculares (FRCV) es suficiente para prevenir el riesgo
+cardiovascular en las personas, por lo cual no consideran necesario el
+diagnóstico del SM como tal.
 
-Hay estudios que dicen que la utilización de los factores de riesgo
-cardiovasculares (FRCV) es suficiente para prevenir el riesgo
-cardiovascular en las personas, por lo cual no consideran necesario
-acudir a la aplicación de las guías de SM.
+Por otro lado, la prevalencia del SM varía en función de la guía que se
+utilice, en consecuencia, no se llega a conocer la real magnitud del
+problema. Por ejemplo, la concepción original de Reaven considera a la
+RI como el factor inicial y fundamental del denominado síndrome X; sin
+embargo, sólo la OMS y el grupo de estudio EGIR lo toman en cuenta. Esto
+impacta enormemente en las conclusiones que se puedan obtener de un
+estudio, en función de la guía que haya utilizado.
 
-Por otro lado, se ha demostrado que la prevalencia del SM varía de
-acuerdo a la guía que se utilice, en consecuencia, no se llega a conocer
-la real magnitud del problema. Por ejemplo, la concepción original de
-Reaven considera a la RI como el factor inicial y fundamental del
-denominado síndrome X; sin embargo, sólo la OMS y el grupo de estudio
-EGIR lo toman en cuenta.
-
-Los investigadores deben considerar que, si utilizan varias guías en el
-mismo estudio para medir la prevalencia del SM, se obtendrán resultados
-diferentes, lo que puede impactar en las conclusiones que puedan
-obtener.
-
-Otra situación que se plantea, además de los diferentes criterios
-elegidos para su diagnóstico, es que no se hace referencia a la
-importancia que pueden tener las diferentes patologías que lo forman.
-
-Tampoco se contempla la importancia de tener unos factores de riesgo con
-respecto a otros, ni la importancia de tener tres, cuatro o cinco.
+Tampoco hay una definición clara sobre la importancia relativa de los
+diferentes factores de riesgo, ni sobre la diferencia que implica el
+tener más o menos factores a la vez.
 
 Por poner unos ejemplos:
 
@@ -2177,7 +2166,9 @@ las condiciones de riesgo cardiovascular (CV) y Diabetes Mellitus 2 en
 los individuos.
 
 Así se tendrá una mejor herramienta clínica para la detección y
-prevención de riesgo de estas enfermedades. \pagebreak
+prevención de riesgo de estas enfermedades.
+
+\pagebreak
 
 7. Conclusión
 =============
@@ -2191,54 +2182,53 @@ incremento del SM y que dos de las complicaciones más importantes que se
 relacionan con el SM son el desarrollo de enfermedades cardiovasculares
 y Diabetes Mellitus II.
 
-Su origen principal es desequilibrio en la ingesta de calorías y el
-gasto energético, pero también se ve afectado por la composición
-genética del individuo, el predominio del estilo de vida sedentario
-sobre la actividad física y otros factores como el microbiota intestinal
-y la calidad y composición de los alimentos.
+Su origen principal es desequilibrio entre la ingesta de calorías y el
+gasto energético. Pero también se ve afectado por la composición
+genética del individuo y el predominio del estilo de vida sedentario
+sobre la actividad física, además de otros factores como el microbiota
+intestinal, y la calidad y composición de los alimentos.
 
 No se puede prescribir un solo remedio para su erradicación o incluso su
-reducción, pero hay que señalar que sólo en el 10% tiene un origen
-genético por lo será muy importante la educación de la población y la
-implicación de las distintas instituciones para la elaboración de un
-plan de educación y prevención de este síndrome que representa ya un
-problema de salud pública.
+reducción, aunque hay que señalar que sólo en el 10% tiene un origen
+genético, por lo será muy importante la educación de la población y la
+implicación de las distintas instituciones para la elaboración de planes
+de prevención de este síndrome, que representa ya un problema de salud
+pública.
 
 La pérdida de peso por una dieta adecuada y la actividad física es un
 factor fundamental para el manejo de estas patologías. Aunque no se
-alcance un normopeso, se sabe que las pérdidas entre 5/10 Kg han
-demostrado ser efectivas en la mejora de todas las patologías
-relacionadas.
+alcance un normopeso, las pérdidas entre 5/10 Kg han demostrado ser
+efectivas en la mejora de todas las patologías relacionadas.
 
 Hay que señalar el papel importante que tiene la industria de la
 alimentación en este problema. Nos encontramos en una sociedad que tiene
 acceso a una gran cantidad y variedad de productos alimenticios de
-elaboración industrial, que, si bien tienen un control higiénico
+elaboración industrial que, si bien tienen un control higiénico
 sanitario que garantiza que su consumo no va a producir un problema de
 salud en el corto plazo, en la mayoría de los casos no resulta así en el
-medio/ largo periodo de tiempo.
+medio/largo periodo de tiempo.
 
 Este hecho va acompañado de unas fuertísimas campañas de publicidad por
 parte de la industria alimentaria, que en muchas ocasiones promociona
 productos con una dudosa calidad como productos saludables y
 recomendables para mantener o recuperar una buena salud, cuando eso está
 muy lejos de la realidad. Esto es particularmente importante y grave en
-los productos destinado al consumo infantil y serían las instituciones
+los productos destinado al consumo infantil. Serían las instituciones
 oficiales correspondientes las que tendrían que promover unas
 legislaciones que protegiesen la salud de las personas, siendo su
 responsabilidad advertir sobre los riesgos de la comida basura
 estableciendo cargas impositivas y regulando la publicidad, sobre todo
 la dirigida a menores de edad.
 
-Por otro lado, hay que comentar los factores sociales, culturales y
-económicos y como afectan a la alimentación y salud de los individuos.
+Por otro lado, hay que comentar cómo los factores sociales, culturales y
+económicos afectan a la alimentación y salud de los individuos.
 
 El SM es un problema que ya no afecta solo a los países
 industrializados, sino que también ha aumentado notablemente en los
-países en transición, ya que estos países están adquiriendo estilos de
-vida cada vez más parecidos a los occidentales, disminuyendo la
-actividad física y teniendo un consumo elevado de alimentos con alta
-densidad energética.
+países en transición, ya que estos están adquiriendo estilos de vida
+cada vez más parecidos a los occidentales, disminuyendo la actividad
+física y teniendo un consumo elevado de alimentos con alta densidad
+energética.
 
 En los países de ingresos medios el sobrepeso se ubica en el quinto
 lugar entre las diez mayores causas de enfermedad (al igual que en
@@ -2246,20 +2236,18 @@ países desarrollados) y justo por debajo de la desnutrición, siendo la
 población de menores ingresos la más perjudicada.
 
 En los países pobres el riesgo de desarrollar obesidad es menor que el
-de padecer desnutrición.
-
-Es decir, que una persona pobre en un país pobre sufre escasez de
-alimentos sumado a un incremento en el gasto energético relacionado con
-el trabajo manual; en cambio, una persona pobre en un país de ingresos
-medios se expone a una abundancia de alimentos de mala calidad
-nutricional que además son económicos y fácilmente accesibles en
-mercados callejeros de grandes urbes, con el gasto energético menor en
-sus tareas laborales.
+de padecer desnutrición. Es decir, que una persona pobre en un país
+pobre sufre escasez de alimentos sumado a un incremento en el gasto
+energético relacionado con el trabajo manual. En cambio, una persona
+pobre en un país de ingresos medios se expone a una abundancia de
+alimentos de mala calidad nutricional, que además son económicos y
+fácilmente accesibles en mercados callejeros de grandes urbes, a la vez
+que su gasto energético es menor en sus tareas laborales.
 
 En contraste, los individuos de mayores ingresos económicos que habitan
 en países de ingresos medios tienen mejor educación, cobertura de salud,
-mayor acceso a alimentos de mejor calidad y más tiempo libre para
-dedicarle a la actividad física. Por ello son en promedio más delgados y
+acceso a alimentos de mejor calidad y más tiempo libre para dedicarle a
+la actividad física. Por ello son en promedio más delgados y
 metabólicamente más sanos.
 
 En resumen, los factores de riesgo (a excepción del tabaquismo) son más
@@ -2270,8 +2258,8 @@ Para terminar, decir que la evidencia científica parece destacar que una
 alimentación baja en grasa, con un contenido moderadamente alto en
 proteínas, HdC de bajo índice glucémico y adecuada al patrón de dieta
 mediterráneas es efectivo para mantener el peso tras un periodo de
-pérdida para reducir todos los factores que engloban el SM, incluida la
-DM2
+reducción. Esto repercute en una disminución de todos los factores que
+engloban el SM, incluida la DM2.
 
 Así pues, en la salud todo suma o resta y en el desarrollo o
 erradicación del SM no es una excepción.
