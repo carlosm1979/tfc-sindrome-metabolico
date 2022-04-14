@@ -347,6 +347,8 @@ criterios no son útiles como definición para estudios epidemiológicos.
 
  
 
+\pagebreak
+
   --------------------------------------------------------------------------
   Factores de riesgo de SM de la Asociación americana  
   de endocrinología                                    
