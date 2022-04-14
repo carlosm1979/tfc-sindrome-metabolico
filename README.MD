@@ -872,12 +872,13 @@ comprobación analítica de la alteración lipídica.
 
  
 
-  Rangos adecuados   
-  ------------------ -----------------------
-  Triglicéridos      `>` 150 mg/dl
-  HDL                
-                     Varones &lt; 40 mg/dl
-                     Mujeres &lt; 50 mg/dl
+  Rangos adecuados             
+  ---------------------------- -----------------------
+  Triglicéridos                `>` 150 mg/dl
+  HDL                          
+                               Varones &lt; 40 mg/dl
+                               Mujeres &lt; 50 mg/dl
+   Colesterol total adecuado   '&gt;' 200 mg/dl
 
  
 
@@ -919,14 +920,14 @@ transporta en las lipoproteínas, constituidas por una parte lipídica o
 acuosa y otra proteica. Existen dos tipos diferentes de lipoproteínas
 que trasportan el colesterol en la sangre:
 
--   **Lipoproteínas de baja densidad o LDL**, que también se conocen
+-   **A) Lipoproteínas de baja densidad o LDL**, que también se conocen
     como colesterol “malo”. Son las lipoproteínas encargadas de
     transportar el colesterol a los tejidos para su utilización,
     incluyendo las arterias. La mayor parte del colesterol en sangre es
     colesterol LDL (c-LDL). Cuanto mayor sea el nivel de colesterol LDL
     en sangre, mayor es el riesgo de enfermedad cardiovascular.
 
--   **Lipoproteínas de alta densidad, o HDL**, también conocidas como
+-   **B) Lipoproteínas de alta densidad, o HDL**, también conocidas como
     colesterol “bueno”, porque son las encargadas de recoger el
     colesterol de los tejidos y transportarlo al hígado para su
     eliminación a través de la bilis. Un nivel bajo de colesterol HDL
@@ -936,8 +937,6 @@ que trasportan el colesterol en la sangre:
 
   Principales funciones antiaterogénicas de las HDL
   ---------------------------------------------------
-  Transporte reverso del colesterol
-  Regulación del metabolismo de la glucosa
   Antiinflamatoria
   Antioxidante: inhiben la oxidación de LDL
   Reparación endotelial
@@ -945,12 +944,12 @@ que trasportan el colesterol en la sangre:
 
  
 
-Son varias las causas que afectan a los niveles de colesterol. Algunas
+Las causas que afectan a los niveles de colesterol son varias, algunas
 de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
 \pagebreak
 
-Causas que no se pueden cambiar:
+**Causas que no se pueden cambiar:**
 
 -   **Herencia**. La cantidad de colesterol LDL que fabrica su cuerpo y
     la rapidez con que se elimina viene determinada en parte por los
@@ -963,19 +962,19 @@ Causas que no se pueden cambiar:
     contrario. Los niveles de colesterol LDL en las mujeres tienden a
     subir con la menopausia.
 
-Causas que se pueden cambiar:
+**Causas que se pueden cambiar:**
 
--   **Dieta**. Existen varios tipos de grasas en función de su
+-   **- Dieta**. Existen varios tipos de grasas en función de su
     estructura, y cada una de ellas posee un efecto determinado sobre
     los niveles de colesterol en el organismo:
 
-    Con efecto negativo
+    \***Con efecto negativo**
 
-    -   *Ácidos grasos saturados*: son la grasa presente en lácteos,
+    -   *- Ácidos grasos saturados*: son la grasa presente en lácteos,
         carnes y derivados, y aceites de coco y palma, entre otros
         alimentos. Tienen un efecto perjudicial, ya que aumentan el
         colesterol total y el colesterol LDL (“colesterol malo”).
-    -   *Ácidos grasos trans*: son los más nocivos para la salud
+    -   *- Ácidos grasos trans*: son los más nocivos para la salud
         cardiovascular. Ya que dietas ricas en este tipo de grasas
         producen un aumento del colesterol total y colesterol LDL, al
         mismo tiempo que disminuyen el colesterol HDL. Están presentes
@@ -983,22 +982,22 @@ Causas que se pueden cambiar:
         grasas para fritura y pastelería (por ejemplo, aceites vegetales
         hidrogenados).
 
-    Con efecto positivo
+    \***Con efecto positivo**
 
-    -   *Ácidos grasos monoinsaturados*: poseen un efecto beneficioso
+    -   *- Ácidos grasos monoinsaturados*: poseen un efecto beneficioso
         para nuestro organismo ya que un consumo prolongado de estos
         produce un aumento del colesterol HDL (“colesterol bueno”) y una
         disminución del colesterol LDL (“colesterol malo”), que se
         asocia a un menor riesgo de desarrollar enfermedades
         cardiovasculares. Están presentes en alimentos como el aceite de
         oliva, el aguacate o los frutos secos.
-    -   *Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
+    -   *- Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
         6**. Resultan beneficiosos ya que una dieta rica en estos
         produce una disminución del colesterol total y del colesterol
         LDL. Están presentes en el pescado azul (omega 3) y en aceites
         de semillas y frutos secos (omega 6).
 
--   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
+-   **- Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
     LDL. También aumenta los triglicéridos y baja el colesterol HDL.
     Perdiendo algunos kilos cuando hay sobrepeso ayudamos a bajar el
     colesterol LDL y los triglicéridos, y al mismo tiempo subimos el
@@ -1006,12 +1005,33 @@ Causas que se pueden cambiar:
 
 El aumento en las cifras de colesterol en sangre y su depósito en las
 arterias origina la enfermedad ateroesclerótica cardiovascular que es la
-principal causa de mortalidad. La enfermedad ateroesclerótica incluye la
-enfermedad coronaria (angina e infarto de miocardio), cerebrovascular
-(infarto cerebral o ictus) y la enfermedad arterial periférica
-(claudicación o dolor en las piernas). El colesterol elevado es uno de
-los principales factores de riesgo cardiovascular, junto con el tabaco,
-la hipertensión arterial y la diabetes mellitus.
+principal causa de mortalidad.
+
+Para que ello se suceda el proceso fisiológico que ocurre es el
+siguiente:
+
+Parte del exceso de colesterol puede depositarse en la pared arterial.
+Con el tiempo, va aumentando y forma la placa de ateroma. La placa puede
+estrechar los vasos sanguíneos y los hace menos flexibles, lo que
+produce la ateroesclerosis o endurecimiento de las arterias.
+
+Este proceso puede suceder en los vasos sanguíneos de cualquier parte
+del cuerpo, incluyendo las arterias del corazón (arterias coronarias).
+Si las arterias coronarias se bloquean por la placa de ateroma se impide
+que la sangre lleve el oxígeno y los nutrientes suficientes al músculo
+cardiaco. Esto produce dolor en el pecho o angina. Algunas placas con
+mucho colesterol se hacen inestables, tienen una fina cubierta y pueden
+romperse, liberando colesterol y grasa en el torrente sanguíneo, lo que
+puede causar un coágulo o trombo sobre la placa que impide el flujo de
+la sangre en la arteria causando un infarto de miocardio.
+
+La enfermedad ateroesclerótica incluye la enfermedad coronaria (angina e
+infarto de miocardio), cerebrovascular (infarto cerebral o ictus) y la
+enfermedad arterial periférica (claudicación o dolor en las piernas).
+
+El colesterol elevado es uno de los principales factores de riesgo
+cardiovascular, junto con el tabaco, la hipertensión arterial y la
+diabetes mellitus.
 
 También puede ser causa de enfermedad cardiovascular el aumento de los
 triglicéridos y un colesterol-HDL bajo.
@@ -1021,7 +1041,7 @@ triglicéridos y un colesterol-HDL bajo.
 Son grasas que se encuentran en determinados alimentos y también se
 producen en el hígado.
 
-Los triglicéridos circulan en la sangre mediante las lipoproteínas que
+Los triglicéridos circulan en la sangre mediante unas lipoproteínas que
 los transportan a los tejidos donde se utilizan como una reserva de
 energía para cubrir las necesidades metabólicas de los músculos y el
 cerebro.
@@ -1104,8 +1124,16 @@ La hipertensión también incrementa el riesgo de morbimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
-**La HTA en adultos se define como cifras de presión arterial sistólica
-y diastólica** `>` **140/90 mm Hg.**
+  ------------- -------------
+  **HTA en      `>`
+  adultos se    \*\*140/90 mm
+  define como   Hg.
+  cifras de     
+  presión       
+  arterial      
+  sistólica y   
+  diastólica**  
+  ------------- -------------
 
 **Factores de riesgo**
 
@@ -1306,7 +1334,7 @@ aumentan la sensibilidad a la insulina y favorecen una menor grasa
 abdominal. Su pérdida tiene como consecuencia que en la mujer se aumente
 el riesgo de SM, enfermedad cardiovascular y diabetes.
 
-**SM en la menopausia**
+**Pre y postmenopausia**
 
 La transición que experimenta la mujer durante la pre y postmenopausia,
 se asocia con la presentación o el desarrollo de características propias
@@ -1496,9 +1524,9 @@ International Diabetes Federation**
                   `>`= 80 cm                                                                    
   --------------------------------------------------------------------------------------------------------------------
 
-*El diagnóstico requiere la presencia de obesidad central mediante
+\***El diagnóstico requiere la presencia de obesidad central mediante
 determinación de cintura abdominal y como mínimo dos de los criterios
-restantes*
+restantes**
 
  
 
@@ -2076,9 +2104,9 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 -   Encontrarse mejor físicamente.\
 -   Dormir mejor.\
--   Comenta que antes se encontraba más cansada física y mentalmente.
-    Dice encontrarse con más energía y más alegría lo que le supone un
-    mayor bienestar emocional.\
+-   Refiere que antes se encontraba más cansada física y mentalmente.
+    Ahora dice encontrarse con más energía y más alegría lo que le
+    supone un mayor bienestar físico y emocional.
 -   Comenta que hay semanas que le cuesta más mantener los menús y otras
     menos, pero en general lo lleva bien y aunque tiene un día libre el
     fin de semana procura no pasarse y comer “con cabeza”.
@@ -2364,6 +2392,8 @@ Bibliografía
     Central del Ecuador Hospital Quito-Ecuador Bernardo Aguirre F.
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
+16. [Síndrome metabólico: una revisión de criterios
+    internacionales](http://www.scielo.org.co/pdf/rcca/v28n1/0120-5633-rcca-28-1-60.pdf)
 
 \pagebreak
 
@@ -2665,16 +2695,12 @@ y ver como proceder ya que su peso ideal por IMC está alrededor de los
 60 Kg y un peso de 70 Kg todavía la mantendría en una situación de
 sobrepeso.
 
-A petición suya se realizará una dieta en la que no tenga que pesar la
-comida puesto que manifiesta que no le es posible realizar una dieta de
-esas características.
-
 La dieta se enfoca en el consumo de alimentos saludables y la
 adquisición de unos buenos hábitos alimenticios y de vida.
 
-Se elimina de la dieta el picoteo entre horas, el alcohol y la bollería
-haciendo especial hincapié en la bollería de tipo industrial que tomaba
-a media mañana como desayuno en el trabajo.
+Se elimina el picoteo entre horas, el alcohol y la bollería haciendo
+especial hincapié en la bollería de tipo industrial que tomaba a media
+mañana como desayuno en el trabajo.
 
 Se aumentan dos tomas y se cambia la distribución de las mismas. Se hace
 indicación de hacer un desayuno en casa que no hacía y una pequeña
@@ -2706,7 +2732,7 @@ preparaciones a la plancha, horno, papillote, wok o cocido.
 
 Se realizará ingesta de verduras y fruta a diario. Se incluye la toma de
 tres piezas de fruta repartidas a lo largo del día procurando que una de
-ellas sea un cítrico.
+ellas sea un cítrico y una toma de verdura cruda al día.
 
 Lácteos se recomiendan enteros por el calcio a excepción de los quesos
 que se recomienda no tomar del tipo curado sustituyéndolos por queso
@@ -2732,16 +2758,6 @@ descremada y sin azúcar.
 Recomendación de aumentar la ingesta de líquido a lo largo del día, agua
 o infusiones.
 
-Se realiza menú de plato único (Plato de Oxford). Se hace recomendación
-de dividir el plato en tres partes: 1/2 de vegetales (salteados, cocidos
-o en ensaladas); ¼ de proteínas (carne de ave, cerdo y alguna vez filete
-de ternera, huevos y pescado de preferencia) normalmente a la plancha; ¼
-de HdC (arroz o tubérculos, raramente pasta). En ocasiones se compone
-plato mitad vegetales mitad proteínas.
-
-No se pesa la comida. Se recomienda que utilice un plato de tamaño
-normal, ni grande ni pequeño.
-
 La comida puede ir acompañada de un trozo de pan.
 
 De postre siempre fruta.
@@ -2760,6 +2776,11 @@ y hacer control de peso.
 
 La pérdida de peso se ha producido de forma progresiva y casi matemática
 de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
+
+DIETA TIPO DE 1500 KCL.
+
+CALCULO REALIZADO CON LA ECUACIÓN DE HARRYS Y BENEDICT Y LA FORMULA DE
+FACTORES DE ATWTER.
 
 ### MENÚ TIPO SEMANAL
 
@@ -2843,6 +2864,9 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 -   Encontrarse mejor físicamente.\
 -   Dormir mejor.\
+-   Refiere que antes se encontraba más cansada física y mentalmente.
+    Ahora dice encontrarse con más energía y más alegría lo que le
+    supone un mayor bienestar físico y emocional.
 -   Comenta que antes se encontraba más cansada física y mentalmente.
     Dice encontrarse con más energía y más alegría lo que le supone un
     mayor bienestar emocional.\
@@ -2851,5 +2875,5 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
     menos, pero en general lo lleva bien y aunque tiene un día libre el
     fin de semana procura no pasarse y comer “con cabeza”.
 
-Dice que en general el balance es muy positivo y de encuentra muy
-contenta con los resultados.
+Hace un balance en general muy positivo, se encuentra muy contenta con
+los resultados.

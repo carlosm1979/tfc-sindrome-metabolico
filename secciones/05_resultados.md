@@ -15,7 +15,8 @@ La pérdida de peso se ha producido de forma progresiva y casi matemática de m�
 
 - Encontrarse mejor físicamente.  
 - Dormir mejor.  
-- Comenta que antes se encontraba más cansada física y mentalmente. Dice encontrarse con más energía y más alegría lo que le supone un mayor bienestar emocional.  
+- Refiere que antes se encontraba más cansada física y mentalmente.
+  Ahora dice encontrarse con más energía y más alegría lo que le supone un mayor bienestar físico y emocional.
 - Comenta que hay semanas que le cuesta más mantener los menús y otras menos, pero en general lo lleva bien y aunque tiene un día libre el fin de semana procura no pasarse y comer “con cabeza”.  
 
 La paciente manifiesta encontrarse contenta y animada a seguir hasta conseguir los resultados que habíamos acordado.
