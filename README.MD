@@ -40,7 +40,15 @@ Indice general
             alimentación](#relación-con-la-alimentación)
         -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
-    -   [Creación empresa]()
+    -   [Creación empresa](#creación-empresa)
+    -   [Paciente](#paciente)
+        -   [Ficha dietética del
+            paciente](#ficha-dietética-del-paciente)
+        -   [Dieta](#dieta)
+        -   [Menú tipo semanal](#menú-tipo-semanal)
+        -   [Recuento alimentario de tres
+            días](#recuento-alimentario-de-tres-días)
+        -   [Resultados paciente](#resultados-paciente)
 -   [5. Resultados](#resultados)
 -   [6. Discusión](#difusión)
 -   [7. Conclusión](#discusión)
@@ -1704,6 +1712,493 @@ Alimentación y actividad física deben de ir de la mano.
 
 \pagebreak
 
+Paciente
+--------
+
+Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
+….... Superior a 30 supone Obesidad grado I). Perímetro de cintura 103
+cm (perímetro de cintura mayor de 88 cm por lo que es de riesgo para
+enfermedades cardiovasculares y diabetes según criterio de la OMS).
+Perímetro de cadera 110 cm, perímetro de pantorrilla 39,5 cm, perímetro
+de muslo 57cm y perímetro de muñeca 16.5 cm. Se trata de una mujer de
+complexión mediana (157/16,5= 9,8 al encontrarse dentro del valor de
+referencia de 10,1/11)
+
+Los objetivos al inicio de la consulta son la pérdida de peso y
+adquisición de hábitos saludables. Comenta no tener prisa en ello y
+tener la sensación subjetiva de buena salud. Sin embargo, al analizar la
+analítica y datos que me facilita observo que tiene Diabetes tipo II,
+hipercolesterolemia e hipertensión, que unido a un perímetro de cintura
+elevado conforma 4 de los 5 factores de riesgo que se tienen en cuenta
+para determinar la existencia del llamado Síndrome Metabólico (SM).
+
+Está realizando **tratamiento** hipolipemiante para control de
+colesterol e hipoglucemiante oral por indicación de su médico de
+cabecera.
+
+-   *Atorvastina 40 mg* una vez al día en las mañanas ((para la
+    disminución de colesterol en sangre y prevención enfermedades
+    cardiovasculares).
+
+-   *Metformina 850 mg* una vez al día en los mediodías (antidiabético
+    oral).
+
+No refiere alergias ni operaciones.
+
+**Antecedentes familiares**: refiere enfermedad coronaria precoz en
+familiares de primer grado.
+
+Padre: IAM (infarto agudo de miocárdico), cirugía valvular y ACV
+(accidente cerebro bascular).
+
+Madre: Diabetes tipo II
+
+Dice tener una alimentación variada y unos horarios establecidos para
+las comidas, aunque la falta de tiempo para cocinar le obliga a cocinar
+el almuerzo el día anterior y aunque come pocos fritos sus menús más
+habituales son los guisos. Realiza un picoteo frecuente a lo largo del
+día y consumo de bollería industrial en el café de media mañana.
+
+El consumo de alcohol es de vino o cerveza ligados a comidas familiares
+o con amigos los fines de semana.
+
+No fumadora.
+
+A la pregunta sobre si realiza algún tipo de actividad física refiere
+caminar una hora al día a paso ligero cuando el tiempo se lo permite,
+aunque que últimamente lo hace menos.
+
+**Objetivos**
+
+Los objetivos a realizar son la pérdida de peso y la adquisición de unos
+hábitos saludables que pueda mantener en el tiempo como medio de control
+de sus patologías y comprobar con ello si puede producirse una reducción
+o suspensión de la medicación que actualmente tiene pautada.
+
+\pagebreak
+
+### Ficha dietética del paciente
+
+**DATOS ADMINISTRATIVOS**
+
+NOMBRE: SEXO: MUJER FECHA DE NACIMIENTO:\
+EDAD: 53 E-MAIL:\
+DIRECCIÓN: C. POSTAL: MÉDICO: TLF. MÉDIC0: OTROS DATOS DE INTERÉS:
+
+**ANAMNESIS**
+
+*MOTIVO DE LA CONSULTA*: perder peso.
+
+**ANTECEDENTES FAMILIARES**:
+
+-   Enfermedad coronaria precoz en familiares de primer grado.\
+-   Padre: IAM (infarto agudo de miocardio), cirugía valvular, ACV
+    (accidente cardio vascular), DLP (Dislipemia). Vivo.\
+-   Madre: DBT2 (Diabetes tipo 2). Viva.
+
+**TRATAMIENTO QUE ESTÁ SIGUIENDO**:
+
+-   TRATAMIENTO HIPOLIPEMIANTE (COLESTEROL). ATORBASTINA 40mg. Una
+    cápsula por las mañanas.\
+-   TRATAMIENETO HIPOGLUCEMIANTE ORAL. METFORMINA 850 mg. Una cápsula a
+    la comida.
+
+**SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO**:
+
+No refiere ningún síntoma o molestia, Sensación subjetiva de buena
+salud.
+
+**MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO**:
+
+REVISIÓN RUTINARIA
+
+**OPERACIONES**: NO REFIERE
+
+**ALERGIAS**: NO REFIERE
+
+**ANTROPOMETRÍA**
+
+*FECHA DE LA PRIMERA CONSULTA*\
+*ALTURA*: 1.57 cm.\
+*PESO*: 82 kg.\
+*IMC*: 33.27 (superior a 30 supone obesidad de primer grado)\
+*PERÍMETRO DE BRAZO*\
+*P. CINTURA* :103 CM\
+*P. CADERA*: 110 CM\
+*P. MUÑECA*: 16,5CM\
+*P. PANTORRILLA*: 39,5CM\
+*P. MUSLO*: 57CM\
+*COMPLEXIÓN*: MEDIANA, relación altura perímetro de muñeca (157/16,5 =
+9,8 al encontrarse dentro del valor de referencia de 10,1 /1
+
+**BIOQUÍMICA**
+
+  INDICADORES          Datos      Valor de referencia   Valoración
+  -------------------- --------- --------------------- ------------
+  **HIDRATOS DE C.**                                   
+  GLUCOSA              101,00            mg/dL           60 – 100
+  HbA1c                                                
+  PROTEINAS                                            
+  Albúmina                                             
+  Transferrina                                         
+  Prealbúmina                                          
+  Creatinina                                           
+  Balance de N                                         
+  **LÍPIDOS**                                          
+  Colesterol           178,00            mg/dL           &lt;200
+  COLESTERO HDL        70,00             mg/dL            &gt;40
+  COLESTEROL LDL       93,00             mg/dL           &lt;130
+  Triglicéridos        74,00            MG/DIA           &lt;150
+  Vitaminas                                            
+  Minerales                                            
+
+**EXPLORACIÓN FÍSICA Y PREGUNTAS**
+
+PELO: normal\
+UÑAS: normales\
+PIEL: normal\
+DIENTES: normales\
+LENGUA: normal\
+CUELLO: normal\
+PÁRPADO: normal\
+BOCA: normal\
+ESTÓMAGO: normal\
+ESTADO: obesidad grado I
+
+**ENTREVISTA AL PACIENTE**
+
+*TOMAS DIARIAS*: cuatro (desayuno, media mañana, comida y cena). Picoteo
+a lo largo del día.\
+*HORARIO DE COMIDAS*:\
+*LUGAR DE LAS TOMAS:* casa y trabajo\
+*¿COME VIENDO LA TV?*: no\
+*¿QUIÉN COCINA?:* su marido y ella dependiendo del tiempo. Normalmente
+el día anterior.\
+*FORMAS DE COCINADO HABITUAL:* guisos y potajes. Poca plancha y frito.\
+*CANTIDAD DE SAL EMPLEADA*: normal\
+*CONSUMO DE SUPLEMENTOS*: No\
+*LÍQUIDOS INGERIDOS AL DÍA*: agua cuando tiene sed. No refiere una
+cantidad concreta\
+*CONSUMO DE ALCOHOL:* En []{#anchor-8}fin de semana (vino / cerveza)\
+*ALIMENTOS IMPRESCINDIBLES*: no refiere ninguno en particular *ALIMENTOS
+ODIADOS*: casquería.\
+*ACTIVIDAD FÍSICA*: Baja. Cuando tiene tiempo refiere caminar una hora
+al día a paso ligero.\
+*CAMBIOS ENEL PESO*: Refiere ir aumentando de peso poco a poco en el
+tiempo\
+*TIEMPO DEDICADO A COMER*: sin prisas\
+*TIEMPO PARA COCINAR*: poco por lo que cocina día anteriores platos que
+sea fáciles de calentar.\
+*¿QUIÉN COMPRA?*: Ella y/o su marido
+
+**ASPECTOS SOCIALES**
+
+*ASPECTOS CULTURALES*: nada a comentar\
+*ASPECTOS REIGIOSOS*: nada a comentar\
+*PICOTEO NOCTURNO*: sí\
+*¿SE LEVANTA A COMER DENOCHE?*: No\
+*CONSUMO DE VERDURAS*: Sí\
+*CONSUMO DE FRUTAS*: Sí\
+*SI GUSTA CONDIMENTAR*: sí\
+*PRESUPUESTO SEMANAL*: nada a comentar\
+*¿CON QUIÉN COME?*: marido e hijos\
+*GUSTA DE LA COMODA BASURA*: no habitualmente\
+*OTRAS PREGUNTAS/ TEMAS*
+
+**PRIMER DIAGNOSTICO E INTERVENCIÓN**
+
+Mujer de 53 años de edad con sobrepeso de grado I. Acumulación de grasa
+en cintura (obesidad de tipo androide) en periodo de menopausia.
+
+Se formulará dieta pobre en carbohidratos, hiposódica, pobre en grasas e
+hipocalórica.
+
+Se procurará llevar a la paciente a un IMC de normopeso para ello
+tendremos que alcanzar un peso ideal para ella de 57 /60 Kg.
+
+**Patologías**:
+
+-   Diabetes tipo II contratamiento de hipoglucemiantes orales.
+    Metformina 850mg una vez al día al mediodía.\
+-   Hipercolesterolemia con tratamiento de Atorvastina40 mg una vez al
+    día en las mañanas.\
+-   Hipertensión.
+
+**GASTO ENERGETICO TOTAL**
+
+Se realiza calculo energético total y el resultado es de un GET de 1672
+kcal.
+
+Se elaborará una dieta de 1500 kcal que cubra perfectamente sus
+necesidades nutricionales.
+
+**Intervención dietética**:
+
+De acuerdo con la paciente y a petición suya acordamos realizar una
+dieta destinada a una pérdida de peso gradual encaminada a reducir con
+ello los niveles de colesterol y a en lo posible el control de la
+glucemia en sangre.
+
+Refiere no tener prisa en la bajada de peso porque su intención es ir
+adquiriendo hábitos saludables a mantener en el tiempo.
+
+El deseo de la paciente es una pérdida de peso que la lleve hasta unos
+70 Kg, es decir una pérdida de 12 kg, así que salimos con esa idea
+inicial de base y una vez llegado al peso acordada valorar la situación
+y ver como proceder ya que su peso ideal por IMC está alrededor de los
+60 Kg y un peso de 70 Kg todavía la mantendría en una situación de
+sobrepeso.
+
+La dieta se enfoca en el consumo de alimentos saludables y la
+adquisición de unos buenos hábitos alimenticios y de vida.
+
+Se elimina el picoteo entre horas, el alcohol y la bollería haciendo
+especial hincapié en la bollería de tipo industrial que tomaba a media
+mañana como desayuno en el trabajo.
+
+Se aumentan dos tomas y se cambia la distribución de las mismas. Se hace
+indicación de hacer un desayuno en casa que no hacía y una pequeña
+ingesta a media mañana, una merienda y una cena temprana.
+
+Se recomienda el aumento de agua o de bebidas como infusiones. Se
+retiran todas las bebidas azucaradas, tanto zumos de tipo industrial
+como refrescos.
+
+Aunque refiere no tener un consumo elevado de sal se le aconseja
+utilizar especies como condimento en la medida de lo posible debido a su
+hipertensión.
+
+Se retiran todos los alimentos procesados y con nulo nivel nutricional y
+alto nivel de grasas saturadas, sal y azúcar como snacks tipo patatas
+fritas y bollería.
+
+También se limitan los embutidos y se aconseja el consumo de alimentos
+frescos y de temporada. Se evitará tomar alimentos envasados (como salsa
+de tomate industrial por su alto contenido en sal y azúcar) y conservas.
+
+Se recomienda tomar pescado blanco y azul por su contenido en grasas
+saludables omega 3, de preferencia sobre la carne que será
+preferiblemente carne magra (pollo, pavo, conejo).
+
+Se eliminan de la dieta pastas, guisos y fritos que eran de consumo
+habitual y se sustituyen por salteados con una cucharadita de aceite,
+preparaciones a la plancha, horno, papillote, wok o cocido.
+
+Se realizará ingesta de verduras y fruta a diario. Se incluye la toma de
+tres piezas de fruta repartidas a lo largo del día procurando que una de
+ellas sea un cítrico y una toma de verdura cruda al día.
+
+Lácteos se recomiendan enteros por el calcio a excepción de los quesos
+que se recomienda no tomar del tipo curado sustituyéndolos por queso
+fresco tipo burgos.
+
+Frutos secos en pequeñas cantidades (un puñadito de 6 almendras, nueces,
+avellanas …) en la media mañana o merienda.
+
+Grasas de preferencia aceite de oliva en crudo medido en cuchara para el
+aliño o cocinado.
+
+No se retira el pan permitiéndose una rebanada a las comidas del grosor
+de dos dedos aproximadamente y se hace recomendación que sea integral de
+preferencia.
+
+Los HdC serán de absorción lenta, serán de preferencia arroz y
+tubérculos como la patata o la batata y cereales integrales como trigo o
+avena.
+
+Si tiene gula a la tarde se permite la toma de un descafeinado con leche
+descremada y sin azúcar.
+
+Recomendación de aumentar la ingesta de líquido a lo largo del día, agua
+o infusiones.
+
+La comida puede ir acompañada de un trozo de pan.
+
+De postre siempre fruta.
+
+Se da un día a la semana de menú libre si así lo necesita ya que
+acostumbra a tener comidas familiares en fin de semana. La recomendación
+es que no pasarse con las cantidades, si toma un plato que no repita.
+
+También se recomienda el incremento de actividad física en la medida de
+lo posible.
+
+Bicicleta, natación, caminar al sol, …
+
+Se realiza una toma de contacto semanal para comentar como se encuentra
+y hacer control de peso.
+
+La pérdida de peso se ha producido de forma progresiva y casi matemática
+de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
+
+### RECOMENDACIONES
+
+-   Todas las comidas pueden ir acompañadas de rebanada de pan integral
+    (30 grs ) + infusión \*Productos lácteos procurar no acompañarlos
+    con café o té\
+-   Beber 1,5 a 2 litros de agua al día sola o en infusión\
+-   Eliminar el azúcar de mesa como edulcorante, en su lugar si es
+    necesario utilizar un edulcorante no calórico.\
+-   Tratar de utilizar especies como condimento para reducir consumo de
+    sal\
+-   Fruta procurar tomarla siempre entera
+
+**Peso y equivalencia de 1 cucharada sopera rasa en gr**:
+
+-   Una cucharada de aceite = 15 gr.\
+-   Rebanada de pan de unos dos dedos de grosor = 30 grs\
+-   6 cucharadas soperas de avena = 30 grs.\
+-   Una cucharada de Arroz en crudo = 20 gr,\
+-   Arroz ¾ de taza cocido = 30 grs
+
+\pagebreak
+
+### Dieta
+
+DIETA TIPO DE 1500 KCL.
+
+CALCULO REALIZADO CON LA ECUACIÓN DE HARRYS Y BENEDICT Y LA FORMULA DE
+FACTORES DE ATWATER.
+
+                     Alimento        g\. mL   Kcal    Prot.     Lípidos   Hidratos de C.   Fibra   Atwater
+  ------------------ --------------- -------- ------- --------- --------- ---------------- ------- -------------
+  **Desayuno**                                                                                     
+                     pan intregal    40       103,2   2.1       0,56      18.1             0       96,24
+                     leche entera    200      177,4   5.1       7         8.1              0       125,4
+                     jamón serrano   30       48,9    9,15      1,35      0                0       48,75
+                     mandarina       100      43      0,8       0         9                1,1     39,2
+  **Media mañana**                                                                                 
+                     yogur           125      71,25   4,875     4,725     11,375           2,25    107,525
+                     manzana         100      44,52   0,252     0         10,08            1,68    41,328
+  **Comida**                                                                                       
+                     Pan integral    40       103,2   3,2       0,56      19,6             3,4     96,24
+                     pollo           100      167     20        6,2       0                0       135,8
+                     aceite oliva    5        11,8    0         4,995     0                0       44,955
+                     arroz           40       152,4   2,8       0,36      34,4             0,08    152,04
+                     pimiento rojo   150      55,5    1,5       0,6       9,6              3,15    49,8
+                     fresas          100      40      0,7       0         7                2,2     30,8
+                     tomate          50       11      0,5       0,055     1,75             0,7     9,495
+                     calabacin       100      14      0,6       0,2       2,2              0,5     13
+  **Merienda**                                                                                     
+                     pera            150      73,5    0,6       0         15,9             3,45    66
+                     pan integral    40       103,2   3,2       0,56      19,6             3,4     96,24
+                     queso burgos    30       52,5    4,5       3,3       1,2              0       52,5
+  **Cena**                                                                                         
+                     Pan integral    30       77,4    2,4       0,42      14,7             2,55    72,18
+                     merluza         150      133,5   23,85     4,2       0                0       133,2
+                     judias          150      55,5    3,45      0,3       7,5              4,35    46,5
+                     guisantes       50       40      2,65      0,2       5                3,9     32,4
+                     aceite oliva    5        11,8    0         4,995     0                0       44,955
+  Suma total                                          94,427    40,58     197,905          32,71   
+  Atwater                                             377,708   365,22    791,62                   **1534,54**
+  % energia                                           24,61     23,79     51,58                    
+
+\pagebreak
+
+### MENÚ TIPO SEMANAL
+
+Vasito de agua del tiempo en ayunas
+
+**DESAYUNOS**
+
+1.  30 grs de avena con leche y canela+ un plátano.
+2.  Tostada de pan integral +jamón serrano con aceite oliva / mermelada
+    sin azúcar +1 fruta.
+3.  1 yogurt +30 grs de cereales/avena + naranja entera.
+
+**MEDIA MAÑANA**
+
+1.  30 grs de pan integral con humus / queso fresco + una fruta +
+    infusión / café
+2.  30 grs avena + 1 yogurt + 6 frutos secos+ Infusión 1.
+3.  1 plátano + 1 yogurt + infusión
+
+**COMIDAS**
+
+1.  Guisantes con brócoli + salmón a la plancha + 1 fruta
+2.  judías hervidas + patata + filete ternera a la plancha +1 fruta
+3.  Menestra de verduras + patata + pollo a la plancha / horno + 1 fruta
+4.  Salteado de espinacas con garbanzos + lubina a la plancha + 1 fruta
+5.  Espárragos trigueros + tomate + pollo /pavo a la plancha / horno.
+6.  Un plato lentejas con verduras + un cítrico.
+7.  Pisto de berenjena + calabacín + pimiento + verdel al horno/plancha
+    +fruta.
+
+**MEDIA TARDE**
+
+1.  Tostada de pan integral (30 grs) +jamón cocido bajo en sal + 8
+    frutos secos. Infusión
+2.  Yogurt natural + 1 fruta + infusión\
+3.  20 grs de pan integral + queso fresco + infusión
+
+**CENAS**
+
+1.  Crema de verduras + calamares a la plancha\
+2.  Menestra de verduras con lubina a la plancha/ papillote
+3.  Espinacas salteadas + merluza a la plancha/papillote
+4.  Revuelto de dos huevos con champiñones y jamón + lechuga en
+    ensalada.
+5.  Dorada a la plancha + ensalada de lechuga + tomate+ espárragos
+6.  Cremade verduras + queso tipo burgos
+7.  Merluza cocida + patata + guisantes
+
+\pagebreak
+
+### RECUENTO ALIMENTARIO DE TRES DÍAS
+
+-   **DIA 1**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
+*Merienda*: pan con chorizo o algo de fiambre.\
+*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
+
+-   **DÍA 2**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
+cocidas.\
+*Merienda*: pan con nocilla.\
+*Cena*: pizza
+
+-   **DÍA 3**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: macarrones con carne y salsa de tomate, a repetir.\
+*Merienda*: queso con membrillo, pan y un yogurt.\
+*Cena*: Ensalada de pasta
+
+### RESULTADOS PACIENTE
+
+La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
+tipo I.
+
+El peso actual es de 74 kg con un IMC de 30 lo que la sitúa en el límite
+entre sobrepeso y obesidad.
+
+La pérdida de peso se ha producido de forma progresiva y casi matemática
+de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
+
+**Refiere**:
+
+-   Encontrarse mejor físicamente.\
+-   Dormir mejor.\
+-   Refiere que antes se encontraba más cansada física y mentalmente.
+    Ahora dice encontrarse con más energía y más alegría lo que le
+    supone un mayor bienestar físico y emocional.
+-   Comenta que antes se encontraba más cansada física y mentalmente.
+    Dice encontrarse con más energía y más alegría lo que le supone un
+    mayor bienestar emocional.\
+-   Manifiesta encontrarse más alegre y con mejor ánimo.\
+-   Comenta que hay semanas que le cuesta más mantener los menús y otras
+    menos, pero en general lo lleva bien y aunque tiene un día libre el
+    fin de semana procura no pasarse y comer “con cabeza”.
+
+Hace un balance en general muy positivo, se encuentra muy contenta con
+los resultados.
+
+\pagebreak
+
 4. Material y métodos
 =====================
 
@@ -1983,489 +2478,6 @@ Evaluación de Impacto en la Protección de Datos Personales
 Seguro de responsabilidad civil
 
 Responsabilidad Civil Patronal
-
-\pagebreak
-
-Paciente
---------
-
-Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
-….... Superior a 30 supone Obesidad grado I). Perímetro de cintura 103
-cm (perímetro de cintura mayor de 88 cm por lo que es de riesgo para
-enfermedades cardiovasculares y diabetes según criterio de la OMS).
-Perímetro de cadera 110 cm, perímetro de pantorrilla 39,5 cm, perímetro
-de muslo 57cm y perímetro de muñeca 16.5 cm. Se trata de una mujer de
-complexión mediana (157/16,5= 9,8 al encontrarse dentro del valor de
-referencia de 10,1/11)
-
-Los objetivos al inicio de la consulta son la pérdida de peso y
-adquisición de hábitos saludables. Comenta no tener prisa en ello y
-tener la sensación subjetiva de buena salud. Sin embargo, al analizar la
-analítica y datos que me facilita observo que tiene Diabetes tipo II,
-hipercolesterolemia e hipertensión, que unido a un perímetro de cintura
-elevado conforma 4 de los 5 factores de riesgo que se tienen en cuenta
-para determinar la existencia del llamado Síndrome Metabólico (SM).
-
-Está realizando **tratamiento** hipolipemiante para control de
-colesterol e hipoglucemiante oral por indicación de su médico de
-cabecera.
-
--   *Atorvastina 40 mg* una vez al día en las mañanas ((para la
-    disminución de colesterol en sangre y prevención enfermedades
-    cardiovasculares).
-
--   *Metformina 850 mg* una vez al día en los mediodías (antidiabético
-    oral).
-
-No refiere alergias ni operaciones.
-
-**Antecedentes familiares**: refiere enfermedad coronaria precoz en
-familiares de primer grado.
-
-Padre: IAM (infarto agudo de miocárdico), cirugía valvular y ACV
-(accidente cerebro bascular).
-
-Madre: Diabetes tipo II
-
-Dice tener una alimentación variada y unos horarios establecidos para
-las comidas, aunque la falta de tiempo para cocinar le obliga a cocinar
-el almuerzo el día anterior y aunque come pocos fritos sus menús más
-habituales son los guisos. Realiza un picoteo frecuente a lo largo del
-día y consumo de bollería industrial en el café de media mañana.
-
-El consumo de alcohol es de vino o cerveza ligados a comidas familiares
-o con amigos los fines de semana.
-
-No fumadora.
-
-A la pregunta sobre si realiza algún tipo de actividad física refiere
-caminar una hora al día a paso ligero cuando el tiempo se lo permite,
-aunque que últimamente lo hace menos.
-
-### Objetivos
-
-Los objetivos a realizar son la pérdida de peso y la adquisición de unos
-hábitos saludables que pueda mantener en el tiempo como medio de control
-de sus patologías y comprobar con ello si puede producirse una reducción
-o suspensión de la medicación que actualmente tiene pautada.
-
-dieta
-=====
-
-                     Alimento        g\. mL   Kcal    Prot.     Lípidos   Hidratos de C.   Fibra   Atwater
-  ------------------ --------------- -------- ------- --------- --------- ---------------- ------- -------------
-  **Desayuno**                                                                                     
-                     pan intregal    40       103,2   2.1       0,56      18.1             0       96,24
-                     leche entera    200      177,4   5.1       7         8.1              0       125,4
-                     jamón serrano   30       48,9    9,15      1,35      0                0       48,75
-                     mandarina       100      43      0,8       0         9                1,1     39,2
-  **Media mañana**                                                                                 
-                     yogur           125      71,25   4,875     4,725     11,375           2,25    107,525
-                     manzana         100      44,52   0,252     0         10,08            1,68    41,328
-  **Comida**                                                                                       
-                     Pan integral    40       103,2   3,2       0,56      19,6             3,4     96,24
-                     pollo           100      167     20        6,2       0                0       135,8
-                     aceite oliva    5        11,8    0         4,995     0                0       44,955
-                     arroz           40       152,4   2,8       0,36      34,4             0,08    152,04
-                     pimiento rojo   150      55,5    1,5       0,6       9,6              3,15    49,8
-                     fresas          100      40      0,7       0         7                2,2     30,8
-                     tomate          50       11      0,5       0,055     1,75             0,7     9,495
-                     calabacin       100      14      0,6       0,2       2,2              0,5     13
-  **Merienda**                                                                                     
-                     pera            150      73,5    0,6       0         15,9             3,45    66
-                     pan integral    40       103,2   3,2       0,56      19,6             3,4     96,24
-                     queso burgos    30       52,5    4,5       3,3       1,2              0       52,5
-  **Cena**                                                                                         
-                     Pan integral    30       77,4    2,4       0,42      14,7             2,55    72,18
-                     merluza         150      133,5   23,85     4,2       0                0       133,2
-                     judias          150      55,5    3,45      0,3       7,5              4,35    46,5
-                     guisantes       50       40      2,65      0,2       5                3,9     32,4
-                     aceite oliva    5        11,8    0         4,995     0                0       44,955
-  Suma total                                          94,427    40,58     197,905          32,71   
-  Atwater                                             377,708   365,22    791,62                   **1534,54**
-  % energia                                           24,61     23,79     51,58                    
-
-\pagebreak
-
-Ficha dietética del paciente
-----------------------------
-
-### DATOS ADMINISTRATIVOS
-
-NOMBRE: SEXO: MUJER FECHA DE NACIMIENTO:\
-EDAD: 53 E-MAIL:\
-DIRECCIÓN: C. POSTAL: MÉDICO: TLF. MÉDIC0: OTROS DATOS DE INTERÉS:
-
-### ANAMNESIS
-
-*MOTIVO DE LA CONSULTA*: perder peso.
-
-**ANTECEDENTES FAMILIARES**:
-
--   Enfermedad coronaria precoz en familiares de primer grado.\
--   Padre: IAM (infarto agudo de miocardio), cirugía valvular, ACV
-    (accidente cardio vascular), DLP (Dislipemia). Vivo.\
--   Madre: DBT2 (Diabetes tipo 2). Viva.
-
-**TRATAMIENTO QUE ESTÁ SIGUIENDO**:
-
--   TRATAMIENTO HIPOLIPEMIANTE (COLESTEROL). ATORBASTINA 40mg. Una
-    cápsula por las mañanas.\
--   TRATAMIENETO HIPOGLUCEMIANTE ORAL. METFORMINA 850 mg. Una cápsula a
-    la comida.
-
-**SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO**:
-
-No refiere ningún síntoma o molestia, Sensación subjetiva de buena
-salud.
-
-**MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO**:
-
-REVISIÓN RUTINARIA
-
-**OPERACIONES**: NO REFIERE
-
-**ALERGIAS**: NO REFIERE
-
-### ANTROPOMETRÍA
-
-*FECHA DE LA PRIMERA CONSULTA*\
-*ALTURA*: 1.57 cm.\
-*PESO*: 82 kg.\
-*IMC*: 33.27 (superior a 30 supone obesidad de primer grado)\
-*PERÍMETRO DE BRAZO*\
-*P. CINTURA* :103 CM\
-*P. CADERA*: 110 CM\
-*P. MUÑECA*: 16,5CM\
-*P. PANTORRILLA*: 39,5CM\
-*P. MUSLO*: 57CM\
-*COMPLEXIÓN*: MEDIANA, relación altura perímetro de muñeca (157/16,5 =
-9,8 al encontrarse dentro del valor de referencia de 10,1 /1
-
-### BIOQUÍMICA
-
-  INDICADORES          Datos      Valor de referencia   Valoración
-  -------------------- --------- --------------------- ------------
-  **HIDRATOS DE C.**                                   
-  GLUCOSA              101,00            mg/dL           60 – 100
-  HbA1c                                                
-  PROTEINAS                                            
-  Albúmina                                             
-  Transferrina                                         
-  Prealbúmina                                          
-  Creatinina                                           
-  Balance de N                                         
-  **LÍPIDOS**                                          
-  Colesterol           178,00            mg/dL           &lt;200
-  COLESTERO HDL        70,00             mg/dL            &gt;40
-  COLESTEROL LDL       93,00             mg/dL           &lt;130
-  Triglicéridos        74,00            MG/DIA           &lt;150
-  Vitaminas                                            
-  Minerales                                            
-
-### EXPLORACIÓN FÍSICA Y PREGUNTAS
-
-PELO: normal\
-UÑAS: normales\
-PIEL: normal\
-DIENTES: normales\
-LENGUA: normal\
-CUELLO: normal\
-PÁRPADO: normal\
-BOCA: normal\
-ESTÓMAGO: normal\
-ESTADO: obesidad grado I
-
-### ENTREVISTA AL PACIENTE
-
-*TOMAS DIARIAS*: cuatro (desayuno, media mañana, comida y cena). Picoteo
-a lo largo del día.\
-*HORARIO DE COMIDAS*:\
-*LUGAR DE LAS TOMAS:* casa y trabajo\
-*¿COME VIENDO LA TV?*: no\
-*¿QUIÉN COCINA?:* su marido y ella dependiendo del tiempo. Normalmente
-el día anterior.\
-*FORMAS DE COCINADO HABITUAL:* guisos y potajes. Poca plancha y frito.\
-*CANTIDAD DE SAL EMPLEADA*: normal\
-*CONSUMO DE SUPLEMENTOS*: No\
-*LÍQUIDOS INGERIDOS AL DÍA*: agua cuando tiene sed. No refiere una
-cantidad concreta\
-*CONSUMO DE ALCOHOL:* En []{#anchor-8}fin de semana (vino / cerveza)\
-*ALIMENTOS IMPRESCINDIBLES*: no refiere ninguno en particular *ALIMENTOS
-ODIADOS*: casquería.\
-*ACTIVIDAD FÍSICA*: Baja. Cuando tiene tiempo refiere caminar una hora
-al día a paso ligero.\
-*CAMBIOS ENEL PESO*: Refiere ir aumentando de peso poco a poco en el
-tiempo\
-*TIEMPO DEDICADO A COMER*: sin prisas\
-*TIEMPO PARA COCINAR*: poco por lo que cocina día anteriores platos que
-sea fáciles de calentar.\
-*¿QUIÉN COMPRA?*: Ella y/o su marido
-
-### ASPECTOS SOCIALES
-
-*ASPECTOS CULTURALES*: nada a comentar\
-*ASPECTOS REIGIOSOS*: nada a comentar\
-*PICOTEO NOCTURNO*: sí\
-*¿SE LEVANTA A COMER DENOCHE?*: No\
-*CONSUMO DE VERDURAS*: Sí\
-*CONSUMO DE FRUTAS*: Sí\
-*SI GUSTA CONDIMENTAR*: sí\
-*PRESUPUESTO SEMANAL*: nada a comentar\
-*¿CON QUIÉN COME?*: marido e hijos\
-*GUSTA DE LA COMODA BASURA*: no habitualmente\
-*OTRAS PREGUNTAS/ TEMAS*
-
-### RECUENTO ALIMENTARIO DE TRES DÍAS
-
--   **DIA 1**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
-*Merienda*: pan con chorizo o algo de fiambre.\
-*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
-
--   **DÍA 2**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
-cocidas.\
-*Merienda*: pan con nocilla.\
-*Cena*: pizza
-
--   **DÍA 3**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: macarrones con carne y salsa de tomate, a repetir.\
-*Merienda*: queso con membrillo, pan y un yogurt.\
-*Cena*: Ensalada de pasta
-
-### PRIMER DIAGNOSTICO E INTERVENCIÓN
-
-Mujer de 53 años de edad con sobrepeso de grado I. Acumulación de grasa
-en cintura (obesidad de tipo androide) en periodo de menopausia.
-
-Se formulará dieta pobre en carbohidratos, hiposódica, pobre en grasas e
-hipocalórica.
-
-Se procurará llevar a la paciente a un IMC de normopeso para ello
-tendremos que alcanzar un peso ideal para ella de 57 /60 Kg.
-
-**Patologías**:
-
--   Diabetes tipo II contratamiento de hipoglucemiantes orales.
-    Metformina 850mg una vez al día al mediodía.\
--   Hipercolesterolemia con tratamiento de Atorvastina40 mg una vez al
-    día en las mañanas.\
--   Hipertensión.
-
-**GASTO ENERGETICO TOTAL**
-
-Se realiza calculo energético total y el resultado es de un GET de 1672
-kcal.
-
-Se elaborará una dieta de 1500 kcal que cubra perfectamente sus
-necesidades nutricionales.
-
-**Intervención dietética**:
-
-De acuerdo con la paciente y a petición suya acordamos realizar una
-dieta destinada a una pérdida de peso gradual encaminada a reducir con
-ello los niveles de colesterol y a en lo posible el control de la
-glucemia en sangre.
-
-Refiere no tener prisa en la bajada de peso porque su intención es ir
-adquiriendo hábitos saludables a mantener en el tiempo.
-
-El deseo de la paciente es una pérdida de peso que la lleve hasta unos
-70 Kg, es decir una pérdida de 12 kg, así que salimos con esa idea
-inicial de base y una vez llegado al peso acordada valorar la situación
-y ver como proceder ya que su peso ideal por IMC está alrededor de los
-60 Kg y un peso de 70 Kg todavía la mantendría en una situación de
-sobrepeso.
-
-La dieta se enfoca en el consumo de alimentos saludables y la
-adquisición de unos buenos hábitos alimenticios y de vida.
-
-Se elimina el picoteo entre horas, el alcohol y la bollería haciendo
-especial hincapié en la bollería de tipo industrial que tomaba a media
-mañana como desayuno en el trabajo.
-
-Se aumentan dos tomas y se cambia la distribución de las mismas. Se hace
-indicación de hacer un desayuno en casa que no hacía y una pequeña
-ingesta a media mañana, una merienda y una cena temprana.
-
-Se recomienda el aumento de agua o de bebidas como infusiones. Se
-retiran todas las bebidas azucaradas, tanto zumos de tipo industrial
-como refrescos.
-
-Aunque refiere no tener un consumo elevado de sal se le aconseja
-utilizar especies como condimento en la medida de lo posible debido a su
-hipertensión.
-
-Se retiran todos los alimentos procesados y con nulo nivel nutricional y
-alto nivel de grasas saturadas, sal y azúcar como snacks tipo patatas
-fritas y bollería.
-
-También se limitan los embutidos y se aconseja el consumo de alimentos
-frescos y de temporada. Se evitará tomar alimentos envasados (como salsa
-de tomate industrial por su alto contenido en sal y azúcar) y conservas.
-
-Se recomienda tomar pescado blanco y azul por su contenido en grasas
-saludables omega 3, de preferencia sobre la carne que será
-preferiblemente carne magra (pollo, pavo, conejo).
-
-Se eliminan de la dieta pastas, guisos y fritos que eran de consumo
-habitual y se sustituyen por salteados con una cucharadita de aceite,
-preparaciones a la plancha, horno, papillote, wok o cocido.
-
-Se realizará ingesta de verduras y fruta a diario. Se incluye la toma de
-tres piezas de fruta repartidas a lo largo del día procurando que una de
-ellas sea un cítrico y una toma de verdura cruda al día.
-
-Lácteos se recomiendan enteros por el calcio a excepción de los quesos
-que se recomienda no tomar del tipo curado sustituyéndolos por queso
-fresco tipo burgos.
-
-Frutos secos en pequeñas cantidades (un puñadito de 6 almendras, nueces,
-avellanas …) en la media mañana o merienda.
-
-Grasas de preferencia aceite de oliva en crudo medido en cuchara para el
-aliño o cocinado.
-
-No se retira el pan permitiéndose una rebanada a las comidas del grosor
-de dos dedos aproximadamente y se hace recomendación que sea integral de
-preferencia.
-
-Los HdC serán de absorción lenta, serán de preferencia arroz y
-tubérculos como la patata o la batata y cereales integrales como trigo o
-avena.
-
-Si tiene gula a la tarde se permite la toma de un descafeinado con leche
-descremada y sin azúcar.
-
-Recomendación de aumentar la ingesta de líquido a lo largo del día, agua
-o infusiones.
-
-La comida puede ir acompañada de un trozo de pan.
-
-De postre siempre fruta.
-
-Se da un día a la semana de menú libre si así lo necesita ya que
-acostumbra a tener comidas familiares en fin de semana. La recomendación
-es que no pasarse con las cantidades, si toma un plato que no repita.
-
-También se recomienda el incremento de actividad física en la medida de
-lo posible.
-
-Bicicleta, natación, caminar al sol, …
-
-Se realiza una toma de contacto semanal para comentar como se encuentra
-y hacer control de peso.
-
-La pérdida de peso se ha producido de forma progresiva y casi matemática
-de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
-
-DIETA TIPO DE 1500 KCL.
-
-CALCULO REALIZADO CON LA ECUACIÓN DE HARRYS Y BENEDICT Y LA FORMULA DE
-FACTORES DE ATWTER.
-
-### MENÚ TIPO SEMANAL
-
-Vasito de agua del tiempo en ayunas
-
-**DESAYUNOS**
-
-1.  30 grs de avena con leche y canela+ un plátano.
-2.  Tostada de pan integral +jamón serrano con aceite oliva / mermelada
-    sin azúcar +1 fruta.
-3.  1 yogurt +30 grs de cereales/avena + naranja entera.
-
-**MEDIA MAÑANA**
-
-1.  30 grs de pan integral con humus / queso fresco + una fruta +
-    infusión / café
-2.  30 grs avena + 1 yogurt + 6 frutos secos+ Infusión 1.
-3.  1 plátano + 1 yogurt + infusión
-
-**COMIDAS**
-
-1.  Guisantes con brócoli + salmón a la plancha + 1 fruta
-2.  judías hervidas + patata + filete ternera a la plancha +1 fruta
-3.  Menestra de verduras + patata + pollo a la plancha / horno + 1 fruta
-4.  Salteado de espinacas con garbanzos + lubina a la plancha + 1 fruta
-5.  Espárragos trigueros + tomate + pollo /pavo a la plancha / horno.
-6.  Un plato lentejas con verduras + un cítrico.
-7.  Pisto de berenjena + calabacín + pimiento + verdel al horno/plancha
-    +fruta.
-
-**MEDIA TARDE**
-
-1.  Tostada de pan integral (30 grs) +jamón cocido bajo en sal + 8
-    frutos secos. Infusión
-2.  Yogurt natural + 1 fruta + infusión\
-3.  20 grs de pan integral + queso fresco + infusión
-
-**CENAS**
-
-1.  Crema de verduras + calamares a la plancha\
-2.  Menestra de verduras con lubina a la plancha/ papillote
-3.  Espinacas salteadas + merluza a la plancha/papillote
-4.  Revuelto de dos huevos con champiñones y jamón + lechuga en
-    ensalada.
-5.  Dorada a la plancha + ensalada de lechuga + tomate+ espárragos
-6.  Cremade verduras + queso tipo burgos
-7.  Merluza cocida + patata + guisantes
-
-### RECOMENDACIONES
-
--   Todas las comidas pueden ir acompañadas de rebanada de pan integral
-    (30 grs ) + infusión \*Productos lácteos procurar no acompañarlos
-    con café o té\
--   Beber 1,5 a 2 litros de agua al día sola o en infusión\
--   Eliminar el azúcar de mesa como edulcorante, en su lugar si es
-    necesario utilizar un edulcorante no calórico.\
--   Tratar de utilizar especies como condimento para reducir consumo de
-    sal\
--   Fruta procurar tomarla siempre entera
-
-**Peso y equivalencia de 1 cucharada sopera rasa en gr**:
-
--   Una cucharada de aceite = 15 gr.\
--   Rebanada de pan de unos dos dedos de grosor = 30 grs\
--   6 cucharadas soperas de avena = 30 grs.\
--   Una cucharada de Arroz en crudo = 20 gr,\
--   Arroz ¾ de taza cocido = 30 grs
-
-**RESULTADOS**
-
-La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
-tipo I.
-
-El peso actual es de 74 kg con un IMC de 30 lo que la sitúa en el límite
-entre sobrepeso y obesidad.
-
-La pérdida de peso se ha producido de forma progresiva y casi matemática
-de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
-
-**Refiere**:
-
--   Encontrarse mejor físicamente.\
--   Dormir mejor.\
--   Refiere que antes se encontraba más cansada física y mentalmente.
-    Ahora dice encontrarse con más energía y más alegría lo que le
-    supone un mayor bienestar físico y emocional.
--   Comenta que antes se encontraba más cansada física y mentalmente.
-    Dice encontrarse con más energía y más alegría lo que le supone un
-    mayor bienestar emocional.\
--   Manifiesta encontrarse más alegre y con mejor ánimo.\
--   Comenta que hay semanas que le cuesta más mantener los menús y otras
-    menos, pero en general lo lleva bien y aunque tiene un día libre el
-    fin de semana procura no pasarse y comer “con cabeza”.
-
-Hace un balance en general muy positivo, se encuentra muy contenta con
-los resultados.
 
 \pagebreak
 
