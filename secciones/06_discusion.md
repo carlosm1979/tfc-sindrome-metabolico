@@ -14,10 +14,10 @@ Tampoco hay una definición clara sobre la importancia relativa de los diferente
 
 Por poner unos ejemplos: 
 
-- ¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros muy alterados que otro que se encuentra apenas por encima de los criterios de corte?  
-- ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma antidiabéticos orales?  
-- ¿Ante dos pacientes diferentes, pero que reúnen igual número de criterios diagnósticos de SM el riesgo CV será el mismo?  
-- Dos pacientes diferentes con el mismo número de factores de riesgo, pero diferentes, ¿estarán expuestos al mismo riesgo?  
+- ¿Tiene el mismo riesgo un individuo que tiene los diferentes parámetros muy alterados que otro que se encuentra apenas por encima de los criterios de corte?
+- ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma antidiabéticos orales?
+- ¿Ante dos pacientes diferentes, pero que reúnen igual número de criterios diagnósticos de SM el riesgo CV será el mismo?
+- Dos pacientes diferentes con el mismo número de factores de riesgo, pero diferentes, ¿estarán expuestos al mismo riesgo?
 
 En resumen, pueden darse múltiples circunstancias lo que hace difícil la unificación y evaluación del grado de riesgo. 
 
