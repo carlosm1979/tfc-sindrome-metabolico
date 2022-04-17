@@ -982,7 +982,7 @@ de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
 **Causas que se pueden cambiar:**
 
--   **- Dieta**. Existen varios tipos de grasas en función de su
+-   **Dieta**. Existen varios tipos de grasas en función de su
     estructura, y cada una de ellas posee un efecto determinado sobre
     los niveles de colesterol en el organismo:
 
@@ -1015,7 +1015,7 @@ de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
         LDL. Están presentes en el pescado azul (omega 3) y en aceites
         de semillas y frutos secos (omega 6).
 
--   **- Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
+-   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
     LDL. También aumenta los triglicéridos y baja el colesterol HDL.
     Perdiendo algunos kilos cuando hay sobrepeso ayudamos a bajar el
     colesterol LDL y los triglicéridos, y al mismo tiempo subimos el
@@ -2062,10 +2062,10 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 ### Dieta
 
-DIETA TIPO DE 1500 KCL.
+Dieta tipo de 1500 Kcal.
 
-CALCULO REALIZADO CON LA ECUACIÓN DE HARRYS Y BENEDICT Y LA FORMULA DE
-FACTORES DE ATWATER.
+Cálculo realizado con la ecuación de Harrys y Benedict y la fórmula de
+factores de Atwater.
 
                      Alimento        g\. mL   Kcal    Prot.     Lípidos   Hidratos de C.   Fibra   Atwater
   ------------------ --------------- -------- ------- --------- --------- ---------------- ------- -------------
@@ -2153,14 +2153,14 @@ Vasito de agua del tiempo en ayunas
 
 ### RECUENTO ALIMENTARIO DE TRES DÍAS
 
--   **DIA 1**
+-   **Día 1**
 
 *Desayuno*: café con leche y bollería industrial.\
 *Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
 *Merienda*: pan con chorizo o algo de fiambre.\
 *Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
 
--   **DÍA 2**
+-   **Día 2**
 
 *Desayuno*: café con leche y bollería industrial.\
 *Comida*: pescado frito con ensalada de lechuga y tomate y patatas
@@ -2168,7 +2168,7 @@ cocidas.\
 *Merienda*: pan con nocilla.\
 *Cena*: pizza
 
--   **DÍA 3**
+-   **Día 3**
 
 *Desayuno*: café con leche y bollería industrial.\
 *Comida*: macarrones con carne y salsa de tomate, a repetir.\
@@ -2722,40 +2722,41 @@ Bibliografía
 
 ------------------------------------------------------------------------
 
-1.  [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
+-   [Guerra A, González V, García E, Moreno E, Ramos A. El síndrome
     metabólico y su prevalencia en la población que acude a una farmacia
     comunitaria de Sevilla. Farmacéuticos Comunitarios. 2011 Dec 30; 3
     (4):
     146-150](https://www.farmaceuticoscomunitarios.org/es/journal-article/sindrome-metabolico-su-prevalencia-poblacion-que-acude-una-farmacia-comunitaria)
-2.  [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
+-   [Gerald M Reaven, The Metabolic Syndrome: Requiescat in Pace,
     Clinical Chemistry, Volume 51, Issue 6, 1 June 2005, Pages
     931–938](https://doi.org/10.1373/clinchem.2005.048611)
-3.  [Proteina C reactiva ultrasensible como marcador de estado
-    proinflamatorio en pacientes con síndrome metabólico |
+-   [Proteina C reactiva ultrasensible como marcador de estado
+    proinflamatorio en pacientes con síndrome metabólico | Biblioteca
+    Universidad de Talca |
     http://dspace.utalca.cl/handle/1950/4714](http://dspace.utalca.cl/handle/1950/4714)
-4.  [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
+-   [Estudio de la obesidad, síndrome metabólico, comorbilidad y estado
     nutricional en pacientes no institucionalizados mayores de 64 años
     del área de salud de A Coruña |
     https://ruc.udc.es/dspace/handle/2183/16548](https://ruc.udc.es/dspace/handle/2183/16548)
-5.  [La falta de sueño puede disminuir el colesterol
-    «bueno»](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
+-   [La falta de sueño puede disminuir el colesterol «bueno» |
+    iSanidad](https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/)
     https://isanidad.com/67663/la-falta-de-sueno-puede-disminuir-el-colesterol-bueno/
-6.  [Síndrome
-    metabólico](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
-7.  [síndrome metabólico - Perspectiva general |
+-   [Síndrome metabólico - Clínica Universidad de
+    Navarra](https://www.cun.es/enfermedades-tratamientos/enfermedades/sindrome-metabolico)
+-   [síndrome metabólico - Perspectiva general - Middlesex Health |
     https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico](https://middlesexhealth.org/learning-center/espanol/enfermedades-y-afecciones/s-ndrome-metab-lico)
-8.  [Síndrome metabólico - Diagnostico |
+-   [Síndrome metabólico - Diagnostico |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/
     iagnosis-treatment/drc-20351921](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/diagnosis-treatment/drc-20351921)
-9.  [Síndrome metabolico - Descripción General |
+-   [Síndrome metabolico - Descripción General |
     https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916](https://www.mayoclinic.org/es-es/diseases-conditions/metabolic-syndrome/symptoms-causes/syc-20351916)
-10. [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o
+-   [GARMENDIA LORENA, Fausto. El síndrome metabólico, ¿artificio o
     realidad?. An. Fac. med. \[online\]. 2020, vol.81, n.1 \[citado
     2022-01-20\], pp.92-98. Disponible en:
     &lt;http://www.scielo.org.pe/scielo.php?script=sci\_arttext&pid=S1025-55832020000100092&lng=es&nrm=iso&gt;.
     ISSN 1025-5583.
     http://dx.doi.org/10.15381/anales.v81i1.17787.](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832020000100092&lng=es)
-11. [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
+-   [GAMBOA DELGADO, Edna Magaly; RANGEL DIAZ, Yully Andrea y GUTIERREZ
     GOMEZ, Yareni Yunuen. Asociación entre peso al nacer y factores de
     riesgo cardiometabólicos en niños de Bucaramanga, Colombia. Nutr.
     Hosp. \[online\]. 2017, vol.34, n.5 \[citado 2022-01-20\],
@@ -2763,30 +2764,31 @@ Bibliografía
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-16112017000500013&lng=es&nrm=iso&gt;.
     ISSN 1699-5198.
     https://dx.doi.org/10.20960/nh.1024.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-16112017000500013)
-12. [Síndrome metabólico M. Güemes-Hidalgo\*, M.T. Muñoz-Calvo\*\*
+-   [Síndrome metabólico M. Güemes-Hidalgo\*, M.T. Muñoz-Calvo\*\*
     \*Departamento de Endocrinología. Great Ormond Street Hospital for
     Children. Londres.Reino Unido. \*\*Servicio de Endocrinología.
     Hospital Infantil Universitario Niño Jesús.Profesora Asociada de
     Pediatría. Universidad Autónoma.
     Madrid](https://www.pediatriaintegral.es/publicacion-2015-07/sindrome-metabolico/)
-13. [Asociación del síndrome metabólico con bajo peso al nacimiento,
+-   [Asociación del síndrome metabólico con bajo peso al nacimiento,
     consumo de dietas hipercalóricas y acantosis nigricans en escolares
     y adolescentes con sobrepeso y obesidad - Endocrinología, Diabetes y
     Nutrición Vol. 64. Núm. 1.Páginas 1-62
     (Enero 2017)](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-articulo-asociacion-del-sindrome-metabolico-con-S2530016416300106)
-14. [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en
+-   [GUTIERREZ GUISADO, J. et al. Prevalencia de síndrome metabólico en
     población laboral: El corazón de Asepeyo. An. Med. Interna (Madrid)
     \[online\]. 2008, vol.25, n.7 \[citado 2022-01-20\], pp.325-330.
     Disponible en:
     &lt;http://scielo.isciii.es/scielo.php?script=sci\_arttext&pid=S0212-71992008000700003&lng=es&nrm=iso&gt;.
     ISSN
     0212-7199.](https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0212-71992008000700003)
-15. [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad
+-   [Síndrome Metabólico y Menopausia Wellington Aguirre S. Universidad
     Central del Ecuador Hospital Quito-Ecuador Bernardo Aguirre F.
     Universidad de las Américas (UDLA)
     Quito-Ecuador](https://www.flasog.org/static/academica/Sindrome-Metabolico.pdf)
-16. [Síndrome metabólico: una revisión de criterios
-    internacionales](http://www.scielo.org.co/pdf/rcca/v28n1/0120-5633-rcca-28-1-60.pdf)
+-   [Síndrome metabólico: una revisión de criterios internacionales -
+    Revista Colombiana de
+    cardiología](http://www.scielo.org.co/pdf/rcca/v28n1/0120-5633-rcca-28-1-60.pdf)
 
 \pagebreak
 
