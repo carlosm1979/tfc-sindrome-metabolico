@@ -1696,7 +1696,132 @@ o suspensión de la medicación que actualmente tiene pautada.
 En este apartado deberéis incluir los resultados de las encuestas y los
 resultados de vuestro/os pacientes. Aportando gráficos si los hubiera.
 
-**RESULTADOS**
+5.1. ENCUESTA
+
+Síndrome metabólico en España: prevalencia y riesgo coronario asociado a
+la definición armonizada y a la propuesta por la OMS. Estudio DARIOS.
+
+***Introducción y objetivos***\
+Actualizar la prevalencia del síndrome metabólico en España y su riesgo
+coronario asociado a excepción de los individuos que ya padecen diabetes
+mellitus (DM) o enfermedad cardiovascular (ECV), porque en ellos el SM
+no se puede emplear para prevención
+primaria[^6^](https://www.revespcardiol.org/es-sindrome-metabolico-espana-prevalencia-riesgo-articulo-S0300893211008840#bib6);
+es lo que podría llamarse síndrome metabólico premórbido (SMP), cuya
+prevalencia e impacto en la población general de España aún no se han
+descrito
+
+El estudio DARIOS ha mostrado el avance de la obesidad y la DM en España
+durante la primera década del presente siglo respecto a décadas
+precedentes[^7^](https://www.revespcardiol.org/es-sindrome-metabolico-espana-prevalencia-riesgo-articulo-S0300893211008840#bib7).
+Esta es una tendencia mundial de la que no parece escapar ninguna
+sociedad, pues el aumento de la obesidad ha sido evidente en todas las
+regiones del mundo durante los últimos 30 años y la DM le sigue
+inseparablemente. Tal epidemia trae consigo un incremento de SM, pero no
+todos los individuos con este síndrome presentan la misma combinación de
+criterios diagnósticos, y se ha comprobado que el riesgo de ECV es
+diferente según cuál sea la combinación.
+
+Los objetivos de este trabajo son actualizar la prevalencia de SM en
+España y analizar su riesgo coronario (RC) asociado, empleando la
+definición armonizada y la de SMP.
+
+***Métodos***\
+Análisis agrupado con datos individuales de 11 estudios, incluyendo a
+24.670 individuos de 10 comunidades autónomas con edad 35-74 años. El
+riesgo coronario se estimó con la función REGICOR.
+
+Variables estudiadas
+
+Además de edad y sexo, se analizó el nivel de estudios, consumo
+declarado de tabaco y antecedentes de DM y ECV. Se midió el perímetro de
+la cintura, el peso y la talla y se estimó el índice de masa corporal
+dividiendo el peso en kilos por el cuadrado de la estatura en metros.
+Todas las muestras de sangre se obtuvieron tras ayuno &gt; 8 h; en ellas
+se determinaron triglicéridos, glucosa y colesterol unido a
+lipoproteínas de alta densidad (cHDL). Se empleó la cifra más baja de
+las dos medidas de la presión arterial sistólica y diastólica realizadas
+con el participante en reposo.
+
+La definición de SM del consenso
+internacional[^4^](https://www.revespcardiol.org/es-sindrome-metabolico-espana-prevalencia-riesgo-articulo-S0300893211008840#bib4)
+requiere la presencia de tres de los cinco criterios siguientes: *a)*
+elevación de glucemia en ayunas (≥ 100mg/dl) o recibir tratamiento
+antidiabético con insulina o antidiabéticos orales; *b)* elevación de la
+presión arterial sistólica ≥ 130mmHg o diastólica ≥ 85mmHg o recibir
+tratamiento farmacológico antihipertensivo; *c)* valores de cHDL &lt;
+40mg/dl (varones) o &lt; 50mg/dl (mujeres); *d)* triglicéridos ≥
+150mg/dl, y []{#anchor-7}*e)* perímetro abdominal ≥ 102 cm (varones) o ≥
+88 cm (mujeres).
+
+Se definió el SMP excluyendo a los participantes con SM que padecían DM
+(previamente diagnosticada o que presentaran cifras de glucemia en
+ayunas ≥ 126mg/dl) o tenían antecedentes de ECV (se aceptó como
+previamente diagnosticada en quienes declararon haber padecido infarto
+agudo de miocardio, angina o ictus).
+
+Resultados:
+
+Se incluyó a 24.670 participantes de 10 comunidades autónomas, cuya
+población equivale aproximadamente al 70% de la población de España con
+edad de 35 a 74 años. En conjunto, 7.832 personas padecían SM.
+
+La prevalencia de síndrome metabólico fue del 31%
+
+Mujeres, 29%; intervalo de confianza del 95%, 25-33%;
+
+Varones, 32%; intervalo de confianza del 95%, 29-35%).
+
+Entre los varones con síndrome metabólico, fueron más frecuentes la
+elevación de glucemia y triglicéridos.
+
+Por contra, entre las mujeres predominaron obesidad abdominal colesterol
+unido a las lipoproteínas de alta densidad bajo
+
+Las personas con síndrome metabólico mostraron riesgo coronario moderado
+
+-   Varones, 8%;
+
+<!-- -->
+
+-   Mujeres, 5%
+
+pero mayor que la población sin síndrome metabólico
+
+-   Varones, 4%
+
+<!-- -->
+
+-    Mujeres, 2%
+
+El incremento de riesgo coronario asociado al síndrome metabólico fue
+mayor en mujeres que en varones (2,5 frente a 2 veces, respectivamente).
+
+Los individuos con SM presentaban mayor frecuencia de ECV y DM en ambos
+sexos, además, las mujeres con SM tenían menor prevalencia de tabaquismo
+y menor nivel de estudios, diferencias no halladas en los varones.
+
+La definición de SMP (Sindrome metabólico premórbido) redujo la
+prevalencia en un 20% hasta dejarla en el 26% de los varones y el 24% de
+las mujeres
+
+ En promedio, los varones que presentaban SM superaban en 4 ± 1,5 años
+la edad de los que no lo padecían (57 frente a 53, respectivamente),
+mientras que en las mujeres esta diferencia era de 9 ± 1,5 años (60
+frente a 51)
+
+La prevalencia de síndrome metabólico premórbido fue del 24% y su riesgo
+coronario asociado también aumentó más en las mujeres que en los
+varones.
+
+***Conclusiones***\
+La prevalencia de síndrome metabólico es del 31%; el síndrome metabólico
+premórbido la rebaja al 24% y delimita la población para prevención
+primaria. El incremento de riesgo coronario es proporcionalmente mayor
+en las mujeres, tanto en síndrome metabólico como en síndrome metabólico
+premórbido.
+
+**5.2. RESULTADOS PACIENTE**
 
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
 tipo I.
@@ -1724,7 +1849,7 @@ de semana procura no pasarse y comer “con cabeza”.
 La paciente manifiesta encontrarse contenta y animada a seguir hasta
 conseguir los resultados que habíamos acordado.
 
-[]{#anchor-7}6. Discusión
+[]{#anchor-8}6. Discusión
 =========================
 
 La definición de SM ha tenido muchas modificaciones y no se ha llegado a
@@ -1788,7 +1913,7 @@ los individuos.
 Así se tendrá una mejor herramienta clínica para la detección y
 prevención de riesgo de estas enfermedades.
 
-[]{#anchor-7}7. Conclusión
+[]{#anchor-8}7. Conclusión
 ==========================
 
 El síndrome metabólico es un estado fisiopatológico complejo que se
@@ -2128,7 +2253,7 @@ COLESTERO HDL 70,00 mg/dL &gt;40
 
 COLESTEROL LDL 93,00 mg/dL &lt;130
 
-Triglicéridos 74,00 MG/DIA &lt;[]{#anchor-7}150 &lt;150 Tras ayuno de 8
+Triglicéridos 74,00 MG/DIA &lt;[]{#anchor-8}150 &lt;150 Tras ayuno de 8
 - 10 hmg/dL
 
 Vitaminas
@@ -2180,7 +2305,7 @@ el día anterior.
 **LÍQUIDOS INGERIDOS AL DÍA**: agua cuando tiene sed. No refiere una
 cantidad concreta
 
-**CONSUMO DE ALCOHOL:** En []{#anchor-8}fin de semana (vino / cerveza)
+**CONSUMO DE ALCOHOL:** En []{#anchor-9}fin de semana (vino / cerveza)
 
 **ALIMENTOS IMPRESCINDIBL**ES: no refiere ninguno en particular
 
@@ -2510,8 +2635,8 @@ de semana procura no pasarse y comer “con cabeza”.
 Hace un balance en general muy positivo, se encuentra muy contenta con
 los resultados.
 
-[]{#anchor-9}Vocabulario
-------------------------
+[]{#anchor-10}Vocabulario
+-------------------------
 
 dislipidemia aterogénica: elevación de triglicéridos y/o descenso de
 cHDL\
@@ -2520,8 +2645,8 @@ proinflamatorio se caracteriza por un elevado número de citoquinas
 inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
 de plasminógeno 1 y fibrinógeno.
 
-[]{#anchor-9}Abreviaturas
--------------------------
+[]{#anchor-10}Abreviaturas
+--------------------------
 
 SM: Síndrome Metabólico\
 IDF: Inernational Diabetes Federation\
@@ -2578,8 +2703,8 @@ ateroma. Cuando este ateroma se rompe y entra en el circuito de la
 circulación es cuando se produce el trombo con su consiguiente riesgo
 cardiovascular.** \*\*\*\*NO**
 
-[]{#anchor-9}Tablas
-===================
+[]{#anchor-10}Tablas
+====================
 
   -------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Evolución histórica de los criterios del síndrome metabólico                                                                                                                                                                                                                                                                                     
