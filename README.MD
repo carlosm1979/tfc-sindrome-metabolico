@@ -40,8 +40,8 @@ Indice general
             alimentación](#relación-con-la-alimentación)
         -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
-    -   [Creación empresa](#creación-empresa)
-    -   [Paciente](#paciente)
+    -   [4.1 Creación empresa](#creación-empresa)
+    -   [4.2 Paciente](#paciente)
         -   [Ficha dietética del
             paciente](#ficha-dietética-del-paciente)
         -   [Dieta](#dieta)
@@ -50,11 +50,17 @@ Indice general
             días](#recuento-alimentario-de-tres-días)
         -   [Resultados paciente](#resultados-paciente)
 -   [5. Resultados](#resultados)
--   [6. Discusión](#difusión)
--   [7. Conclusión](#discusión)
--   [8. Bibliografía](#bibliografía)
+-   [6. Discusión](#discusión)
+-   [7. Conclusión](#conclusión)
+-   [Bibliografía](#bibliografía)
 -   [Anexos](#anexos)
-    -   [Díptico](#díptico) \pagebreak
+    -   [Abreviaturas](#abreviaturas)
+    -   [Glosario](#glosario)
+    -   [Evolución histórica de los criterios del síndrome
+        metabólico](#evolución-histórica-de-los-criterios-del-síndrome-metabólico)
+    -   [Díptico](#díptico)
+
+\pagebreak
 
 Indice tablas
 =============
@@ -1706,8 +1712,8 @@ Alimentación y actividad física deben de ir de la mano.
 
 \pagebreak
 
-Paciente
---------
+4.2 Paciente
+------------
 
 Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
 ….... Superior a 30 supone Obesidad grado I). Perímetro de cintura 103
@@ -2204,8 +2210,8 @@ para que se pueda repetir dicho estudio.
 
 \pagebreak 
 
-Creación empresa
-----------------
+4.1 Creación empresa
+--------------------
 
 **CREACIÓN DE UN GABINETE DE NUTRICIÓN Y DIETÉTICA**
 
@@ -2782,21 +2788,6 @@ Bibliografía
 Anexos
 ======
 
-Vocabulario
------------
-
-dislipidemia aterogénica: elevación de triglicéridos y/o descenso de
-cHDL\
-estado proinflamatorio: aumento de la proteína c reactiva. Un estado
-proinflamatorio se caracteriza por un elevado número de citoquinas
-inflamatorias en el plasma. estado protrombótico: aumento del inhibidor
-de plasminógeno 1 y fibrinógeno.\
-acantosis nigricans: trastorno de la piel que se caracteriza por zonas
-de la piel oscuras, con cambios de color aterciopelados en los pliegues
-y en los surcos. La piel aceptada se puede engrosar. En la mayoría de
-los casos la acantosis pigmentaria afecta a las axilas, ingle, cuello.
-Suele aparecer en personas obesas o con diabetes.
-
 Abreviaturas
 ------------
 
@@ -2805,10 +2796,23 @@ IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
 OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
 Índice de masa corporal DM2: Diabetes Mellitus tipo 2 PAS: Presión
-arterial sistólica HAS: Hipertensión arterial sistémica.
+arterial sistólica HAS: Hipertensión arterial sistémica. EGIR: European
+Group for the Study of Insulin Resistance
 
-EGIR: European Group for the Study of Insulin Resistance \#\# Glosario
+Glosario
+--------
 
+**Dislipidemia aterogénica**: elevación de triglicéridos y/o descenso de
+cHDL\
+**Estado proinflamatorio**: aumento de la proteína c reactiva. Un estado
+proinflamatorio se caracteriza por un elevado número de citoquinas
+inflamatorias en el plasma. **Estado protrombótico**: aumento del
+inhibidor de plasminógeno 1 y fibrinógeno.\
+**Acantosis nigricans**: trastorno de la piel que se caracteriza por
+zonas de la piel oscuras, con cambios de color aterciopelados en los
+pliegues y en los surcos. La piel aceptada se puede engrosar. En la
+mayoría de los casos la acantosis pigmentaria afecta a las axilas,
+ingle, cuello. Suele aparecer en personas obesas o con diabetes.
 **Sarcopenia**: Afección que se caracteriza por la pérdida de masa,
 fuerza y funcionamiento de los músculos en los adultos mayores.\
 **Morbimortalidad**: tasa de muertes por enfermedad en una población y
@@ -2823,8 +2827,9 @@ cuatro kilos tras nueve meses de gestación.
 
 \pagebreak
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Evolución histórica de los criterios del síndrome metabólico                                                                                                               
+Evolución histórica de los criterios del síndrome metabólico
+------------------------------------------------------------
+
   ------------------------------------------------------------------------------------ ------------------------------------------ ------------------------------------------ ---------------------------------------------------------------------------------------------------------
   Denomina                                                                             Autor                                      Año                                        Criterios y factores de riesgo asociado
 
@@ -2878,7 +2883,7 @@ cuatro kilos tras nueve meses de gestación.
                                                                                        Federation International Atherosclerosis                                              
                                                                                        Society and International Association for                                             
                                                                                        the Study of Obesity                                                                  
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------ ------------------------------------------ ------------------------------------------ ---------------------------------------------------------------------------------------------------------
 
 \pagebreak
 
