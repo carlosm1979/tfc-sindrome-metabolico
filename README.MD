@@ -885,7 +885,7 @@ comprobación analítica de la alteración lipídica.
   HDL                          
                                Varones &lt; 40 mg/dl
                                Mujeres &lt; 50 mg/dl
-   Colesterol total adecuado   '&gt;' 200 mg/dl
+   Colesterol total adecuado   `>` 200 mg/dl
 
  
 
@@ -1055,12 +1055,12 @@ cerebro.
 
 Las causas más frecuentes de aumento de los triglicéridos son:
 
--   Sobrepeso / obesidad\
+-   Sobrepeso / obesidad
 -   Dieta muy alta en hidratos de carbono (60% o más de las calorías)
-    especialmente si son refinados\
--   Exceso de alcohol\
--   Tabaquismo\
--   Inactividad física\
+    especialmente si son refinados
+-   Exceso de alcohol
+-   Tabaquismo
+-   Inactividad física
 -   Dieta muy alta en hidratos de carbono (60% ó más de las calorías)
     especialmente si son refinados
 -   Factores genéticos
@@ -1131,16 +1131,12 @@ La hipertensión también incrementa el riesgo de morbimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
-  ------------- -------------
-  **HTA en      `>`
-  adultos se    \*\*140/90 mm
-  define como   Hg.
-  cifras de     
-  presión       
-  arterial      
-  sistólica y   
-  diastólica**  
-  ------------- -------------
+  ----------------------------------------------------------------------
+  HTA en adultos se define como cifras de presión arterial sistólica y
+  diastólica
+  ----------------------------------------------------------------------
+  `>` 140/90 mm Hg.
+  ----------------------------------------------------------------------
 
 **Factores de riesgo**
 
@@ -1675,9 +1671,8 @@ Como regla general, los hábitos alimentarios deben basarse en:
 -   **Disminuir el consumo de azúcares sencillos cuanto más mejor.**
 -   **Eliminar los refrescos o bebidas azucaradas y en general los
     alimentos superfluos que no tienen valor nutricional.**
-
-**-Eliminar en lo posible alimentos de elaboración industrial y ultra
-procesados.**
+-   **Eliminar en lo posible alimentos de elaboración industrial y ultra
+    procesados.**
 
 \pagebreak
 
@@ -2035,21 +2030,21 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 ### RECOMENDACIONES
 
 -   Todas las comidas pueden ir acompañadas de rebanada de pan integral
-    (30 grs ) + infusión \*Productos lácteos procurar no acompañarlos
-    con café o té\
--   Beber 1,5 a 2 litros de agua al día sola o en infusión\
+    (30 grs ) + infusión
+-   Productos lácteos procurar no acompañarlos con café o té
+-   Beber 1,5 a 2 litros de agua al día sola o en infusión
 -   Eliminar el azúcar de mesa como edulcorante, en su lugar si es
-    necesario utilizar un edulcorante no calórico.\
+    necesario utilizar un edulcorante no calórico.
 -   Tratar de utilizar especies como condimento para reducir consumo de
-    sal\
+    sal
 -   Fruta procurar tomarla siempre entera
 
 **Peso y equivalencia de 1 cucharada sopera rasa en gr**:
 
--   Una cucharada de aceite = 15 gr.\
--   Rebanada de pan de unos dos dedos de grosor = 30 grs\
--   6 cucharadas soperas de avena = 30 grs.\
--   Una cucharada de Arroz en crudo = 20 gr,\
+-   Una cucharada de aceite = 15 gr.
+-   Rebanada de pan de unos dos dedos de grosor = 30 grs
+-   6 cucharadas soperas de avena = 30 grs.
+-   Una cucharada de Arroz en crudo = 20 gr,
 -   Arroz ¾ de taza cocido = 30 grs
 
 \pagebreak
@@ -2182,15 +2177,15 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 **Refiere**:
 
--   Encontrarse mejor físicamente.\
--   Dormir mejor.\
+-   Encontrarse mejor físicamente.
+-   Dormir mejor.
 -   Refiere que antes se encontraba más cansada física y mentalmente.
     Ahora dice encontrarse con más energía y más alegría lo que le
     supone un mayor bienestar físico y emocional.
 -   Comenta que antes se encontraba más cansada física y mentalmente.
     Dice encontrarse con más energía y más alegría lo que le supone un
-    mayor bienestar emocional.\
--   Manifiesta encontrarse más alegre y con mejor ánimo.\
+    mayor bienestar emocional.
+-   Manifiesta encontrarse más alegre y con mejor ánimo.
 -   Comenta que hay semanas que le cuesta más mantener los menús y otras
     menos, pero en general lo lleva bien y aunque tiene un día libre el
     fin de semana procura no pasarse y comer “con cabeza”.
@@ -2498,8 +2493,8 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 **Refiere:**
 
--   Encontrarse mejor físicamente.\
--   Dormir mejor.\
+-   Encontrarse mejor físicamente.
+-   Dormir mejor.
 -   Refiere que antes se encontraba más cansada física y mentalmente.
     Ahora dice encontrarse con más energía y más alegría lo que le
     supone un mayor bienestar físico y emocional.
@@ -2546,11 +2541,11 @@ Por poner unos ejemplos:
 
 -   ¿Tiene el mismo riesgo un individuo que tiene los diferentes
     parámetros muy alterados que otro que se encuentra apenas por encima
-    de los criterios de corte?\
+    de los criterios de corte?
 -   ¿Es lo mismo un paciente con glucemia en ayunas que otro que toma
-    antidiabéticos orales?\
+    antidiabéticos orales?
 -   ¿Ante dos pacientes diferentes, pero que reúnen igual número de
-    criterios diagnósticos de SM el riesgo CV será el mismo?\
+    criterios diagnósticos de SM el riesgo CV será el mismo?
 -   Dos pacientes diferentes con el mismo número de factores de riesgo,
     pero diferentes, ¿estarán expuestos al mismo riesgo?
 
