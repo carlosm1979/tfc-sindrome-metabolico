@@ -76,7 +76,7 @@ Indice tablas
 
   Criterios de diagnóstico de la Asociación americana de endocrinología                     9
 
-  Factores de riesgo de SM de la Asociación americana de endocrinología                     9
+  Factores de riesgo de SM de la Asociación americana de endocrinología                    10
 
   Criterios diagnostico Federación Internacional de Diabetes                               11
 
@@ -89,9 +89,14 @@ Indice tablas
 
   Valores de glucemia para diagnóstico Diabetes                                            17
 
+  Rangos adecuados colesterol                                                              19
+
   Principales funciones antiaterogénicas de las HDL                                        20
 
   Valores normales y elevados del Perfil Lipídico                                          23
+
+  HTA en adultos se define como cifras de presión arterial sistólica y                     24
+  diastólica                                                               
 
   Criterios de síndrome metabólico en la infancia y adolescencia de la                     31
   International Diabetes Federation                                        
@@ -885,13 +890,13 @@ comprobación analítica de la alteración lipídica.
 
  
 
-  Rangos adecuados             
-  ---------------------------- -----------------------
-  Triglicéridos                `>` 150 mg/dl
-  HDL                          
-                               Varones &lt; 40 mg/dl
-                               Mujeres &lt; 50 mg/dl
-   Colesterol total adecuado   `>` 200 mg/dl
+  Rangos adecuados colesterol   
+  ----------------------------- -----------------------
+  Triglicéridos                 `>` 150 mg/dl
+  HDL                           
+                                Varones &lt; 40 mg/dl
+                                Mujeres &lt; 50 mg/dl
+   Colesterol total adecuado    `>` 200 mg/dl
 
  
 
