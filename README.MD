@@ -5,6 +5,7 @@ Beatriz Carro Otero
 -------------------
 
 \pagebreak
+  \pagebreak
 
 Indice general
 ==============
@@ -13,14 +14,14 @@ Indice general
 -   [2. Objetivos](#objetivos)
 -   [3. El síndrome metabólico](#parte-teórica)
     -   [3.1 Que es](#que-es)
-    -   [3.2 Factores de riesgo.
-        Características.](#factores-de-riesgo.-características.)
+    -   [3.2 Factores de riesgo como criterios de
+        diagnóstico](#factores-de-riesgo-como-criterios-de-diagnóstico)
         -   [3.2.1 Diagnóstico](#diagnóstico)
             -   [3.2.1.1 Obesidad. Perímetro de cintura
                 elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
-            -   [3.2.1.2 Resistencia a la
-                insulina.](#resistencia-a-la-insulina.-diabetes-mellitus-tipo-ii)\
-                    *Diabetes mellitus tipo II*
+            -   [3.2.1.2 Índice de glucemia elevado en
+                sangre](#índice-de-glucemia-elevado-en-sangre)\
+                    *Resistencia a la insulina*
             -   [3.2.1.3 Dislipemias](#dislipemias)\
                     *Colesterol*\
                     *Triglicéridos*
@@ -69,37 +70,37 @@ Indice tablas
   -------------------------------------------------------------------------------------------
                                                                                        Página
   ------------------------------------------------------------------------ ------------------
-  Criterios de diagnóstico OMS                                                              6
+  Criterios de diagnóstico OMS                                                              7
 
-  Criterios de diagnóstico EGIR                                                             7
+  Criterios de diagnóstico EGIR                                                             8
 
-  Criterios de diagnóstico ATP III                                                          8
+  Criterios de diagnóstico ATP III                                                          9
 
-  Criterios de diagnóstico de la Asociación americana de endocrinología                     9
+  Criterios de diagnóstico de la Asociación americana de endocrinología                    10
 
-  Factores de riesgo de SM de la Asociación americana de endocrinología                    10
+  Factores de riesgo de SM de la Asociación americana de endocrinología                    11
 
-  Criterios diagnostico Federación Internacional de Diabetes                               11
+  Criterios diagnostico Federación Internacional de Diabetes                               12
 
-  Valores de circunferencia abdominal indicándose la especificidad étnica                  12
+  Valores de circunferencia abdominal indicándose la especificidad étnica                  13
 
-  Medida de circunferencia de cintura para diagnóstico de SM                               15
+  Medida de circunferencia de cintura para diagnóstico de SM                               16
 
-  Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad                 15
+  Indice de Masa Corporal, Circunferencia Abdominal y Riesgo de Enfermedad                 16
   Cardiovascular                                                           
 
-  Valores de glucemia para diagnóstico Diabetes                                            17
+  Valores de glucemia para diagnóstico Diabetes                                            18
 
-  Rangos adecuados colesterol                                                              19
+  Rangos adecuados colesterol                                                              20
 
-  Principales funciones antiaterogénicas de las HDL                                        20
+  Principales funciones antiaterogénicas de las HDL                                        21
 
-  Valores normales y elevados del Perfil Lipídico                                          23
+  Valores normales y elevados del Perfil Lipídico                                          24
 
-  HTA en adultos se define como cifras de presión arterial sistólica y                     24
+  HTA en adultos se define como cifras de presión arterial sistólica y                     25
   diastólica                                                               
 
-  Criterios de síndrome metabólico en la infancia y adolescencia de la                     31
+  Criterios de síndrome metabólico en la infancia y adolescencia de la                     32
   International Diabetes Federation                                        
   -------------------------------------------------------------------------------------------
 
@@ -599,7 +600,7 @@ indicadores de que un paciente puede desarrollar SM:
 
 \pagebreak
 
-### Factores de riesgo como criterios de diagnóstico.
+### Factores de riesgo como criterios de diagnóstico
 
 #### 3.2.1.1 Obesidad. Perímetro de cintura elevado.
 
@@ -715,7 +716,7 @@ enfermedades cardiovasculares, diabetes e hipertensión.
 
 \pagebreak
 
-#### 3.2.1.2 Resistencia a la insulina. Diabetes mellitus tipo II
+#### 3.2.1.2 Índice de glucemia elevado en sangre
 
 El síndrome de resistencia a la insulina no es una enfermedad sino un
 término usado para describir un proceso fisiopatológico que se
