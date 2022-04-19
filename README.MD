@@ -1965,7 +1965,33 @@ necesidades nutricionales.
 
 \pagebreak
 
-**Intervención dietética**:
+### RECUENTO ALIMENTARIO DE TRES DÍAS
+
+-   **Día 1**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
+*Merienda*: pan con chorizo o algo de fiambre.\
+*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
+
+-   **Día 2**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
+cocidas.\
+*Merienda*: pan con nocilla.\
+*Cena*: pizza
+
+-   **Día 3**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: macarrones con carne y salsa de tomate, a repetir.\
+*Merienda*: queso con membrillo, pan y un yogurt.\
+*Cena*: Ensalada de pasta
+
+\pagebreak
+
+**INTERVENCIÓN DIETÉTICA**:
 
 De acuerdo con la paciente y a petición suya acordamos realizar una
 dieta destinada a una pérdida de peso gradual encaminada a reducir con
@@ -2126,81 +2152,6 @@ factores de Atwater.
   Atwater                                             377,708   365,22    791,62                   **1534,54**
   % energia                                           24,61     23,79     51,58                    
 
-\pagebreak
-
-### MENÚ TIPO SEMANAL
-
-Vasito de agua del tiempo en ayunas
-
-**DESAYUNOS**
-
-1.  30 grs de avena con leche y canela+ un plátano.
-2.  Tostada de pan integral +jamón serrano con aceite oliva / mermelada
-    sin azúcar +1 fruta.
-3.  1 yogurt +30 grs de cereales/avena + naranja entera.
-
-**MEDIA MAÑANA**
-
-1.  30 grs de pan integral con humus / queso fresco + una fruta +
-    infusión / café
-2.  30 grs avena + 1 yogurt + 6 frutos secos+ Infusión 1.
-3.  1 plátano + 1 yogurt + infusión
-
-**COMIDAS**
-
-1.  Guisantes con brócoli + salmón a la plancha + 1 fruta
-2.  judías hervidas + patata + filete ternera a la plancha +1 fruta
-3.  Menestra de verduras + patata + pollo a la plancha / horno + 1 fruta
-4.  Salteado de espinacas con garbanzos + lubina a la plancha + 1 fruta
-5.  Espárragos trigueros + tomate + pollo /pavo a la plancha / horno.
-6.  Un plato lentejas con verduras + un cítrico.
-7.  Pisto de berenjena + calabacín + pimiento + verdel al horno/plancha
-    +fruta.
-
-**MEDIA TARDE**
-
-1.  Tostada de pan integral (30 grs) +jamón cocido bajo en sal + 8
-    frutos secos. Infusión
-2.  Yogurt natural + 1 fruta + infusión\
-3.  20 grs de pan integral + queso fresco + infusión
-
-**CENAS**
-
-1.  Crema de verduras + calamares a la plancha\
-2.  Menestra de verduras con lubina a la plancha/ papillote
-3.  Espinacas salteadas + merluza a la plancha/papillote
-4.  Revuelto de dos huevos con champiñones y jamón + lechuga en
-    ensalada.
-5.  Dorada a la plancha + ensalada de lechuga + tomate+ espárragos
-6.  Cremade verduras + queso tipo burgos
-7.  Merluza cocida + patata + guisantes
-
-\pagebreak
-
-### RECUENTO ALIMENTARIO DE TRES DÍAS
-
--   **Día 1**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
-*Merienda*: pan con chorizo o algo de fiambre.\
-*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
-
--   **Día 2**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
-cocidas.\
-*Merienda*: pan con nocilla.\
-*Cena*: pizza
-
--   **Día 3**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: macarrones con carne y salsa de tomate, a repetir.\
-*Merienda*: queso con membrillo, pan y un yogurt.\
-*Cena*: Ensalada de pasta
-
 ### RESULTADOS PACIENTE
 
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
@@ -2219,10 +2170,6 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 -   Refiere que antes se encontraba más cansada física y mentalmente.
     Ahora dice encontrarse con más energía y más alegría lo que le
     supone un mayor bienestar físico y emocional.
--   Comenta que antes se encontraba más cansada física y mentalmente.
-    Dice encontrarse con más energía y más alegría lo que le supone un
-    mayor bienestar emocional.
--   Manifiesta encontrarse más alegre y con mejor ánimo.
 -   Comenta que hay semanas que le cuesta más mantener los menús y otras
     menos, pero en general lo lleva bien y aunque tiene un día libre el
     fin de semana procura no pasarse y comer “con cabeza”.
@@ -2634,13 +2581,6 @@ Evolución histórica de los criterios del síndrome metabólico
                                                                                        the Study of Obesity                                                                  
   ------------------------------------------------------------------------------------ ------------------------------------------ ------------------------------------------ ---------------------------------------------------------------------------------------------------------
 
-\pagebreak
-
-Díptico
--------
-
-![](diptico-dietoterapia.png)
-
 \pagebreak 
 
 4.1 Creación empresa
@@ -2918,137 +2858,7 @@ Responsabilidad Civil Patronal
 
 \pagebreak
 
-Encuesta
---------
+Díptico
+-------
 
-Síndrome metabólico en España: prevalencia y riesgo coronario asociado a la definición armonizada y a la propuesta por la OMS. Estudio DARIOS
----------------------------------------------------------------------------------------------------------------------------------------------
-
-**Introducción y objetivos**
-
-Los objetivos de este trabajo son actualizar la prevalencia de SM en
-España y analizar su riesgo coronario (RC) asociado, empleando la
-definición armonizada y la de SMP.
-
-El nombre síndrome metabólico (SM) surgió hace 30 años para definir una
-agrupación no casual de factores de origen metabólico frecuentemente
-observados en la práctica clínica: - obesidad abdominal, - dislipemia, -
-glucemia elevada y - presión arterial elevada
-
-Se ha propuesto la exclusión de los individuos que ya padecen diabetes
-mellitus (DM) o enfermedad cardiovascular (ECV), porque en ellos el SM
-no se puede emplear para prevención primaria; es lo que podría llamarse
-síndrome metabólico premórbido (SMP).
-
-El estudio DARIOS ha mostrado el avance de la obesidad y la DM en España
-durante la primera década del presente siglo respecto a décadas
-precedentes.
-
-Esta es una tendencia mundial de la que no parece escapar ninguna
-sociedad, pues el aumento de la obesidad ha sido evidente en todas las
-regiones del mundo durante los últimos 30 años y la DM le sigue
-inseparablemente.
-
-Los objetivos de este trabajo son actualizar la prevalencia de SM en
-España y analizar su riesgo coronario (RC) asociado, empleando la
-definición armonizada y la de SMP.
-
-**Métodos**
-
-*Población de estudio*
-
-Se realiza un análisis agrupado con datos individuales de los
-participantes en 11 estudios poblacionales realizados en 10 comunidades
-autónomas. Se incluyó a individuos con edad entre 35 y 74 años.
-
-*Variables estudiadas*
-
-Además de edad y sexo, se analizó:\
-- el nivel de estudios\
-- consumo declarado de tabaco\
-- antecedentes de DM y ECV
-
-Se midió:\
-- el perímetro de la cintura\
-- el peso\
-- la talla\
-- se estimó el índice de masa corporal
-
-Todas las muestras de sangre se obtuvieron tras ayuno `>` 8 h; en ellas
-se determinaron triglicéridos, glucosa y colesterol unido a
-lipoproteínas de alta densidad (cHDL).
-
-La definición de SM del consenso internacional requiere la presencia de
-tres de los cinco criterios siguientes:
-
-**a)** elevación de glucemia en ayunas (&gt;= 100mg/dl) o recibir
-tratamiento antidiabético con insulina o antidiabéticos orales
-
-**b)** elevación de la presión arterial sistólica &gt;= 130mmHg o
-diastólica &gt;= 85mmHg o recibir tratamiento farmacológico
-antihipertensivo
-
-**c)** valores de cHDL &lt; 40mg/dl (varones) o &lt; 50mg/dl (mujeres)
-
-**d)** triglicéridos &gt;= 150mg/dl
-
-**e)** perímetro abdominal &gt;= 102 cm (varones) o &gt;= 88 cm
-(mujeres)
-
-Se definió el SMP excluyendo a los participantes con SM que padecían DM
-(previamente diagnosticada o que presentaran cifras de glucemia en
-ayunas &gt;= 126mg/dl) o tenían antecedentes de ECV (quienes declararon
-haber padecido infarto agudo de miocardio, angina o ictus).
-
-**Resultados**
-
-En conjunto, 7.832 personas padecían SM, con una prevalencia del: - 32%
-en varones - 29% en mujeres
-
-La definición de SMP redujo la prevalencia en un 20% hasta dejarla en: -
-el 26% de los varones - el 24% de las mujeres
-
-Para el conjunto de España, la comparación de todos los participantes de
-DARIOS mostró que los individuos con SM presentaban mayor frecuencia de
-ECV y DM en ambos sexos.
-
-Las mujeres con SM tenían menor prevalencia de tabaquismo y menor nivel
-de estudios, diferencias no halladas en los varones.
-
-Distribución por sexo de los criterios de SM en las personas que lo
-padecían: - **Mujeres:** eran más frecuentes los criterios de cintura
-abdominal y de cHDL - **Varones:** fueron más frecuentes los de glucemia
-e hipertrigliceridemia - **Sin diferencias significativas entre sexos:**
-para el criterio de presión arterial elevada fue el único
-
-**Conclusiones**
-
-*Diferencias entre sexos*
-
-Su evolución con la edad es de interés: el SM fue significativamente más
-prevalente en los varones hasta la edad de 54 años, pero se igualó entre
-los 55 y 64 años porque en esa década las mujeres duplicaron el
-crecimiento de la prevalencia masculina.
-
-A partir de los 65 años, la prevalencia no aumentó en los varones, pero
-continuó aumentando en las mujeres hasta superar significativamente la
-prevalencia masculina en las últimas décadas de la vida.
-
-Es difícil no relacionar esta evolución con la protección estrogénica
-del sexo femenino durante la etapa fértil, que desaparece a partir de la
-menopausia y, junto con los cambios lipídicos que ocurren en esa etapa,
-lleva al aumento de la ECV en la mujer.
-
-Las mujeres con SM presentaban distinta exposición a factores sociales
-(menor educación y menos tabaquismo) que las que no padecían SM, lo cual
-no ocurría en los varones.
-
-Probablemente lo más prudente sea aceptar que, aunque sea superado por
-alguno de sus propios criterios componentes como predictor de DM o ECV,
-el SM engloba un conjunto de individuos en los que cualquier criterio
-puede estar ausente pero que tienen un RC elevado que no se detectaría
-si no se tomara en cuenta este diagnóstico.
-
-A este respecto, es en la disfunción del tejido adiposo donde más se
-busca actualmente una explicación causal para el SM, y es de particular
-interés la teoría de la lipotoxicidad por acumulación ectópica de grasa.
+![](diptico-dietoterapia.png)
