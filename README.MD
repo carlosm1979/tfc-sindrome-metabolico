@@ -41,12 +41,10 @@ Indice general
             alimentación](#relación-con-la-alimentación)
         -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
-    -   [4.1 Creación empresa](#creación-empresa)
-    -   [4.2 Paciente](#paciente)
+    -   [4.1 Paciente](#paciente)
         -   [Ficha dietética del
             paciente](#ficha-dietética-del-paciente)
         -   [Dieta](#dieta)
-        -   [Menú tipo semanal](#menú-tipo-semanal)
         -   [Recuento alimentario de tres
             días](#recuento-alimentario-de-tres-días)
         -   [Resultados paciente](#resultados-paciente)
@@ -59,8 +57,7 @@ Indice general
     -   [Glosario](#glosario)
     -   [Evolución histórica de los criterios del síndrome
         metabólico](#evolución-histórica-de-los-criterios-del-síndrome-metabólico)
-    -   [Díptico](#díptico)
-    -   [Encuesta](#encuesta)
+    -   [Creación empresa](#creación-empresa)
 
 \pagebreak
 
@@ -186,7 +183,7 @@ la aparición de las alteraciones de salud que lo componen.
 
 -   Obtener información sobre lo que es el SM.\
 -   Estudiar la importancia de la alimentación en su aparición.\
--   Definir pautas para prevenir y su desarrollo.\
+-   Definir pautas para prevenir y controlar su desarrollo.\
 -   Tratar un paciente como de SM mediante el establecimiento de una
     dieta y hábitos de vida saludables.\
     \pagebreak
@@ -201,7 +198,7 @@ Es un grupo de factores de riesgo para desarrollo de enfermedad
 cardiovascular y diabetes mellitus II. El SM como tal no es una
 enfermedad.
 
-#### OMS
+### - OMS
 
 Después de la definición dada por Gerarld Reaven, en 1999 la OMS cambió
 la denominación a 'Síndrome metabólico', y estableció una definición en
@@ -258,7 +255,7 @@ A lo largo de los años diversos investigadores e instituciones
 internacionales han buscado establecer criterios para acotarlo, buscando
 definir la lista de factores que lo componen.
 
-#### Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
+### - Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
 
 En 1999 el Grupo Europeo para el Estudio de la Resistencia a la Insulina
 (EGIR) debido a que el síndrome incluye características no metabólicas,
@@ -289,7 +286,7 @@ que debe ser suprimida.
 
 \pagebreak
 
-#### ATP-III
+### - ATP-III
 
 En 2002 el Panel de Expertos en la Detección, Evaluación y Tratamiento
 de Colesterol Elevado en Sangre, propuesto por el Tercer Reporte del
@@ -330,7 +327,7 @@ los cinco criterios.*
 
 \pagebreak
 
-#### Asociación Americana de Endocrinólogos Clínicos
+### - Asociación Americana de Endocrinólogos Clínicos
 
 En 2003 Asociación Americana de Endocrinólogos Clínicos y el Colegio
 Americano de Endocrinología adoptaron los criterios ATP-III en los
@@ -412,7 +409,7 @@ criterios no son útiles como definición para estudios epidemiológicos.
 
 \pagebreak
 
-#### Federación Internacional de Diabetes
+### - Federación Internacional de Diabetes
 
 En 2005 la Federación Internacional de Diabetes realizó un taller a fin
 de establecer un consenso global o una herramienta de diagnóstico
@@ -535,8 +532,10 @@ enfermedades.
 
 \pagebreak
 
-3.2.1 Diagnóstico del SM
-------------------------
+### 3.2 FACTORES DE RIESGO COMO CRITERIOS DE DIAGNÓSTICO
+
+3.2.1 Diagnóstico
+-----------------
 
 La importancia de hacer el diagnóstico de Síndrome Metabólico radica en
 que es indicador de un elevado riesgo cardiovascular y diabetes.
@@ -594,8 +593,6 @@ indicadores de que un paciente puede desarrollar SM:
 -   Genética: Origen étnico y su historia familiar.
 
 \pagebreak
-
-### Factores de riesgo como criterios de diagnóstico
 
 #### 3.2.1.1 Obesidad. Perímetro de cintura elevado.
 
@@ -1509,7 +1506,7 @@ diagnóstico de obesidad central y la presencia de otros dos factores de
 riesgo para su diagnóstico (dislipemia, hipertensión o alteración de la
 glucosa).
 
- 
+\pagebreak
 
 **Criterios de síndrome metabólico en la infancia y adolescencia de la
 International Diabetes Federation**
@@ -1717,7 +1714,7 @@ Precisar los material y métodos que se van a necesitar para desarrollar
 el trabajo. El objetivo será proporcionar al lector todos los detalles
 para que se pueda repetir dicho estudio.
 
-4.2 Paciente
+4.1 Paciente
 ------------
 
 Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
