@@ -1788,42 +1788,61 @@ Ficha dietética del paciente
 DATOS ADMINISTRATIVOS
 ---------------------
 
-NOMBRE: SEXO: MUJER FECHA DE NACIMIENTO:\
-EDAD: 53 E-MAIL:\
-DIRECCIÓN: C. POSTAL: MÉDICO: TLF. MÉDIC0: OTROS DATOS DE INTERÉS:
+*NOMBRE*:\
+*SEXO*: MUJER\
+*FECHA DE NACIMIENTO*:\
+*EDAD*: 53\
+*E-MAIL*:\
+*DIRECCIÓN*:\
+*C. POSTAL*:\
+*MÉDICO*:\
+*TLF. MÉDIC0*:\
+*OTROS DATOS DE INTERÉS*:
 
-**ANAMNESIS**
+ANAMNESIS
+---------
 
 *MOTIVO DE LA CONSULTA*: perder peso.
 
-**ANTECEDENTES FAMILIARES**:
+ANTECEDENTES FAMILIARES
+-----------------------
 
 -   Enfermedad coronaria precoz en familiares de primer grado.\
 -   Padre: IAM (infarto agudo de miocardio), cirugía valvular, ACV
     (accidente cardio vascular), DLP (Dislipemia). Vivo.\
 -   Madre: DBT2 (Diabetes tipo 2). Viva.
 
-**TRATAMIENTO QUE ESTÁ SIGUIENDO**:
+TRATAMIENTO QUE ESTÁ SIGUIENDO
+------------------------------
 
 -   TRATAMIENTO HIPOLIPEMIANTE (COLESTEROL). ATORBASTINA 40mg. Una
     cápsula por las mañanas.\
 -   TRATAMIENETO HIPOGLUCEMIANTE ORAL. METFORMINA 850 mg. Una cápsula a
     la comida.
 
-**SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO**:
+SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO
+------------------------------------
 
 No refiere ningún síntoma o molestia, Sensación subjetiva de buena
 salud.
 
-**MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO**:
+MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO
+---------------------------------------
 
 REVISIÓN RUTINARIA
 
-**OPERACIONES**: NO REFIERE
+OPERACIONES
+-----------
 
-**ALERGIAS**: NO REFIERE
+NO REFIERE
 
-**ANTROPOMETRÍA**
+ALERGIAS
+--------
+
+NO REFIERE
+
+ANTROPOMETRÍA
+-------------
 
 *FECHA DE LA PRIMERA CONSULTA*\
 *ALTURA*: 1.57 cm.\
@@ -1838,7 +1857,8 @@ REVISIÓN RUTINARIA
 *COMPLEXIÓN*: MEDIANA, relación altura perímetro de muñeca (157/16,5 =
 9,8 al encontrarse dentro del valor de referencia de 10,1 /1
 
-**BIOQUÍMICA**
+BIOQUÍMICA
+----------
 
   INDICADORES          Datos      Valor de referencia   Valoración
   -------------------- --------- --------------------- ------------
@@ -1859,7 +1879,8 @@ REVISIÓN RUTINARIA
   Vitaminas                                            
   Minerales                                            
 
-**EXPLORACIÓN FÍSICA Y PREGUNTAS**
+EXPLORACIÓN FÍSICA Y PREGUNTAS
+------------------------------
 
 PELO: normal\
 UÑAS: normales\
@@ -1872,7 +1893,8 @@ BOCA: normal\
 ESTÓMAGO: normal\
 ESTADO: obesidad grado I
 
-**ENTREVISTA AL PACIENTE**
+ENTREVISTA AL PACIENTE
+----------------------
 
 *TOMAS DIARIAS*: cuatro (desayuno, media mañana, comida y cena). Picoteo
 a lo largo del día.\
@@ -1898,7 +1920,8 @@ tiempo\
 sea fáciles de calentar.\
 *¿QUIÉN COMPRA?*: Ella y/o su marido
 
-**ASPECTOS SOCIALES**
+ASPECTOS SOCIALES
+-----------------
 
 *ASPECTOS CULTURALES*: nada a comentar\
 *ASPECTOS REIGIOSOS*: nada a comentar\
@@ -1912,7 +1935,8 @@ sea fáciles de calentar.\
 *GUSTA DE LA COMODA BASURA*: no habitualmente\
 *OTRAS PREGUNTAS/ TEMAS*
 
-**PRIMER DIAGNOSTICO E INTERVENCIÓN**
+PRIMER DIAGNOSTICO E INTERVENCIÓN
+---------------------------------
 
 Mujer de 53 años de edad con sobrepeso de grado I. Acumulación de grasa
 en cintura (obesidad de tipo androide) en periodo de menopausia.
