@@ -1793,8 +1793,7 @@ o suspensión de la medicación que actualmente tiene pautada.
 Ficha dietética del paciente
 ============================
 
-DATOS ADMINISTRATIVOS
----------------------
+**Datos administrativos**
 
 ***NOMBRE***: XXX\
 ***SEXO***: MUJER\
@@ -2249,10 +2248,12 @@ haber padecido infarto agudo de miocardio, angina o ictus).
 **Resultados**
 
 En conjunto, 7.832 personas padecían SM, con una prevalencia del: - 32%
-en varones - 29% en mujeres
+en varones\
+- 29% en mujeres
 
 La definición de SMP redujo la prevalencia en un 20% hasta dejarla en: -
-el 26% de los varones - el 24% de las mujeres
+el 26% de los varones\
+- el 24% de las mujeres
 
 Para el conjunto de España, la comparación de todos los participantes de
 DARIOS mostró que los individuos con SM presentaban mayor frecuencia de
