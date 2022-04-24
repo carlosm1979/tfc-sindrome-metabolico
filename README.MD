@@ -2262,10 +2262,13 @@ Las mujeres con SM tenían menor prevalencia de tabaquismo y menor nivel
 de estudios, diferencias no halladas en los varones.
 
 Distribución por sexo de los criterios de SM en las personas que lo
-padecían: - **Mujeres:** eran más frecuentes los criterios de cintura
-abdominal y de cHDL - **Varones:** fueron más frecuentes los de glucemia
-e hipertrigliceridemia - **Sin diferencias significativas entre sexos:**
-para el criterio de presión arterial elevada fue el único
+padecían:\
+- **Mujeres:** eran más frecuentes los criterios de cintura abdominal y
+de cHDL\
+- **Varones:** fueron más frecuentes los de glucemia e
+hipertrigliceridemia\
+- **Sin diferencias significativas entre sexos:** para el criterio de
+presión arterial elevada fue el único
 
 **Conclusiones**
 
