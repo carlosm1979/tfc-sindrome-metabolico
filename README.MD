@@ -4,6 +4,8 @@ El síndrome metabólico
 Beatriz Carro Otero
 -------------------
 
+**Agradecimientos**
+
 \pagebreak
   \pagebreak
 
@@ -45,9 +47,9 @@ Indice general
     -   [4.2 Paciente](#paciente)
         -   [Ficha dietética del
             paciente](#ficha-dietética-del-paciente)
-        -   [Dieta](#dieta)
         -   [Recuento alimentario de tres
             días](#recuento-alimentario-de-tres-días)
+        -   [Diagnóstico e intervención](#diagnóstico-e-intervención)
     -   [4.3 Encuesta](#encuesta)
     -   [4.4 Creación empresa](#creación-empresa)
 -   [5. Resultados](#resultados)
@@ -1986,8 +1988,8 @@ cocidas.\
 
  
 
-PRIMER DIAGNOSTICO E INTERVENCIÓN
----------------------------------
+DIAGNOSTICO E INTERVENCIÓN
+--------------------------
 
 Mujer de 53 años de edad con sobrepeso de grado I. Acumulación de grasa
 en cintura (obesidad de tipo androide) en periodo de menopausia.
