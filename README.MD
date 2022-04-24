@@ -41,7 +41,8 @@ Indice general
             alimentación](#relación-con-la-alimentación)
         -   [3.3.2 Hábitos de vida](#hábitos-de-vida)
 -   [4. Material y métodos](#material-y-métodos)
-    -   [4.1 Paciente](#paciente)
+    -   [4.1 Teórico](#teórico)
+    -   [4.2 Paciente](#paciente)
         -   [Ficha dietética del
             paciente](#ficha-dietética-del-paciente)
         -   [Dieta](#dieta)
@@ -1713,11 +1714,16 @@ Alimentación y actividad física deben de ir de la mano.
 4. Material y métodos
 =====================
 
-Precisar los material y métodos que se van a necesitar para desarrollar
-el trabajo. El objetivo será proporcionar al lector todos los detalles
-para que se pueda repetir dicho estudio.
+4.1 Teórico
+-----------
 
-4.1 Paciente
+-   La mayoría de la información se obtiene a través de páginas
+    científicas en internet.\
+-   Artículos especializados.\
+-   Entrevista con el pacinete -Anamnesis-, esploración física,
+    antropométrica y bioquímica.
+
+4.2 Paciente
 ------------
 
 Mujer de 53 años con una talla de 1,57 m. y un peso de 82 kg (IMC 33,27
