@@ -1877,7 +1877,7 @@ ANTROPOMETRÍA
 ***COMPLEXIÓN***: MEDIANA, relación altura perímetro de muñeca (157/16,5
 = 9,8 al encontrarse dentro del valor de referencia de 10,1 /1
 
- 
+\pagebreak
 
 BIOQUÍMICA
 ----------
@@ -1917,7 +1917,7 @@ EXPLORACIÓN FÍSICA Y PREGUNTAS
 ***ESTÓMAGO***: normal\
 ***ESTADO***: obesidad grado I
 
- 
+\pagebreak
 
 ENTREVISTA AL PACIENTE
 ----------------------
@@ -1965,7 +1965,7 @@ ASPECTOS SOCIALES
 ***GUSTA DE LA COMIDA BASURA***: no habitualmente\
 ***OTRAS PREGUNTAS/ TEMAS***
 
- 
+\pagebreak
 
 RECUENTO ALIMENTARIO DE TRES DÍAS
 ---------------------------------
