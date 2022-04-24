@@ -1794,7 +1794,8 @@ Ficha dietética del paciente
 DATOS ADMINISTRATIVOS
 ---------------------
 
-***NOMBRE***: XXX ***SEXO***: MUJER\
+***NOMBRE***: XXX\
+***SEXO***: MUJER\
 ***FECHA DE NACIMIENTO***: XXX\
 ***EDAD***: 53\
 ***E-MAIL***: XXX\
@@ -1998,8 +1999,6 @@ cocidas.\
 *Merienda*: queso con membrillo, pan y un yogurt.\
 *Cena*: Ensalada de pasta
 
-\pagebreak
-
 **INTERVENCIÓN DIETÉTICA**:
 
 De acuerdo con la paciente y a petición suya acordamos realizar una
@@ -2121,7 +2120,7 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
 \pagebreak
 
-### Dieta
+### DIETA
 
 Dieta tipo de 1500 Kcal.
 
@@ -2160,31 +2159,6 @@ factores de Atwater.
   Suma total                                          94,427    40,58     197,905          32,71   
   Atwater                                             377,708   365,22    791,62                   **1534,54**
   % energia                                           24,61     23,79     51,58                    
-
-### RESULTADOS PACIENTE
-
-La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
-tipo I.
-
-El peso actual es de 74 kg con un IMC de 30 lo que la sitúa en el límite
-entre sobrepeso y obesidad.
-
-La pérdida de peso se ha producido de forma progresiva y casi matemática
-de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
-
-**Refiere**:
-
--   Encontrarse mejor físicamente.
--   Dormir mejor.
--   Refiere que antes se encontraba más cansada física y mentalmente.
-    Ahora dice encontrarse con más energía y más alegría lo que le
-    supone un mayor bienestar físico y emocional.
--   Comenta que hay semanas que le cuesta más mantener los menús y otras
-    menos, pero en general lo lleva bien y aunque tiene un día libre el
-    fin de semana procura no pasarse y comer “con cabeza”.
-
-Hace un balance en general muy positivo, se encuentra muy contenta con
-los resultados.
 
 \pagebreak 
 
@@ -2463,8 +2437,8 @@ Responsabilidad Civil Patronal
 
 \pagebreak
 
-5. Resultados
-=============
+5. RESULTADOS PACIENTE
+======================
 
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad
 tipo I.

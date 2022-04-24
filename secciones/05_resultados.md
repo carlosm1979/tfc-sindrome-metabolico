@@ -1,6 +1,6 @@
 \pagebreak
 
-# 5. Resultados
+# 5. RESULTADOS PACIENTE
 
 La paciente partía de un peso de 82 Kg, estaba en un grado de obesidad tipo I. 
 
