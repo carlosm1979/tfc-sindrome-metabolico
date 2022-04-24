@@ -4,7 +4,11 @@ El síndrome metabólico
 Beatriz Carro Otero
 -------------------
 
+\pagebreak
+
 **Agradecimientos**
+
+Para Carlos, sin ti no hubiese sido posible.
 
 \pagebreak
   \pagebreak
