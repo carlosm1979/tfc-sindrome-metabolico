@@ -59,6 +59,7 @@ Indice general
     -   [Glosario](#glosario)
     -   [Evolución histórica de los criterios del síndrome
         metabólico](#evolución-histórica-de-los-criterios-del-síndrome-metabólico)
+    -   [Díptico](#díptico)
 
 \pagebreak
 
