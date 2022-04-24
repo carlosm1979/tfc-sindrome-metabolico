@@ -48,7 +48,6 @@ Indice general
         -   [Dieta](#dieta)
         -   [Recuento alimentario de tres
             días](#recuento-alimentario-de-tres-días)
-        -   [Resultados paciente](#resultados-paciente)
     -   [4.3 Encuesta](#encuesta)
     -   [4.4 Creación empresa](#creación-empresa)
 -   [5. Resultados](#resultados)
@@ -1843,17 +1842,15 @@ salud.
 
  
 
-***Motivos de la última consulta al médico***:
-
-REVISIÓN RUTINARIA
+***Motivos de la última consulta al médico***: Revisión rutinaria
 
  
 
-***Operaciones***: NO REFIERE
+***Operaciones***: No refiere
 
  
 
-***Alergias***: NO REFIERE
+***Alergias***: No refiere
 
  
 
@@ -1865,11 +1862,11 @@ ANTROPOMETRÍA
 ***Peso***: 82 kg.\
 **IMC**: 33.27 (superior a 30 supone obesidad de primer grado)\
 ***Perímetro de brazo***\
-***P. cintura*** :103 CM\
-***P. cadera***: 110 CM\
-***P. muñeca***: 16,5CM\
-***P. pantorrilla***: 39,5CM\
-***P. muslo***: 57CM\
+***P. cintura*** :103 cm\
+***P. cadera***: 110 cm\
+***P. muñeca***: 16,5 cm\
+***P. pantorrilla***: 39,5 cm\
+***P. muslo***: 57 cm\
 ***Complexion***: MEDIANA, relación altura perímetro de muñeca (157/16,5
 = 9,8 al encontrarse dentro del valor de referencia de 10,1 /1
 
