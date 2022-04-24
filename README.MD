@@ -1758,6 +1758,8 @@ cabecera.
 
 No refiere alergias ni operaciones.
 
+ 
+
 **Antecedentes familiares**: refiere enfermedad coronaria precoz en
 familiares de primer grado.
 
@@ -1781,6 +1783,8 @@ A la pregunta sobre si realiza algún tipo de actividad física refiere
 caminar una hora al día a paso ligero cuando el tiempo se lo permite,
 aunque que últimamente lo hace menos.
 
+ 
+
 **Objetivos**
 
 Los objetivos a realizar son la pérdida de peso y la adquisición de unos
@@ -1790,10 +1794,10 @@ o suspensión de la medicación que actualmente tiene pautada.
 
 \pagebreak
 
-Ficha dietética del paciente
-============================
+\# FICHA DIETÉTICA DEL PACIENTE
 
-**Datos administrativos**
+DATOS ADMINISTRATIVOS
+---------------------
 
 ***NOMBRE***: XXX\
 ***SEXO***: MUJER\
@@ -1811,42 +1815,50 @@ ANAMNESIS
 
 *MOTIVO DE LA CONSULTA*: perder peso.
 
-ANTECEDENTES FAMILIARES
------------------------
+ 
+
+*ANTECEDENTES FAMILIARES*
 
 -   Enfermedad coronaria precoz en familiares de primer grado.\
 -   Padre: IAM (infarto agudo de miocardio), cirugía valvular, ACV
     (accidente cardio vascular), DLP (Dislipemia). Vivo.\
 -   Madre: DBT2 (Diabetes tipo 2). Viva.
 
-TRATAMIENTO QUE ESTÁ SIGUIENDO
-------------------------------
+ 
+
+*TRATAMIENTO QUE ESTÁ SIGUIENDO*
 
 -   TRATAMIENTO HIPOLIPEMIANTE (colesterol). ATORBASTINA 40mg. Una
     cápsula por las mañanas.\
 -   TRATAMIENETO HIPOGLUCEMIANTE ORAL. METFORMINA 850 mg. Una cápsula a
     la comida.
 
-SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO
-------------------------------------
+ 
+
+*SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO*
 
 No refiere ningún síntoma o molestia, Sensación subjetiva de buena
 salud.
 
-MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO
----------------------------------------
+ 
+
+*MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO*
 
 REVISIÓN RUTINARIA
 
-OPERACIONES
------------
+ 
+
+*OPERACIONES*
 
 NO REFIERE
 
-ALERGIAS
---------
+ 
+
+*ALERGIAS*
 
 NO REFIERE
+
+ 
 
 ANTROPOMETRÍA
 -------------
@@ -1863,6 +1875,8 @@ ANTROPOMETRÍA
 ***P. MUSLO***: 57CM\
 ***COMPLEXIÓN***: MEDIANA, relación altura perímetro de muñeca (157/16,5
 = 9,8 al encontrarse dentro del valor de referencia de 10,1 /1
+
+ 
 
 BIOQUÍMICA
 ----------
@@ -1886,6 +1900,8 @@ BIOQUÍMICA
   Vitaminas                                            
   Minerales                                            
 
+ 
+
 EXPLORACIÓN FÍSICA Y PREGUNTAS
 ------------------------------
 
@@ -1899,6 +1915,8 @@ EXPLORACIÓN FÍSICA Y PREGUNTAS
 ***BOCA***: normal\
 ***ESTÓMAGO***: normal\
 ***ESTADO***: obesidad grado I
+
+ 
 
 ENTREVISTA AL PACIENTE
 ----------------------
@@ -1929,6 +1947,8 @@ tiempo\
 que sea fáciles de calentar.\
 ***¿QUIÉN COMPRA?***: Ella y/o su marido
 
+ 
+
 ASPECTOS SOCIALES
 -----------------
 
@@ -1943,6 +1963,35 @@ ASPECTOS SOCIALES
 ***¿CON QUIÉN COME?***: marido e hijos\
 ***GUSTA DE LA COMIDA BASURA***: no habitualmente\
 ***OTRAS PREGUNTAS/ TEMAS***
+
+ 
+
+RECUENTO ALIMENTARIO DE TRES DÍAS
+---------------------------------
+
+-   **Día 1**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
+*Merienda*: pan con chorizo o algo de fiambre.\
+*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
+
+-   **Día 2**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
+cocidas.\
+*Merienda*: pan con nocilla.\
+*Cena*: pizza
+
+-   **Día 3**
+
+*Desayuno*: café con leche y bollería industrial.\
+*Comida*: macarrones con carne y salsa de tomate, a repetir.\
+*Merienda*: queso con membrillo, pan y un yogurt.\
+*Cena*: Ensalada de pasta
+
+ 
 
 PRIMER DIAGNOSTICO E INTERVENCIÓN
 ---------------------------------
@@ -1975,30 +2024,6 @@ Se elaborará una dieta de 1500 kcal que cubra perfectamente sus
 necesidades nutricionales.
 
 \pagebreak
-
-### RECUENTO ALIMENTARIO DE TRES DÍAS
-
--   **Día 1**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: lentejas con chorizo jamón (dos platos) y bastante pan.\
-*Merienda*: pan con chorizo o algo de fiambre.\
-*Cena*: tortilla, pimientos de padrón y un pedazo de empanada.
-
--   **Día 2**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: pescado frito con ensalada de lechuga y tomate y patatas
-cocidas.\
-*Merienda*: pan con nocilla.\
-*Cena*: pizza
-
--   **Día 3**
-
-*Desayuno*: café con leche y bollería industrial.\
-*Comida*: macarrones con carne y salsa de tomate, a repetir.\
-*Merienda*: queso con membrillo, pan y un yogurt.\
-*Cena*: Ensalada de pasta
 
 **INTERVENCIÓN DIETÉTICA**:
 
@@ -2099,7 +2124,9 @@ y hacer control de peso.
 La pérdida de peso se ha producido de forma progresiva y casi matemática
 de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
 
-### RECOMENDACIONES
+ 
+
+**RECOMENDACIONES**
 
 -   Todas las comidas pueden ir acompañadas de rebanada de pan integral
     (30 grs ) + infusión
