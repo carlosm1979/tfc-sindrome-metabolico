@@ -1794,7 +1794,8 @@ o suspensión de la medicación que actualmente tiene pautada.
 
 \pagebreak
 
-\# FICHA DIETÉTICA DEL PACIENTE
+FICHA DIETÉTICA DEL PACIENTE
+============================
 
 DATOS ADMINISTRATIVOS
 ---------------------
