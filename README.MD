@@ -2171,19 +2171,22 @@ Síndrome metabólico en España: prevalencia y riesgo coronario asociado a la d
 
 **Introducción y objetivos**
 
+Se ha propuesto la exclusión de los individuos que ya padecen diabetes
+mellitus (DM) o enfermedad cardiovascular (ECV), porque en ellos el SM
+no se puede emplear para prevención primaria; es lo que podría llamarse
+síndrome metabólico premórbido (SMP).
+
 Los objetivos de este trabajo son actualizar la prevalencia de SM en
 España y analizar su riesgo coronario (RC) asociado, empleando la
 definición armonizada y la de SMP.
 
 El nombre síndrome metabólico (SM) surgió hace 30 años para definir una
 agrupación no casual de factores de origen metabólico frecuentemente
-observados en la práctica clínica: - obesidad abdominal, - dislipemia, -
-glucemia elevada y - presión arterial elevada
-
-Se ha propuesto la exclusión de los individuos que ya padecen diabetes
-mellitus (DM) o enfermedad cardiovascular (ECV), porque en ellos el SM
-no se puede emplear para prevención primaria; es lo que podría llamarse
-síndrome metabólico premórbido (SMP).
+observados en la práctica clínica:\
+- obesidad abdominal\
+- dislipemia\
+- glucemia elevada y\
+- presión arterial elevada
 
 El estudio DARIOS ha mostrado el avance de la obesidad y la DM en España
 durante la primera década del presente siglo respecto a décadas
@@ -2247,12 +2250,12 @@ haber padecido infarto agudo de miocardio, angina o ictus).
 
 **Resultados**
 
-En conjunto, 7.832 personas padecían SM, con una prevalencia del: - 32%
-en varones\
+En conjunto, 7.832 personas padecían SM, con una prevalencia del:\
+- 32% en varones\
 - 29% en mujeres
 
-La definición de SMP redujo la prevalencia en un 20% hasta dejarla en: -
-el 26% de los varones\
+La definición de SMP redujo la prevalencia en un 20% hasta dejarla en:\
+- el 26% de los varones\
 - el 24% de las mujeres
 
 Para el conjunto de España, la comparación de todos los participantes de
