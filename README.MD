@@ -191,7 +191,9 @@ enfermedad.
 Definiciones de distintos organismos
 ------------------------------------
 
-### - OMS
+A lo largo de los años diversos investigadores e instituciones
+internacionales han buscado establecer criterios para acotarlo, buscando
+definir la lista de factores que lo componen. \#\#\# - OMS
 
 Después de la definición dada por Gerarld Reaven, en 1999 la OMS cambió
 la denominación a 'Síndrome metabólico', y estableció una definición en
@@ -243,10 +245,6 @@ para reducir los factores de riesgo cardiovascular.
   -------------------------------------------------------------------
 
 \pagebreak
-
-A lo largo de los años diversos investigadores e instituciones
-internacionales han buscado establecer criterios para acotarlo, buscando
-definir la lista de factores que lo componen.
 
 ### - Grupo Europeo para el Estudio de la Resistencia a la Insulina (EGIR)
 
@@ -452,8 +450,8 @@ proinflamatorio y estado protrombótico.
 
  
 
-Todas estas diversas definiciones comparten algunos de los criterios
-como son:
+**Todas estas diversas definiciones comparten algunos de los criterios
+como son**:
 
 -   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
 -   **Resistencia a la insulina** (Dificultad para digerir un tipo de
@@ -466,6 +464,8 @@ como son:
     proporción de partículas LDL)
 -   **Hipertensión**
 -   Estado **proinflamatorio** y estado **protrombótico**.
+
+\pagebreak
 
 Sin embargo, la existencia de tanta variedad de definiciones propuestas
 dificulta poder tener una referencia clara para la práctica clínica y el
