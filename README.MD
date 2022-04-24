@@ -450,8 +450,8 @@ proinflamatorio y estado protrombótico.
 
  
 
-**Todas estas diversas definiciones comparten algunos de los criterios
-como son**:
+Todas estas diversas definiciones comparten algunos de los criterios
+como son:
 
 -   **Obesidad abdominal** (\*perímetro de contorno de cintura elevado)
 -   **Resistencia a la insulina** (Dificultad para digerir un tipo de
@@ -880,14 +880,14 @@ comprobación analítica de la alteración lipídica.
   Rangos adecuados colesterol   
   ----------------------------- -----------------------
    Colesterol total adecuado    `>` 200 mg/dl
-  Triglicéridos                 `>` 150 mg/dl
   HDL                           
                                 Varones &lt; 40 mg/dl
                                 Mujeres &lt; 50 mg/dl
+  Triglicéridos                 `>` 150 mg/dl
 
  
 
-**Colesterol**
+**- Colesterol**
 
 El colesterol es una sustancia similar a la grasa e indispensable para
 la vida. Se encuentra en las membranas celulares de nuestros organismos,
@@ -975,11 +975,11 @@ de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
     \***Con efecto negativo**
 
-    -   *- Ácidos grasos saturados*: son la grasa presente en lácteos,
+    -   **- Ácidos grasos saturados**: son la grasa presente en lácteos,
         carnes y derivados, y aceites de coco y palma, entre otros
         alimentos. Tienen un efecto perjudicial, ya que aumentan el
         colesterol total y el colesterol LDL (“colesterol malo”).
-    -   *- Ácidos grasos trans*: son los más nocivos para la salud
+    -   **- Ácidos grasos trans**: son los más nocivos para la salud
         cardiovascular. Ya que dietas ricas en este tipo de grasas
         producen un aumento del colesterol total y colesterol LDL, al
         mismo tiempo que disminuyen el colesterol HDL. Están presentes
@@ -989,18 +989,18 @@ de ellas no se pueden modificar, pero la mayoría sí pueden cambiarse.
 
     \***Con efecto positivo**
 
-    -   *- Ácidos grasos monoinsaturados*: poseen un efecto beneficioso
-        para nuestro organismo ya que un consumo prolongado de estos
-        produce un aumento del colesterol HDL (“colesterol bueno”) y una
-        disminución del colesterol LDL (“colesterol malo”), que se
-        asocia a un menor riesgo de desarrollar enfermedades
-        cardiovasculares. Están presentes en alimentos como el aceite de
-        oliva, el aguacate o los frutos secos.
-    -   *- Ácidos grasos poliinsaturados*: de tipo **omega 3** y **omega
-        6**. Resultan beneficiosos ya que una dieta rica en estos
-        produce una disminución del colesterol total y del colesterol
-        LDL. Están presentes en el pescado azul (omega 3) y en aceites
-        de semillas y frutos secos (omega 6).
+    -   **- Ácidos grasos monoinsaturados**: poseen un efecto
+        beneficioso para nuestro organismo ya que un consumo prolongado
+        de estos produce un aumento del colesterol HDL (“colesterol
+        bueno”) y una disminución del colesterol LDL (“colesterol
+        malo”), que se asocia a un menor riesgo de desarrollar
+        enfermedades cardiovasculares. Están presentes en alimentos como
+        el aceite de oliva, el aguacate o los frutos secos.
+    -   **- Ácidos grasos poliinsaturados**: de tipo **omega 3** y
+        **omega 6**. Resultan beneficiosos ya que una dieta rica en
+        estos produce una disminución del colesterol total y del
+        colesterol LDL. Están presentes en el pescado azul (omega 3) y
+        en aceites de semillas y frutos secos (omega 6).
 
 -   **Sobrepeso**. El exceso de peso tiende a aumentar su colesterol
     LDL. También aumenta los triglicéridos y baja el colesterol HDL.
@@ -1041,7 +1041,9 @@ diabetes mellitus.
 También puede ser causa de enfermedad cardiovascular el aumento de los
 triglicéridos y un colesterol-HDL bajo.
 
-**Triglicéridos**
+ 
+
+**- Triglicéridos**
 
 Son grasas que se encuentran en determinados alimentos y también se
 producen en el hígado.
@@ -1129,12 +1131,16 @@ La hipertensión también incrementa el riesgo de morbimortalidad y afecta
 principalmente la retina (retinopatía hipertensiva), los riñones
 (neuropatía hipertensiva) y el corazón (cardiopatía hipertensiva).
 
+ 
+
   ----------------------------------------------------------------------
   HTA en adultos se define como cifras de presión arterial sistólica y
   diastólica
   ----------------------------------------------------------------------
   `>` 140/90 mm Hg.
   ----------------------------------------------------------------------
+
+ 
 
 **Factores de riesgo**
 
@@ -1258,7 +1264,7 @@ enfermedades como:
 
 #### 3.2.3.1 SM en el adulto
 
-##### SM en el hombre
+##### - SM en el hombre
 
 La población masculina es más propensa al síndrome metabólico que las
 mujeres en la edad adulta.
@@ -1306,7 +1312,7 @@ condición asociada al síndrome metabólico.
 
 También se ha relacionado SM con el descenso del nivel de fertilidad.
 
-##### SM en la mujer
+##### - SM en la mujer
 
 La enfermedad cardiovascular es la principal causa de muerte en las
 mujeres y existen factores de riesgo específicos de la mujer para
@@ -1332,6 +1338,8 @@ antioxidantes y antiinflamatorias, favorecen el perfil lipídico,
 aumentan la sensibilidad a la insulina y favorecen una menor grasa
 abdominal. Su pérdida tiene como consecuencia que en la mujer se aumente
 el riesgo de SM, enfermedad cardiovascular y diabetes.
+
+ 
 
 **Pre y postmenopausia**
 
@@ -1394,6 +1402,8 @@ Las mujeres portadoras de síndrome de ovario poliquístico tienen riesgo
 mayor de producir síndrome metabólico, diabetes tipo 2, enfermedad
 vascular de gran vaso o afectación renal, síndrome de apnea obstructiva
 del sueño, alteración hepática y cáncer de endometrio.
+
+ 
 
 **SM en el embarazo**
 
