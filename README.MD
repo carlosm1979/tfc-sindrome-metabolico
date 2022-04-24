@@ -1800,25 +1800,25 @@ FICHA DIETÉTICA DEL PACIENTE
 DATOS ADMINISTRATIVOS
 ---------------------
 
-***NOMBRE***: XXX\
-***SEXO***: MUJER\
-***FECHA DE NACIMIENTO***: XXX\
-***EDAD***: 53\
-***E-MAIL***: XXX\
-***DIRECCIÓN***: XXX\
-***C. POSTAL***: XXX\
-***MÉDICO***: XXX\
-***TLF. MÉDIC0***: XXX\
-***OTROS DATOS DE INTERÉS***: XXX
+***Nombre***: XXX\
+***Sexo***: MUJER\
+***Fecha de nacimiento***: XXX\
+***Edad***: 53\
+***E-mail***: XXX\
+***Dirección***: XXX\
+***C. Postal***: XXX\
+***Médico***: XXX\
+***Tlf. Médico***: XXX\
+***Otros datos de interés***: XXX
 
 ANAMNESIS
 ---------
 
-*MOTIVO DE LA CONSULTA*: perder peso.
+***Motivo de la consulta***: perder peso.
 
  
 
-*ANTECEDENTES FAMILIARES*
+***Antecedentes familiares***:
 
 -   Enfermedad coronaria precoz en familiares de primer grado.\
 -   Padre: IAM (infarto agudo de miocardio), cirugía valvular, ACV
@@ -1827,7 +1827,7 @@ ANAMNESIS
 
  
 
-*TRATAMIENTO QUE ESTÁ SIGUIENDO*
+***Tratamiento que está siguiendo***:
 
 -   TRATAMIENTO HIPOLIPEMIANTE (colesterol). ATORBASTINA 40mg. Una
     cápsula por las mañanas.\
@@ -1836,45 +1836,41 @@ ANAMNESIS
 
  
 
-*SÍNTOMAS QUE SE ESTÁN EXPERIMENTANDO*
+***Síntomas que están experimentando***:
 
 No refiere ningún síntoma o molestia, Sensación subjetiva de buena
 salud.
 
  
 
-*MOTIVOS DE LA ÚLTIMA CONSULTA AL MÉDICO*
+***Motivos de la última consulta al médico***:
 
 REVISIÓN RUTINARIA
 
  
 
-*OPERACIONES*
-
-NO REFIERE
+***Operaciones***: NO REFIERE
 
  
 
-*ALERGIAS*
-
-NO REFIERE
+***Alergias***: NO REFIERE
 
  
 
 ANTROPOMETRÍA
 -------------
 
-***FECHA DE LA PRIMERA CONSULTA***: XXX\
-***ALTURA***: 1.57 cm.\
-***PESO***: 82 kg.\
+***Fecha de la primera consulta***: XXX\
+***Altura***: 1.57 cm.\
+***Peso***: 82 kg.\
 **IMC**: 33.27 (superior a 30 supone obesidad de primer grado)\
-***PERÍMETRO DE BRAZO***\
-***P. CINTURA*** :103 CM\
-***P. CADERA***: 110 CM\
-***P. MUÑECA***: 16,5CM\
-***P. PANTORRILLA***: 39,5CM\
-***P. MUSLO***: 57CM\
-***COMPLEXIÓN***: MEDIANA, relación altura perímetro de muñeca (157/16,5
+***Perímetro de brazo***\
+***P. cintura*** :103 CM\
+***P. cadera***: 110 CM\
+***P. muñeca***: 16,5CM\
+***P. pantorrilla***: 39,5CM\
+***P. muslo***: 57CM\
+***Complexion***: MEDIANA, relación altura perímetro de muñeca (157/16,5
 = 9,8 al encontrarse dentro del valor de referencia de 10,1 /1
 
 \pagebreak
@@ -1906,64 +1902,63 @@ BIOQUÍMICA
 EXPLORACIÓN FÍSICA Y PREGUNTAS
 ------------------------------
 
-***PELO***: normal\
-***UÑAS***: normales\
-***PIEL***: normal\
-***DIENTES***: normales\
-***LENGUA***: normal\
-***CUELLO***: normal\
-***PÁRPADO***: normal\
-***BOCA***: normal\
-***ESTÓMAGO***: normal\
-***ESTADO***: obesidad grado I
+***Pelo***: normal\
+***Uñas***: normales\
+***Piel***: normal\
+***Dientes***: normales\
+***Lengua***: normal\
+***Cuello***: normal\
+***Párpado***: normal\
+***Boca***: normal\
+***Estómago***: normal\
+***Estado***: obesidad grado I
 
 \pagebreak
 
 ENTREVISTA AL PACIENTE
 ----------------------
 
-***TOMAS DIARIAS***: cuatro (desayuno, media mañana, comida y cena).
-Picoteo a lo largo del día.\
-***HORARIO DE COMIDAS***:\
-***LUGAR DE LAS TOMAS**:* casa y trabajo\
-***¿COME VIENDO LA TV?***: no\
-***¿QUIÉN COCINA?***: su marido y ella dependiendo del tiempo.
-Normalmente el día anterior.\
-***FORMAS DE COCINADO HABITUAL***: guisos y potajes. Poca plancha y
-frito.\
-***CANTIDAD DE SAL EMPLEADA***: normal\
-***CONSUMO DE SUPLEMENTOS***: No\
-***LÍQUIDOS INGERIDOS AL DÍA***: agua cuando tiene sed. No refiere una
+***Tomas diarias***: cuatro (desayuno, media mañana, comida y cena).
+Picoteo a lo largo del día\
+***Horario de comidas***:\
+***Lugar de las tomas***: casa y trabajo\
+***¿Come viendo la TV?***: no\
+***¿Quién cocina?***: su marido y ella dependiendo del tiempo.
+Normalmente el día anterior\
+***Formas de cocinado habitual***: guisos y potajes. Poca plancha y
+frito\
+***Cantidad de sal empleada***: normal\
+***Consumo de suplementos***: No\
+***Líquidos ingeridos al día***: agua cuando tiene sed. No refiere una
 cantidad concreta\
-***CONSUMO DE ALCOHOL***: En []{#anchor-8}fin de semana (vino /
-cerveza)\
-***ALIMENTOS IMPRESCINDIBLES***: no refiere ninguno en particular
-*ALIMENTOS ODIADOS*: casquería.\
-***ACTIVIDAD FÍSICA***: Baja. Cuando tiene tiempo refiere caminar una
-hora al día a paso ligero.\
-***CAMBIOS ENEL PESO***: Refiere ir aumentando de peso poco a poco en el
-tiempo\
-***TIEMPO DEDICADO A COMER***: sin prisas\
-***TIEMPO PARA COCINAR***: poco por lo que cocina día anteriores platos
-que sea fáciles de calentar.\
-***¿QUIÉN COMPRA?***: Ella y/o su marido
+***Consumo de alcohol***: En fin de semana (vino / cerveza)\
+***Alimentos imprescindibles***: no refiere ninguno en particular\
+***Alimentos odiados***: casquería\
+***Actividad física***: Baja. Cuando tiene tiempo refiere caminar una
+hora al día a paso ligero\
+***Cambios en el peso***: Refiere ir aumentando de peso poco a poco en
+el tiempo\
+***Tiempo dedicado a comer***: sin prisas\
+***Tiempo para cocinar***: poco por lo que cocina día anteriores platos
+que sea fáciles de calentar\
+***¿Quién compra?***: Ella y/o su marido
 
  
 
 ASPECTOS SOCIALES
 -----------------
 
-***ASPECTOS CULTURALES***: nada a comentar\
-***ASPECTOS REIGIOSOS***: nada a comentar\
-***PICOTEO NOCTURNO***: sí\
-***¿SE LEVANTA A COMER DENOCHE?***: No\
-***CONSUMO DE VERDURAS***: Sí\
-***CONSUMO DE FRUTAS***: Sí\
-***SI GUSTA CONDIMENTAR***: sí\
-***PRESUPUESTO SEMANAL***: nada a comentar\
-***¿CON QUIÉN COME?***: marido e hijos\
-***GUSTA DE LA COMIDA BASURA***: no habitualmente\
-***OTRAS PREGUNTAS/ TEMAS***
+***Aspectos culturales***: nada a comentar\
+***Aspectos religiosos***: nada a comentar\
+***Picoteo nocturno***: sí\
+***¿Se levanta a comer de noche?***: No\
+***Consumo de verduras***: Sí\
+***Consumo de frutas***: Sí\
+***Si gusta condimentar***: sí\
+***Presupuesto semanal***: nada a comentar\
+***¿Con quién come?***: marido e hijos\
+***Gusta de la comida basura***: no habitualmente\
+***Otras preguntas / temas***
 
 \pagebreak
 
@@ -2931,10 +2926,14 @@ Abreviaturas
 SM: Síndrome Metabólico\
 IDF: Inernational Diabetes Federation\
 ATP: Adult Treatment Panel (ATP-III)\
-OMS: Organización mundial de la salud RI: Resistencia a la insulina IMC:
-Índice de masa corporal DM2: Diabetes Mellitus tipo 2 PAS: Presión
-arterial sistólica HAS: Hipertensión arterial sistémica. EGIR: European
-Group for the Study of Insulin Resistance
+OMS: Organización mundial de la salud\
+RI: Resistencia a la insulina\
+IMC: Índice de masa corporal\
+DM2: Diabetes Mellitus tipo 2\
+PAS: Presión arterial sistólica\
+HAS: Hipertensión arterial sistémica\
+EGIR: European Group for the Study of Insulin Resistance\
+SMP: síndrome metabólico premórbido
 
 Glosario
 --------
@@ -2943,13 +2942,14 @@ Glosario
 cHDL\
 **Estado proinflamatorio**: aumento de la proteína c reactiva. Un estado
 proinflamatorio se caracteriza por un elevado número de citoquinas
-inflamatorias en el plasma. **Estado protrombótico**: aumento del
-inhibidor de plasminógeno 1 y fibrinógeno.\
+inflamatorias en el plasma.\
+**Estado protrombótico**: aumento del inhibidor de plasminógeno 1 y
+fibrinógeno.\
 **Acantosis nigricans**: trastorno de la piel que se caracteriza por
 zonas de la piel oscuras, con cambios de color aterciopelados en los
 pliegues y en los surcos. La piel aceptada se puede engrosar. En la
 mayoría de los casos la acantosis pigmentaria afecta a las axilas,
-ingle, cuello. Suele aparecer en personas obesas o con diabetes.
+ingle, cuello. Suele aparecer en personas obesas o con diabetes.\
 **Sarcopenia**: Afección que se caracteriza por la pérdida de masa,
 fuerza y funcionamiento de los músculos en los adultos mayores.\
 **Morbimortalidad**: tasa de muertes por enfermedad en una población y
