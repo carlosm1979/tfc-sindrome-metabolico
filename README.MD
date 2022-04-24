@@ -2169,24 +2169,24 @@ factores de Atwater.
 Síndrome metabólico en España: prevalencia y riesgo coronario asociado a la definición armonizada y a la propuesta por la OMS. Estudio DARIOS
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+*DOI: 10.1016/j.recesp.2011.10.015*
+
 **Introducción y objetivos**
+
+Los objetivos de este trabajo son actualizar la prevalencia de SM en
+España y analizar su riesgo coronario (RC) asociado, empleando la
+definición armonizada y la de SMP (síndrome metabólico premórbido).
+
+Los criterios que se tienen en cuenta son:\
+- obesidad abdominal\
+- dislipemia\
+- glucemia elevada y\
+- presión arterial elevada
 
 Se ha propuesto la exclusión de los individuos que ya padecen diabetes
 mellitus (DM) o enfermedad cardiovascular (ECV), porque en ellos el SM
 no se puede emplear para prevención primaria; es lo que podría llamarse
 síndrome metabólico premórbido (SMP).
-
-Los objetivos de este trabajo son actualizar la prevalencia de SM en
-España y analizar su riesgo coronario (RC) asociado, empleando la
-definición armonizada y la de SMP.
-
-El nombre síndrome metabólico (SM) surgió hace 30 años para definir una
-agrupación no casual de factores de origen metabólico frecuentemente
-observados en la práctica clínica:\
-- obesidad abdominal\
-- dislipemia\
-- glucemia elevada y\
-- presión arterial elevada
 
 El estudio DARIOS ha mostrado el avance de la obesidad y la DM en España
 durante la primera década del presente siglo respecto a décadas
@@ -2267,9 +2267,9 @@ de estudios, diferencias no halladas en los varones.
 
 Distribución por sexo de los criterios de SM en las personas que lo
 padecían:\
-- **Mujeres:** eran más frecuentes los criterios de cintura abdominal y
+- **Mujeres**: eran más frecuentes los criterios de cintura abdominal y
 de cHDL\
-- **Varones:** fueron más frecuentes los de glucemia e
+- **Varones**: fueron más frecuentes los de glucemia e
 hipertrigliceridemia\
 - **Sin diferencias significativas entre sexos:** para el criterio de
 presión arterial elevada fue el único
@@ -2305,6 +2305,10 @@ si no se tomara en cuenta este diagnóstico.
 A este respecto, es en la disfunción del tejido adiposo donde más se
 busca actualmente una explicación causal para el SM, y es de particular
 interés la teoría de la lipotoxicidad por acumulación ectópica de grasa.
+
+La aplicación del concepto SMP reduce la prevalencia hasta el 24% y
+delimita una población más joven para aplicar prevención primaria de DM
+y ECV.
 
 \pagebreak 
 
@@ -2882,6 +2886,11 @@ Bibliografía
 -   [Síndrome metabólico: una revisión de criterios internacionales -
     Revista Colombiana de
     cardiología](http://www.scielo.org.co/pdf/rcca/v28n1/0120-5633-rcca-28-1-60.pdf)
+
+-   [Síndrome metabólico en España: prevalencia y riesgo coronario
+    asociado a la definición armonizada y a la propuesta por la OMS.
+    Estudio
+    DARIOS](https://www.revespcardiol.org/es-sindrome-metabolico-espana-prevalencia-riesgo-articulo-S0300893211008840#:~:text=El%20riesgo%20coronario%20se%20estim%C3%B3%20con%20la%20funci%C3%B3n%20REGICOR.&text=La%20prevalencia%20de%20s%C3%ADndrome%20metab%C3%B3lico,%2C%2029%2D35%25).)
 
 \pagebreak
 
