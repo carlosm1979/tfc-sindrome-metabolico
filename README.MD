@@ -188,6 +188,9 @@ Es un grupo de factores de riesgo para desarrollo de enfermedad
 cardiovascular y diabetes mellitus II. El SM como tal no es una
 enfermedad.
 
+Definiciones de distintos organismos
+------------------------------------
+
 ### - OMS
 
 Después de la definición dada por Gerarld Reaven, en 1999 la OMS cambió
