@@ -1,5 +1,5 @@
-El síndrome metabólico
-======================
+Estudio sobre el síndrome metabólico
+====================================
 
 Beatriz Carro Otero
 -------------------
