@@ -2878,8 +2878,8 @@ Evolución histórica de los criterios del síndrome metabólico
 Encuesta
 --------
 
-Síndrome metabólico en España: prevalencia y riesgo coronario asociado a la definición armonizada y a la propuesta por la OMS. Estudio DARIOS
----------------------------------------------------------------------------------------------------------------------------------------------
+**Síndrome metabólico en España: prevalencia y riesgo coronario asociado
+a la definición armonizada y a la propuesta por la OMS. Estudio DARIOS**
 
 *DOI: 10.1016/j.recesp.2011.10.015*
 
