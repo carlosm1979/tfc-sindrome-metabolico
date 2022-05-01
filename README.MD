@@ -27,7 +27,8 @@ Indice general
                 elevado.](#obesidad-abdominal.perímetro-de-cintura-elevado.)
             -   [3.2.1.2 Índice de glucemia elevado en
                 sangre](#índice-de-glucemia-elevado-en-sangre)\
-                    *Resistencia a la insulina*
+                    *Resistencia a la insulina*\
+                    *Diabetes Melitus II*
             -   [3.2.1.3 Dislipemias](#dislipemias)\
                     *Colesterol*\
                     *Triglicéridos*
@@ -2489,8 +2490,8 @@ de más o menos 500 gr. a la semana, lo que viene a ser 2 kg al mes.
     fin de semana procura no pasarse y comer “con cabeza”.
 
 La paciente manifiesta encontrarse contenta y animada a seguir hasta
-conseguir los resultados que habíamos acordado al inicio de la consulta.
-Que sería unos 70kg de peso.
+conseguir los resultados que habíamos acordado al inicio de la consulta,
+que sería unos 70kg de peso.
 
 Una vez alcanzado este objeto, volveremos ha hablar para valorar si
 quiere llegar a un IMC de normopeso, que en su caso sería un peso de
@@ -2781,16 +2782,16 @@ Abreviaturas
 ------------
 
 SM: Síndrome Metabólico\
-IDF: Inernational Diabetes Federation\
-ATP: Adult Treatment Panel (ATP-III)\
-OMS: Organización mundial de la salud\
 RI: Resistencia a la insulina\
 IMC: Índice de masa corporal\
 DM2: Diabetes Mellitus tipo 2\
 PAS: Presión arterial sistólica\
 HAS: Hipertensión arterial sistémica\
+SMP: síndrome metabólico premórbido\
+OMS: Organización mundial de la salud\
 EGIR: European Group for the Study of Insulin Resistance\
-SMP: síndrome metabólico premórbido
+IDF: Inernational Diabetes Federation\
+ATP: Adult Treatment Panel (ATP-III)
 
 Glosario
 --------

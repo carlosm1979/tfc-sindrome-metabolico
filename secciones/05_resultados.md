@@ -16,6 +16,6 @@ La pérdida de peso se ha producido de forma progresiva y casi matemática de m�
   Ahora dice encontrarse con más energía y más alegría lo que le supone un mayor bienestar físico y emocional.
 - Comenta que hay semanas que le cuesta más mantener los menús y otras menos, pero en general lo lleva bien y aunque tiene un día libre el fin de semana procura no pasarse y comer “con cabeza”.
 
-La paciente manifiesta encontrarse contenta y animada a seguir hasta conseguir los resultados que habíamos acordado al inicio de la consulta. Que sería unos 70kg de peso. 
+La paciente manifiesta encontrarse contenta y animada a seguir hasta conseguir los resultados que habíamos acordado al inicio de la consulta, que sería unos 70kg de peso. 
 
 Una vez alcanzado este objeto, volveremos ha hablar para valorar si quiere llegar a un IMC de normopeso, que en su caso sería un peso de 57/60 kg.
